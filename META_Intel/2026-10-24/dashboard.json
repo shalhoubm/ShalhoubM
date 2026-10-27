@@ -1,0 +1,256 @@
+{
+  "date": "2026-10-24",
+  "window": "Fri 23 Oct 2026 16:44 → Sat 24 Oct 2026 16:44 KSA (UTC+3), i.e. 23 Oct 13:44 → 24 Oct 13:44 UTC.",
+  "headline": "Reuters reports Iran has detailed plans to hit Gulf undersea cables if war resumes and would try to block repairs. Bloomberg Economics says Gulf AI build-outs face attack at home or a lost advantage abroad, as Houthi missiles were again intercepted over Riyadh, Taif, Yanbu and the Eastern Region. Saudi DataVolt's 12 MW Uzbekistan data centre is nearly complete, with 500 MW planned and no hardware supplier named. Memory stayed firm with no new print, and BofA expects SK Hynix and Samsung to add shareholder returns at their 28-29 Oct calls.",
+  "lenovo_read": "The Gulf buyer's question is shifting from how much AI capacity to where it can survive. That favours Lenovo's distributed offer (ThinkEdge, ThinkAgile, in-Kingdom DR, Neptune modular pods, ALAT local supply) over single-campus pitches. Dell is Title Sponsor of Cairo ICT and no server OEM is on stage at DCD Connect MENA or Data Center World ME, so Lenovo must claim the live non-KSA venues now.",
+  "pillars": {
+    "dc": "1 scored: DataVolt Uzbekistan 12 MW to 500 MW (Saudi developer abroad, OEM open). DC risk scored via Iran cable threat and Bloomberg Gulf AI risk. All META DCD items in window were reposts.",
+    "memory": "1 scored: BofA on SK Hynix and Samsung shareholder returns (Pillar 2 rule). No print in window; DRAMeXchange 23 Oct: DDR5 16Gb $61.267 (+0.27%), DDR4 16Gb $82.870 (-0.30%).",
+    "deals": "2 scored, both Chinese-led: RAK Government MoUs with UBTech and SUTPC (UAE), Qanwan-Huawei Libya. No Tadawul contract filings (weekend). No KSA or GCC round of $20M or more.",
+    "global": "Huawei (Dubai Health wearables talk, Libya, SAL MoU feature), ZTE (RAK Ruler). Global: CCIA US server-tariff cost estimate. TikTok US multi-GW compute held (CNBC body blocked)."
+  },
+  "stories": [
+    {
+      "id": "2026-10-24-01",
+      "tier": "KSA",
+      "pillar": "Data centres",
+      "band": "MONITOR",
+      "score": 13,
+      "title": "Gulf Nation AI Ambitions Face Risks at Home and Abroad",
+      "source": "Bloomberg (New Economy, Ziad Daoud)",
+      "published": "24 Oct 2026, 13:45 KSA",
+      "country": "Saudi Arabia",
+      "summary": "Bloomberg Economics' Ziad Daoud argues Gulf states that build AI data centres at home risk attack, while building abroad loses competitive advantage. Saudi Arabia's FII, set for 26 Oct, was postponed due to Houthi attacks. Paywalled beyond the intro.",
+      "bullets": [
+        "Ziad Daoud, chief emerging markets economist at Bloomberg Economics in Dubai, argues that Gulf states building data centers at home risk attack, while building them elsewhere means losing competitive advantage",
+        "Saudi Arabia used its flagship investment conference to sell a futuristic city in 2017 and artificial intelligence last year",
+        "Escalating Houthi attacks forced Saudi Arabia to postpone this year's conference, originally scheduled for Oct. 26"
+      ],
+      "lenovo": "Buyers will ask for resilient designs: split sites, DR and modular liquid-cooled pods. That is an ISG Neptune/modular AI factory and SSG DR conversation, and Lenovo should counter any 'build abroad' argument with ALAT in-Kingdom supply.",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-24/gulf-nation-ai-ambitions-face-risks-at-home-and-abroad-new-economy",
+      "arabic": "بلومبرغ إيكونوميكس: طموحات الخليج في الذكاء الاصطناعي أمام معضلة؛ بناء مراكز البيانات محلياً يعرضها للهجمات، وبناؤها في الخارج يُفقدها الميزة التنافسية، مع تأجيل مؤتمر مبادرة مستقبل الاستثمار بسبب هجمات الحوثيين."
+    },
+    {
+      "id": "2026-10-24-02",
+      "tier": "KSA",
+      "pillar": "Global tech in META",
+      "band": "LOW",
+      "score": 11,
+      "title": "Saudi air cargo shifts toward AI-driven operations as SAL expands digital push",
+      "source": "Arab News",
+      "published": "24 Oct 2026, 10:20 KSA",
+      "country": "Saudi Arabia",
+      "summary": "SAL Logistics CDO Simon Hassannia details AI-driven cargo operations: 300,000+ working hours saved a year, CargoGate with Elm at 200,000+ bookings, and LEAP 2026 MoUs with Microsoft Arabia and Huawei Tech Investment Saudi Arabia (signed earlier).",
+      "bullets": [
+        "SAL Logistics Services says its digital transformation program has optimized more than 300,000 working hours annually by removing repetitive and manual tasks",
+        "CargoGate, launched at LEAP 2026 with Elm, has processed more than 200,000 online bookings with a 92 percent customer adoption rate and more than 12,000 registered drivers and trucks",
+        "At LEAP 2026, SAL signed memorandums of understanding with Microsoft Arabia on AI, cloud and data analytics, and with Huawei Tech Investment Saudi Arabia on 5G, AI, cloud computing and green energy in logistics"
+      ],
+      "lenovo": "SAL is a prospective IDG/ISG customer (terminal workforce devices, warehouse edge, AI ops). Huawei holds a cloud and 5G MoU; the compute vendor is undisclosed. Elm is a possible SI channel.",
+      "url": "https://www.arabnews.com/tourism-transport/saudi-air-cargo-shifts-toward-ai-driven-operations-as-sal-expands-digital-push-3007886",
+      "arabic": "\"سال\" للخدمات اللوجستية تتجه نحو عمليات شحن جوي قائمة على الذكاء الاصطناعي؛ منصة \"كارغو قيت\" مع \"علم\" تجاوزت 200 ألف حجز، ومذكرتا تفاهم مع مايكروسوفت العربية وهواوي وُقعتا في ليب 2026."
+    },
+    {
+      "id": "2026-10-24-03",
+      "tier": "KSA",
+      "pillar": "Data centres",
+      "band": "LOW",
+      "score": 11,
+      "title": "DataVolt Nears Completion of US$200 Million Green Data Centre",
+      "source": "UzDaily",
+      "published": "24 Oct 2026, 10:50 KSA",
+      "country": "Uzbekistan (Saudi developer)",
+      "summary": "Saudi DataVolt's US$200 million green data centre in Uzbekistan has 12 MW initial capacity with plans for 500 MW; phase 1 is due by end-2026, per Minister Sherzod Shermatov. No hardware supplier named.",
+      "bullets": [
+        "The US$200 million project has an initial capacity of 12 MW, with plans to expand to 500 MW",
+        "Minister of Digital Technologies Sherzod Shermatov said the first phase is due by the end of 2026",
+        "Mohammad Abunayyan, chairman of Vision Invest Group and a DataVolt board member, said the project is designed for continuous round-the-clock energy supply"
+      ],
+      "lenovo": "DataVolt is HUMAIN's Oxagon developer. Its first live site abroad has an undisclosed hardware supplier, an open ISG opportunity and a reference ahead of Oxagon. Coordinate with Lenovo's Central Asia team.",
+      "url": "https://www.uzdaily.uz/en/datavolt-nears-completion-of-us200-million-green-data-centre/",
+      "arabic": "\"داتافولت\" السعودية تقترب من إنجاز مركز بيانات أخضر في أوزبكستان باستثمار 200 مليون دولار؛ المرحلة الأولى بقدرة 12 ميغاواط بنهاية 2026 مع خطط للتوسع إلى 500 ميغاواط، ومورّد العتاد غير معلن."
+    },
+    {
+      "id": "2026-10-24-04",
+      "tier": "GCC/MEA",
+      "pillar": "Data centres",
+      "band": "HIGH",
+      "score": 15,
+      "title": "Iranian officials: Tehran has detailed plans to hit Gulf undersea cables if war resumes",
+      "source": "Reuters (via The Times of Israel)",
+      "published": "23 Oct 2026, 20:03 KSA (earliest syndicated copy)",
+      "country": "GCC",
+      "summary": "Two senior Iranian security officials told Reuters Tehran has detailed plans to target Gulf undersea cables if the US and Israel attack again, and would try to block repairs. TeleGeography says less than 1% of international bandwidth transits Hormuz, so the impact would be mainly regional.",
+      "bullets": [
+        "Two senior Iranian security officials told Reuters that Tehran has drawn up detailed plans to target undersea communications cables in the Gulf if the US and Israel attack Iran again",
+        "One official said Iran would aim to prevent repairs to prolong disruptions, including to internet connections, and warned there will be no more red lines",
+        "TeleGeography's Alan Mauldin said less than 1% of international bandwidth passes through the Strait of Hormuz, so the global impact could be limited"
+      ],
+      "lenovo": "Gulf banks, government and cloud tenants gain a board-level reason to keep critical workloads, backup and DR in-country and distributed: demand for ISG on-prem AI, storage, ThinkAgile and edge, and SSG DR and managed backup.",
+      "url": "https://www.timesofisrael.com/liveblog_entry/iranian-officials-tehran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes/",
+      "arabic": "رويترز: مسؤولون إيرانيون يكشفون عن خطط مفصلة لاستهداف كابلات الاتصالات البحرية في الخليج إذا استؤنفت الحرب، مع السعي لعرقلة الإصلاح لإطالة الانقطاعات؛ ما يرفع أولوية التعافي من الكوارث والبنية المحلية الموزعة."
+    },
+    {
+      "id": "2026-10-24-05",
+      "tier": "GCC/MEA",
+      "pillar": "Deals & MoUs",
+      "band": "LOW",
+      "score": 10,
+      "title": "سعود بن صقر القاسمي يختتم زيارة عمل إلى الصين ببحث فرص التعاون والاستثمار",
+      "source": "Emirates 24",
+      "published": "23 Oct 2026, 20:30 KSA (Al Bayan earliest; Emirates 24 page 22:01 KSA)",
+      "country": "UAE",
+      "summary": "The RAK Ruler ended a six-day China visit, meeting ZTE, ICBC and others. RAK signed MoUs with UBTech Robotics (humanoid robots) and SUTPC (smart transport, low-altitude economy, AI applications). No values.",
+      "bullets": [
+        "اختتم حاكم رأس الخيمة زيارة عمل إلى الصين استمرت ستة أيام شملت مقاطعتي قوانغدونغ وفوجيان، التقى خلالها ممثلي شركات منها «زد تي إي» والبنك الصناعي والتجاري الصيني والشركة الصينية للطرق والجسور",
+        "شهد سموه توقيع مذكرة تفاهم استراتيجية بين مكتب العلاقات الدولية في حكومة رأس الخيمة وشركة «يو بي تك روبوتيكس» للبحوث والاختبارات الميدانية والتشغيل الفعلي لأنظمة الروبوتات البشرية في الإمارة",
+        "وقّع مركز شنجن لتخطيط النقل الحضري مذكرة تفاهم للتعاون في النقل الذكي والاقتصاد منخفض الارتفاع وتطبيقات الذكاء الاصطناعي"
+      ],
+      "lenovo": "RAK Government is a prospective IDG/ISG customer for smart-transport command centres and edge AI. Chinese vendors, including ZTE, are getting in first, so the UAE public-sector team should counter-position.",
+      "url": "https://emirates24.net/local/2310/120552/",
+      "arabic": "حاكم رأس الخيمة يختتم زيارة للصين التقى خلالها \"زد تي إي\" وشركات كبرى، ويشهد توقيع مذكرتي تفاهم مع \"يو بي تك\" للروبوتات البشرية ومركز شنجن لتخطيط النقل في النقل الذكي وتطبيقات الذكاء الاصطناعي."
+    },
+    {
+      "id": "2026-10-24-06",
+      "tier": "GCC/MEA",
+      "pillar": "Global tech in META",
+      "band": "RULE",
+      "score": 8,
+      "title": "Huawei brings together technology and healthcare experts at MEA Tech Innovation Talk",
+      "source": "The Filipino Times",
+      "published": "23 Oct 2026, 18:26 KSA",
+      "country": "UAE",
+      "summary": "Huawei MEA held Tech Innovation Talks in Dubai alongside ISH-ECS 2026, showing the WATCH D3 blood-pressure watch and launching a wearables innovation fund with the International Society of Hypertension.",
+      "bullets": [
+        "Huawei held its MEA Tech Innovation Talks at Grand Plaza Movenpick in Dubai alongside the ISH-ECS 2026 conference, running from 22 to 25 October, where it unveiled the HUAWEI WATCH D3",
+        "Huawei established the Wearable Blood Pressure Technology Innovation Fund with the International Society of Hypertension",
+        "Huawei invested USD 28.62 billion in R&D in 2025, equal to 21.8% of its annual revenue"
+      ],
+      "lenovo": "Huawei's consumer and health push into UAE government health overlaps Lenovo IDG/Motorola wearables and health-tech. Low BD weight; included by the Chinese rule.",
+      "url": "https://filipinotimes.net/technology/2026/10/23/huawei-brings-together-technology-and-healthcare-experts-at-mea-tech-innovation-talk/",
+      "arabic": "هواوي تجمع خبراء التقنية والرعاية الصحية في دبي على هامش مؤتمر ISH-ECS 2026، وتعرض ساعة WATCH D3 لقياس ضغط الدم، وتطلق صندوقاً للابتكار مع الجمعية الدولية لارتفاع ضغط الدم."
+    },
+    {
+      "id": "2026-10-24-07",
+      "tier": "GCC/MEA",
+      "pillar": "Deals & MoUs",
+      "band": "RULE",
+      "score": 7,
+      "title": "الرعيض يشهد توقيع اتفاق تعاون مشترك بين قنوان الاستثمارية وهواوي",
+      "source": "Al Saa 24 (Libya)",
+      "published": "23 Oct 2026 (page date); RSS 24 Oct 02:57 KSA",
+      "country": "Libya",
+      "summary": "Qanwan Investment Foundation and Huawei Libya signed a cooperation agreement on digital transformation and innovation at the General Union of Chambers. No values or projects named.",
+      "bullets": [
+        "شهد مقر الاتحاد العام للغرف توقيع اتفاق تعاون مشترك بين مؤسسة قنوان الاستثمارية وشركة هواوي فرع ليبيا",
+        "حضر التوقيع رئيس لجنة الإدارة للاتحاد العام للغرف ومدير فرع هواوي بليبيا وعدد من مهندسي الشركة",
+        "يهدف الاتفاق إلى تعزيز التحول الرقمي ودعم الابتكار وتبادل الخبرات وتعزيز دور القطاع الخاص في بناء اقتصاد معرفي مستدام"
+      ],
+      "lenovo": "Huawei keeps locking in Libyan private-sector digital programmes. Libya is a small, high-risk market; note only (Chinese rule).",
+      "url": "https://www.alsaaa24.com/2026/10/23/%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%85%D8%B4%D8%AA%D8%B1%D9%83-%D8%A8%D9%8A%D9%86-%D9%82%D9%86%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1/",
+      "arabic": "توقيع اتفاق تعاون بين مؤسسة قنوان الاستثمارية وفرع هواوي في ليبيا لدعم التحول الرقمي والابتكار وتعزيز دور القطاع الخاص في اقتصاد المعرفة."
+    },
+    {
+      "id": "2026-10-24-08",
+      "tier": "Global",
+      "pillar": "AI & markets",
+      "band": "LOW",
+      "score": 11,
+      "title": "Applying Semiconductor and Server Tariffs to Data Centers, Under Section 232 or Section 301, Would Now Cost the U.S. About $180 Billion a Year",
+      "source": "CCIA",
+      "published": "23 Oct 2026, 23:17 KSA",
+      "country": "United States",
+      "summary": "CCIA estimates a 25% chip and server tariff would be a 15.6% effective tax on US DC construction, risking about $900B of 2027-31 investment and costing about $180B a year. Advocacy estimate; no proclamation issued.",
+      "bullets": [
+        "A 25% tariff on semiconductors and servers would equal a 15.6% effective tax on data center construction, putting roughly $900 billion of planned 2027 to 2031 U.S. data center investment at risk",
+        "The estimated annual cost is about $180 billion, or about 0.56% of U.S. GDP, with roughly 474,000 American jobs jeopardized",
+        "Dell'Oro Group now projects worldwide data center capital spending above $3 trillion by 2030, nearly double its January forecast"
+      ],
+      "lenovo": "US server tariffs would raise ISG and competitor US costs and could shift supply and pricing attention towards non-US markets including META. Watch the Section 232 Phase 2 outcome.",
+      "url": "https://ccianet.org/articles/applying-semiconductor-and-server-tariffs-to-data-centers-under-section-232-or-section-301-would-now-cost-the-u-s-about-180-billion-a-year/",
+      "arabic": "رابطة CCIA: فرض رسوم 25% على أشباه الموصلات والخوادم يعادل ضريبة فعلية 15.6% على بناء مراكز البيانات الأمريكية، ويكلّف نحو 180 مليار دولار سنوياً ويهدد قرابة 900 مليار دولار من الاستثمارات المخطط لها."
+    },
+    {
+      "id": "2026-10-24-09",
+      "tier": "Global",
+      "pillar": "Memory & components",
+      "band": "RULE",
+      "score": 8,
+      "title": "SK Hynix and Samsung likely to boost shareholder returns as demand stays strong: BofA",
+      "source": "Seeking Alpha via TradingView",
+      "published": "23 Oct 2026, 18:34 KSA",
+      "country": "South Korea",
+      "summary": "BofA (Simon Woo) expects an SK Hynix special dividend and a new Samsung buyback, possibly announced at the 28-29 Oct calls, with annualised FCF above $150B and $226B respectively.",
+      "bullets": [
+        "Bank of America analysts led by Simon Woo say SK Hynix may pay a special year-end cash dividend after its W40tn buyback, and Samsung may start a new buyback after its W30tn post-3Q cash dividend",
+        "Both companies could announce the returns at earnings calls on 28-29 October",
+        "Annualized free cash flow as of the fourth quarter exceeds $150B for SK Hynix and $226B for Samsung"
+      ],
+      "lenovo": "Memory makers returning cash rather than adding capacity points to firm prices into 2027. Keep price-protection clauses and allocation-first selling; the 28-29 Oct calls are the next pricing signal.",
+      "url": "https://www.tradingview.com/news/seekingalpha:dd780fa69094b:0-sk-hynix-and-samsung-likely-to-boost-shareholder-returns-as-demand-stays-strong-bofa/",
+      "arabic": "بنك أوف أمريكا (سايمون وو) يتوقع أن تعزز إس كيه هاينكس وسامسونغ عوائد المساهمين في مؤتمري الأرباح يومي 28 و29 أكتوبر، مع تدفقات نقدية حرة تتجاوز 150 و226 مليار دولار، ما يشير إلى استمرار شح الذاكرة."
+    }
+  ],
+  "opportunities": [
+    {
+      "account": "Gulf banks and government – in-country, distributed DR and AI",
+      "country": "Saudi Arabia / UAE / Qatar",
+      "bu": ["ISG", "SSG"],
+      "title": "Sell 'survivable AI': in-country DR, edge and on-prem copies after the Gulf cable threat",
+      "why_now": "Reuters reports Iran has detailed plans to cut Gulf subsea cables and block repairs; Bloomberg Economics frames home-built DCs as at risk. Boards will ask about cable-cut scenarios this week.",
+      "entry_point": "Bank CIOs and CROs (SAMA-regulated banks, ENBD, QNB), NIC/DGA, telco DR services (center3, stc Bahrain).",
+      "owner": "ISG KSA/GCC enterprise leads with SSG DR services lead",
+      "urgency": "This week",
+      "status": "New",
+      "source_story_id": "2026-10-24-04"
+    },
+    {
+      "account": "DataVolt – TAS-1 data centre, Tashkent",
+      "country": "Uzbekistan",
+      "bu": ["ISG"],
+      "title": "Win hardware for DataVolt's 12 MW TAS-1 (500 MW planned) as a reference before Oxagon",
+      "why_now": "Phase 1 is nearly complete and due by end-2026 with the hardware supplier undisclosed; DataVolt also develops HUMAIN's Oxagon campus.",
+      "entry_point": "DataVolt head of investments (DCD Connect MENA 26-27 Oct) and Vision Invest; coordinate with Lenovo CIS/Central Asia.",
+      "owner": "ISG KSA AI-factory lead",
+      "urgency": "This week",
+      "status": "New",
+      "source_story_id": "2026-10-24-03"
+    },
+    {
+      "account": "Cairo ICT 2026 – MCIT Egypt, Telecom Egypt, Vodafone Egypt",
+      "country": "Egypt",
+      "bu": ["IDG", "ISG", "SSG"],
+      "title": "Counter Dell's Cairo ICT title sponsorship with a Lenovo side-event or executive programme",
+      "why_now": "Dell is Title Sponsor and Huawei Technology Partner for 7-10 Nov; Lenovo is absent while Egypt plans 5-7 mega data centres.",
+      "entry_point": "MCIT Egypt, Telecom Egypt, Vodafone Egypt, Orange Egypt; off-site executive meetings.",
+      "owner": "META marketing/events lead with Egypt country GM",
+      "urgency": "This week",
+      "status": "New",
+      "source_story_id": "2026-10-24-04"
+    },
+    {
+      "account": "Khazna / Core42 – Data Center World ME and Touchdown ME, Abu Dhabi",
+      "country": "UAE",
+      "bu": ["ISG"],
+      "title": "Take the empty server-OEM slot at Abu Dhabi's 17-19 Nov data-centre events",
+      "why_now": "Data Center World ME (1st edition) and Touchdown ME run back-to-back with no server OEM sponsor listed.",
+      "entry_point": "Event organisers for a speaking/partner slot; Khazna and Core42 infrastructure heads; UAE MoEI Chief AI Officer.",
+      "owner": "ISG UAE lead with META events",
+      "urgency": "This quarter",
+      "status": "New",
+      "source_story_id": "2026-10-24-01"
+    },
+    {
+      "account": "Dubai Police / UAE MOI – World Police Summit",
+      "country": "UAE",
+      "bu": ["SSG", "IDG"],
+      "title": "Safe-city edge and rugged devices at World Police Summit Dubai (16-18 Nov)",
+      "why_now": "The region's live safe-city venue while Intersec Saudi is postponed to Oct 2027.",
+      "entry_point": "Dubai Police, UAE MOI and GCC police forces; ThinkEdge video analytics and rugged devices.",
+      "owner": "SSG public-safety lead",
+      "urgency": "This quarter",
+      "status": "New",
+      "source_story_id": "2026-10-24-05"
+    }
+  ]
+}

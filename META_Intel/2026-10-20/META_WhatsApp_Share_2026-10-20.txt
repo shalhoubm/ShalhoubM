@@ -1,0 +1,167 @@
+*FII Institute postpones 10th annual conference to 2027*
+
+* The FII Institute told participants that the event, originally scheduled to take place in Riyadh from Oct. 26 to 29, has been postponed to 2027
+* The institute said the decision was made to ensure the milestone 10th edition delivers the full scale, quality and impact expected, with a new date to be announced soon
+* All existing registrations and partnerships for the conference will remain valid
+
+Source - https://www.arabnews.com/business/fii-institute-postpones-10th-annual-conference-to-2027-3007192
+
+*Ex–OpenAI engineer accused of bugging office stays in jail as prosecutors allege Saudi ties: ‘Once he leaves, there’s no getting him back’*
+
+* A federal judge ordered Abdulrahman Alfozan, a 35-year-old former OpenAI engineer, held in custody until his preliminary hearing on Nov. 6; the FBI arrested him on Oct. 9
+* Prosecutors allege he planted a recording device in an executive conference room on Sept. 28
+* He faces one count of using or attempting to use a device to intercept oral communications, carrying a maximum of five years in prison; he has not been indicted and the complaint does not charge espionage
+
+Source - https://fortune.com/2026/10/19/openai-alleged-bugger-alfozan-jail-saudi-court-filings-hearing/
+
+*TAWAL Signs Agreement with Samsung for Network Asset Monitoring and Management*
+
+* TAWAL signed a supply and training agreement with Samsung Electronics Saudi Arabia to use the SmartThings Pro platform for monitoring network assets
+* The agreement covers multi-site management, automated alerts, energy data analytics and reporting, and asset-tracking devices, with TAWAL systems connected through enterprise APIs
+* TAWAL operates more than 30,000 telecommunications towers across Saudi Arabia, Bulgaria, Croatia, Slovenia and Pakistan
+
+Source - https://www.einpresswire.com/article/950921758/tawal-signs-agreement-with-samsung-for-network-asset-monitoring-and-management
+
+*Center3 and Epsilon Telecommunications partner to expand access to internet exchanges in Saudi Arabia*
+
+* center3 has appointed Epsilon Telecommunications as the reseller partner for its one-IX Internet Exchange platform
+* Networks and providers can peer at center3's IX platforms in Jeddah, Riyadh and Dammam through Epsilon's international connectivity ecosystem
+* center3's Internet Exchange platform has been powered by the London Internet Exchange (LINX) since 2019
+
+Source - https://www.zawya.com/en/press-release/companies-news/center3-and-epsilon-telecommunications-partner-to-expand-access-to-internet-exchanges-in-saudi-arabia-1772088
+
+*Riyadh chosen to host OIC’s first Cybersecurity Ministerial Council*
+
+* The 52nd session of the OIC Council of Foreign Ministers approved the establishment of an OIC council of ministers of cybersecurity, following a proposal by Saudi Arabia
+* The council's general secretariat and executive office will be based in Riyadh, and it will comprise the cybersecurity authorities of OIC member states
+* National Cybersecurity Authority Governor Majed Al-Mazyed said the proposal came amid growing cyber threats to vital interests, critical infrastructure and government services
+
+Source - https://saudigazette.com.sa/article/665569/saudi-arabia/riyadh-chosen-to-host-oics-first-cybersecurity-ministerial-council
+
+*Crown Prince of Abu Dhabi and French President attend UAE-France Business Dialogue to strengthen strategic partnership in energy and artificial intelligence*
+
+* Three MoUs were signed with AMI Labs: MBZUAI for AI research and development, G42 for cloud computing infrastructure and AI models, and Analog for integrating AI models into robotics and physical AI
+* ADNOC Gas and Schneider Electric signed an MoU to evaluate advanced technologies to improve operational efficiency in energy systems
+* ADNOC Refining and Technip Energies signed two contracts, for a refining capacity enhancement project and a sustainable aviation fuel project
+
+Source - https://www.mediaoffice.abudhabi/en/crown-prince-news/crown-prince-of-abu-dhabi-and-french-president-attend-uae-france-business-dialogue-to-strengthen-strategic-partnership-in-energy-and-artificial-intelligence/
+
+*Stc Bahrain partners with NBB Group to modernize Data Center infrastructure and elevate financial sector capabilities*
+
+* stc Bahrain partnered with National Bank of Bahrain Group to upgrade its Data Centre infrastructure in the second phase of the Group's transformation program
+* The project deployed resilient infrastructure in NBB Group's new Data Centre, allowing Bahrain Islamic Bank services to move onto the Group's strategic platform
+* stc Bahrain served as project coordinator and implementation partner, handling project governance and delivery across multiple stakeholders
+
+Source - https://www.zawya.com/en/press-release/companies-news/stc-bahrain-partners-with-nbb-group-to-modernize-data-center-infrastructure-and-elevate-financial-sector-capabilities-1761580
+
+*VAST Data and Hyperfusion Accelerate AI Infrastructure Deployment from Years to Weeks*
+
+* VAST Data and Hyperfusion will integrate the VAST AI Operating System into Hyperfusion's Sentinel modular AI infrastructure as its preferred data platform
+* Sentinel packs an AI data center into a transportable 45-foot ISO High Cube unit with a 96-GPU reference configuration and about two to three petabytes of capacity, while each HyperPod scales to roughly 20 petabytes
+* Sentinel supports confidential computing, can run fully air-gapped, and can be delivered as a customer-owned system or a managed service keeping data in-country
+
+Source - https://fintechgate.net/254975
+
+*Egypt's play to become an exporter of computing power*
+
+* Estimates put Egypt's installed data center IT load at 15 to 60 MW, with only about 20 MW of new capacity firmly committed
+* Africa Data Centres Egypt, a consortium of Vodafone Business, Elsewedy Electric and Cassava Technologies, has committed to 20 MW within three years and hopes to reach 200 MW with up to USD 1 bn in investment
+* Khazna, the data center arm of G42, plans a 25 MW facility in Maadi with local partner Benya Group
+
+Source - https://enterpriseam.com/ai/2026/10/20/egypts-play-to-become-an-exporter-of-computing-power/
+
+*Digital Realty breaks ground on 22 MW Ankara data center*
+
+* Digital Realty has started construction on its first data center in Türkiye, a 22 MW facility in Ankara built through a joint venture with Rönesans Infrastructure
+* Land, power and permits were already secured, and the facility is expected to be completed in 2028, with a second data center planned in Istanbul
+* Mordor Intelligence projects Türkiye's data center capacity to grow from 350 MW in 2025 to 570 MW by 2031
+
+Source - https://w.media/digital-realty-breaks-ground-on-22-mw-ankara-data-center/
+
+*Hubco Delays Data Center Project*
+
+* Hub Power Company has delayed its proposed data center project because of high electricity and technology costs, significant infrastructure requirements and uncertain financial returns, according to a Topline Securities note
+* The company prefers to enter the market at around 100 MW rather than with smaller 5-10 MW facilities
+* There is no information on a revised launch date, estimated investment amount or final project structure
+
+Source - https://propakistani.pk/2026/10/20/hubco-delays-data-center-project/
+
+*Anthropic eyes second $45 billion Nscale deal as 460MW AI data centre plans advance ahead of potential IPO*
+
+* Anthropic is in talks for a second deal with Nscale, potentially worth about $45 billion, covering a second 460-megawatt data centre at Nscale's Monarch campus in West Virginia using Nvidia's Vera Rubin chips
+* Nscale already has an agreement with Anthropic worth as much as $44.6 billion, according to its IPO documents
+* Nscale raised $3.36 billion in a pre-IPO round from investors including Third Point, Nvidia, Apollo, Citadel, Hudson Bay Capital and the Abu Dhabi Investment Council
+
+Source - https://www.livemint.com/companies/news/anthropic-eyes-second-45-billion-nscale-deal-as-460mw-ai-data-centre-plans-advance-ahead-of-potential-ipo-11792466448988.html
+
+*Why OpenAI is racing to raise $30 billion before Anthropic IPO*
+
+* OpenAI is accelerating plans to raise about $30 billion before Anthropic's expected November stock market debut, at a valuation that could exceed $1.4 trillion
+* Existing backers, including SoftBank and Abu Dhabi's MGX, are discussing participation, though commitments have not been finalised
+* OpenAI is pitching annualised revenue of $50 billion following the release of GPT-6 Astra and expects that figure to reach $70 billion by year-end
+
+Source - https://invezz.com/news/2026/10/20/why-openai-is-racing-to-raise-30-billion-before-anthropic-ipo/
+
+*Emil Michael tells The Information export controls can rein in AI labs*
+
+* Emil Michael, the Pentagon's chief technology officer, said the US government can use export controls against AI companies that won't cooperate with it
+* He said Anthropic was placed under export controls within two hours of refusing to withdraw a model after the government discovered it had been jailbroken
+* About 1.7 million of the department's 3.5 million employees now use AI, up from 80,000 a year earlier
+
+Source - https://thenextweb.com/news/emil-michael-export-controls-ai-labs-anthropic-the-information
+
+*Exclusive-ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders*
+
+* ByteDance, Alibaba and Tencent have ordered more than 3 million Nvidia RTX PRO 5500 cards at about $11,400 each, a potential combined value above $35 billion, according to two sources
+* Nvidia told partners they might receive only 5% to 10% of the quantities requested, with total orders from Chinese customers topping 6 million
+* Customers were told to expect commercial deliveries of the RTX PRO 5500 starting in the first quarter of 2027
+
+Source - https://www.investing.com/news/stock-market-news/exclusivebytedance-alibaba-tencent-place-over-35-billion-worth-of-nvidia-chip-orders-4959231
+
+*Major PC Brands Pivot To Enterprise Customers To Secure Profitability By Locking In Long-Term Memory Deals For 2027 As Soaring Prices Deter Consumers*
+
+* Lenovo, HP and Dell reportedly saw consumer sales plummet as higher RAM prices made PCs unaffordable and are shifting toward enterprise customers
+* PC brands reportedly received only 70-80% of the DRAM and SSD volumes they requested in the first half and are turning to long-term agreements to secure supply through 2027
+* Omdia estimates global PC shipments fell 21% year-over-year in Q3 2026 and expects a further 7% decline in 2027
+
+Source - https://wccftech.com/pc-brands-pivot-b2b-long-term-memory-deals-2027/
+
+*Samsung's 2027 memory output already 80% booked: KB Securities*
+
+* KB Securities estimates Samsung Electronics has locked in roughly four-fifths of its planned 2027 memory output through long-term supply deals
+* Kim Dong-won, head of research at KB Securities, said five-year contracts cover 70 percent of Samsung's planned conventional DRAM and NAND flash output
+* KB Securities projects Samsung's 2027 operating profit will climb 51 percent to 555 trillion won ($417.6 billion) and expects HBM average selling prices to rise 100 to 150 percent next year
+
+Source - https://www.theinvestor.co.kr/article/10908845
+
+*[News] DRAM Prices Seen Rising 20% QoQ in 4Q26 Despite Slower Gains; AI Demand, Tight Supply Support Outlook*
+
+* Fourth-quarter 2026 DRAM contract prices are projected to rise about 20% quarter-on-quarter, slowing from roughly 80% in Q2 and 40% in Q3
+* Per MoneyToday, DRAM spot prices continue to rise, while CXMT's 4F² DRAM faces yield, leakage current and data retention challenges, with full commercialization expected after 2028
+* Per TrendForce, 8-Hi HBM is expected to cost 10-20% more per Gb than 12-Hi in 2027
+
+Source - https://www.trendforce.com/news/2026/10/20/news-dram-prices-seen-rising-20-qoq-in-4q26-despite-slower-gains-ai-demand-tight-supply-support-outlook/
+
+*Nomura Keeps Buy on Samsung, SK hynix, Sees Memory Shortage Through 2028*
+
+* Nomura Securities expects the memory chip shortage to persist through 2028 and kept buy ratings on Samsung Electronics and SK hynix
+* Nomura set target prices of 670,000 won for Samsung Electronics and 4.7 million won for SK hynix
+* Nomura estimates new global data center capacity will rise about 41.3% to 31.5 gigawatts next year from 22.3 GW this year
+
+Source - https://en.sedaily.com/finance/2026/10/20/nomura-keeps-buy-on-samsung-sk-hynix-sees-memory-shortage
+
+*Micron's Taiwan Union to Strike on the 22nd Over Profit-Sharing Demand*
+
+* The Taoyuan union, representing about 15% of Micron's Taiwan workforce, approved the strike with 88.3% in favor, while the Taichung union has not yet held a strike vote
+* Micron offered compensation equal to 35 to 68 months of base pay, while the union wants a one-time bonus of 83 months' pay and 15% of operating profit distributed to workers
+* Micron employs about 15,000 people in Taiwan and sources roughly 50% to 60% of its chip output from the island
+
+Source - https://en.sedaily.com/international/2026/10/20/microns-taiwan-union-to-strike-on-the-22nd-over-profit
+
+*India's smartphone shipments plunge 26% in Q3, worst showing since 2016*
+
+* India's smartphone shipments fell 26 per cent year-on-year to 35.6 million units in Q3 CY2026, the sharpest decline since CY2016, according to Omdia
+* Rising memory prices forced manufacturers to keep raising handset prices
+* Samsung shipments fell 1 per cent to 6.7 million units, displacing Vivo at the top, while Vivo shipments plunged 34 per cent to 6.4 million units
+
+Source - https://www.business-standard.com/industry/news/india-s-smartphone-shipments-plunge-26-in-q3-worst-showing-since-2016-126101900898_1.html

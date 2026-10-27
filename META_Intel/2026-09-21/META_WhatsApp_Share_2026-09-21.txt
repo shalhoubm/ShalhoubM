@@ -1,0 +1,222 @@
+*مارك دومينيك نائب رئيس شركة NVIDIA لـ «الرياض»: المملكة تجاوزت مرحلة التخطيط للذكاء الاصطناعي إلى مرحلة التشغيل*
+
+* مصانع للذكاء الاصطناعي في المملكة بقدرة متوقعة تصل إلى 500 ميغاواط، مدعومة بمئات الآلاف من وحدات معالجة الرسومات من NVIDIA على مدى خمس سنوات
+* حاسوب فائق للذكاء الاصطناعي يضم 18 ألف وحدة NVIDIA GB300 Grace Blackwell، ومزوّد بشبكات NVIDIA InfiniBand
+* مارك دومينيك نائب الرئيس لقطاع المؤسسات في الشرق الأوسط وشمال أفريقيا وجنوب أوروبا لدى NVIDIA
+
+Source - https://www.alriyadh.com/2207566
+
+*Saudi Arabia Advances Data and AI Leadership, Promotes Responsible Use for Humanity*
+
+* Saudi Arabia ranked 13th globally among 70 economies in the 2026 IMD World Competitiveness Yearbook and third among G20 economies
+* The Kingdom ranked fourth globally in AI adoption by companies and fourth in societal access to AI
+* The SAMAI initiative has trained more than 1.2 million Saudis in AI
+
+Source - https://www.spa.gov.sa/en/N2681378
+
+*Itmam wins Dulani Business Center Operational Sustainability project*
+
+* Itmam Consultancy Co. won the Dulani Business Center Operational Sustainability 2026 project from the Social Development Bank, valued at more than 25% of its 2025 revenues
+* The project covers non-financial services for microenterprises, self-employed individuals and establishments, including their technical and technological needs and equipment
+* The award letter was received on Sept. 21, with no related parties involved; Itmam's 2025 revenue was SAR 79.24 million
+
+Source - https://www.argaam.com/en/article/articledetail/id/1938084
+
+*HRH the Crown Prince Launches CEER's Flagship Vehicles Further Strengthening Saudi Arabia's Position in the Global Automotive Industry*
+
+* The Crown Prince revealed EXOBOT, CEER's flagship electric sedan and SUV, designed, engineered and manufactured in Saudi Arabia
+* The vehicles are part of a planned portfolio of seven models over the next five years, built at the CEER Manufacturing Complex
+* By 2034, CEER is projected to contribute over SAR 30 billion (USD 8 billion) to GDP and over SAR 80 billion (USD 21 billion) to trade balance improvement
+
+Source - https://www.pif.gov.sa/en/news-and-insights/newswire/2026/hrh-the-crown-prince-launches-ceers-flagship-vehicles-further-strengthening-saudi-arabias-position-in-the-global-automotive-industry/
+
+*"جيديا" توسع حضورها في سوق المدفوعات الرقمية السعودية*
+
+* حصلت جيديا على اعتماد بوابة الدفع الوطنية (NPG eMSP) لمعالجة مدفوعات التجارة الإلكترونية عبر البوابة الوطنية
+* حصلت خدمة جيديا لقبول المدفوعات عبر الهواتف الذكية (Geidea SoftPOS) على اعتماد MPoC
+* بلغت قيمة عمليات التجارة الإلكترونية عبر بطاقات مدى نحو 325.2 مليار ريال خلال عام 2025 مقابل 197.4 مليار في 2024
+
+Source - https://www.aleqt.com/الأخبار/جيديا-توسع-حضورها-في-سوق-المدفوعات-الرقمية-السعودية-14491
+
+*برعاية وزير "الاتصالات".. الرياض تستضيف الحدث العالمي للاتصال والاستدامة الفضائية أكتوبر المقبل*
+
+* تنظم هيئة الاتصالات والفضاء والتقنية بالشراكة مع الاتحاد الدولي للاتصالات الحدث في الرياض من 12 إلى 14 أكتوبر 2026 برعاية المهندس عبدالله بن عامر السواحه
+* يجمع الحدث المنتدى الدولي للشبكات غير الأرضية ومنتدى استدامة الفضاء في نسختيهما الثالثة تحت مظلة واحدة
+* تشمل المحاور الجيل السادس والتمهيد لمؤتمر WRC-27 والاتصالات الفضائية المباشرة إلى الأجهزة
+
+Source - https://www.spa.gov.sa/ar/N2681049
+
+*IHC confirms Fount Trust as ultimate parent after ownership restructure*
+
+* Fount Trust is confirmed as IHC's ultimate parent above Royal Group Holding, with Pal Group remaining the majority shareholder
+* Sheikh Tahnoon bin Zayed is the ultimate beneficial owner of Fount Trust and remains chairman of IHC
+* IHC, valued at about $229 billion (Dh840 billion) with over 1,300 subsidiaries, said there is no change to operations, strategy or business activities
+
+Source - https://www.thenationalnews.com/business/2026/09/21/ihc-confirms-fount-trust-as-ultimate-parent-after-ownership-restructure/
+
+*Nvidia's free AI model could push the UAE closer to the U.S.*
+
+* Nvidia's model, expected to be called Nemotron 4, will be free to download by the end of the year
+* G42, which runs the UAE's AI infrastructure, has aligned itself with Nvidia's push for free models and was the only Gulf company to join Nvidia's July alliance
+* The UAE's flagship data center will run on 400,000 Nvidia chips
+
+Source - https://restofworld.org/2026/nvidia-open-source-ai-models-uae/
+
+*Paymob raises $35 million pre-Series C co-led by Mubadala, EBRD*
+
+* The $35 million pre-Series C was co-led by Mubadala and the EBRD, with participation from BII, Global Ventures and DPI Ventures, taking total disclosed funding past $125 million
+* Paymob serves more than 390,000 merchants across Egypt, the UAE, Saudi Arabia and Oman
+* Consolidated revenues grew 3x over 18 months and GCC revenues 7x, with close to half of revenue now coming from the GCC
+
+Source - https://www.wamda.com/2026/09/paymob-raises-35-million-pre-series-c-led-mubadala-ebrd
+
+*UAE moves '6G's Golden Band' into commercial deployment*
+
+* A joint white paper by TDRA, e& UAE, Khalifa University and NYU Abu Dhabi moves Upper 6 GHz from trials to commercial deployment
+* Upper 6 GHz delivers around three times the capacity of C-band using existing sites, with coverage within 2 to 5% of 3.5 GHz
+* e& UAE holds 6425 to 6775 MHz and its 256TRX Giga-MIMO launch is slated for the second half of 2026 with speeds up to 10 Gbps
+
+Source - https://www.zawya.com/en/business/uae-moves-6gs-golden-band-into-commercial-deployment-1019387
+
+*GSMA and PDAA Launch Roadmap to Connect 1 Billion Africans to Internet by 2030*
+
+* Africa's mobile internet usage gap stands at 906 million people, almost 60% of the population, while 122 million lack mobile broadband coverage
+* The roadmap covers 11 markets, and halving the usage gap could bring about 245 million more people online
+* Priority actions include migrating more than 600 million legacy users to 4G and 5G
+
+Source - https://techafricanews.com/2026/09/21/gsma-pdaa-roadmap-connect-1-billion-africans-by-2030/
+
+*HP Shares Slide as Tech Giant Forecasts 2027 PC Market Slump*
+
+* HP expects global PC unit volumes to decline by mid-single digits in calendar 2027 compared to 2026, in line with third-party industry forecasts
+* HP remains in its planning period for fiscal 2027 and is not yet providing financial guidance
+* The assumption depends on market performance in the second half of 2026, which remains fluid and is subject to change
+
+Source - https://ca.investing.com/news/stock-market-news/hp-shares-slide-as-tech-giant-forecasts-2027-pc-market-slump-4846261
+
+*The Lenovo Googlebook 15 is official: 15.3-inch OLED, Face Unlock, and lightweight frame*
+
+* The Googlebook 15 has a 15.3-inch 2.8K OLED multitouch display and weighs 2.84 pounds (1.29 kg)
+* It runs Intel Core Ultra Series 3 (Panther Lake) with 16GB to 32GB RAM and a face recognition IR camera plus fingerprint sensor
+* Pricing starts at $1,299, with US retail availability from October 4, 2026 and other markets from October 5
+
+Source - https://chromeunboxed.com/the-lenovo-googlebook-15-is-official-15-3-inch-oled-face-unlock-and-lightweight-frame/
+
+*Microsoft's Nadella to Join OpenAI, Nvidia CEOs at Trump-Xi Meal*
+
+* Satya Nadella will attend the White House state dinner for Xi Jinping on Sept. 24
+* Apple Executive Chairman Tim Cook, OpenAI's Sam Altman, Nvidia's Jensen Huang and Qualcomm's Cristiano Amon are also attending
+* The Trump administration opposes additional AI rules, saying they would hand China the advantage
+
+Source - https://finance.yahoo.com/technology/ai/articles/microsoft-nadella-join-openai-nvidia-005500749.html
+
+*56% of Sovereign AI LLMs Are Adapted Models, With Meta's Llama the Dominant Base, Followed by Alibaba's Qwen and France's Mistral*
+
+* 56% of sovereign AI LLMs are adapted versions of existing models rather than built from scratch
+* Llama is the dominant foreign base model family, accounting for 38% of adapted sovereign LLMs
+* Alibaba's Qwen is the second most adapted base model, followed by France's Mistral
+
+Source - https://counterpointresearch.com/en/insights/56-of-sovereign-ai-llms-are-adapted-models-with-metas-llama-the-dominant-base
+
+*DeepSeek plans major Huawei Ascend chip deployment at Inner Mongolia data center*
+
+* CEO Liang Wenfeng said Huawei will start delivering AI training chips around Q4 2026 or Q1 2027
+* DeepSeek is weighing a deployment of at least 160,000 Huawei Ascend 950DT chips at a data center in Ulanqab, Inner Mongolia, using about 1 gigawatt of power
+* Huawei has moved up the Ascend 960DT launch to Q1 2027
+
+Source - https://cryptobriefing.com/deepseek-huawei-ai-training-chips/
+
+*Customer-Centric "Huawei + Partners" Collaboration System Launched to Scale AI Across Industries*
+
+* Huawei SVP Leo Chen announced the SCALE partner support system at HUAWEI CONNECT 2026
+* Partners have built over 100 scenario-based solutions across eight industries, and Huawei opened 48 high-value scenario reference architectures through OpenLab
+* Huawei and its partners have set up more than 130 customer showcases worldwide
+
+Source - https://www.prnewswire.com/news-releases/customer-centric-huawei--partners-collaboration-system-launched-to-scale-ai-across-industries-302884531.html
+
+*ByteDance's China AI chip push hits substrate shortage*
+
+* ByteDance is reportedly preparing to spend CNY100 billion (US$14.9 billion) a year on large-scale chip substrate purchases
+* China's AI model development faces a compute supply bottleneck as demand for advanced packaging substrates surges
+
+Source - https://www.digitimes.com/news/a20260921PD206/substrate-bytedance-ai-chip-high-end-capacity.html
+
+*Xiaomi 18 Pro Set to Launch Wednesday; Lu Weibing Confirms Price Hike*
+
+* Lu Weibing said the new phone will see a price increase, but that everyone will find it reasonable
+* The launch is set for September 23 at 7:00 p.m. with HyperOS 4, with a 7,000mAh battery on the 18 Pro and 8,500mAh on the Pro Max
+* The Xiaomi 17 Pro now starts at CNY 5,699, up from CNY 4,999 at its September 2025 launch
+
+Source - https://finance.biggo.com/news/20857c26-faa4-4f62-8d32-c5bbc8a9ac9a
+
+*vivo launches the X500 series today, with memory costs pushing every price up*
+
+* DRAM contract prices have risen more than 340% across 2026, with NAND flash up more than 320%
+* Memory now accounts for 30 to 43% of flagship production costs
+* On September 18 vivo raised the X300 Ultra 12GB/256GB from CNY6,999 to CNY7,499
+
+Source - https://tech-ish.com/2026/09/21/vivo-launches-the-x500-series-today-with-memory-costs-pushing-every-price-up/
+
+*Tencent Esports Competition Solution to Power Esports Competition at the 20th Asian Games*
+
+* Tencent's solution will cover all 11 esports events from September 22 to October 2 at Hall D, Aichi Sky Expo
+* Tencent supported 217 matches at the 19th Asian Games with zero technical incidents and monitors over 30 indicators in real time
+* The Olympic Council of Asia has a 10-year partnership with Tencent Esports from 2025 to 2035
+
+Source - https://www.prnewswire.com/news-releases/tencent-esports-competition-solution-to-power-esports-competition-at-the-20th-asian-games-302884649.html
+
+*Lenovo Supports the 20th Asian Games and the 5th Asian Para Games as the Official Supplier of PC Equipment and Related Services and Solutions*
+
+* Lenovo is a Tier 4 Official Supplier for the 20th Asian Games and 5th Asian Para Games in Aichi-Nagoya
+* Lenovo will supply more than 6,100 ThinkPad laptops and ThinkCentre desktops, with over 30 Lenovo staff on site
+* Services include Device as a Service and Plug-and-Play deployment, with ThinkPad L16 touchscreen devices at the Main Media Center
+
+Source - https://news.lenovo.com/pressroom/press-releases/lenovo-supports-the-20th-asian-games-and-the-5th-asian-para-games-as-the-official-supplier-of-pc-equipment-and-related-services-and-solutions/
+
+*Lenovo and Schneider Electric Partner to Bring Decarbonization Tools and Expertise to IT Channel Partners*
+
+* Schneider Electric joins Lenovo 360 Circle, which has more than 861 partners across 68 markets
+* Schneider Electric helped its top 1,000 suppliers reduce operational emissions by 56 percent between 2021 and 2025
+* The Decarbonization Champion program has four stages: education, carbon tools, specialist support including remote site audits, and rebates
+
+Source - https://news.lenovo.com/pressroom/press-releases/lenovo-schneider-electric-partner-bring-decarbonization-tools-expertise-it-channel-partners/
+
+*Stronger North American Demand to Keep Enterprise SSD Prices on an Upward Trend in 4Q26, Says TrendForce*
+
+* U.S. CSPs have upgraded their enterprise SSD demand forecasts over the past two weeks, with QLC a significant growth catalyst
+* Total enterprise SSD orders in the fourth quarter could surpass the already elevated levels seen in 3Q26, giving NAND Flash suppliers greater control over allocation and pricing
+* In China, AI architectures led by DeepSeek are promoting high-capacity QLC enterprise SSDs for KV cache offloading
+
+Source - https://www.trendforce.com/presscenter/news/20260921-13246.html
+
+*'RAMageddon': tech crunch hikes the price of your next iPhone by £100*
+
+* IDC's Francisco Jeronimo said component costs have risen sharply, with memory alone up more than 300% year on year
+* IDC forecasts the steepest annual fall in worldwide smartphone sales on record, down almost 17% to just over 1bn handsets
+* Apple added £100 to all iPhones, Samsung and Google added up to £80 to flagships, and Microsoft up to £220 on some Surface computers
+
+Source - https://www.theguardian.com/money/2026/sep/21/ramageddon-apple-iphone-price-increase-chip-shortage
+
+*Exports up 78% in first 20 days of Sept.*
+
+* Outbound shipments reached $71.4 billion in the Sept. 1-20 period, up from $40 billion a year earlier
+* Exports of chips shot up 259 percent to reach $34.12 billion
+* Exports to China more than doubled to $16.6 billion and exports to the United States rose 118 percent to $14.2 billion
+
+Source - https://www.koreaherald.com/article/10880060
+
+*SK hynix Subsidiary Solidigm Considers US NAND Plant*
+
+* Solidigm is reviewing potential sites for a NAND mass-production line in the eastern US, its first NAND mass-production base in the country
+* Counterpoint Research said global NAND revenue rose 70% in Q2 from Q1 and NAND prices rose 55%
+* SK hynix said Solidigm is reviewing ways to strengthen competitiveness but nothing has been finalized yet
+
+Source - https://www.thelec.net/news/articleView.html?idxno=14040
+
+*Samsung Narrows HBM Gap With SK hynix to 17 Points*
+
+* According to Counterpoint Research, Samsung's HBM market share rose to 33% in the second quarter, narrowing the gap with SK hynix to 17 percentage points from 37 points in the first quarter
+* HBM4 yields rose from below 60% in early mass production to about 80%
+* Samsung's HBM4 revenue is expected to top $10 billion (about 14 trillion won) by year-end
+
+Source - https://en.sedaily.com/finance/2026/09/21/samsung-narrows-hbm-gap-with-sk-hynix-to-17-points

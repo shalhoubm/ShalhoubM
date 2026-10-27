@@ -1,0 +1,209 @@
+[
+    {
+        "date":  "2026-10-27",
+        "window":  "26 Oct 2026 16:34 to 27 Oct 2026 16:34 KSA",
+        "stories":  11,
+        "flash":  0,
+        "high":  1,
+        "images":  10,
+        "opportunities":  4
+    },
+    {
+        "date":  "2026-10-26",
+        "window":  "Sun 25 Oct 2026 20:18 to Mon 26 Oct 2026 20:18 KSA",
+        "stories":  18,
+        "flash":  0,
+        "high":  2,
+        "images":  14,
+        "opportunities":  8
+    },
+    {
+        "date":  "2026-10-25",
+        "window":  "Sat 24 Oct 2026 21:55 → Sun 25 Oct 2026 21:55 KSA (UTC+3), i.e. 24 Oct 18:55 → 25 Oct 18:55 UTC.",
+        "stories":  14,
+        "flash":  0,
+        "high":  1,
+        "images":  13,
+        "opportunities":  5
+    },
+    {
+        "date":  "2026-10-24",
+        "window":  "Fri 23 Oct 2026 16:44 → Sat 24 Oct 2026 16:44 KSA (UTC+3), i.e. 23 Oct 13:44 → 24 Oct 13:44 UTC.",
+        "stories":  9,
+        "flash":  0,
+        "high":  1,
+        "images":  5,
+        "opportunities":  5
+    },
+    {
+        "date":  "2026-10-22",
+        "window":  "Wed 21 Oct 2026 12:18 → Thu 22 Oct 2026 12:18 KSA (UTC+3), i.e. 21 Oct 09:18 → 22 Oct 09:18 UTC.",
+        "stories":  19,
+        "flash":  0,
+        "high":  1,
+        "images":  13,
+        "opportunities":  5
+    },
+    {
+        "date":  "2026-10-21",
+        "window":  "Tue 20 Oct 2026 12:46 → Wed 21 Oct 2026 12:46 KSA (UTC+3), i.e. 20 Oct 09:46 → 21 Oct 09:46 UTC.",
+        "stories":  19,
+        "flash":  0,
+        "high":  0,
+        "images":  14,
+        "opportunities":  5
+    },
+    {
+        "date":  "2026-10-20",
+        "window":  "Mon 19 Oct 2026 12:39 → Tue 20 Oct 2026 12:39 KSA (UTC+3), i.e. 19 Oct 09:39 → 20 Oct 09:39 UTC.",
+        "stories":  21,
+        "flash":  0,
+        "high":  1,
+        "images":  15,
+        "opportunities":  5
+    },
+    {
+        "date":  "2026-10-19",
+        "window":  "Sun 18 Oct 2026 08:19 → Mon 19 Oct 2026 08:19 KSA (UTC+3), i.e. 18 Oct 05:19 → 19 Oct 05:19 UTC.",
+        "stories":  14,
+        "flash":  0,
+        "high":  1,
+        "images":  12,
+        "opportunities":  4
+    },
+    {
+        "date":  "2026-10-18",
+        "window":  "Sat 17 Oct 2026 09:38 → Sun 18 Oct 2026 09:38 KSA (UTC+3), i.e. 17 Oct 06:38 → 18 Oct 06:38 UTC.",
+        "stories":  10,
+        "flash":  0,
+        "high":  1,
+        "images":  9,
+        "opportunities":  5
+    },
+    {
+        "date":  "2026-10-15",
+        "window":  "Wed 14 Oct 2026 11:29 → Thu 15 Oct 2026 11:29 KSA (UTC+3), i.e. 14 Oct 08:29 → 15 Oct 08:29 UTC.",
+        "stories":  21,
+        "flash":  1,
+        "high":  4,
+        "images":  16,
+        "opportunities":  6
+    },
+    {
+        "date":  "2026-10-14",
+        "window":  "Tue 13 Oct 2026 10:17 → Wed 14 Oct 2026 10:17 KSA (UTC+3), i.e. 13 Oct 07:17 → 14 Oct 07:17 UTC.",
+        "stories":  18,
+        "flash":  1,
+        "high":  2,
+        "images":  16,
+        "opportunities":  7
+    },
+    {
+        "date":  "2026-10-11",
+        "window":  "Sat 10 Oct 2026 05:39 → Sun 11 Oct 2026 05:39 KSA (UTC+3), i.e. 02:39 → 02:39 UTC.",
+        "stories":  13,
+        "flash":  1,
+        "high":  2,
+        "images":  8,
+        "opportunities":  6
+    },
+    {
+        "date":  "2026-10-08",
+        "window":  "Wed 7 Oct 2026 14:19 → Thu 8 Oct 2026 14:19 KSA (UTC+3), i.e. 11:19 → 11:19 UTC.",
+        "stories":  26,
+        "flash":  0,
+        "high":  8,
+        "images":  21,
+        "opportunities":  7
+    },
+    {
+        "date":  "2026-10-06",
+        "window":  "Mon 5 Oct 2026 12:47 → Tue 6 Oct 2026 12:47 KSA (UTC+3), i.e. 09:47 → 09:47 UTC.",
+        "stories":  21,
+        "flash":  0,
+        "high":  5,
+        "images":  16,
+        "opportunities":  6
+    },
+    {
+        "date":  "2026-10-04",
+        "window":  "Sat 3 Oct 2026 11:57 → Sun 4 Oct 2026 11:57 KSA (UTC+3), i.e. 08:57 → 08:57 UTC.",
+        "stories":  10,
+        "flash":  0,
+        "high":  2,
+        "images":  6,
+        "opportunities":  6
+    },
+    {
+        "date":  "2026-10-01",
+        "window":  "Wed 30 Sep 2026 11:28 → Thu 1 Oct 2026 11:28 KSA (UTC+3), i.e. 08:28 → 08:28 UTC.",
+        "stories":  27,
+        "flash":  0,
+        "high":  4,
+        "images":  18,
+        "opportunities":  7
+    },
+    {
+        "date":  "2026-09-30",
+        "window":  "Tue 29 Sep 2026 10:57 → Wed 30 Sep 2026 10:57 KSA (UTC+3), i.e. 07:57 → 07:57 UTC.",
+        "stories":  20,
+        "flash":  0,
+        "high":  0,
+        "images":  13,
+        "opportunities":  7
+    },
+    {
+        "date":  "2026-09-29",
+        "window":  "Mon 28 Sep 2026 15:44 → Tue 29 Sep 2026 15:44 KSA (UTC+3), i.e. 12:44 → 12:44 UTC.",
+        "stories":  34,
+        "flash":  0,
+        "high":  2,
+        "images":  26,
+        "opportunities":  7
+    },
+    {
+        "date":  "2026-09-22",
+        "window":  "Mon 21 Sep 2026 10:48 → Tue 22 Sep 2026 10:48 KSA (UTC+3), i.e. 07:48 → 07:48 UTC.",
+        "stories":  22,
+        "flash":  0,
+        "high":  0,
+        "images":  18,
+        "opportunities":  7
+    },
+    {
+        "date":  "2026-09-21",
+        "window":  "Sun 20 Sep 2026 17:06 → Mon 21 Sep 2026 17:06 KSA (UTC+3), i.e. 14:06 → 14:06 UTC",
+        "stories":  28,
+        "flash":  0,
+        "high":  1,
+        "images":  24,
+        "opportunities":  8
+    },
+    {
+        "date":  "2026-09-17",
+        "window":  "Wed 16 Sep 2026 13:45 → Thu 17 Sep 2026 13:45 KSA (UTC+3), i.e. 10:45 → 10:45 UTC",
+        "stories":  38,
+        "flash":  0,
+        "high":  1,
+        "images":  30,
+        "opportunities":  8
+    },
+    {
+        "date":  "2026-09-15",
+        "window":  "Mon 14 Sep 2026 17:04 → Tue 15 Sep 2026 17:04 KSA (UTC+3), i.e. 14:04 → 14:04 UTC",
+        "stories":  42,
+        "flash":  1,
+        "high":  1,
+        "images":  33,
+        "opportunities":  8
+    },
+    {
+        "date":  "2026-09-14",
+        "window":  "13 Sep 23:53 → 14 Sep 23:53 KSA",
+        "stories":  47,
+        "flash":  0,
+        "high":  4,
+        "images":  34,
+        "opportunities":  8
+    }
+]

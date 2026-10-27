@@ -1,0 +1,165 @@
+*Dell Technologies and Aramco Digital sign MoU to advance Industrial AI and Digital Infrastructure across Saudi Arabia*
+
+* The MoU was signed by Mohamed Talaat, Vice President, Saudi, Egypt, North Africa & Levant (SENAL), Dell Technologies, and Dr. Ashraf Al-Tahini, Chief Executive Officer of Aramco Digital
+* The collaboration will explore opportunities to improve operational efficiency, optimise multi-cloud environments, strengthen data protection and deploy secure and scalable Industrial AI solutions
+* The agreement will explore joint go-to-market initiatives and expand access to Dell Technologies' enterprise solutions across the Kingdom through authorised channel partners
+
+Source - https://www.tahawultech.com/channel/dell-technologies-and-aramco-digital-sign-mou-to-advance-industrial-ai-and-digital-infrastructure-across-saudi-arabia/
+
+*Joint venture wins Riyadh data centre construction deal*
+
+* Hassan Allam Construction and Sterling & Wilson won an estimated SR750m ($200m) contract for the first phase of a Riyadh data centre developed by Humain and Center3
+* The first phase has 16.2MW of IT load and is scheduled for 16 months, with the second phase taking overall capacity to 50MW
+* On completion the facility will include one 5MW standard-density hall and four high-density halls, each rated at 11.2MW
+
+Source - https://www.meed.com/hassan-allamsterling-wilson-jv-wins-200m-humain-data-centre
+
+*Saudi Arabia Strongly Condemns Houthi Militia's Continued Targeting of Civilians and Civilian and Economic Facilities*
+
+* The Ministry of Foreign Affairs condemned Houthi attacks on Makkah, Madinah, the capital Riyadh, and the cities of Abha, Khamis Mushait, Jazan, Najran, Taif and Yanbu
+* The statement also condemned the targeting of Saudi vessels in the southern Red Sea and the Bab al-Mandab Strait
+* The Kingdom reaffirmed its inherent right to defend its territory, resources, sovereignty and the safety of its citizens and residents
+
+Source - https://www.spa.gov.sa/en/N2693888
+
+*Houthis strike Riyadh airport, declare Saudi airspace open target*
+
+* The Houthi military spokesperson said the group targeted King Khaled Airport in Riyadh on October 5, claiming the strike disrupted air traffic
+* The Houthis declared Saudi skies an open theatre for their operations, except the holy airspaces of Makkah and Madinah
+* The report links the attack to damage to Saudi Arabia's East-West oil pipeline and a Bangladeshi worker killed in a Houthi attack on a Saudi Aramco facility
+
+Source - https://tbsnews.net/worldbiz/middle-east/houthis-strike-riyadh-airport-declare-saudi-airspace-open-target-1563926
+
+*Salam and Nutanix Partner to Deliver Private Cloud Services to Saudi Enterprises*
+
+* Etihad Salam Telecom Company and Nutanix established a three-year managed service partnership to deliver Private Cloud Infrastructure as a Service to Saudi enterprises
+* The partnership targets B2B customers across Saudi Arabia, with Abdullah Khorami, Chief Business Officer at Salam, and Talal Al-Saif, Regional Director for Saudi Arabia at Nutanix
+* The Memorandum of Understanding was signed at LEAP 2026, where Salam participated as a strategic sponsor
+
+Source - https://techafricanews.com/2026/10/05/salam-nutanix-private-cloud-services-saudi-enterprises/
+
+*UAE, Saudi Arabia to be biggest drivers of data centre growth in Middle East: S&P*
+
+* Middle East data centre capacity will triple by 2030, with the UAE and Saudi Arabia adding about 2 GW to 3 GW of IT power and more than 80 percent of the regional share
+* HUMAIN's Saudi projects will reach 1.9 GW by 2030, rising to 6-6.6 GW in 2034, while the 5 GW UAE-US AI Campus will deliver its initial 1 GW within three years
+* Construction costs average $13 million per megawatt in Saudi Arabia and $11 million/MW in the UAE over 2026-2030
+
+Source - https://www.tradingview.com/news/reuters.com,2026-10-05:newsml_ZawBpkjG:0-uae-saudi-arabia-to-be-biggest-drivers-of-data-centre-growth-in-middle-east-s-p/
+
+*War disruption drives Saudi giga-projects to source locally*
+
+* Roshn now sources about 60 percent of its supplies locally, according to chief projects delivery officer Roger Fatovic
+* Roshn is building about 55,000 homes in Riyadh, Jeddah and Dammam and is breaking work into smaller contracts so more local companies can bid
+* Qiddiya and Mace Consult executives said local sourcing has increased as disruption around the Strait of Hormuz drove up import costs
+
+Source - https://www.agbi.com/analysis/giga-projects/2026/10/war-disruption-drives-saudi-giga-projects-to-source-locally/
+
+*Korea, Saudi Arabia to Widen Cooperation Beyond Energy Into AI*
+
+* The 2026 Korea-Saudi Business Investment Forum was co-hosted by the Federation of Korean Industries and Saudi Arabia's Public Investment Fund in Seoul on October 6, with about 280 attendees
+* FKI vice chairman Kim Chang-beom said the countries should expand cooperation into AI, future mobility and bio, as well as energy, advanced manufacturing and digital infrastructure
+* NAVER Cloud introduced its sovereign AI business and services including digital twins, data centers and cloud services for Saudi Arabia
+
+Source - https://en.sedaily.com/finance/2026/10/06/korea-saudi-arabia-to-widen-cooperation-beyond-energy-into
+
+*China doubles down on Gulf tech as US forces AI chip choice*
+
+* Chinese direct investment in the United Arab Emirates exceeded $12 billion in 2025, with Saudi Arabia the second-largest destination for Chinese capital in MENA
+* Washington ties access to advanced AI chips to Gulf nations first eliminating Chinese technology from their core networks
+* G42 tore out $150 million worth of Huawei equipment after Microsoft's $1.5 billion investment in 2024
+
+Source - https://alhurra.com/en/44507
+
+*OpenAI in talks with UAE funds, BlackRock for US$30b funding round, Bloomberg reports*
+
+* OpenAI is seeking to raise at least US$30 billion at an expected pre-money valuation of roughly US$1.4 trillion
+* Gulf-based funds including Abu Dhabi-based MGX are discussing a consortium to contribute as much as US$10 billion in aggregate, and BlackRock is also in talks
+* OpenAI most recently raised US$122 billion in March at a US$852 billion post-money valuation
+
+Source - https://www.thestandard.com.hk/finance/article/344727/OpenAI-in-talks-with-UAE-funds-BlackRock-for-US30b-funding-round-Bloomberg-reports
+
+*Dell Technologies, CPX and UAE Cyber Security Council collaborate on National Vault initiative*
+
+* The National Vault adds a layer of protection for critical operational data across government services, energy, healthcare, transportation and other significant sectors
+* H.E. Dr Mohamed Al Kuwaiti, Head of Cyber Security for the UAE Government, said the initiative addresses a critical part of the resilience equation
+* The initiative was announced at AI Everything 2026, with Walid Yehia, Managing Director South Gulf at Dell Technologies, and CPX CEO Hadi Anwar
+
+Source - https://www.intelligentciso.com/2026/10/06/dell-technologies-cpx-and-uae-cyber-security-council-collaborate-on-national-vault-initiative/
+
+*Etisalat to expand global connectivity capacity 25-fold by 2030*
+
+* Etisalat plans to increase international connectivity capacity to more than 500 terabits per second by 2030, from around 20Tbps today
+* The project aims to support rapidly growing demand for artificial intelligence and cloud computing
+* Etisalat group operates across 38 countries, serves more than 250 million subscribers and unveiled a vision to become an AI-powered and AI-enabling telecommunications company
+
+Source - https://www.khaleejtimes.com/uae/etisalat-to-expand-global-connectivity-capacity-25-fold-by-2030
+
+*eFinance and Alibaba Cloud Collaborate to Provide World-Class Cloud Computing Services Through Infrastructure Hosted in Egypt*
+
+* eFinance Investment Group, Alibaba Cloud and Nuvexa signed a tripartite Memorandum of Understanding to expand access to cloud services within Egypt
+* The MoU was signed on October 4, 2026, in Cairo on the sidelines of the Apsara Conference
+* The initial focus is small and medium-sized enterprises, the agricultural sector and digital commerce, with data hosted locally in Egypt
+
+Source - http://www.fintechgate.net/253695
+
+*Mistral CEO says new AI model beats Chinese ones in some areas*
+
+* Mistral CEO Arthur Mensch announced the company's newest AI model at the AI Everything conference in Abu Dhabi on Tuesday
+* Mensch said the model outperforms Chinese models on cybersecurity, without detailing which competitors or metrics
+* Mistral raised 3 billion euros at a 21 billion euro valuation in September
+
+Source - https://www.933thedrive.com/2026/10/06/mistral-ceo-says-new-ai-model-beats-chinese-ones-in-some-areas/
+
+*AMD plans to substantially increase supply in 2027, CEO says*
+
+* CEO Lisa Su said AMD is going to substantially increase its supply in 2027 and needs more advanced wafer capacity
+* AMD is meeting Foxconn and TSMC, and Su plans visits to South Korea to secure memory supplies from Samsung and SK Hynix
+* AMD is planning three to five years ahead, and its market value recently exceeded $1 trillion
+
+Source - https://live.euronext.com/en/financial-news/amd-plans-substantially-increase-supply-2027-ceo-says
+
+*DeepSeek set to raise at least $12 bln in Tencent, CATL-led round- Bloomberg*
+
+* DeepSeek is raising at least 80 billion yuan ($12 billion) in a round backed by Tencent and CATL, with potential to reach 100 billion yuan
+* The company had initially sought 50 billion yuan
+* Earlier reports valued DeepSeek at approximately $74 billion
+
+Source - https://www.investing.com/news/stock-market-news/deepseek-set-to-raise-at-least-12-bln-in-tencent-catlled-round-bloomberg-4933370
+
+*Huawei, Qualcomm agree to broad patent license deal*
+
+* Huawei and Qualcomm announced a multi-year patent licensing agreement covering 5G, compute, AI and networking
+* The deal includes cross-licenses and Qualcomm's purchase of certain Huawei U.S. patents in compute, AI, networking and related fields
+* The transaction requires regulatory approval before closing
+
+Source - https://www.lightreading.com/5g/huawei-qualcomm-agree-to-broad-patent-license-deal
+
+*[News] Nanya DRAM ASP Seen Rising 10% in 4Q26; Winbond Also Sees Further Price Gains as Memory Supply Stays Tight*
+
+* Nanya's Q3 2026 revenue reached NT$133.65 billion, up 61.9% QoQ, and its DRAM ASP is expected to rise another 10% QoQ in the fourth quarter
+* Nanya is meeting only around 50% to 60% of customer demand, and Winbond expects memory prices to rise another 8% to 13% QoQ in Q4
+* Conventional DRAM contract prices are forecast to rise 10% to 15% QoQ in 4Q26 and NAND Flash contract prices 15% to 20%
+
+Source - https://www.trendforce.com/news/2026/10/06/news-nanya-dram-asp-seen-rising-10-in-4q26-winbond-also-sees-further-price-gains-as-memory-supply-stays-tight/
+
+*[News] Micron Sees Tighter Memory Supply Through FY28: When Will the Big Three's New Capacity Arrive?*
+
+* Micron CEO Sanjay Mehrotra said memory and storage supply-demand conditions could tighten further in fiscal 2027 and 2028 versus 2026
+* Micron's most significant additions, including the Singapore NAND fab, Idaho ID2 and a Japan DRAM expansion, are slated for 2H28
+* SK hynix CEO Kwak Noh-jung warned shortages could persist through 2030, while Samsung moved Pyeongtaek P5 Phase 1 tool installation forward to 2Q27
+
+Source - https://www.trendforce.com/news/2026/10/06/news-micron-sees-tighter-memory-supply-through-fy28/
+
+*HBM4 prices to nearly triple in 2027, memory makers see windfall margins spread*
+
+* Memory supply and demand will tighten further in 2027, and South Korean memory makers have recently quoted aggressive long-term contract prices for HBM4, according to supply chain sources
+
+Source - https://www.digitimes.com/news/a20261006PD210/2027-hbm4-hbm-demand-price.html
+
+*Early October Panel Prices: MNT, NB Flat Despite Weak Demand as Component Costs Rise; TV Holds Steady*
+
+* Notebook panel procurement by the top six brand customers is projected to decline more than 20% QoQ, yet NB panel prices are expected to remain flat in October
+* Monitor panel demand is projected to decline 8% QoQ in 4Q26, with MNT panel prices forecast flat
+* Rising upstream component costs are constraining price cuts across TV, monitor and notebook panels
+
+Source - https://www.trendforce.com/news/2026/10/06/insights-early-october-panel-prices-mnt-nb-stay-flat-despite-weak-demand-as-component-costs-rise-tv-also-holds-steady/

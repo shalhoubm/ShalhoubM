@@ -1,0 +1,374 @@
+*KAUST and HUMAIN collaborate on cloud-based high-performance computing*
+
+* KAUST's Shaheen III CPU supercomputer is planned to serve as a compute resource for HUMAIN's planned AI cloud offering, HUMAIN Cloud
+* Shaheen III CPU ranked 64th globally on the TOP500's June 2026 list
+* Target domains include biotechnology, materials science, oil and gas, and manufacturing through HUMAIN's planned HPC-as-a-Service platform
+
+Source - https://www.kaust.edu.sa/news/kaust-and-humain-collaborate-on-cloud-based-high-performance-computing
+
+*HUMAIN to share KAUST's Shaheen III supercomputer*
+
+* HUMAIN and KAUST have not entered into any agreement for the commercial supply of Shaheen III capacity; expanded access depends on definitive agreements and regulatory approval
+* The CPU partition has 4,608 AMD Genoa nodes ranked 64th, and the GPU partition has 2,800 NVIDIA GH200 Grace Hopper Superchips ranked 22nd on the June 2026 TOP500
+* KAUST retains sole ownership and operational control of Shaheen III, and its researchers' compute allocations remain unchanged
+
+Source - https://www.middleeastainews.com/p/humain-to-share-kausts-shaheen-iii
+
+*Salam and Dell to expand Cloud Infrastructure and Edge AI solutions across Saudi Arabia*
+
+* Etihad Salam Telecom Company (Salam) and Dell Technologies signed an MoU during LEAP 2026 to expand collaboration across cloud infrastructure and edge AI solutions
+* The MoU was signed by Eng. Ahmed Al-Anqari, CEO of Salam, and Mohamed Talaat, Vice President, Saudi, Egypt, North Africa & Levant, Dell Technologies
+* Dell's cloud infrastructure and edge AI solutions will be integrated into Salam's service portfolio on a flexible consumption basis
+
+Source - https://www.cxoinsightme.com/business/channel/salam-and-dell-to-expand-cloud-infrastructure-and-edge-ai-solutions-across-saudi-arabia/
+
+*Saudi Arabia Emerges as One of the World's Fastest-Growing Data Centre Markets*
+
+* Saudi live IT power has increased by 57% since 2024, according to Savills research using DC Byte data
+* Saudi Arabia ranks joint fourth globally alongside Finland for recent growth in live IT power
+* The US remains the largest market with approximately 50GW of live IT power, followed by China
+
+Source - https://arabianreseller.com/2026/09/14/saudi-arabia-emerges-as-one-of-the-worlds-fastest-growing-data-centre-markets/
+
+*SDAIA at Riyadh Biotech Summit: Over 500 Government Systems Integrated into National Data Lake*
+
+* SDAIA has integrated more than 500 government systems from around 90 government entities into the National Data Lake
+* More than 23,000 open datasets have been made available from over 340 government and private entities
+* The National Biotechnology Strategy aims to make Saudi Arabia a leading biotechnology hub in the Middle East by 2030 and a global hub by 2040
+
+Source - https://www.spa.gov.sa/en/N2676261
+
+*SDAIA to Asharq Al-Awsat: Saudi Arabia Moving from Adopting AI Standards to Shaping Them*
+
+* SDAIA spokesman Saeed Al-Shahrani said responsibility for harm lies with the developer and operating entity, not the intelligent system
+* The fourth UNESCO Global Forum on the Ethics of Artificial Intelligence runs in Riyadh Sept. 14-17 with more than 100 speakers, the first time it is held in the Arab world
+* The forum will launch the updated Readiness Assessment Methodology RAM 2.0, based on analysis of more than 55 readiness reports
+
+Source - https://english.aawsat.com/technology/5318035-sdaia-asharq-al-awsat-saudi-arabia-moving-adopting-ai-standards-shaping-them
+
+*TAWAL and Rakuten Symphony Launch Saudi Arabia's First Multi-Operator Shared Indoor Network Powered by Cloud RAN*
+
+* A Neutral Host In-Building Solutions network was deployed at King Abdullah University of Science and Technology, letting multiple operators share one indoor infrastructure
+* The platform was integrated with a telecom provider's core network and completed its first voice call over 5G NR and VoLTE
+* TAWAL has a portfolio of more than 30,000 telecom towers across Saudi Arabia, Bulgaria, Croatia, Slovenia and Pakistan
+
+Source - https://www.einpresswire.com/article/942086787/tawal-and-rakuten-symphony-launch-saudi-arabia-s-first-multi-operator-shared-indoor-network-powered-by-cloud-ran
+
+*Saudi fintech firm Tabby raises $233m to expand financial services*
+
+* Tabby raised $233 million in equity funding at a $6.5 billion valuation, led by Blue Pool Capital with HSG, Wellington Management and Arbor Ventures participating
+* Tabby processes more than $18 billion in annualized transaction volume across 25 million registered users and 70,000 business partners
+* The Saudi Central Bank granted Tabby consumer and SME financing licenses, and Tabby also acquired SAMA-licensed digital wallet Tweeq
+
+Source - https://www.arabnews.com/business/saudi-fintech-firm-tabby-raises-233m-to-expand-financial-services-3001646
+
+*تدشين أول روبوت صناعي سعودي .. و200 وحدة طاقة إنتاجية سنوية*
+
+* دشنت شركة مكننة أول سلسلة روبوتات صناعية محلية تحت اسم MR Series تضم 3 موديلات للحام ومناولة المواد والالتقاط والوضع
+* يمتلك المصنع قدرة إنتاجية تصل إلى نحو 200 روبوت سنويا
+* الروبوت MR50 تبلغ حمولته 50 كيلوجراما، وتستهدف الشركة روبوتات تصل حمولتها إلى 200 و300 كيلوجرام
+
+Source - https://www.aleqt.com/الأخبار/تدشين-أول-روبوت-صناعي-سعودي-و200-وحدة-طاقة-إنتاجية-سنوية-14206
+
+*LG Electronics opens Middle East's first B2B AI home showcase in Riyadh*
+
+* The showcase inside an LG brand shop in Riyadh targets construction firms, real estate developers and hospitality companies
+* Saudi Arabia's smart home market is expected to grow from about $2 billion in 2024 to roughly $8.7 billion by 2030
+* LG plans to expand its B2B presence to Jeddah and Dammam by the end of the year
+
+Source - https://www.koreatimes.co.kr/business/companies/20260914/lg-electronics-opens-middle-easts-first-b2b-ai-home-showcase-in-riyadh
+
+*Mastercard Expands SME Support Platform Across Middle East With New Partnerships*
+
+* HyperPay and Mastercard launched an SME Business Card, with planned expansion beyond Saudi Arabia into the UAE and Qatar
+* A partnership with Jarir gives Mastercard SME cardholders discounts through Jarir's e-commerce platform
+* In Saudi Arabia, 75% of small business leaders are confident about the year ahead and 77% accept online payments, per the Mastercard SME Confidence Index
+
+Source - https://techafricanews.com/2026/09/14/mastercard-expands-sme-support-platform-across-middle-east-with-new-partnerships/
+
+*Mannai Information Technology Expand its Partnership with Oracle in Saudi Arabia*
+
+* Mannai Information Technology and Oracle expand their nearly four decade long relationship into Saudi Arabia
+* The scope covers enterprise applications, cloud transformation, AI, data and analytics, and automation for public and private sectors
+
+Source - https://channelpostmea.com/2026/09/14/mannai-information-technology-expand-its-partnership-with-oracle-in-saudi-arabia/
+
+*"نتورك إنترناشيونال" تستثمر 300 مليون ريال في السعودية*
+
+* أكدت نتورك إنترناشيونال استثمارها 300 مليون ريال في السوق السعودية
+* العمليات المالية تمثل 85% من عمليات قطاع التجزئة، فيما تجاوز نمو التجارة الإلكترونية 60%
+* عدد البطاقات في السوق السعودية تجاوز 70 مليون بطاقة
+
+Source - https://www.aleqt.com/الشركات/نتورك-إنترناشيونال-تستثمر-300-مليون-ريال-في-السعودية-14214
+
+*BRKZ Secures $31 Million to Scale AI-Enabled Building Materials Procurement Across Saudi Arabia and the GCC*
+
+* $13 million in Series B equity co-led by Wa'ed Ventures and 500 Global, plus $18 million in growth debt from Stride Ventures
+* BRKZ serves more than 1,500 contracting companies and 150 building materials factories and has sold more than $133 million (SAR 500 million) in materials
+* Its AI pricing engine is trained on approximately 40,000 RFQs, with 84% to 89% of predictions within 5% of the final transacted price
+
+Source - https://www.globenewswire.com/news-release/2026/09/14/3360818/0/en/brkz-secures-31-million-to-scale-ai-enabled-building-materials-procurement-across-saudi-arabia-and-the-gcc.html
+
+*Space42 and Viasat Sign Binding Agreement to co-found Equatys, Creating the First Shared Space and Ground Infrastructure Platform for Global Direct-to-Device and Advanced MSS Connectivity*
+
+* Space42 and Viasat will each commit an initial USD 400 million equity contribution, with an expected additional USD 200 million from Space42, for total equity contributions of up to USD 1 billion
+* The architecture is designed to scale to 2,800 satellites across 60 orbital planes and three altitude layers
+* The global D2D satellite connectivity market is projected to reach USD 30-70 billion by 2040
+
+Source - https://www.globenewswire.com/news-release/2026/09/14/3360680/0/en/space42-and-viasat-sign-binding-agreement-to-co-found-equatys-creating-the-first-shared-space-and-ground-infrastructure-platform-for-global-direct-to-device-and-advanced-mss-connec.html
+
+*Digital Realty Enters Türkiye Through Formation of New Joint Venture*
+
+* Digital Realty and Rönesans Infrastructure form a joint venture to develop and operate data centers across Türkiye
+* The first investment is a data center campus in Ankara supporting more than 22 megawatts of carrier-neutral IT capacity, with completion scheduled for 2028
+* The joint venture plans to expand into Istanbul with an additional data center
+
+Source - https://www.globenewswire.com/news-release/2026/09/14/3360821/0/en/digital-realty-enters-t%C3%BCrkiye-through-formation-of-new-joint-venture.html
+
+*Huawei Brings Embedded Intelligence and Built-in Resilience to GISEC GLOBAL 2026*
+
+* Huawei is Lead Strategic Partner at GISEC GLOBAL 2026, running 16 – 18 September at the Dubai Exhibition Centre, Expo City
+* Xinghe AI Unified SASE achieves a 95% detection rate for unknown threats, and HiSec NG-SIEM reduces incident response time to minutes
+* Huawei's booth is A135 in Hall 7, according to Corey Deng, Chief Security Officer, Huawei Middle East & Central Asia
+
+Source - https://techbullion.com/huawei-brings-embedded-intelligence-and-built-in-resilience-to-gisec-global-2026/
+
+*Submer and Edgecore Partner on AI-Ready Data Centre Infrastructure Across META*
+
+* Submer signed a Memorandum of Understanding with Edgecore Networks to collaborate on AI-ready data center opportunities across the Middle East, Turkey and Africa
+* Submer brings advisory, data center design and build, IT integration, power infrastructure and advanced thermal management
+* Edgecore brings AI/ML switches, data center networking, optical networking and disaggregated infrastructure
+
+Source - https://techafricanews.com/2026/09/14/submer-and-edgecore-partner-on-ai-ready-data-centre-infrastructure-across-meta/
+
+*Open Innovation AI and Dhow Engineering Partner to Advance Sovereign AI in Kuwait*
+
+* Open Innovation AI and Dhow Engineering, part of Dhow International Holding, formed a strategic partnership targeting government entities and enterprises in critical national sectors in Kuwait
+* Dhow Engineering will act as local integration and delivery partner, covering customer engagement, deployment coordination and integration with local data centers
+* Dr. Abed Benaichouche, Co-Founder and CEO of Open Innovation AI, said Kuwait has the ambition to become a leading market for sovereign AI
+
+Source - https://techafricanews.com/2026/09/14/open-innovation-ai-and-dhow-engineering-partner-to-advance-sovereign-ai-in-kuwait/
+
+*GISEC 2026: du to showcase sovereign AI cloud and cybersecurity capabilities*
+
+* du is a Diamond Sponsor at GISEC Global 2026, where its sub-brand du Tech will showcase cybersecurity and sovereign AI cloud capabilities
+* The 15th edition runs 16–18 September at Expo City and expects more than 25,000 information security professionals from over 180 countries
+* du aligns its focus with the UAE National Strategy for Artificial Intelligence 2031
+
+Source - https://www.cxoinsightme.com/future/tech/gisec-2026-du-to-showcase-sovereign-ai-cloud-and-cybersecurity-capabilities/
+
+*Stocks slip, but traders largely shake off warnings that AI industry should slow down*
+
+* The Nasdaq Composite closed down 0.56% and the S&P 500 fell 0.48%, off earlier lows
+* The Philadelphia Semiconductor Index fell 5.8%, its worst day since July, with Nvidia down 3.36%, Arm down 9.7% and CoreWeave down 6.7%
+* The Kospi fell over 3%, SK Hynix dropped 7.3% and SoftBank Group fell 10.7% in Tokyo
+
+Source - https://www.nbcnews.com/business/markets/stocks-tumble-ai-leaders-warning-slowdown-ipos-amodei-altman-rcna597643
+
+*Seoul stocks dip over 3% on Mideast uncertainties, AI warnings*
+
+* The KOSPI closed down 225.54 points, or 3.26 percent, at 6,684.37
+* Samsung Electronics fell 4.05 percent to 249,000 won and SK hynix dropped 6.35 percent to 1,697,000 won
+* The won weakened to 1,347.3 per dollar, down 1.4 won
+
+Source - https://www.koreaherald.com/article/10873016
+
+*Why is Lenovo stock surging today?*
+
+* Lenovo stock jumped 4.6% to HK$32.74 after IDC second-quarter 2026 data showed it ranked first globally in x86 server shipments for the first time
+* Lenovo's x86 server shipments expanded 45.6% year-over-year versus 8.9% market growth, with x86 server revenue nearly doubling year-over-year
+* Dell Technologies retained the overall server revenue crown with a 13.4% share
+
+Source - https://www.investing.com/news/stock-market-news/why-is-lenovo-stock-surging-today-93CH-4898816
+
+*China Rejects AI 'Fearmongering' After Amodei Urges Slowdown*
+
+* Foreign Ministry spokesman Guo Jiakun said fearmongering, confrontation and vicious competition will only disrupt the process of global AI governance
+* Sam Altman and Elon Musk backed Amodei's proposal to give independent evaluators employee-level access to AI systems
+* State Security Minister Chen Yixin warned adversaries could misuse AI to threaten China's political and ideological security as well as critical infrastructure
+
+Source - https://finance.yahoo.com/technology/ai/articles/china-rejects-ai-fearmongering-amodei-073946398.html
+
+*Trump says the only AI guardrails the U.S. needs is him as president*
+
+* Trump posted that the only control or guardrails AI needs is a strong and smart president
+* He rejected calls from Dario Amodei, Sam Altman and Elon Musk for more government oversight, saying the only one happy about it is China
+* Anthropic published a 3,800-word essay calling for slower AI development, and Microsoft released its own code of conduct
+
+Source - https://www.pbs.org/newshour/politics/trump-says-the-only-ai-guardrails-the-u-s-needs-is-him-as-president
+
+*Rumble Soars 10% on Report Anthropic Is the $13.7B Compute Customer; CoreWeave and Nebius Drop 9%*
+
+* A report named Anthropic as the customer behind Rumble's $13.7 billion six-year compute contract served from a Georgia data center under construction
+* The deal reportedly gives Anthropic an option to buy up to 51 million Rumble shares at $0.01 each
+* Rumble rose 10% to $7.87, while CoreWeave fell 9% to $81.25 and Nebius Group fell 9% to $205.28
+
+Source - https://247wallst.com/investing/2026/09/14/rumble-soars-10-on-report-anthropic-is-the-13-7b-compute-customer-coreweave-and-nebius-drop-9/
+
+*Palantir, Nvidia curb AI model use over data fears, The Information reports*
+
+* Palantir wants irrevocable zero-data-retention guarantees from Anthropic before offering its models through Palantir's software
+* Nvidia restricts Anthropic to less sensitive tasks and uses its own Nemotron models for internal work
+* Booz Allen has barred employees from using Anthropic's commercial model for proprietary cybersecurity work
+
+Source - https://ca.finance.yahoo.com/news/palantir-nvidia-curb-ai-model-151108586.html
+
+*Siri AI, a profoundly more capable and personal assistant powered by the next generation of Apple Intelligence, is here*
+
+* Siri AI begins rolling out in beta in English with iOS 27, iPadOS 27, macOS 27, watchOS 27 and visionOS 27
+* Siri AI will expand to French, Japanese, Korean, Portuguese and Spanish next month
+* Siri AI will not be available initially in the EU, and features will not be available in China while Apple works through regulatory requirements
+
+Source - https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/
+
+*Lenovo Recognized Among TIME's World's Best Companies 2026, Ranked No. 51 Globally*
+
+* Lenovo ranked No. 51 globally in its first appearance on TIME's World's Best Companies 2026, with an overall score of 87.51
+* FY 2025/26 revenue reached US$83.1 billion, and AI-related revenue doubled year-on-year to 33% of group revenue
+* TIME's ranking draws on surveys of more than 200,000 employees, revenue growth and sustainability transparency
+
+Source - https://news.lenovo.com/pressroom/press-releases/lenovo-recognized-among-times-worlds-best-companies-2026-ranked-no-51-globally/
+
+*TikTok developer ByteDance arranges $29.6 billion loan as it builds AI ambitions*
+
+* ByteDance signed a $29.6 billion loan with 28 banks including HSBC and Industrial and Commercial Bank of China, Bloomberg reported
+* The loan has a three-year tenor extendable to up to five years, priced at 0.68 percentage points above the benchmark
+* ByteDance was reportedly initially seeking $20 billion and was considering spending as much as $70 billion in 2026
+
+Source - https://www.coindesk.com/business/2026/09/14/tiktok-developer-bytedance-arranges-usd29-6-billion-loan-as-it-builds-ai-ambitions
+
+*HONOR UNVEILS HONOR WATCH 6 WITH ULTRA-LONG BATTERY LIFE, INTELLIGENT WELLNESS FEATURES AND ADVANCED SPORTS TRACKING*
+
+* The HONOR Watch 6 is available across Saudi markets starting from 549 SAR in Shadow Black and Twilight Brown
+* It offers up to 35 days of battery life under typical usage and more than 123 sports modes
+* It features up to 3000 nits peak brightness and NFC payment support for Mastercard and Visa
+
+Source - https://gulftech-news.com/en/honor-unveils-honor-watch-6-with-ultra-long-battery-life-intelligent-wellness-features-and-advanced-sports-tracking/
+
+*Honor T10 Launches in Pakistan with AI Translation Features for Rs. 32,999*
+
+* The Honor T10 is priced at Rs. 32,999 in a single 4GB + 64GB configuration with a one-year official warranty
+* It has a 6.75-inch 90Hz display, Unisoc T615 chipset and a 5000mAh battery with 10W charging
+* It offers AI simultaneous interpretation in 78 languages and offline text-to-text translation in 58 languages
+
+Source - https://propakistani.pk/2026/09/14/honor-t10-launches-in-pakistan-with-ai-translation-features-for-rs-32999/
+
+*ZTE and XLSMART Jointly Release New Achievements in Autonomous Networks at ZTE Global Summit & User Congress 2026, Turning Vision into Verifiable Business*
+
+* ZTE and XLSMART showcased Network Optimization Agent capabilities validated in selected live-network scenarios, advancing toward Level 4 Autonomous Networks
+* The wireless coverage optimization validation demonstrated automated closed loop capabilities with a closure rate of 25% within the validated scope
+* The results were released at ZTE Global Summit & User Congress 2026 in Kuala Lumpur, Malaysia
+
+Source - https://www.zte.com.cn/global/about/news/zte-and-xlsmart-jointly-release-new-achievements-in-autonomous-networks-at-zte-global-and-summit-user-congress-2026-from-vision-to-verifiable-business-value.html
+
+*Hisense Introduces RoamView, A Screen That Moves with the Way You Live*
+
+* Hisense introduced RoamView as the newest addition to its Lifestyle Series alongside CanvasTV and DécoTV
+* RoamView has a built-in long-lasting battery, and users can rotate, tilt or lift the screen
+* It is powered by a processing platform with 8GB of memory and 128GB of storage and supports 4K streaming
+
+Source - https://www.prnewswire.com/news-releases/hisense-introduces-roamview-a-screen-that-moves-with-the-way-you-live-302877191.html
+
+*Oppo Find X10 series launch date, colors and storage options revealed*
+
+* The Oppo Find X10, Find X10 Pro Max and Find X10 E will launch in China on September 22
+* The Find X10 Pro Max comes with three 200MP sensors in Moon White, Light Titanium and Warm Orange, with up to 16GB/1TB
+* Oppo will also unveil the Watch S2 and Enco X4 TWS earbuds at the event
+
+Source - https://www.gsmarena.com/oppo_find_x10_series_launch_date_colors_and_storage_options_revealed-news-74599.php
+
+*Vivo V80 is coming soon with 7,200mAh battery, OriginOS 7, Android 17, AI camera upgrades*
+
+* Vivo is gearing up to launch the Vivo V80 in India, but the exact launch timeline is not known yet
+* The phone is tipped to pack a 7,200mAh battery, the largest ever on a V-Series smartphone, and debut with OriginOS 7 based on Android 17
+* It may bring a 50-megapixel ZEISS telephoto camera with 3x optical zoom
+
+Source - https://www.gizmochina.com/2026/09/14/vivo-v80-ai-camera-7200mah-battery-android-17-originos-7/
+
+*Xiaomi Launches AI-Powered Triple-Drum Washing Machine*
+
+* Xiaomi opened pre-orders in China for the Mijia Triple-Tube Washing Machine 14kg series with an 11kg main drum and two 1.5kg side drums
+* The AI Mijia Lingyun system combines Xiaomi's washing algorithms with the company's MiMo large model
+* The washer-dryer model costs around $745 and the washing machine-only version about $595
+
+Source - https://propakistani.pk/2026/09/14/xiaomi-launches-ai-powered-triple-drum-washing-machine/
+
+*NOR Flash Price Trends Diverge in 2H26, with High-Capacity Products Poised for 90–110% Increases, Says TrendForce*
+
+* NOR Flash prices rose by a cumulative average of 100–120% in 1H26, and high-capacity products of 256Mb and above could rise another 90–110% in 2H26
+* Mid- and low-capacity products of 128Mb and below are expected to rise 10–20% in 4Q26
+* AI servers require three to five times as much NOR Flash as conventional servers
+
+Source - https://www.trendforce.com/presscenter/news/20260914-13235.html
+
+*Omdia: Global Semiconductor Revenue Surges 31% to Record $425bn in 2Q26*
+
+* Global semiconductor revenue surpassed $425bn in 2Q26, a record 31.4% quarter-over-quarter increase, taking 1H26 revenue to $752 billion
+* Memory ICs alone accounted for more than half of all semiconductor revenue in 2Q26
+* Omdia forecasts semiconductor revenue will surpass $500 bn in 3Q26, taking the first three quarters of 2026 above $1.25 tn
+
+Source - https://www.businesswire.com/news/home/20260914883827/en/
+
+*Micron offers Taiwan employees $31,650 cash bonus as unions threaten strike over AI windfall — workers reject record payout package, demand 15% profit-sharing plan*
+
+* Micron announced a one-time cash appreciation bonus of NT$1 million (US$31,650), with direct labor employees receiving minimum total cash compensation of NT$1.7 million
+* Unions in Taoyuan and Taichung representing 10,000 of Micron's 15,000 Taiwan workforce demand 15% of operating profits distributed quarterly
+* A second round of mediation is scheduled for September 21, 2026, and 80% of union members voted in favor of a strike in an earlier internal survey
+
+Source - https://www.tomshardware.com/tech-industry/semiconductors/micron-offers-taiwan-employees-usd31-650-cash-bonus-as-unions-threaten-strike-over-ai-windfall-workers-reject-record-payout-package-demand-15-percent-profit-sharing-plan
+
+*[News] TSMC Reportedly Targets 22% 2nm, 16%+ 3nm Capacity Boost by Mid-2027; CoWoS to Double by 2028*
+
+* 2nm capacity is expected to rise from 90,000 to 110,000 wafers per month between end-2026 and mid-2027
+* 3nm capacity is projected to increase from over 180,000 to 210,000 wafers per month over the same period
+* CoWoS capacity could double from roughly 130,000 wafers per month by end-2026 to 260,000 by end-2028
+
+Source - https://www.trendforce.com/news/2026/09/14/news-tsmc-reportedly-targets-22-2nm-16-3nm-capacity-boost-by-mid-2027-cowos-to-double-by-2028/
+
+*South Korea ICT Exports Surpass 60% of Total*
+
+* August 2026 ICT exports reached $59.98 billion, up 162.6% from $22.84 billion a year earlier
+* ICT accounted for 61.0% of total exports of $98.25 billion, exceeding 60% for the first time
+* Semiconductor exports rose 209% to $46.67 billion, and the ICT trade surplus hit a record $41.37 billion
+
+Source - https://www.businesskorea.co.kr/news/articleView.html?idxno=276915
+
+*Samsung, SK Hynix reject KEPCO’s $17 billion power-bill prepayment plan*
+
+* Samsung Electronics and SK Hynix turned down KEPCO's proposal that they prepay a combined 25 trillion won ($17 billion) in electricity bills
+* The prepayment would have covered five years of electricity costs
+* KEPCO sought the funds to build new power grids without adding to its borrowing
+
+Source - https://www.kedglobal.com/x/newsView/ked202609140001
+
+*Retail Investors Snap Up SK hynix ADRs Despite 50% Premium*
+
+* SK hynix Seoul shares closed at 1,697,000 won, down 6.35%, while the ADR at $190.07 equals about 2,558,200 won, a 50.7% premium
+* The average premium widened from 32.5% in July to 35.4% in August and 38.7% in September
+* Korean investors bought a net $713.85 million of the ADRs through September 11
+
+Source - https://en.sedaily.com/finance/2026/09/14/sk-hynix-adr-trades-50-percent-above-seoul-shares-as-korean
+
+*Nvidia's RTX 5090 vanishes from online retail in the US — third-party sellers now demand as much as $9,500 for Nvidia's fastest GPU*
+
+* The RTX 5090 is only available from third-party sellers at Newegg and Amazon, priced anywhere from $6,500 to $9,500 or higher
+* The median price was $4,299 in June, and the lowest online price at the start of September was $5,199
+* Micro Center still has stock, with the cheapest in-stock option at the checked store at $4,299
+
+Source - https://www.tomshardware.com/pc-components/gpus/nvidias-rtx-5090-vanishes-from-online-retail-in-the-us-third-party-sellers-now-demand-as-much-as-usd9-500-for-nvidias-fastest-gpu
+
+*NVIDIA debuts RTX PRO 5500 Blackwell workstation GPU with 84GB of GDDR7 memory*
+
+* The RTX PRO 5500 packs 21,760 CUDA cores and 84GB of ECC GDDR7 memory, sitting between the RTX PRO 5000 and 6000
+* It supports MIG to split into two isolated 42GB instances and is rated up to 600W
+* It is listed as Coming Soon on NVIDIA's U.S. website
+
+Source - https://www.tweaktown.com/news/113531/nvidia-debuts-rtx-pro-5500-blackwell-workstation-gpu-with-84gb-of-gddr7-memory/index.html
+
+*[News] SanDisk Reportedly Hunts for HBM, LPDDR Talent in Korea as AI Memory Race Heats Up*
+
+* SanDisk is hiring for several roles in Korea with HBM, LPDDR and GDDR expertise, many requiring at least five years of experience
+* CFO Luis Visoso said SanDisk expects mid-to-high-teens revenue growth from fiscal 2028 through 2030 and targets adjusted gross margins around 80%
+* Micron is also recruiting Samsung Electronics and SK hynix engineers in Korea, reportedly offering annual salaries worth several hundred million won
+
+Source - https://www.trendforce.com/news/2026/09/14/news-sandisk-reportedly-hunts-for-hbm-lpddr-talent-in-korea-as-ai-memory-race-heats-up/

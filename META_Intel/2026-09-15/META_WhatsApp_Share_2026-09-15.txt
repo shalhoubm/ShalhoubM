@@ -1,0 +1,330 @@
+*البحرين و"سدايا" توقعان مذكرة تفاهم لتعزيز التعاون في البيانات والذكاء الاصطناعي*
+
+* وقّع المذكرة محمد علي القائد، الرئيس التنفيذي لهيئة المعلومات والحكومة الإلكترونية، وعبدالله بن شرف الغامدي، رئيس سدايا
+* تشمل مجالات التعاون حوكمة البيانات وتطوير البنية التحتية والتقنيات الداعمة للذكاء الاصطناعي، بما في ذلك النماذج اللغوية الكبيرة (LLMs)
+* تشمل المذكرة دعم المشاريع البحثية المشتركة وتنفيذ برامج تدريبية مشتركة ومتخصصة
+
+Source - https://www.mubasher.info/news/4672594/
+
+*barq closes $329.5 million Series A funding round*
+
+* barq closed a $329.5 million Series A funding round at a valuation of $1.85 billion
+* Investors in the round were Noon Investments, Sohar International Bank and M20 Fund
+* barq has surpassed 15 million users within two years, from more than 210 nationalities, and the value of funds processed has surpassed SAR 440 billion
+
+Source - https://saudigazette.com.sa/article/664589/business/barq-closes-3295-million-series-a-funding-round
+
+*عام / المملكة تقود توافقًا دوليًا بالرياض لوضع إطار عالمي لحوكمة الذكاء الاصطناعي بالتعاون مع منظمة "اليونسكو" ومركز "آيكير" الدولي*
+
+* ترأست المملكة الاجتماع الوزاري رفيع المستوى ضمن النسخة الرابعة من منتدى اليونسكو العالمي لأخلاقيات الذكاء الاصطناعي بالرياض بحضور ممثلين من أكثر من 60 دولة
+* صدر البيان بالتعاون مع اليونسكو والمركز الدولي لأبحاث وأخلاقيات الذكاء الاصطناعي (ICAIRE) عقب جلسة مغلقة رأسها الدكتور عبدالله بن شرف الغامدي ونائبة المدير العام لليونسكو آسا رينير
+* ركز البيان على تحويل توصية اليونسكو لعام 2021م إلى أداة عملية عبر منهجية تقييم الجاهزية (RAM) وتقييم الأثر الأخلاقي (EIA) مع أولوية لدول الجنوب العالمي والقارة الأفريقية
+
+Source - https://www.spa.gov.sa/ar/N2676742
+
+*عام / "سدايا" و "اليونسكو" تكرّمان 8 جهات حكومية لتميزها بالمؤشر الوطني للذكاء الاصطناعي في دورته الأولى خلال منتدى اليونسكو بالرياض*
+
+* كرّم رئيس سدايا ومساعد المدير العام لليونسكو للعلوم بالإنابة 8 جهات حكومية في دورة القياس الأولى للمؤشر
+* فازت وزارة الطاقة بفئة التميز، وضمت فئة التمكين الداخلية والبيئة والمياه والزراعة والموارد البشرية والهيئة السعودية للمياه والتأمينات الاجتماعية والصناعة والثروة المعدنية والبلديات والإسكان
+* يقيس المؤشر سبعة محاور هي الإستراتيجية والحوكمة والبيانات والبنية التحتية والقدرات البشرية والتطبيقات والأثر
+
+Source - https://www.spa.gov.sa/ar/N2676955
+
+*اقتصادي / STC Bank الشريك المؤسس لمؤتمر "موني 20/20 الشرق الأوسط"*
+
+* يقام المؤتمر من 14 إلى 16 سبتمبر 2026 في مركز الرياض للمعارض والمؤتمرات بملهم
+* وقّع البنك في اليوم الأول ست اتفاقيات مع Hala وMoyasar وHuawei وSurpay وAlmatar وPaylink
+* تعد هذه المشاركة الثانية للبنك بعد مشاركته في النسخة الأولى عام 2025 شريكًا مؤسسًا
+
+Source - https://www.spa.gov.sa/ar/N2676954
+
+*"D360" يوقع 5 اتفاقيات لتعزيز الابتكار بالخدمات المالية خلال "Money20/20"*
+
+* وقّع البنك اتفاقية استراتيجية لتوسيع التعاون مع جوجل كلاود لتعزيز مرونة البنية التحتية وتطوير قدراته في الذكاء الاصطناعي والبيانات
+* شملت الاتفاقيات الأخرى لين تكنولوجيز للمصرفية المفتوحة وQuick Retro وRemitly للحوالات الدولية وSHOKRAN الماليزية
+* يشارك في المؤتمر أكثر من 38 ألف شخص و350 علامة تجارية عارضة وأكثر من 350 متحدثًا و600 مستثمر و150 شركة ناشئة
+
+Source - https://www.mubasher.info/news/4672364/
+
+*Visa Acceptance Platform enables local e-commerce processing through Saudi Arabia’s New E-commerce Payments Interface*
+
+* Visa Acceptance Platform is now certified for the Saudi Central Bank (SAMA) New E-commerce Payments Interface
+* The platform was deployed on local cloud infrastructure last year
+* It supports feature-rich mada acceptance, card-on-file functionality, digital wallets and recurring payments
+
+Source - https://www.zawya.com/en/press-release/companies-news/visa-acceptance-platform-enables-local-e-commerce-processing-through-saudi-arabias-new-e-commerce-payments-interface-723278
+
+*KoçSistem and KoçDigital sign two new partnerships in Saudi Arabia at LEAP 2026*
+
+* KoçSistem signed an MoU with GAPP to roll out its digital publishing platform Pixage in the Kingdom
+* KoçDigital partnered with Mannai Information Technology Saudi Arabia on AI, IoT, cloud and industry-specific solutions
+* LEAP 2026 was held in Riyadh from August 31 to September 3 with more than 200,000 attendees
+
+Source - https://www.khaleejtimes.com/kt-network/kosistem-and-kodigital-sign-two-new-partnerships-in-saudi-arabia-at-leap-2026
+
+*Amazon's AWS is unable to restore access to Bahrain, one UAE cloud data zone after war damage*
+
+* AWS cannot restore access to its Bahrain facility and one of its three UAE zones, known as mec1-az2, according to a status update seen on Tuesday
+* Disruptions began in March, and a second Bahrain zone was disrupted in April, after which the Bahrain region became unavailable
+* AWS will provide an update on UAE restoration in the coming months and a further update in early 2027 for Bahrain operations
+
+Source - https://www.reuters.com/world/middle-east/amazons-aws-is-unable-restore-access-bahrain-one-uae-cloud-data-zone-after-war-2026-09-15/
+
+*The Gulf’s AI Nightmare Came Courtesy of an Iranian Drone*
+
+* More than 130 computing services remain disrupted at the Abu Dhabi facility and 140 in Bahrain, with just five restored in each
+* The UAE faced more than 2,800 drones and missiles, and each gigawatt of AI capacity is estimated to cost at least $50 billion
+* OpenAI still hasn't signed a lease for the 5-gigawatt UAE complex, where it planned to take 20% of capacity
+
+Source - https://www.wsj.com/world/middle-east/the-gulfs-ai-nightmare-came-courtesy-of-an-iranian-drone-3f313cb3
+
+*Khazna Data Centers and Siemens sign MoU to explore next-generation AI data center technologies*
+
+* The MoU was signed at the UAE-Germany Business Forum in Munich
+* It covers digital twins for AI data centers and next-generation 800 VDC power architectures
+* Siemens will sponsor internships in Germany for nominated Emirati engineers
+
+Source - https://www.zawya.com/en/press-release/companies-news/khazna-data-centers-and-siemens-sign-mou-to-explore-next-generation-ai-data-center-technologies-671645
+
+*Blow to Gov't as High Court declares sale of Safaricom shares 'null and void'*
+
+* A three-judge bench of the High Court declared null and void the government's partial divestiture of its 15 per cent stake in Safaricom
+* The court found no adequate public participation by the Cabinet or the National Assembly and cited unexplained obscurity over the identity of the buyer
+* The court quashed all agreements and approvals for the sale and ordered the 15 per cent shareholding restored to the Government of Kenya
+
+Source - https://citizen.digital/article/blow-to-govt-as-high-court-declares-sale-of-safaricom-shares-null-and-void-n390221
+
+*تعاون بين تويا تكنولوجي وإنتل لتوطين تكنولوجيا الذكاء الاصطناعي*
+
+* وقّع المذكرة خالد محمد محروس رئيس مجلس إدارة تويا تكنولوجي وطه محمد خليفة مدير عام إنتل للشرق الأوسط وأفريقيا بحضور وزير الدولة للإنتاج الحربي صلاح سليمان جمبلاط
+* تشمل المذكرة بحث فرص التجميع المحلي لحلول الذكاء الاصطناعي الطرفي وأجهزة الحاسب الشخصي
+* تتضمن المذكرة تنفيذ برنامج تدريب المدربين امتدادًا للقاء الوزير مع إنتل خلال شهر يوليو الماضي
+
+Source - https://eleqtisadenews.com/تعاون-بين-تويا-تكنولوجي-وإنتل-لتوطين-ت/
+
+*e& UAE and Accenture launch AI Transformation Alliance*
+
+* e& UAE and Accenture signed an MoU to launch the AI Transformation Alliance for UAE government and enterprise, with the potential to extend into selected international markets
+* The MoU sets a scalable framework with a shared operating model, with commercial, governance and accountability frameworks to be agreed
+* The announcement quotes Abdulla Al Ahmed of e& UAE and Xavier Anglada, Managing Director of Accenture Middle East and Africa
+
+Source - https://www.gdnonline.com/Details/1406536
+
+*Green AI Alliance to link technology growth with clean energy*
+
+* The Ministry of Transport, Communications and IT held the inaugural meeting on Monday with the Ministry of Energy and Minerals and the Authority for Public Services Regulation
+* Participants approved the founding document, formed a technical committee and reviewed the 2026 work plan
+* The alliance aims to increase renewable and low-emission energy for AI and high-performance computing in support of Vision 2040
+
+Source - https://www.muscatdaily.com/2026/09/14/green-ai-alliance-to-link-technology-growth-with-clean-energy/
+
+*Garanti BBVA’dan NGN ve Star of Bosphorus’un Veri Merkezi Yatırımına 40 Milyon Dolarlık Yeşil Finansman*
+
+* Garanti BBVA, NGN ve Star of Bosphorus'un veri merkezi yatırımı için 40 milyon dolarlık finansmanda Lider Düzenleyici ve Kredi Temsilcisi olarak imzaları tamamladı
+* Finansman Yeşil Kredi olarak yapılandırıldı ve güç kullanım etkinliği (PUE) standartları öne çıkarıldı
+* Banka Ocak 2026 itibarıyla 2018-2029 hedefi kapsamında 1 trilyon TL sürdürülebilir finansmanı aştı
+
+Source - https://fintechtime.com/2026/09/garanti-bbvadan-ngn-ve-star-of-bosphorusun-veri-merkezi-yatirimina-40-milyon-dolarlik-yesil-finansman/
+
+*Chip sell-off drags down Kospi*
+
+* The combined market capitalization of the Kospi and Kosdaq stood at 5,922.87 trillion won at Tuesday's close, down more than 200 trillion won from 6,234 trillion won on Aug. 14
+* Samsung Electronics' market cap was 1,449.87 trillion won, down nearly 30 percent from its June 18 peak, while SK hynix was at 1,233.8 trillion won, down around 40 percent from its June 22 peak
+* Between Sept. 1 and Tuesday, foreign investors net sold 3.11 trillion won of Samsung Electronics and 5.05 trillion won of SK hynix
+
+Source - https://www.koreaherald.com/article/10874385
+
+*AI stocks hold steadier as Wall Street drifts lower ahead of the Federal Reserve's meeting*
+
+* The S&P 500 slipped 0.2%, the Dow was down 289 points or 0.6% as of 9:35 a.m. Eastern, and the Nasdaq was 0.3% lower
+* Nvidia rose 1.1% after Monday's 3.4% drop, while South Korea's Kospi fell 0.9% after Monday's 3.3% drop
+* The 10-year Treasury yield rose to 5.00% from 4.97%, and Brent crude rose 0.7% to $106.42
+
+Source - https://www.wsls.com/news/2026/09/15/asian-shares-trade-mixed-as-markets-continue-to-watch-ai-stocks-and-oil-prices/
+
+*China releases 5-year development plan for electronic information manufacturing sector*
+
+* The plan was jointly issued by the Ministry of Industry and Information Technology and the National Development and Reform Commission for the 15th Five-Year Plan period (2026-2030)
+* By 2030, combined revenue of firms with annual main business revenue of at least 20 million yuan ($2.96 million) is set to exceed 30 trillion yuan
+* The plan sets the sector's R&D investment intensity at 3.5 percent
+
+Source - http://global.chinadaily.com.cn/a/202609/15/WS6aa8bb34e4b06d4aa055e1a4.html
+
+*China elevates HBM and HBF in five-year plan, opening a new front in AI memory*
+
+* MIIT and NDRC have jointly released the 15th Five-Year Plan for the Development of the Electronic Information Manufacturing Industry
+* For the first time, the plan identifies high-bandwidth flash memory and high-bandwidth memory as priority areas for next-generation memory research
+
+Source - https://www.digitimes.com/news/a20260915PD228/hbm-policy-it-miit-industrial.html
+
+*Broadcom CEO addresses Anthropic's slowdown push, says AI revenue targets haven't changed*
+
+* Broadcom shares fell 4.8% and the iShares Semiconductor ETF fell 5.6% on Monday
+* On the Sept. 2 earnings call, CEO Hock Tan forecast AI semiconductor revenue of $115 billion in fiscal 2027 and $230 billion in fiscal 2028
+* Tan said Anthropic is on track to become Broadcom's largest custom chip customer in 2027 and keep that position in 2028
+
+Source - https://www.cnbc.com/2026/09/14/broadcom-ceo-on-anthropics-slowdown-push-ai-revenue-targets-havent-changed.html
+
+*Why Hewlett Packard Enterprise Stock Plummeted by Almost 11% Today*
+
+* HPE shares slumped by nearly 11% on Monday following an analyst downgrade
+* Evercore ISI's Amit Daryanani cut the rating to in-line (hold) from outperform (buy) and maintained a $65 price target
+* The downgrade was driven by recent share gains, with a forward P/E of 13 well above the company's five-year average
+
+Source - https://www.fool.com/investing/2026/09/14/why-hewlett-packard-enterprise-stock-plummeted-by/
+
+*Lenovo Receives Highest-Possible AAA Rating by Hang Seng Indexes Company – Achieves Highest ESG Scores in Industry*
+
+* Lenovo moved from AA+ last year to AAA in Hang Seng Indexes Company's 2026 Sustainability Ratings
+* Among approximately 600 companies assessed, Lenovo achieved its industry's highest overall score and, for the first time, the highest industry scores in all three ESG pillars
+* Lenovo recently earned the EcoVadis Platinum Medal (top 1%) and ranked No. 5 in Gartner's Global Supply Chain Top 25
+
+Source - https://news.lenovo.com/pressroom/press-releases/lenovo-receives-highest-possible-aaa-rating-by-hang-seng-indexes-company-achieves-highest-esg-scores-in-industry/
+
+*Chinese bank helped Huawei spirit $1B out of London days after US indictment of the tech giant*
+
+* On Feb. 2, 2019, nine officers at ICBC's London branch wired $1.3 billion from Huawei's ICBC London account to its account in Shenzhen
+* The transfer came five days after the U.S. Justice Department unsealed an indictment accusing Huawei of fraud and violating Iran sanctions, which Huawei denies
+* The findings come from 4.8 million confidential ICBC records spanning 20 years, part of ICIJ's China Capital investigation with 23 media partners
+
+Source - https://www.icij.org/investigations/china-capital/huawei-icbc-banking-us-court-beijing-london/
+
+*ByteDance's First-Half Profit Drops to $20 Billion, Weighed Down by AI Spending*
+
+* ByteDance's net profit in the first half of this year declined by a single-digit percentage to $20 billion, according to three people with knowledge of the financial results
+* The company's revenue for the period rose around 30% year on year
+* The profit decline came as the Chinese tech giant ramped up its investments in AI
+
+Source - https://www.theinformation.com/articles/bytedances-first-half-profit-drops-20-billion-weighed-ai-spending
+
+*Tencent Cloud and U Mobile Partner to Advance Enterprise 5G and AI Solutions in Malaysia*
+
+* Tencent Cloud signed a strategic MOU with U Mobile, Malaysia's newest 5G network provider, to develop 5G and AI solutions for enterprises and SMEs
+* It is Tencent Cloud's first official AI-focused partnership with a Malaysian telecom provider
+* Tencent Cloud joins U Mobile's Enterprise Innovation Platform through its Develop – Test – Demonstrate pathway
+
+Source - https://www.prnewswire.com/apac/news-releases/tencent-cloud-and-u-mobile-partner-to-advance-enterprise-5g-and-ai-solutions-in-malaysia-302878624.html
+
+*ICBC handled NZ cash for Chinese tech firm linked to Xinjiang repression*
+
+* An ICBC New Zealand executive handled cash-management needs for Hikvision and Huawei, according to an October 2022 commendation nomination
+* Hikvision is described as partly state-owned, blacklisted by the US and implicated in abuses in Xinjiang
+* The story also covers a $180 million joint loan by Westpac and ICBC Asia for Napier port's Te Whiti Wharf
+
+Source - https://www.thepress.co.nz/nz-news/361077829/icbc-handled-nz-cash-chinese-tech-firm-linked-xinjiang-repression
+
+*Redmi Note 17 Pro Max, Note 17 Pro Launched in India With Up to 10,000mAh Battery, 50-Megapixel Camera: Price, Features*
+
+* Redmi Note 17 Pro is priced at Rs. 36,999 (8GB+128GB) and Rs. 39,999 (8GB+256GB), while the Pro Max is priced at Rs. 49,999 (8GB+256GB) and Rs. 55,999 (12GB+256GB)
+* The Pro Max has a 10,000mAh battery with 100W wired charging and a Snapdragon 6 Gen 5 chip, while the Pro has a 9,000mAh battery
+* Sales on Amazon begin on September 17 for the Pro and September 23 for the Pro Max, with bank offers of up to Rs. 5,000
+
+Source - https://www.gadgets360.com/mobiles/news/redmi-note-17-pro-max-price-in-india-launch-sale-date-specifications-features-12048120
+
+*Vivo X500 Pro Max and Oppo Find X10 Pro Max officially confirmed with new Dimensity 9600 Pro*
+
+* Vivo says the X500 Pro series will be the first phones globally to use the Dimensity 9600 Pro, with the X500 series launching on September 21
+* Oppo's Find X10 lineup follows on September 22
+* Chip-level Log video supports 4K 120fps 10-bit Log recording with no external recorder and is paired with Vivo's Blueprint imaging chip
+
+Source - https://www.gizmochina.com/2026/09/15/vivo-x500-pro-max-and-oppo-find-x10-pro-max-officially-confirmed-with-new-dimensity-9600-pro/
+
+*OPPO Find X10 Pro Max to Debut Globally with MediaTek's 2nm Flagship Dimensity 9600 Pro*
+
+* OPPO Find X10 Pro Max will be among the first smartphones with the Dimensity 9600 Pro and will launch in international markets
+* The chip is built on TSMC's 2nm N2P process with up to 61% better CPU multi-core energy efficiency and about 27% higher GPU performance under sustained heavy load
+* The NPU delivers 51% faster LLM prefill, and the phone debuts the OPPO Laminar Flow Engine co-developed with MediaTek
+
+Source - https://www.oppo.com/en/newsroom/press/oppo-mediatek-findx10promax/
+
+*Honor Magic 9 series takes display to new heights with 10000 nits brightness*
+
+* A new Honor warm-up poster confirms the Magic 9 series display reaches up to 10000 nits peak brightness, up from 6000 nits on the Magic 8 Pro
+* The series uses Honor Ultimate Black Diamond Screen technology, which Honor says is more drop- and scratch-resistant than the Magic 8 series
+
+Source - https://www.huaweicentral.com/honor-magic-9-series-display-brightness/
+
+*Hisense Unveils New C3 Projector Family for Immersive Home Entertainment*
+
+* C3 Ultra and C3 Ultra Max launch in global markets this September, with the C3 Pro to follow, supporting projection sizes up to 300 inches
+* C3 Ultra delivers 4,000 ANSI lumens and 5,000:1 contrast, while C3 Ultra Max delivers 5,000 ANSI lumens with 1ms ultra-low latency and Devialet audio
+* The C3 has undergone Life Cycle Assessment and product carbon footprint verification by SGS
+
+Source - https://www.prnewswire.com/news-releases/hisense-unveils-new-c3-projector-family-for-immersive-home-entertainment-302877192.html
+
+*Memory makers tighten supply as DRAM price rally extends into 2027*
+
+* Team Group general manager Gerry Chen said module makers have recently received "friendly notices" from upstream memory makers
+* The notices say shipment allocations "will be drastically cut in 2027", creating a massive DRAM supply gap
+* Upstream makers have reportedly sold out nearly all their capacity for 2027 through 2028 as memory vendors continue signing long-term agreements
+
+Source - https://www.digitimes.com/news/a20260914PD226/2027-dram-price-market-team-group.html
+
+*Apple is paying more for memory, and Samsung isn’t getting a break*
+
+* Apple has reportedly agreed to pay Samsung nearly $2.0 per Gb for DRAM and $0.33 per Gb for NAND flash in Q1 2027, a 30% to 40% increase over Q3 quotes
+* Samsung's Q3 2026 quotes were about $1.4 per Gb for LPDDR4X, up 3% QoQ, $1.5 per Gb for LPDDR5X, up 5% QoQ, and $0.26 per Gb for NAND flash, up 8% QoQ
+* Samsung, SK Hynix and Micron are prioritizing high-margin server DRAM and HBM
+
+Source - https://www.sammyfans.com/2026/09/15/apple-agrees-to-buy-pricier-samsung-memory/
+
+*BNK Says Further Semiconductor Rally Unlikely, Cuts Samsung Electronics Target to ₩270,000*
+
+* BNK Securities analyst Lee Min-hee cut Samsung Electronics' target price from ₩300,000 to ₩270,000 and downgraded it to hold, while keeping SK Hynix at hold with a ₩1.48 million target
+* BNK expects global DRAM capacity to grow about 50% by end-2028 versus end-2025 and roughly double by end-2030
+* BNK lowered its Q3 and Q4 operating profit estimates by 5% and 2% for Samsung and by 6% and 4% for SK Hynix
+
+Source - https://finance.biggo.com/news/35a73c44-5503-413a-8985-96e16185f2cb
+
+*Why budget phones are disappearing just when they are needed most*
+
+* Apple raised the price of the entry-level iPhone 17e in Korea by 16.1 percent, from 990,000 won to 1.15 million won
+* The Galaxy A37 costs 598,400 won in Korea, up 19.8 percent from last year's A36
+* IDC projects memory shortages will push average smartphone selling prices up 27.6 percent this year while shipments fall 16.7 percent
+
+Source - https://www.koreatimes.co.kr/business/tech-science/20260915/why-budget-phones-are-disappearing-just-when-they-are-needed-most
+
+*[News] Micron Taiwan Union Reportedly Seeks 15% Profit Share After New Reward Plan; Warns of Strike Vote*
+
+* At a Sept. 15 press conference, the union demanded that 15% of operating profit go to profit sharing, saying the new bonus equals just 4.4% of Micron's operating profit
+* The union may declare a deadlock and move to a strike vote if Micron gives no concrete response at mediation on Sept. 18 and 21
+* The union says more than 80% of employees at the Taoyuan and Taichung sites have joined
+
+Source - https://www.trendforce.com/news/2026/09/15/news-micron-taiwan-union-reportedly-seeks-15-profit-share-after-new-reward-plan-warns-of-strike-vote/
+
+*Samsung edges SK hynix as HBM4 lifts Korea chip earnings outlook*
+
+* Samsung Electronics' third-quarter operating profit estimate is about 114 trillion won, up 12% from three months ago and 28% above the record second quarter's 89.4 trillion won
+* SK hynix's third-quarter estimate is 78.8035 trillion won, up 4%, while Citi cut its estimate to 74 trillion won from 76.7 trillion won citing the stronger won
+* Samsung's HBM4 share of HBM sales rose from 5% in the first quarter to around 35% in the second quarter
+
+Source - https://biz.chosun.com/en/en-it/2026/09/15/KTK7BBY54BAEPEJ7YDRIEFTI3Q/
+
+*Sigmaintell: Memory shortage to ease in 2027 before chip growth hits 2029 wall*
+
+* After tight supply and sharp price increases in 2026, the memory supply-demand gap is expected to narrow significantly in 2027 as DRAM capacity expands
+* Beijing-based Sigmaintell Consulting expects memory and semiconductor markets to keep growing through 2028 before a potential pullback in 2029
+
+Source - https://www.digitimes.com/news/a20260914PD205/2027-growth-2026-price-demand.html
+
+*[News] Kioxia Reportedly Weighs $10B U.S. Listing in 2027; Toshiba Cuts Stake to 12.84%*
+
+* Kioxia is weighing an ADR offering that could raise at least $10 billion and reportedly held talks with Bank of America, Goldman Sachs and JPMorgan Chase, targeting a Nasdaq debut between April and June 2027
+* Kioxia shares have fallen more than 54% from their peak in just over two months after rising roughly 900% since the start of 2026
+* SK hynix-linked BCPE Pangea Cayman2 became the largest shareholder in August with 14.19%, while Toshiba's stake stands at 12.84%
+
+Source - https://www.trendforce.com/news/2026/09/15/news-kioxia-reportedly-weighs-10b-u-s-listing-in-2027-toshiba-cuts-stake-to-12-84/
+
+*Samsung's Cheonan plant reallocates packaging capacity from Exynos to HBM*
+
+* Samsung Electronics is accelerating the restructuring of its semiconductor packaging footprint
+* The Cheonan facility is gradually phasing out packaging for the Exynos mobile application processor and repurposing that equipment for high-bandwidth memory production
+
+Source - https://www.digitimes.com/news/a20260915PD227/samsung-exynos-packaging-hbm-plant.html
+
+*Murata considers bigger MLCC expansion as AI server demand extends beyond 2028*
+
+* Murata Manufacturing is considering a new, potentially larger expansion of MLCC capacity beyond its existing investment plans
+* Demand from AI servers is expected to remain strong through the end of the decade
+
+Source - https://www.digitimes.com/news/a20260915VL213/murata-mlcc-expansion-demand-2028.html

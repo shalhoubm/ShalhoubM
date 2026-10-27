@@ -1,0 +1,472 @@
+{
+  "date": "2026-10-26",
+  "window": "Sun 25 Oct 2026 20:18 to Mon 26 Oct 2026 20:18 KSA",
+  "headline": "Riyadh lost another major event as Cityscape Global moved to February 2027, but government IT spending carried on, with SDAIA awarding MIS a SAR 86.13M backup and disaster-recovery expansion. Gulf data-centre economics sharpened: Saudi Arabia is the costliest Gulf market to build in ($10.80/W), and Oman's 400 MW Salalah campus leaves an estimated $7-9bn of servers to tenants. Compute finance split as Anthropic filed for its IPO and Meta raised $35bn, while Musk said debt for neoclouds has dried up. Memory spot was flat, but more 2027 supply is already locked under long-term contracts.",
+  "lenovo_read": "Two of today's openings, the Salalah tenant hardware pool and the SDAIA DR expansion, are pure ISG infrastructure with no OEM named. The neocloud credit squeeze makes Lenovo's balance sheet and TruScale a selling point, while Dell and HP keep collecting public reference wins and stage time in the region.",
+  "pillars": {
+    "dc": "4 scored: Mubbadrah Salalah tenant-hardware model, MTN Africa Data Hub 150 MW, Turner and Townsend cost index (Saudi $10.80/W), SDAIA DR expansion. DCD>Connect MENA day 1 had no Khazna, DataVolt or G42 build news.",
+    "memory": "DRAMeXchange 26 Oct: DDR5 16Gb $61.333 (+0.11%), DDR4 16Gb $82.623 (-0.30%), DDR4 8Gb $47.000 (-0.23%). Scored: SK hynix preview (HP and Dell Micron LTAs to 2031), KB on 70-80% of 2027 output under LTAs, Samsung HBM revenue and price premium.",
+    "deals": "SDAIA-MIS SAR 86.13M award, Nutanix-Ministry of Media hybrid-cloud MoU (signed at LEAP), Cisco-Mannai sovereign AI in Qatar, Honeywell-Dangote with Dell and NVIDIA. No KSA or GCC tech funding round of $20M or more.",
+    "global": "Cisco (Qatar), Dell (Nigeria), HP and AWS (Dubai AI Festival), Scale AI (Dubai), Huawei Cloud Egypt (Chinese rule)."
+  },
+  "stories": [
+    {
+      "id": "2026-10-26-01",
+      "tier": "KSA",
+      "pillar": "Deals & MoUs",
+      "band": "HIGH",
+      "score": 15,
+      "title": "MIS wins SAR 86.1M SDAIA project",
+      "source": "Argaam",
+      "published": "26 Oct 2026, 16:34 KSA",
+      "country": "Saudi Arabia",
+      "summary": "Al Moammar Information Systems won a SAR 86.13M (incl. VAT) SDAIA project for phase 4 of technical support for its backup and data-recovery system, covering expansion, upgrades, licence renewal and operations. Signing is expected on 30 Nov.",
+      "bullets": [
+        "Al Moammar Information Systems (MIS) won an SAR 86.13 million project, including VAT, from SDAIA",
+        "The project covers the fourth phase of a technical support project for SDAIA's backup data recovery system",
+        "MIS expects to sign the contract on Nov. 30, with no related parties to the deal"
+      ],
+      "lenovo": "SDAIA's DR expansion means storage, backup and servers with the OEM undisclosed, an open ISG opportunity through MIS as the SI. MIS gets a new CEO on 1 Nov, and signing on 30 Nov leaves about five weeks to get onto the BOM.",
+      "url": "https://www.argaam.com/en/article/articledetail/id/1947288",
+      "arabic": "\"معلومات\" (MIS) تفوز بمشروع من سدايا بقيمة 86.13 مليون ريال للمرحلة الرابعة من دعم نظام النسخ الاحتياطي واستعادة البيانات، مع توسعة الأنظمة وتجديد التراخيص، والتوقيع المتوقع في 30 نوفمبر؛ المورد التقني غير معلن."
+    },
+    {
+      "id": "2026-10-26-02",
+      "tier": "KSA",
+      "pillar": "AI & markets",
+      "band": "MONITOR",
+      "score": 14,
+      "title": "«سيتي سكيب العالمي» يؤجل نسخته المقبلة في الرياض إلى فبراير 2027",
+      "source": "Sabq",
+      "published": "26 Oct 2026, 19:15 KSA",
+      "country": "Saudi Arabia",
+      "summary": "Cityscape Global 2026 moves from 16-19 Nov 2026 to 1-4 Feb 2027 in Riyadh; the 2027 edition stays at 15-18 Nov 2027. The organiser, Tahaluf, gives no security reason.",
+      "bullets": [
+        "تأجيل «سيتي سكيب العالمي 2026» في الرياض إلى الفترة من الاثنين 1 إلى الخميس 4 فبراير 2027، بدلاً من موعدها السابق من 16 إلى 19 نوفمبر 2026",
+        "تبقى نسخة 2027 في موعدها من 15 إلى 18 نوفمبر 2027 دون تغيير",
+        "شهدت النسخة السابقة الإعلان عن مشاريع تجاوزت قيمتها 63 مليار دولار، واختتمت نسخة 2025 بصفقات عقارية تجاوزت 237 مليار ريال خلال أربعة أيام"
+      ],
+      "lenovo": "The main giga-project and housing developer meeting point for IDG/ISG is gone for Q4, so mid-November meetings must become direct account calls. Black Hat MEA shares the organiser and venue and is now at higher risk.",
+      "url": "https://sabq.org/article/dli2joy",
+      "arabic": "تأجيل معرض سيتي سكيب العالمي في الرياض من 16-19 نوفمبر 2026 إلى 1-4 فبراير 2027، مع بقاء نسخة 2027 في موعدها 15-18 نوفمبر؛ يرفع ذلك مخاطر تأجيل فعاليات تحالف الأخرى مثل بلاك هات الشرق الأوسط."
+    },
+    {
+      "id": "2026-10-26-03",
+      "tier": "KSA",
+      "pillar": "Data centres",
+      "band": "MONITOR",
+      "score": 12,
+      "title": "Mideast one of most cost-competitive regions for data centre construction, report finds",
+      "source": "TradeArabia (Turner & Townsend)",
+      "published": "26 Oct 2026, 12:59 KSA (release)",
+      "country": "Saudi Arabia",
+      "summary": "Turner & Townsend's Data Centre Construction Cost Index puts Saudi Arabia at $10.80/W, the costliest Gulf market, against $9.80 in Qatar and $9.20 in the UAE. Power is the main delivery obstacle.",
+      "bullets": [
+        "Saudi Arabia's data centre build cost is $10.80 per watt, against $9.80 in Qatar, $9.20 in the UAE and a Middle East average of $9.93; Tokyo is highest at $18.28",
+        "52% of respondents experienced cost increases above 6% in 2026, with approximately 20% reporting inflation above 15%",
+        "56% identified power as a major obstacle to delivery, and 32% reported utility connections taking over two years"
+      ],
+      "lenovo": "Higher Saudi build cost per watt plus the 2027 tariff reset strengthens the density case: Neptune liquid cooling, high-density GPU racks and modular deployment in ISG TCO conversations with HUMAIN, DataVolt and center3.",
+      "url": "https://www.tradearabia.com/News/488558/Mideast-one-of-most-cost-competitive-regions-for-data-centre-construction-report-finds",
+      "arabic": "مؤشر تيرنر آند تاونسند: السعودية الأعلى تكلفة خليجياً لبناء مراكز البيانات بـ10.80 دولار للواط مقابل 9.20 في الإمارات و9.80 في قطر، و56% يرون الطاقة عائقاً رئيسياً؛ ما يعزز حجة التبريد السائل وكثافة الحوسبة."
+    },
+    {
+      "id": "2026-10-26-04",
+      "tier": "KSA",
+      "pillar": "Global tech in META",
+      "band": "MONITOR",
+      "score": 12,
+      "title": "solutions by stc reports 9.6 billion Saudi riyals in revenue, up 9.23% in the first nine months of 2026",
+      "source": "solutions by stc",
+      "published": "26 Oct 2026, 08:34 KSA",
+      "country": "Saudi Arabia",
+      "summary": "solutions by stc reported 9M revenue of SAR 9.6bn (+9.23%) and net profit of SAR 1.24bn (vs 1.22bn). The release names no contracts and does not disclose the Aramco HPC OEM.",
+      "bullets": [
+        "Revenue reached SAR 9.6 billion in the nine months ended 30 September 2026, up from SAR 8.8 billion",
+        "Net profit was SAR 1.24 billion compared with SAR 1.22 billion a year earlier",
+        "EBITDA rose 10.6% to SAR 1.6 billion, operating profit increased 9.07% to SAR 1.4 billion, and EPS was SAR 5.21"
+      ],
+      "lenovo": "The Kingdom's largest ICT SI is growing revenue faster than profit, which points to more hardware pass-through and is an opening for vendor-funded margin programmes. The Aramco HPC OEM is still undisclosed.",
+      "url": "https://solutions.com.sa/news/solutions-by-stc-records-sar-9-6-million-in-revenue-up-9-23-during-the-first-nine-months-of-2026/",
+      "arabic": "\"حلول\" من إس تي سي تحقق إيرادات 9.6 مليار ريال بنمو 9.23% في تسعة أشهر من 2026، وصافي ربح 1.24 مليار ريال؛ دون إفصاح عن مورد عقد الحوسبة عالية الأداء مع أرامكو."
+    },
+    {
+      "id": "2026-10-26-18",
+      "tier": "KSA",
+      "pillar": "Deals & MoUs",
+      "band": "MONITOR",
+      "score": 13,
+      "title": "Nutanix and Saudi Ministry of Media sign MoU to build a more resilient, AI-ready digital foundation for the media sector",
+      "source": "Zawya (Nutanix press release)",
+      "published": "26 Oct 2026, 16:10 KSA",
+      "country": "Saudi Arabia",
+      "summary": "Nutanix and the Ministry of Media's Digital Transformation Agency signed an MoU (at LEAP 2026, first published 26 Oct) on hybrid cloud, AI readiness, disaster recovery, cybersecurity and knowledge transfer. No value is stated.",
+      "bullets": [
+        "Nutanix and the Saudi Ministry of Media signed an MoU at LEAP 2026 to modernise the Ministry's digital infrastructure, focusing on hybrid cloud computing, AI, cyber resilience, knowledge transfer and digital innovation",
+        "Nutanix will support the Ministry in exploring hybrid computing environments that let applications and workloads move across data centers and different cloud environments",
+        "Nutanix will contribute to secure and resilient infrastructure designed to support disaster recovery and strengthen cybersecurity across the Ministry's digital environment"
+      ],
+      "lenovo": "Nutanix is a Lenovo partner (ThinkAgile HX is a certified Nutanix platform). The hardware is unnamed, so co-sell ThinkAgile HX into the Ministry and MEWA before Dell or HPE is specified.",
+      "url": "https://www.zawya.com/en/press-release/events-conferences/nutanix-and-saudi-ministry-of-media-sign-mou-to-build-a-more-resilient-ai-ready-digital-foundation-for-the-media-sector-1851414",
+      "arabic": "نوتانكس ووزارة الإعلام توقعان مذكرة تفاهم لتحديث البنية الرقمية للوزارة عبر السحابة الهجينة وجاهزية الذكاء الاصطناعي واستمرارية الأعمال والتعافي من الكوارث؛ فرصة لحلول لينوفو ThinkAgile HX المعتمدة مع نوتانكس."
+    },
+    {
+      "id": "2026-10-26-05",
+      "tier": "GCC/MEA",
+      "pillar": "Data centres",
+      "band": "HIGH",
+      "score": 15,
+      "title": "م. ياسر البرعمي لـ«الوصال»: 3 مليارات دولار لتأسيس مجمع حوسبة وذكاء اصطناعي في صلالة.. واستثمارات العملاء قد تضيف 7 إلى 9 مليارات أخرى",
+      "source": "Al Wesal (Oman)",
+      "published": "26 Oct 2026, 01:47 KSA",
+      "country": "Oman",
+      "summary": "Mubbadrah's CEO says the 400 MW Salalah campus's initial $3bn covers infrastructure only. Tenants bring their own servers and chips, an estimated $7-9bn or more. Financing talks are under way with Deutsche Bank.",
+      "bullets": [
+        "يستهدف المشروع في صلالة سعة تصل إلى 400 ميجاوات مع إمكانية التوسع مستقبلاً",
+        "يغطي الاستثمار الأولي البالغ 3 مليارات دولار البنية الأساسية من أنظمة كهربائية ومبانٍ وتبريد وربط بالشبكة وألياف بصرية، ولا يشمل الخوادم والرقائق التي تجلبها الشركات المستأجرة",
+        "يقدّر البرعمي أن دخول شركات عالمية كبرى قد يضيف ما لا يقل عن 7 إلى 9 مليارات دولار في الأجهزة والخوادم، مع مباحثات تمويل جارية مع Deutsche Bank"
+      ],
+      "lenovo": "The OEM decision sits with each tenant, not the developer: an open ISG pool sized at $7-9bn. Lenovo needs a preferred-vendor and reference-architecture listing with Mubbadrah before the anchor tenant brings its incumbent OEM.",
+      "url": "https://alwisal.om/2026/10/25/%d9%85-%d9%8a%d8%a7%d8%b3%d8%b1-%d8%a7%d9%84%d8%a8%d8%b1%d8%b9%d9%85%d9%8a-%d9%84%d9%80%d8%a7%d9%84%d9%88%d8%b5%d8%a7%d9%84-3-%d9%85%d9%84%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa-%d8%af%d9%88/",
+      "arabic": "الرئيس التنفيذي لمبادرة: مجمع صلالة للذكاء الاصطناعي بسعة 400 ميجاواط وبكلفة أولية 3 مليارات دولار للبنية الأساسية فقط، فيما تجلب الشركات المستأجرة خوادمها باستثمارات تقدر بـ7 إلى 9 مليارات دولار؛ فرصة مفتوحة لموردي الخوادم."
+    },
+    {
+      "id": "2026-10-26-06",
+      "tier": "GCC/MEA",
+      "pillar": "Global tech in META",
+      "band": "MONITOR",
+      "score": 12,
+      "title": "Cisco partners with Mannai to build sovereign AI infrastructure in Qatar",
+      "source": "TahawulTech",
+      "published": "26 Oct 2026, ~12:31 KSA",
+      "country": "Qatar",
+      "summary": "Cisco will deliver its Sovereign Critical Infrastructure portfolio (networking, security, observability; on-prem and air-gapped) in Qatar through Mannai for government, energy, finance and healthcare. No value or customer is disclosed.",
+      "bullets": [
+        "Cisco will deliver its Sovereign Critical Infrastructure portfolio in Qatar with Mannai, designed for customer-controlled environments including on-premises and air-gapped deployments",
+        "The initiative targets government, energy, financial services and healthcare as organisations adopt AI and digital sovereignty grows in importance",
+        "The Cisco and Mannai relationship spans more than three decades of technology collaboration in Qatar"
+      ],
+      "lenovo": "A competitor is locking up Qatar's largest SI for the sovereign-AI story a week before MWC Doha. Compute and storage are undisclosed, so the ISG slot is open, and Mannai could anchor a Lenovo sovereign AI pod with Meeza and QDS.",
+      "url": "https://www.tahawultech.com/channel/cisco-partners-with-mannai-to-build-sovereign-ai-infrastructure-in-qatar/",
+      "arabic": "سيسكو تتعاون مع المناعي لتقديم حلول البنية التحتية السيادية للذكاء الاصطناعي في قطر لقطاعات الحكومة والطاقة والمال والصحة، بما في ذلك البيئات المعزولة؛ مكوّن الحوسبة والتخزين لم يُحدد بعد."
+    },
+    {
+      "id": "2026-10-26-07",
+      "tier": "GCC/MEA",
+      "pillar": "Deals & MoUs",
+      "band": "MONITOR",
+      "score": 12,
+      "title": "Honeywell brings AI backed by Nvidia and Dell to Africa's biggest refinery as Dangote pushes to improve productivity",
+      "source": "Business Insider Africa",
+      "published": "26 Oct 2026, 13:26 KSA",
+      "country": "Nigeria",
+      "summary": "Honeywell launched its Forge Plant Cognition industrial AI platform, built with NVIDIA and Dell, at Dangote's Lekki refinery. Honeywell estimates about $60M in gross annual benefits at full throughput.",
+      "bullets": [
+        "Honeywell launched the Forge Plant Cognition AI platform at the Dangote refinery in Lekki, Lagos, combining its industrial technology with NVIDIA and Dell Technologies capabilities",
+        "Preliminary estimates suggest benefits of more than 29 cents per barrel, or approximately $60 million in gross annual benefits at full capacity, though the estimates are not guaranteed",
+        "Honeywell is supporting an expansion to more than double the refinery's capacity from 650,000 to 1.4 million barrels per day by 2028"
+      ],
+      "lenovo": "A Dell ISG reference win in African oil and gas, pulled in through an industrial ISV rather than tendered. Lenovo needs certification in industrial ISV stacks for META energy accounts.",
+      "url": "https://africa.businessinsider.com/local/markets/honeywell-brings-ai-backed-by-nvidia-and-dell-to-africas-biggest-refinery-as-dangote/smyfmec",
+      "arabic": "هانيويل تطلق منصة ذكاء اصطناعي صناعي في مصفاة دانغوتي النيجيرية بقدرات إنفيديا وديل، بعائد تشغيلي تقديري 60 مليون دولار سنوياً؛ مكسب مرجعي لديل في قطاع الطاقة الأفريقي."
+    },
+    {
+      "id": "2026-10-26-08",
+      "tier": "GCC/MEA",
+      "pillar": "AI & markets",
+      "band": "LOW",
+      "score": 11,
+      "title": "Sheikh Hamdan approves targets for Dubai's AI campus to attract 1,000 firms and create 5,000 jobs",
+      "source": "The National",
+      "published": "26 Oct 2026, 18:37 KSA",
+      "country": "UAE",
+      "summary": "At the Dubai AI Festival, Sheikh Hamdan approved 2030 targets of more than 1,000 AI companies and 5,000 skilled jobs for the Dubai AI Campus at DIFC, which already hosts more than 500 firms.",
+      "bullets": [
+        "The new goal is to attract over 1,000 companies and create 5,000 skilled jobs by 2030",
+        "The campus has already attracted more than 500 specialised companies and secured over Dh1 billion in investment",
+        "Sheikh Hamdan attended the opening of the two-day Dubai AI Festival and reviewed headquarters plans for the campus"
+      ],
+      "lenovo": "A dense, funded buyer pool for AI PCs, workstations and DaaS (IDG/SSG). HP is the only PC OEM among the festival's strategic partners.",
+      "url": "https://www.thenationalnews.com/news/uae/2026/10/26/sheikh-hamdan-approves-targets-for-dubais-ai-campus-to-attract-1000-firms-and-create-5000-jobs/",
+      "arabic": "حمدان بن محمد يعتمد مستهدفات جديدة لمجمع دبي للذكاء الاصطناعي لاستقطاب أكثر من 1000 شركة و5000 وظيفة بحلول 2030؛ فرصة لأجهزة الذكاء الاصطناعي ومحطات العمل، فيما تتصدر إتش بي شراكات المهرجان."
+    },
+    {
+      "id": "2026-10-26-09",
+      "tier": "GCC/MEA",
+      "pillar": "Data centres",
+      "band": "LOW",
+      "score": 11,
+      "title": "\"We want to build the foundation right\": Inside MTN's 150 MW data center strategy",
+      "source": "W.Media",
+      "published": "26 Oct 2026, 18:24 KSA",
+      "country": "South Africa / Nigeria",
+      "summary": "MTN's digital infrastructure CEO sets out Africa Data Hub Holding, a JV with a UAE-based DC platform to build 150 MW of AI-ready capacity, starting in South Africa and Nigeria.",
+      "bullets": [
+        "MTN's digital infrastructure arm Bayobab formed Africa Data Hub Holding, a joint venture with a UAE-based investment platform founded by Tarek Al Ashram",
+        "The venture will build AI-enabled data centers with a total capacity of 150 MW in Africa",
+        "South Africa and Nigeria are the starting markets, with the firm focused on moving those projects forward over the next year"
+      ],
+      "lenovo": "Hardware undisclosed, so this is an open ISG opportunity on a Gulf-capital-backed African DC platform reachable from Riyadh and Dubai.",
+      "url": "https://w.media/we-want-to-build-the-foundation-right-inside-mtns-150-mw-data-center-strategy/",
+      "arabic": "إم تي إن تكشف استراتيجية لبناء مراكز بيانات للذكاء الاصطناعي بسعة 150 ميجاواط في أفريقيا عبر مشروع مشترك مع منصة استثمار إماراتية، تبدأ بجنوب أفريقيا ونيجيريا؛ مورد الأجهزة غير معلن."
+    },
+    {
+      "id": "2026-10-26-10",
+      "tier": "Global",
+      "pillar": "AI & markets",
+      "band": "MONITOR",
+      "score": 13,
+      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+      "source": "Anthropic",
+      "published": "26 Oct 2026, ~16:24 KSA (SEC RSS)",
+      "country": "United States",
+      "summary": "Anthropic filed a Form S-1 for a Nasdaq listing under the ticker ANT. Share count and price range are not yet set. The risk factors flag possible limits on selling outside the US.",
+      "bullets": [
+        "Anthropic, PBC filed a Form S-1 registration statement with the SEC for a proposed initial public offering of its Class A common stock",
+        "Anthropic intends to list on the Nasdaq Global Select Market under the ticker \"ANT\"",
+        "The number of shares and price range have not yet been determined, and preliminary prospectus copies are available from Goldman Sachs and Morgan Stanley"
+      ],
+      "lenovo": "Gulf sovereign investors are exposed to Anthropic, and the export-limit risk factor shows US AI vendors' Gulf revenue still depends on licensing. A local, licence-light inference stack is a hedge META buyers will want.",
+      "url": "https://www.anthropic.com/news/s1-sec",
+      "arabic": "أنثروبيك تقدم طلب S-1 لهيئة الأوراق المالية الأمريكية لطرح أسهمها في ناسداك تحت الرمز \"ANT\"، مع إشارة في عوامل المخاطر إلى قيود محتملة على التصدير والبيع خارج الولايات المتحدة."
+    },
+    {
+      "id": "2026-10-26-11",
+      "tier": "Global",
+      "pillar": "AI & markets",
+      "band": "MONITOR",
+      "score": 12,
+      "title": "SpaceX secures $40bn in debt financing, Elon Musk says",
+      "source": "DCD",
+      "published": "26 Oct 2026 (earliest press 01:44 KSA)",
+      "country": "United States",
+      "summary": "SpaceX secured $40bn of Apollo-led debt to buy GPUs. Musk said debt markets have dried up for neoclouds, and Nebius's CEO said some capital sources are temporarily closed.",
+      "bullets": [
+        "SpaceX has secured $40 billion in debt financing to purchase GPUs for AI workloads, with the financing led by Apollo according to an earlier Financial Times report",
+        "Musk said debt markets have completely dried up over the past few weeks for neoclouds without substantial revenue outside AI data centers, and that more than 200 could see guppy-level death",
+        "CoreWeave stock has dropped 41 percent since October 6, and CoreWeave, Nebius and Iren fell more than 4 percent in early premarket trading after the comments"
+      ],
+      "lenovo": "Nebius is HUMAIN/DataVolt's first Oxagon tenant, and Gulf neoclouds rely on the same lenders. Lenovo's balance sheet, TruScale and Lenovo Financial Services become decisive where financing tightens.",
+      "url": "https://www.datacenterdynamics.com/en/news/spacex-secures-40bn-in-debt-financing-elon-musk-says/",
+      "arabic": "سبيس إكس تؤمن تمويلاً بالدين بقيمة 40 مليار دولار لشراء معالجات الرسوميات، فيما يحذر ماسك من جفاف أسواق الدين لشركات السحابة الجديدة؛ إشارة إلى تشدد تمويل مشاريع الحوسبة في المنطقة."
+    },
+    {
+      "id": "2026-10-26-12",
+      "tier": "Global",
+      "pillar": "AI & markets",
+      "band": "LOW",
+      "score": 11,
+      "title": "Meta Announces Launch of Offering of Depositary Shares Representing Series A Mandatory Convertible Preferred Stock and Offering of Class A Common Stock in Connection with Forward Sale Agreements",
+      "source": "Meta (PR Newswire)",
+      "published": "26 Oct 2026, 13:58 KSA",
+      "country": "United States",
+      "summary": "Meta launched about $35bn of equity offerings ($12.5bn mandatory convertible preferred depositary shares and $22.5bn common stock under forward sales). The FT reports a further ~$60bn programme in 2027 for AI expansion.",
+      "bullets": [
+        "Meta is offering approximately $12.5 billion in Depositary Shares representing Preferred Stock and $22.5 billion of shares of Class A common stock",
+        "Morgan Stanley and Goldman Sachs are the lead joint bookrunning managers and forward purchasers",
+        "Meta expects to grant underwriters a 30-day option to purchase up to an additional 37,500,000 Depositary Shares"
+      ],
+      "lenovo": "Hyperscalers raising equity for GPUs keeps pressure on GPU and memory allocation for META buyers, which reinforces delivery certainty and LTA discipline.",
+      "url": "https://www.prnewswire.com/news-releases/meta-announces-launch-of-offering-of-depositary-shares-representing-series-a-mandatory-convertible-preferred-stock-and-offering-of-class-a-common-stock-in-connection-with-forward-sale-agreements-302919267.html",
+      "arabic": "ميتا تطلق طرحاً بنحو 35 مليار دولار من الأسهم الممتازة القابلة للتحويل والأسهم العادية لتمويل توسعها في الذكاء الاصطناعي، ما يبقي الضغط على إمدادات المعالجات والذاكرة عالمياً."
+    },
+    {
+      "id": "2026-10-26-13",
+      "tier": "GCC/MEA",
+      "pillar": "Global tech in META",
+      "band": "RULE",
+      "score": 8,
+      "title": "Huawei Cloud and Fixed Solutions bring Egypt's technology and compliance leaders together",
+      "source": "Zawya (press release)",
+      "published": "26 Oct 2026, 15:03 KSA",
+      "country": "Egypt",
+      "summary": "Huawei Cloud and Fixed Solutions hosted a Personal Data Protection Forum in Cairo for banking, insurance and healthcare CIOs and CISOs on implementing Egypt's PDPL. Included under the Chinese rule.",
+      "bullets": [
+        "Huawei Cloud and Fixed Solutions hosted the Huawei Cloud and Fixed Solutions Personal Data Protection Forum 2026 on implementing Egypt's Personal Data Protection Law No. 151 of 2020",
+        "Attendees included CIOs, CISOs, DPOs, legal advisers and compliance managers from financial services, insurance and healthcare, as well as Chinese companies operating in Egypt",
+        "The forum opened with remarks by Ethan Tan, CEO of Huawei Cloud Egypt, and Mahmoud Tawfik, CEO of Fixed Investment Group and Fixed Solutions"
+      ],
+      "lenovo": "Huawei is using data-residency compliance to pull Egyptian BFSI and healthcare onto its local cloud, competing with Lenovo ISG on-prem and hybrid. PDPL readiness is a door-opener for Lenovo before Cairo ICT.",
+      "url": "https://www.zawya.com/en/press-release/events-conferences/huawei-cloud-and-fixed-solutions-bring-egypts-technology-and-compliance-leaders-together-1851325",
+      "arabic": "هواوي كلاود وفيكسد سوليوشنز تنظمان منتدى حماية البيانات الشخصية في القاهرة لتهيئة البنوك والتأمين والصحة لتطبيق قانون حماية البيانات المصري، مستخدمة الامتثال لجذب العملاء إلى سحابتها المحلية."
+    },
+    {
+      "id": "2026-10-26-14",
+      "tier": "Global",
+      "pillar": "Memory & components",
+      "band": "MONITOR",
+      "score": 12,
+      "title": "[News] SK hynix 3Q Earnings Preview: Record Profit at 78% Operating Margin; HBM4, LTAs, Solidigm in Focus",
+      "source": "TrendForce",
+      "published": "26 Oct 2026, 04:57 KSA",
+      "country": "South Korea",
+      "summary": "Consensus puts SK hynix 3Q26 operating profit at KRW 76.96tn on KRW 98.23tn revenue. TrendForce cites KeyBanc that HP and Dell have extended Micron supply agreements through 2031.",
+      "bullets": [
+        "Market consensus projects SK hynix's 3Q26 consolidated revenue at KRW 98.23 trillion and operating profit at KRW 76.96 trillion",
+        "Hana Securities expects third-quarter DRAM ASPs to rise another 21% QoQ and NAND ASPs to gain 17% sequentially",
+        "Citing KeyBanc, HP and Dell have extended their memory supply agreements with Micron through 2031, while Samsung reportedly plans to allocate 60 to 70% of its memory capacity to long-term contracts"
+      ],
+      "lenovo": "If confirmed, two direct competitors have locked Micron supply five years out, shrinking uncontracted DRAM. Confirm Lenovo's LTA horizon and use delivery certainty in META bids. The claim is second-hand.",
+      "url": "https://www.trendforce.com/news/2026/10/26/news-sk-hynix-3q-earnings-preview-record-profit-at-78-operating-margin-hbm4-ltas-solidigm-in-focus/",
+      "arabic": "توقعات أرباح إس كيه هاينكس للربع الثالث عند 76.96 تريليون وون بهامش 78%، وتقارير عن تمديد إتش بي وديل اتفاقيات توريد الذاكرة مع مايكرون حتى 2031؛ ضغط إضافي على الإمدادات غير المتعاقد عليها."
+    },
+    {
+      "id": "2026-10-26-15",
+      "tier": "Global",
+      "pillar": "Memory & components",
+      "band": "LOW",
+      "score": 10,
+      "title": "Analysts Say SK hynix Can Fund Solidigm Internally",
+      "source": "BusinessKorea",
+      "published": "26 Oct 2026, 14:04 KSA",
+      "country": "South Korea",
+      "summary": "KB Securities says 70-80% of SK hynix's 2027 memory output is effectively secured under long-term agreements and projects 2027 operating profit of KRW 389tn.",
+      "bullets": [
+        "KB Securities researchers Kim Dong-won and Lee Chang-in say about 70 to 80% of SK hynix's scheduled memory production volume for 2027 has effectively been secured",
+        "Next year's operating profit is projected at 389 trillion won, about 50% above this year",
+        "Mirae Asset Securities projects free cash flow of 180 trillion won this year, and SK Securities says next year's will exceed 260 trillion won"
+      ],
+      "lenovo": "With most 2027 supply pre-contracted, large META bids for 2027 need memory allocation secured at quote time, not at order.",
+      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=279693",
+      "arabic": "محللو كيه بي للأوراق المالية: نحو 70-80% من إنتاج إس كيه هاينكس من الذاكرة لعام 2027 مؤمّن بعقود طويلة الأجل، مع أرباح تشغيلية متوقعة 389 تريليون وون؛ هامش ضيق للطلبات غير المخططة."
+    },
+    {
+      "id": "2026-10-26-16",
+      "tier": "Global",
+      "pillar": "Memory & components",
+      "band": "LOW",
+      "score": 9,
+      "title": "Samsung may have overtaken SK hynix in HBM revenue, analysis suggests",
+      "source": "The Korea Herald",
+      "published": "26 Oct 2026, 08:58 KSA",
+      "country": "South Korea",
+      "summary": "Bernstein estimates Samsung's Q3 HBM revenue at $8.7bn against SK hynix's $7.6bn. Counterpoint shows SK hynix's HBM share falling from 64% to 50% in a year.",
+      "bullets": [
+        "Bernstein estimates Samsung's HBM revenue at $8.7 billion for the July-September quarter, versus $7.6 billion for SK hynix",
+        "Counterpoint says SK hynix held 64 percent of global HBM revenue in Q2 2025, falling to 50 percent by Q2 2026 while Samsung's share rose to 33 percent",
+        "Overall HBM exports jumped 45 percent month-on-month and 131 percent year-on-year in September"
+      ],
+      "lenovo": "A more balanced HBM supply base helps 2027 GPU-server availability, but the 28-29 Oct calls will set Q1 2027 server pricing in META.",
+      "url": "https://www.koreaherald.com/article/10915040",
+      "arabic": "تحليل بيرنشتاين: سامسونج ربما تجاوزت إس كيه هاينكس في إيرادات ذاكرة HBM بالربع الثالث (8.7 مقابل 7.6 مليار دولار)، مع قفزة صادرات HBM بنسبة 131% سنوياً في سبتمبر."
+    },
+    {
+      "id": "2026-10-26-17",
+      "tier": "Global",
+      "pillar": "Memory & components",
+      "band": "LOW",
+      "score": 8,
+      "title": "Samsung Commands Premium Prices for HBM",
+      "source": "BusinessKorea",
+      "published": "26 Oct 2026, 15:06 KSA",
+      "country": "South Korea",
+      "summary": "Samsung's average HBM quote is $4.50/Gb against Micron's $4.00 and SK hynix's $3.60-3.80. KB expects Samsung's 2027 HBM ASP to rise 100-150%.",
+      "bullets": [
+        "Samsung Electronics' average HBM quote was $4.50 per 1 gigabit, above Micron at $4 and SK hynix at $3.60 to $3.80",
+        "Industry estimates put HBM3E at about $1.5 to $2.5 per 1Gb and HBM4 at about $3 to $5, based on long-term agreements",
+        "KB Securities analyst Kim Dong-won expects Samsung's 2027 HBM average selling price to rise by 100% to 150% compared to the previous year"
+      ],
+      "lenovo": "HBM price doubling in 2027 flows into AI-server pricing, so build escalation clauses into multi-phase AI factory proposals.",
+      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=279697",
+      "arabic": "سامسونج تفرض أعلى سعر لذاكرة HBM عند 4.50 دولار للجيجابت، مع توقعات بارتفاع متوسط أسعارها في 2027 بنسبة 100-150%؛ ما ينعكس على أسعار خوادم الذكاء الاصطناعي."
+    }
+  ],
+  "opportunities": [
+    {
+      "account": "SDAIA via Al Moammar Information Systems (MIS)",
+      "country": "Saudi Arabia",
+      "bu": ["ISG", "SSG"],
+      "title": "Get Lenovo storage and backup servers onto the SDAIA backup and DR phase-4 BOM through MIS",
+      "why_now": "MIS won a SAR 86.13M SDAIA award to expand backup and disaster-recovery systems with the OEM undisclosed; signing is expected 30 Nov and MIS has a new CEO from 1 Nov.",
+      "entry_point": "MIS presales and procurement for the SDAIA account; SDAIA infrastructure team; incoming MIS CEO Ibrahim Al-Moammar.",
+      "owner": "ISG KSA storage lead with MIS partner manager",
+      "urgency": "This week",
+      "status": "New",
+      "source_story_id": "2026-10-26-01"
+    },
+    {
+      "account": "Mubbadrah Investment consortium - Oman AI data centre (up to 400 MW)",
+      "country": "Oman",
+      "bu": ["ISG"],
+      "title": "Bid hardware for the $3bn, 400 MW Oman AI campus before Crusoe's off-take is confirmed",
+      "why_now": "The CEO says the $3bn covers the shell only; tenants bring servers, an estimated $7-9bn hardware pool, and Crusoe's off-take is still unsigned.",
+      "entry_point": "Mubbadrah CEO Yasser Al Barami for a preferred-vendor and reference-architecture listing for tenants; Deutsche Bank and Sustopia as financiers.",
+      "owner": "ISG GCC data-centre lead",
+      "urgency": "This quarter",
+      "status": "New",
+      "source_story_id": "2026-10-26-05"
+    },
+    {
+      "account": "GCC sovereign-AI buyers – HUMAIN, center3, Core42, e&",
+      "country": "GCC",
+      "bu": ["ISG", "SSG"],
+      "title": "Right-sized, phased AI factories with TruScale against the impairment and neocloud narrative",
+      "why_now": "Musk says neocloud debt has dried up and Nebius (HUMAIN/DataVolt Oxagon tenant) says some capital sources are closed, while Meta and SpaceX raise $35-40bn each for GPUs.",
+      "entry_point": "Nebius MENA and HUMAIN/DataVolt for Oxagon; Hyperfusion, Aleria and Open Innovation AI; Lenovo Financial Services and TruScale.",
+      "owner": "ISG META AI-infrastructure lead with Lenovo Financial Services",
+      "urgency": "This quarter",
+      "status": "New",
+      "source_story_id": "2026-10-26-11"
+    },
+    {
+      "account": "Dubai AI Campus (DIFC) tenants",
+      "country": "UAE",
+      "bu": ["IDG", "SSG"],
+      "title": "Preferred AI PC, workstation and DaaS offer for Dubai AI Campus tenants",
+      "why_now": "New 2030 targets of 1,000+ AI firms approved 26 Oct; 500+ firms already on campus; HP is the only PC OEM partner at the Dubai AI Festival; Scale AI just set up at DIFC.",
+      "entry_point": "DIFC Dubai AI Campus operator; DIFC FinTech Hive; new tenant setup teams.",
+      "owner": "IDG UAE commercial lead with SSG DaaS lead",
+      "urgency": "This quarter",
+      "status": "New",
+      "source_story_id": "2026-10-26-08"
+    },
+    {
+      "account": "Mannai Corp (Mannai Technologies), Qatar",
+      "country": "Qatar",
+      "bu": ["ISG"],
+      "title": "Become the compute and storage partner for Mannai's sovereign AI stacks alongside Cisco",
+      "why_now": "Cisco signed Mannai for sovereign networking and security in Qatar on 26 Oct with compute undisclosed; MWC26 Doha is 8-10 Nov.",
+      "entry_point": "Mannai Technologies leadership; pair with Meeza (OPP-084) and QDS (OPP-091) for a Lenovo sovereign AI pod.",
+      "owner": "ISG Qatar lead",
+      "urgency": "This quarter",
+      "status": "New",
+      "source_story_id": "2026-10-26-06"
+    },
+    {
+      "account": "Africa Data Hub Holding (MTN/Bayobab + UAE platform)",
+      "country": "South Africa / Nigeria",
+      "bu": ["ISG"],
+      "title": "Position Lenovo ISG for the 150 MW AI-ready data centre build in South Africa and Nigeria",
+      "why_now": "The MTN digital infrastructure CEO put the 150 MW plan and the SA/Nigeria phasing on record on 26 Oct; hardware is undisclosed and Gulf capital is behind it.",
+      "entry_point": "Mazen Mroué (MTN Digital Infrastructure); Tarek Al Ashram's UAE DC platform.",
+      "owner": "ISG Africa lead with ISG GCC DC lead",
+      "urgency": "Watch",
+      "status": "New",
+      "source_story_id": "2026-10-26-09"
+    },
+    {
+      "account": "Saudi Ministry of Media (Digital Transformation Agency) via Nutanix",
+      "country": "Saudi Arabia",
+      "bu": ["ISG"],
+      "title": "Co-sell Lenovo ThinkAgile HX into the Ministry of Media's Nutanix hybrid cloud and DR programme",
+      "why_now": "Nutanix's MoU with the Ministry (signed at LEAP, first published 26 Oct) covers hybrid cloud, DR and AI readiness with hardware unnamed; Nutanix also holds a September MoU with MEWA.",
+      "entry_point": "Talal Al-Saif, Nutanix Regional Director KSA; Ministry of Media Digital Transformation Agency (Eng. Ahmed Salem Al-Rashdi).",
+      "owner": "ISG KSA HCI/partner lead",
+      "urgency": "This quarter",
+      "status": "New",
+      "source_story_id": "2026-10-26-18"
+    },
+    {
+      "account": "Industrial AI ISVs (Honeywell, AspenTech, AVEVA, SLB) for META energy accounts",
+      "country": "Nigeria / Kenya / GCC",
+      "bu": ["ISG"],
+      "title": "Certify Lenovo AI edge and servers in industrial ISV stacks to counter Dell's Dangote win",
+      "why_now": "Dell and NVIDIA are inside Honeywell's Forge Plant Cognition at Dangote (26 Oct), and Honeywell's Kenyan refinery reuses that design.",
+      "entry_point": "Honeywell, AspenTech, AVEVA and SLB partner alliances; Dangote IT.",
+      "owner": "ISG energy vertical lead",
+      "urgency": "Watch",
+      "status": "New",
+      "source_story_id": "2026-10-26-07"
+    }
+  ]
+}

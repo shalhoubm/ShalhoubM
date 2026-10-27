@@ -1,0 +1,503 @@
+<title>META Intel Desk</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@75..100,500..800&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans+Arabic:wght@400;500&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap">
+<style>
+:root{
+  --ground:#EEF1F4; --surface:#FFFFFF; --surface-2:#F6F8FA; --line:#D9DEE5;
+  --ink:#141A24; --ink-2:#3C4555; --muted:#697386;
+  --accent:#B3122E; --accent-soft:#F7E3E6;
+  --ksa:#0B7A5A; --ksa-soft:#DDF1EA; --gcc:#A86A12; --gcc-soft:#F6EBD8; --glb:#34568F; --glb-soft:#E1E8F4;
+  --flash:#B3122E; --high:#C4561B; --monitor:#9A7B0A; --low:#6B7483;
+  --shadow:0 1px 2px rgba(20,26,36,.06),0 6px 20px -12px rgba(20,26,36,.18);
+  --display:"Archivo","Arial Narrow",system-ui,sans-serif;
+  --body:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Consolas,monospace;
+  --arabic:"IBM Plex Sans Arabic","Segoe UI",Tahoma,sans-serif;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  color-scheme:dark;
+  --ground:#0E1218; --surface:#161B24; --surface-2:#1C2230; --line:#2A3242;
+  --ink:#E9EDF3; --ink-2:#C2CAD6; --muted:#8E98AA;
+  --accent:#FF5C73; --accent-soft:#3A1720;
+  --ksa:#3CC99A; --ksa-soft:#12302A; --gcc:#E3A548; --gcc-soft:#33260F; --glb:#86A8E6; --glb-soft:#1B2640;
+  --flash:#FF5C73; --high:#F08A52; --monitor:#D9B94A; --low:#8E98AA;
+  --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px -14px rgba(0,0,0,.7);
+}}
+:root[data-theme="dark"]{
+  color-scheme:dark;
+  --ground:#0E1218; --surface:#161B24; --surface-2:#1C2230; --line:#2A3242;
+  --ink:#E9EDF3; --ink-2:#C2CAD6; --muted:#8E98AA;
+  --accent:#FF5C73; --accent-soft:#3A1720;
+  --ksa:#3CC99A; --ksa-soft:#12302A; --gcc:#E3A548; --gcc-soft:#33260F; --glb:#86A8E6; --glb-soft:#1B2640;
+  --flash:#FF5C73; --high:#F08A52; --monitor:#D9B94A; --low:#8E98AA;
+  --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px -14px rgba(0,0,0,.7);
+}
+*{box-sizing:border-box}
+body{background:var(--ground);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.55;-webkit-font-smoothing:antialiased}
+a{color:inherit}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:4px}
+.wrap{max-width:1120px;margin:0 auto;padding-inline:20px}
+
+/* Top bar */
+.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:20;background:color-mix(in srgb,var(--ground) 88%,transparent);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+.top .wrap{display:flex;align-items:center;gap:16px;flex-wrap:wrap;padding-block:12px}
+.brand{display:flex;flex-direction:column;line-height:1.1;margin-right:auto}
+.brand b{font-family:var(--display);font-stretch:78%;font-weight:800;font-size:22px;letter-spacing:.01em;text-transform:uppercase}
+.brand b i{font-style:normal;color:#8B0A1E}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .brand b i{color:#D23A4F}}
+:root[data-theme="dark"] .brand b i{color:#D23A4F}
+.brand span{font-size:12px;color:var(--muted);letter-spacing:.04em}
+.tabs{display:flex;gap:4px;background:var(--surface);border:1px solid var(--line);border-radius:999px;padding:3px}
+.tabs button{font:500 13px/1 var(--body);border:0;background:none;color:var(--ink-2);padding:9px 16px;border-radius:999px;cursor:pointer}
+.tabs button[aria-selected="true"]{background:var(--ink);color:var(--ground)}
+.tabs button .n{font-family:var(--mono);font-size:11px;opacity:.7;margin-left:6px}
+
+/* Date rail */
+.rail{display:flex;align-items:stretch;gap:8px;padding-block:18px 6px}
+.rail .arrow{flex:none;width:38px;border:1px solid var(--line);background:var(--surface);color:var(--ink-2);border-radius:10px;cursor:pointer;font-size:18px}
+.rail .arrow:disabled{opacity:.35;cursor:default}
+.dates{display:flex;gap:8px;overflow-x:auto;scrollbar-width:thin;padding-bottom:6px;flex:1;scroll-snap-type:x proximity}
+.date{flex:none;scroll-snap-align:start;display:grid;grid-template-columns:auto auto;align-items:end;gap:0 10px;min-width:118px;text-align:left;border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:12px;padding:10px 12px;cursor:pointer}
+.date .dow{grid-column:1/-1;font:500 11px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.date .dd{font-family:var(--display);font-stretch:80%;font-weight:700;font-size:28px;line-height:1.05}
+.date .mc{font-size:12px;color:var(--muted);padding-bottom:4px}
+.date .mc b{display:block;font-family:var(--mono);font-weight:500;color:var(--ink-2)}
+.date[aria-current="true"]{border-color:var(--accent);box-shadow:inset 0 0 0 1px var(--accent)}
+.date[aria-current="true"] .dow{color:var(--accent)}
+.date .dot{width:6px;height:6px;border-radius:50%;background:var(--flash);display:inline-block;margin-left:6px;vertical-align:middle}
+
+/* Day brief */
+.brief{display:grid;grid-template-columns:minmax(0,1.5fr) minmax(0,1fr);gap:24px;background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:22px 24px;margin-block:12px 18px;box-shadow:var(--shadow)}
+.brief .eyebrow{font:500 11px/1 var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.brief h2{font-family:var(--display);font-stretch:82%;font-weight:700;font-size:26px;line-height:1.15;margin:8px 0 10px;text-wrap:balance}
+.brief p{margin:0;color:var(--ink-2);max-width:68ch}
+.read{margin-top:14px;padding:12px 14px;border-radius:10px;background:var(--accent-soft);color:var(--ink);font-weight:500}
+.read::before{content:"Lenovo META read";display:block;font:500 10px/1 var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--accent);margin-bottom:6px}
+.pillars{display:grid;gap:10px;align-content:start}
+.pillar{border-left:3px solid var(--line);padding:2px 0 2px 12px}
+.pillar h4{margin:0;font:600 12px/1.3 var(--body);letter-spacing:.02em}
+.pillar p{font-size:13px;line-height:1.45;color:var(--muted)}
+.pillar.p1{border-color:var(--ksa)}.pillar.p2{border-color:var(--accent)}.pillar.p3{border-color:var(--gcc)}.pillar.p4{border-color:var(--glb)}
+
+/* Toolbar */
+.toolbar{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-bottom:14px}
+.seg{display:flex;flex-wrap:wrap;gap:6px}
+.chip{font:500 13px/1 var(--body);border:1px solid var(--line);background:var(--surface);color:var(--ink-2);padding:8px 12px;border-radius:999px;cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--ink);border-color:var(--ink);color:var(--ground)}
+.search{flex:1 1 220px;min-width:0;display:flex}
+.search input{width:100%;font:400 14px var(--body);color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:9px 12px}
+select{font:500 13px var(--body);color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:8px 10px}
+.count{font:500 12px var(--mono);color:var(--muted);margin-left:auto}
+
+/* Stories */
+.feed{display:grid;gap:14px;padding-bottom:48px}
+.story{display:grid;grid-template-columns:260px minmax(0,1fr);gap:20px;background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:14px;scroll-margin-top:90px}
+.story.flash{border-color:color-mix(in srgb,var(--flash) 55%,var(--line))}
+.story:target{box-shadow:0 0 0 2px var(--accent)}
+.thumb{display:block;aspect-ratio:16/9;max-width:100%;border-radius:10px;overflow:hidden;background:var(--surface-2);align-self:start}
+.thumb img{width:100%;height:100%;object-fit:cover;display:block}
+.ph{width:100%;height:100%;display:flex;flex-direction:column;justify-content:space-between;padding:12px 14px;color:var(--ink)}
+.ph small{font:500 10px/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;opacity:.75}
+.ph strong{font-family:var(--display);font-stretch:78%;font-weight:800;font-size:26px;line-height:1;text-transform:uppercase;word-break:break-word}
+.ph.KSA{background:linear-gradient(135deg,var(--ksa-soft),var(--surface-2));color:var(--ksa)}
+.ph.GCC{background:linear-gradient(135deg,var(--gcc-soft),var(--surface-2));color:var(--gcc)}
+.ph.Global{background:linear-gradient(135deg,var(--glb-soft),var(--surface-2));color:var(--glb)}
+.sbody{min-width:0;display:flex;flex-direction:column;gap:8px}
+.meta{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.pill{font:600 11px/1 var(--body);letter-spacing:.04em;padding:5px 8px;border-radius:6px;white-space:nowrap}
+.t-KSA{background:var(--ksa-soft);color:var(--ksa)}.t-GCC{background:var(--gcc-soft);color:var(--gcc)}.t-Global{background:var(--glb-soft);color:var(--glb)}
+.band{font-family:var(--mono);font-weight:500;border:1px solid currentColor;background:none}
+.b-FLASH{color:var(--flash)}.b-HIGH{color:var(--high)}.b-MONITOR{color:var(--monitor)}.b-LOW,.b-RULE{color:var(--low)}
+.kind{color:var(--muted);font:500 12px var(--body)}
+.story h3{margin:0;font-family:var(--display);font-stretch:86%;font-weight:700;font-size:21px;line-height:1.22;text-wrap:balance}
+.story h3 a{text-decoration:none}
+.story h3 a:hover{color:var(--accent)}
+.byline{font:400 12px var(--mono);color:var(--muted)}
+.summary{margin:0;color:var(--ink-2);max-width:72ch}
+details{border-top:1px dashed var(--line);padding-top:6px}
+details summary{cursor:pointer;font:600 12px var(--body);color:var(--ink-2);list-style:none}
+details summary::-webkit-details-marker{display:none}
+details summary::before{content:"+ ";font-family:var(--mono);color:var(--accent)}
+details[open] summary::before{content:"– "}
+details ul{margin:8px 0 2px;padding-left:18px;color:var(--ink-2);font-size:14px}
+details li{margin-bottom:4px}
+.lenovo{font-size:14px;color:var(--ink);background:var(--surface-2);border-radius:10px;padding:10px 12px}
+.lenovo b{font:500 10px/1 var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--accent);display:block;margin-bottom:5px}
+.ar{margin:0;font-family:var(--arabic);font-size:15px;color:var(--ink-2);line-height:1.7}
+.open{align-self:flex-start;font:600 13px var(--body);color:var(--accent);text-decoration:none;border-bottom:1px solid transparent}
+.open:hover{border-color:var(--accent)}
+.empty{padding:40px 20px;text-align:center;color:var(--muted);background:var(--surface);border:1px dashed var(--line);border-radius:16px}
+
+/* Opportunities */
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin-block:18px 16px}
+.stat{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:14px 16px}
+.stat b{display:block;font-family:var(--display);font-stretch:80%;font-weight:700;font-size:32px;line-height:1;font-variant-numeric:tabular-nums}
+.stat span{font-size:12px;color:var(--muted)}
+.opps{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,340px),1fr));gap:14px;padding-bottom:48px}
+.opp{background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:16px 18px;display:flex;flex-direction:column;gap:10px}
+.opp .top-row{display:flex;justify-content:space-between;gap:8px;align-items:flex-start}
+.opp .oid{font:500 11px var(--mono);color:var(--muted)}
+.opp h3{margin:2px 0 0;font-family:var(--display);font-stretch:86%;font-weight:700;font-size:19px;line-height:1.2;text-wrap:balance}
+.acct{font-weight:600;font-size:14px}
+.acct span{font-weight:400;color:var(--muted)}
+.bus{display:flex;gap:6px;flex-wrap:wrap}
+.bu{font:600 11px/1 var(--mono);padding:5px 7px;border-radius:6px;background:var(--surface-2);color:var(--ink-2);border:1px solid var(--line)}
+.u-week{color:var(--flash);border:1px solid currentColor}.u-quarter{color:var(--high);border:1px solid currentColor}.u-watch{color:var(--low);border:1px solid currentColor}
+.kv{display:grid;gap:8px;font-size:14px}
+.kv div b{display:block;font:500 10px/1.2 var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin-bottom:3px}
+.kv p{margin:0;color:var(--ink-2)}
+.trail{margin-top:auto;border-top:1px solid var(--line);padding-top:10px;display:flex;flex-direction:column;gap:6px;font-size:13px}
+.trail .when{font:400 12px var(--mono);color:var(--muted)}
+.trail button{all:unset;cursor:pointer;color:var(--accent);font-weight:600}
+.trail button:hover{text-decoration:underline}
+.status{font:600 11px/1 var(--body);padding:5px 8px;border-radius:6px;background:var(--surface-2);color:var(--ink-2)}
+
+.foot{padding-block:24px 40px;color:var(--muted);font-size:12px;border-top:1px solid var(--line)}
+@media (max-width:760px){
+  .brief{grid-template-columns:1fr;padding:18px}
+  .story{grid-template-columns:1fr}
+  .brief h2{font-size:22px}
+  .count{margin-left:0;width:100%}
+}
+@media (prefers-reduced-motion:no-preference){.story,.opp{animation:rise .35s ease both}@keyframes rise{from{transform:translateY(6px);opacity:.6}to{transform:none;opacity:1}}}
+</style>
+
+<header class="top">
+  <div class="wrap">
+    <div class="brand"><b>META <i>Intel</i> Desk</b><span>Lenovo RHQ Riyadh · Market Intelligence</span></div>
+    <nav class="tabs" role="tablist" aria-label="Views">
+      <button role="tab" id="tab-intel" aria-selected="true" aria-controls="view-intel">Market Intel<span class="n" id="n-intel"></span></button>
+      <button role="tab" id="tab-bd" aria-selected="false" aria-controls="view-bd">BD Opportunities<span class="n" id="n-bd"></span></button>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+  <section id="view-intel" role="tabpanel" aria-labelledby="tab-intel">
+    <div class="rail">
+      <button class="arrow" id="prev" aria-label="Newer date">‹</button>
+      <div class="dates" id="dates" role="list" aria-label="Digest dates"></div>
+      <button class="arrow" id="next" aria-label="Older date">›</button>
+    </div>
+    <div id="brief"></div>
+    <div class="toolbar">
+      <div class="seg" id="tierSeg" role="group" aria-label="Tier">
+        <button class="chip" data-tier="" aria-pressed="true">All</button>
+        <button class="chip" data-tier="KSA" aria-pressed="false">KSA</button>
+        <button class="chip" data-tier="GCC/MEA" aria-pressed="false">GCC / MEA</button>
+        <button class="chip" data-tier="Global" aria-pressed="false">Global</button>
+      </div>
+      <select id="bandSel" aria-label="Priority">
+        <option value="">All priorities</option>
+        <option value="top">Flash + High</option>
+        <option value="MONITOR">Monitor</option>
+        <option value="LOW">Low</option>
+        <option value="RULE">By rule</option>
+      </select>
+      <label class="search"><input id="q" type="search" placeholder="Search stories, companies, countries…" aria-label="Search stories"></label>
+      <span class="count" id="count"></span>
+    </div>
+    <div class="feed" id="feed"><div class="empty">Loading the latest digest…</div></div>
+  </section>
+
+  <section id="view-bd" role="tabpanel" aria-labelledby="tab-bd" hidden>
+    <div class="stats" id="stats"></div>
+    <div class="toolbar">
+      <div class="seg" id="buSeg" role="group" aria-label="Business unit">
+        <button class="chip" data-bu="" aria-pressed="true">All BUs</button>
+        <button class="chip" data-bu="ISG" aria-pressed="false">ISG</button>
+        <button class="chip" data-bu="IDG" aria-pressed="false">IDG</button>
+        <button class="chip" data-bu="SSG" aria-pressed="false">SSG</button>
+      </div>
+      <select id="urgSel" aria-label="Urgency">
+        <option value="">Any urgency</option>
+        <option>This week</option>
+        <option>This quarter</option>
+        <option>Watch</option>
+      </select>
+      <select id="ctySel" aria-label="Country"><option value="">All countries</option></select>
+      <label class="search"><input id="oq" type="search" placeholder="Search accounts, projects, entry points…" aria-label="Search opportunities"></label>
+      <span class="count" id="ocount"></span>
+    </div>
+    <div class="opps" id="opps"></div>
+  </section>
+
+  <footer class="foot">Compiled daily at 07:00 KSA by the META Market Intelligence agent from verified sources published in the preceding 24 hours. Summaries are condensed; follow the source link for the full article.</footer>
+</main>
+
+<script>
+(() => {
+  const $ = (s) => document.querySelector(s);
+  const h = (tag, attrs = {}, ...kids) => {
+    const el = document.createElement(tag);
+    for (const [k, v] of Object.entries(attrs)) {
+      if (v == null || v === false) continue;
+      if (k === "class") el.className = v;
+      else if (k === "text") el.textContent = v;
+      else if (k.startsWith("on")) el.addEventListener(k.slice(2), v);
+      else el.setAttribute(k, v === true ? "" : v);
+    }
+    for (const k of kids.flat()) if (k != null && k !== false) el.append(k.nodeType ? k : document.createTextNode(k));
+    return el;
+  };
+  const store = { get(k) { try { return localStorage.getItem(k); } catch { return null; } }, set(k, v) { try { localStorage.setItem(k, v); } catch {} } };
+  const tierKey = (t) => t === "KSA" ? "KSA" : t === "Global" ? "Global" : "GCC";
+  const fmt = (iso, opts) => new Date(iso + "T12:00:00+03:00").toLocaleDateString("en-GB", opts);
+  const safeUrl = (u) => /^https?:\/\//i.test(u || "") ? u : null;
+
+  let index = [], opps = [], current = null, dayCache = {};
+  const state = { tier: "", band: "", q: "", bu: "", urg: "", cty: "", oq: "" };
+
+  // ---------- Tabs ----------
+  function showTab(which, push = true) {
+    const intel = which !== "bd";
+    $("#tab-intel").setAttribute("aria-selected", intel);
+    $("#tab-bd").setAttribute("aria-selected", !intel);
+    $("#view-intel").hidden = !intel;
+    $("#view-bd").hidden = intel;
+    store.set("mid.tab", intel ? "intel" : "bd");
+    if (push) history.replaceState(null, "", intel ? (current ? "#" + current : "#") : "#opportunities");
+  }
+  $("#tab-intel").addEventListener("click", () => showTab("intel"));
+  $("#tab-bd").addEventListener("click", () => showTab("bd"));
+
+  // ---------- Dates ----------
+  function renderDates() {
+    const box = $("#dates"); box.replaceChildren();
+    for (const d of index) {
+      box.append(h("button", {
+        class: "date", role: "listitem", "aria-current": d.date === current ? "true" : "false",
+        "aria-label": fmt(d.date, { weekday: "long", day: "numeric", month: "long" }) + ", " + d.stories + " stories",
+        onclick: () => openDate(d.date)
+      },
+        h("span", { class: "dow" }, fmt(d.date, { weekday: "short" }), d.flash ? h("span", { class: "dot", title: "Flash item" }) : null),
+        h("span", { class: "dd", text: fmt(d.date, { day: "2-digit" }) }),
+        h("span", { class: "mc" }, fmt(d.date, { month: "short", year: "numeric" }), h("b", { text: d.stories + " stories" }))
+      ));
+    }
+    const i = index.findIndex((d) => d.date === current);
+    $("#prev").disabled = i <= 0;
+    $("#next").disabled = i < 0 || i >= index.length - 1;
+    const active = box.querySelector('[aria-current="true"]');
+    if (active) active.scrollIntoView({ block: "nearest", inline: "nearest" });
+  }
+  $("#prev").addEventListener("click", () => step(-1));
+  $("#next").addEventListener("click", () => step(1));
+  function step(dir) {
+    const i = index.findIndex((d) => d.date === current);
+    const n = index[i + dir];
+    if (n) openDate(n.date);
+  }
+  document.addEventListener("keydown", (e) => {
+    if ($("#view-intel").hidden || /input|select|textarea/i.test(e.target.tagName)) return;
+    if (e.key === "ArrowLeft") step(-1);
+    if (e.key === "ArrowRight") step(1);
+  });
+
+  async function loadDay(date) {
+    if (!dayCache[date]) {
+      const r = await fetch("data/" + date + ".json");
+      if (!r.ok) throw new Error("missing");
+      dayCache[date] = await r.json();
+    }
+    return dayCache[date];
+  }
+
+  async function openDate(date, focusStory) {
+    current = date;
+    renderDates();
+    if (!$("#view-intel").hidden) history.replaceState(null, "", "#" + date);
+    $("#feed").replaceChildren(h("div", { class: "empty", text: "Loading " + fmt(date, { day: "numeric", month: "long" }) + "…" }));
+    try {
+      const day = await loadDay(date);
+      if (current !== date) return;
+      renderBrief(day);
+      renderFeed(day);
+      if (focusStory) {
+        let el = document.getElementById("s-" + focusStory);
+        if (!el) {
+          // The story is hidden by the current filters: clear them so the jump always lands.
+          state.tier = ""; state.band = ""; state.q = "";
+          for (const x of $("#tierSeg").children) x.setAttribute("aria-pressed", x.dataset.tier === "");
+          $("#bandSel").value = ""; $("#q").value = "";
+          renderFeed(day);
+          el = document.getElementById("s-" + focusStory);
+        }
+        if (el) { el.scrollIntoView({ behavior: "smooth", block: "start" }); el.querySelector("h3 a")?.focus({ preventScroll: true }); }
+      } else {
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      }
+    } catch {
+      $("#brief").replaceChildren();
+      $("#feed").replaceChildren(h("div", { class: "empty", text: "This day's stories could not be loaded." }));
+    }
+  }
+
+  function renderBrief(day) {
+    const p = day.pillars || {};
+    const pill = (cls, title, txt) => txt ? h("div", { class: "pillar " + cls }, h("h4", { text: title }), h("p", { text: txt })) : null;
+    $("#brief").replaceChildren(h("section", { class: "brief", "aria-label": "Day brief" },
+      h("div", {},
+        h("div", { class: "eyebrow", text: fmt(day.date, { weekday: "long", day: "numeric", month: "long", year: "numeric" }) + (day.window ? " · " + day.window : "") }),
+        h("h2", { text: firstSentence(day.headline) }),
+        h("p", { text: restSentences(day.headline) }),
+        day.lenovo_read ? h("div", { class: "read", text: day.lenovo_read }) : null
+      ),
+      h("div", { class: "pillars" },
+        pill("p1", "Data-centre build-out", p.dc),
+        pill("p2", "Memory & component pricing", p.memory),
+        pill("p3", "Deals, MoUs & partnerships", p.deals),
+        pill("p4", "Global tech in META", p.global)
+      )
+    ));
+  }
+  // Split only at sentence punctuation followed by whitespace, so decimals like "16.2 MW" never drop text.
+  const sentences = (t) => (t || "").trim().split(/(?<=[.!?])\s+/).filter(Boolean);
+  const firstSentence = (t) => (sentences(t)[0] || "").trim();
+  const restSentences = (t) => sentences(t).slice(1).join(" ").trim();
+
+  function matches(s) {
+    if (state.tier && s.tier !== state.tier) return false;
+    if (state.band === "top" && !["FLASH", "HIGH"].includes(s.band)) return false;
+    if (state.band && state.band !== "top" && s.band !== state.band) return false;
+    if (state.q) {
+      const hay = [s.title, s.summary, s.source, s.country, s.pillar, s.lenovo, ...(s.bullets || [])].join(" ").toLowerCase();
+      if (!state.q.toLowerCase().split(/\s+/).every((w) => hay.includes(w))) return false;
+    }
+    return true;
+  }
+
+  function renderFeed(day) {
+    const list = (day.stories || []).filter(matches);
+    $("#count").textContent = list.length + " of " + (day.stories || []).length + " stories";
+    const feed = $("#feed");
+    if (!list.length) { feed.replaceChildren(h("div", { class: "empty", text: "No stories match these filters for this day." })); return; }
+    feed.replaceChildren(...list.map(storyCard));
+  }
+
+  function storyCard(s) {
+    const url = safeUrl(s.url);
+    const tk = tierKey(s.tier);
+    const thumb = s.image
+      ? h("img", { src: s.image, alt: "", loading: "lazy", decoding: "async" })
+      : h("div", { class: "ph " + tk }, h("small", { text: s.pillar || s.tier }), h("strong", { text: s.source || s.tier }));
+    const bandTxt = s.band === "RULE" ? "BY RULE" : s.band + (s.score != null ? " · " + s.score : "");
+    return h("article", { class: "story" + (s.band === "FLASH" ? " flash" : ""), id: "s-" + s.id },
+      url ? h("a", { class: "thumb", href: url, target: "_blank", rel: "noopener", tabindex: "-1", "aria-hidden": "true" }, thumb) : h("div", { class: "thumb" }, thumb),
+      h("div", { class: "sbody" },
+        h("div", { class: "meta" },
+          h("span", { class: "pill t-" + tk, text: s.tier }),
+          s.band ? h("span", { class: "pill band b-" + s.band, text: bandTxt }) : null,
+          s.pillar ? h("span", { class: "kind", text: s.pillar }) : null
+        ),
+        h("h3", { dir: "auto" }, url ? h("a", { href: url, target: "_blank", rel: "noopener", text: s.title }) : s.title),
+        h("div", { class: "byline", text: [s.source, s.published, s.country].filter(Boolean).join(" · ") }),
+        s.summary ? h("p", { class: "summary", text: s.summary }) : null,
+        (s.bullets && s.bullets.length) ? h("details", {}, h("summary", { text: "Key facts" }), h("ul", {}, s.bullets.map((b) => h("li", { dir: "auto", text: b })))) : null,
+        s.lenovo ? h("div", { class: "lenovo" }, h("b", { text: "Why it matters for Lenovo" }), s.lenovo) : null,
+        s.arabic ? h("p", { class: "ar", dir: "rtl", lang: "ar", text: s.arabic }) : null,
+        url ? h("a", { class: "open", href: url, target: "_blank", rel: "noopener", text: "Read at source ↗" }) : null
+      )
+    );
+  }
+
+  $("#tierSeg").addEventListener("click", (e) => {
+    const b = e.target.closest("button"); if (!b) return;
+    state.tier = b.dataset.tier;
+    for (const x of $("#tierSeg").children) x.setAttribute("aria-pressed", x === b);
+    if (current && dayCache[current]) renderFeed(dayCache[current]);
+  });
+  $("#bandSel").addEventListener("change", (e) => { state.band = e.target.value; if (dayCache[current]) renderFeed(dayCache[current]); });
+  $("#q").addEventListener("input", (e) => { state.q = e.target.value.trim(); if (dayCache[current]) renderFeed(dayCache[current]); });
+
+  // ---------- Opportunities ----------
+  const urgClass = (u) => u === "This week" ? "u-week" : u === "This quarter" ? "u-quarter" : "u-watch";
+  function oppMatches(o) {
+    if (state.bu && !(o.bu || []).includes(state.bu)) return false;
+    if (state.urg && o.urgency !== state.urg) return false;
+    if (state.cty && o.country !== state.cty) return false;
+    if (state.oq) {
+      const hay = [o.title, o.account, o.country, o.why_now, o.entry_point, o.owner].join(" ").toLowerCase();
+      if (!state.oq.toLowerCase().split(/\s+/).every((w) => hay.includes(w))) return false;
+    }
+    return true;
+  }
+  function renderStats() {
+    const c = (f) => opps.filter(f).length;
+    const stat = (n, label) => h("div", { class: "stat" }, h("b", { text: String(n) }), h("span", { text: label }));
+    $("#stats").replaceChildren(
+      stat(opps.length, "Opportunities tracked"),
+      stat(c((o) => o.urgency === "This week"), "Act this week"),
+      stat(c((o) => (o.bu || []).includes("ISG")), "ISG — infrastructure"),
+      stat(c((o) => (o.bu || []).includes("IDG")), "IDG — devices"),
+      stat(c((o) => (o.bu || []).includes("SSG")), "SSG — services")
+    );
+  }
+  function renderOpps() {
+    const list = opps.filter(oppMatches);
+    $("#ocount").textContent = list.length + " of " + opps.length;
+    const box = $("#opps");
+    if (!list.length) { box.replaceChildren(h("div", { class: "empty", text: opps.length ? "No opportunities match these filters." : "Opportunities appear here as the daily digests identify them." })); return; }
+    box.replaceChildren(...list.map((o) => {
+      const sight = (o.sightings || []).slice().sort((a, b) => b.date.localeCompare(a.date));
+      return h("article", { class: "opp" },
+        h("div", { class: "top-row" },
+          h("div", {}, h("div", { class: "oid", text: o.id + " · first seen " + fmt(o.first_seen, { day: "numeric", month: "short" }) }), h("h3", { text: o.title })),
+          o.urgency ? h("span", { class: "pill " + urgClass(o.urgency), text: o.urgency }) : null
+        ),
+        h("div", { class: "acct" }, o.account, o.country ? h("span", { text: " · " + o.country }) : null),
+        h("div", { class: "bus" }, (o.bu || []).map((b) => h("span", { class: "bu", text: b })), o.status ? h("span", { class: "status", text: o.status }) : null),
+        h("div", { class: "kv" },
+          o.why_now ? h("div", {}, h("b", { text: "Why now" }), h("p", { text: o.why_now })) : null,
+          o.entry_point ? h("div", {}, h("b", { text: "Entry point" }), h("p", { text: o.entry_point })) : null,
+          o.owner ? h("div", {}, h("b", { text: "Suggested owner" }), h("p", { text: o.owner })) : null
+        ),
+        sight.length ? h("div", { class: "trail" },
+          ...sight.slice(0, 3).map((s) => h("div", {},
+            h("div", { class: "when", text: fmt(s.date, { weekday: "short", day: "numeric", month: "short" }) }),
+            s.story_id ? h("button", { onclick: () => { showTab("intel"); openDate(s.date, s.story_id); } }, s.title || "Open the story") : (s.title || "")
+          ))
+        ) : null
+      );
+    }));
+  }
+  $("#buSeg").addEventListener("click", (e) => {
+    const b = e.target.closest("button"); if (!b) return;
+    state.bu = b.dataset.bu;
+    for (const x of $("#buSeg").children) x.setAttribute("aria-pressed", x === b);
+    renderOpps();
+  });
+  $("#urgSel").addEventListener("change", (e) => { state.urg = e.target.value; renderOpps(); });
+  $("#ctySel").addEventListener("change", (e) => { state.cty = e.target.value; renderOpps(); });
+  $("#oq").addEventListener("input", (e) => { state.oq = e.target.value.trim(); renderOpps(); });
+
+  // ---------- Boot ----------
+  async function boot() {
+    try {
+      const [ix, op] = await Promise.all([
+        fetch("data/index.json").then((r) => r.ok ? r.json() : []),
+        fetch("data/opportunities.json").then((r) => r.ok ? r.json() : []).catch(() => [])
+      ]);
+      index = Array.isArray(ix) ? ix : [];
+      opps = Array.isArray(op) ? op : [];
+    } catch { index = []; opps = []; }
+    $("#n-intel").textContent = index.length ? index.length + "d" : "";
+    $("#n-bd").textContent = opps.length ? String(opps.length) : "";
+    const countries = [...new Set(opps.map((o) => o.country).filter(Boolean))].sort();
+    for (const c of countries) $("#ctySel").append(h("option", { value: c, text: c }));
+    renderStats(); renderOpps();
+
+    const hash = decodeURIComponent(location.hash.slice(1));
+    const wantDate = index.find((d) => d.date === hash)?.date;
+    const tab = hash === "opportunities" ? "bd" : wantDate ? "intel" : (store.get("mid.tab") || "intel");
+    showTab(tab, false);
+    if (!index.length) {
+      $("#feed").replaceChildren(h("div", { class: "empty", text: "No digests published yet. The first one appears after the next 07:00 KSA run." }));
+      return;
+    }
+    openDate(wantDate || index[0].date);
+  }
+  boot();
+})();
+</script>

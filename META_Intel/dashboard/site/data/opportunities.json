@@ -1,0 +1,3238 @@
+[
+    {
+        "id":  "OPP-088",
+        "title":  "Hold price protection on Q4 bids despite the Korean memory equity rout",
+        "account":  "META deal desk – Q4 memory pricing discipline",
+        "country":  "Regional (META)",
+        "bu":  [
+                   "IDG",
+                   "ISG"
+               ],
+        "why_now":  "Reports of CoWoS up to +20% and wafers +3-6% from Jan 2027, DRAM shipments restricted by up to 50%, and Chinese hyperscalers seeking 10-year DRAM contracts.",
+        "entry_point":  "Deal desk and pricing leads: component escalators on 2027 AI-server quotes; trade price for allocation on Q1 device bids.",
+        "owner":  "META deal-desk lead with IDG and ISG product pricing",
+        "urgency":  "This week",
+        "status":  "New",
+        "first_seen":  "2026-10-18",
+        "last_seen":  "2026-10-27",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-18",
+                              "story_id":  "2026-10-18-07",
+                              "title":  "Samsung, SK hynix suffer worst weekly stock rout since 2008",
+                              "url":  "https://www.koreaherald.com/article/10906189"
+                          },
+                          {
+                              "date":  "2026-10-27",
+                              "story_id":  "2026-10-27-09",
+                              "title":  "[News] TSMC Reportedly Eyes 20% CoWoS Price Hike, Skips Equipment Price Renegotiations Amid AI Demand Surge",
+                              "url":  "https://www.trendforce.com/news/2026/10/27/news-tsmc-reportedly-eyes-20-cowos-price-hike-skips-equipment-price-renegotiations-amid-ai-demand-surge/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-125",
+        "title":  "Make Lenovo ThinkSystem immersion-ready and Neptune nodes the compute reference in Submer-Aginode AI data-centre designs",
+        "account":  "Submer (with Aginode) - META AI data-centre delivery",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "Submer\u0027s third META facility-layer pact this autumn, signed in Dammam on 27 Oct, has no compute OEM attached; customers already in Egypt.",
+        "entry_point":  "Khalid Aljamed (GM, Submer); joint reference architecture for AI factories and sovereign programmes.",
+        "owner":  "ISG alliances lead",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-10-27",
+        "last_seen":  "2026-10-27",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-27",
+                              "story_id":  "2026-10-27-02",
+                              "title":  "Submer and Aginode sign collaboration agreement to strengthen AI data centre delivery across the META region",
+                              "url":  "https://www.tahawultech.com/channel/submer-and-aginode-sign-collaboration-agreement-to-strengthen-ai-data-centre-delivery-across-the-meta-region/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-126",
+        "title":  "Get Lenovo devices and peripherals approved for call-offs under the SAR 134.84M SDAIA framework through MIS",
+        "account":  "SDAIA via Al Moammar Information Systems (MIS) - device and peripherals framework",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "IDG",
+                   "SSG"
+               ],
+        "why_now":  "MIS signed the 36-month SDAIA framework on 27 Oct for networking, workstation accessories, biometric devices, cameras and video-conferencing kit with no OEM named; MIS also holds SDAIA DR phase 4 and changes CEO on 1 Nov.",
+        "entry_point":  "MIS procurement and SDAIA account team; position ThinkVision monitors, docks, peripherals, ThinkSmart collaboration and rugged tablets.",
+        "owner":  "IDG public-sector account lead with channel manager for MIS",
+        "urgency":  "This week",
+        "status":  "New",
+        "first_seen":  "2026-10-27",
+        "last_seen":  "2026-10-27",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-27",
+                              "story_id":  "2026-10-27-01",
+                              "title":  "MIS rolls out SAR 135m framework contract with SDAIA",
+                              "url":  "https://english.mubasher.info/news/4691445/MIS-rolls-out-SAR-135m-framework-contract-with-SDAIA/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-127",
+        "title":  "Secure a Lenovo presence at GITEX Global against Huawei and Supermicro visibility",
+        "account":  "GITEX Global 2026 (Dubai, 7-11 Dec)",
+        "country":  "UAE",
+        "bu":  [
+                   "IDG",
+                   "ISG"
+               ],
+        "why_now":  "The 27 Oct sponsor list shows Huawei Platinum and Supermicro with NVIDIA on the badge, with Lenovo, Dell, HP and HPE absent; Riyadh events keep moving, so Dubai in December is the main regional stage.",
+        "entry_point":  "META marketing and the GITEX organiser; hosted meetings plus a sovereign-AI and ALAT localisation session.",
+        "owner":  "META marketing director with ISG and IDG GMs",
+        "urgency":  "This week",
+        "status":  "New",
+        "first_seen":  "2026-10-27",
+        "last_seen":  "2026-10-27",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-27",
+                              "story_id":  "",
+                              "title":  null,
+                              "url":  null
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-085",
+        "title":  "Right-sized, phased AI factories with TruScale against the impairment and neocloud narrative",
+        "account":  "GCC sovereign-AI buyers – HUMAIN, center3, Core42, e\u0026",
+        "country":  "Saudi Arabia / UAE",
+        "bu":  [
+                   "ISG",
+                   "SSG"
+               ],
+        "why_now":  "Musk says neocloud debt has dried up and Nebius (HUMAIN/DataVolt Oxagon tenant) says some capital sources are closed, while Meta and SpaceX raise $35-40bn each for GPUs.",
+        "entry_point":  "Nebius MENA and HUMAIN/DataVolt for Oxagon; Hyperfusion, Aleria and Open Innovation AI; Lenovo Financial Services and TruScale.",
+        "owner":  "ISG META AI-factory lead with SSG TruScale",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-10-15",
+        "last_seen":  "2026-10-26",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-15",
+                              "story_id":  "2026-10-15-12",
+                              "title":  "Gartner Says Over $3.5 Trillion of AI Infrastructure Spending Could Be Exposed to Impairment by the End of 2030",
+                              "url":  "https://www.gartner.com/en/newsroom/press-releases/2026-10-14-gartner-says-over-us-dollars-three-and-a-half-trillion-of-artificial-intelligence-infrastructure-spending-could-be-exposed-to-impairment-by-the-end-of-2030"
+                          },
+                          {
+                              "date":  "2026-10-26",
+                              "story_id":  "2026-10-26-11",
+                              "title":  "SpaceX secures $40bn in debt financing, Elon Musk says",
+                              "url":  "https://www.datacenterdynamics.com/en/news/spacex-secures-40bn-in-debt-financing-elon-musk-says/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-118",
+        "title":  "Bid hardware for the $3bn, 400 MW Oman AI campus before Crusoe\u0027s off-take is confirmed",
+        "account":  "Mubbadrah Investment consortium - Oman AI data centre (up to 400 MW)",
+        "country":  "Oman",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "The CEO says the $3bn covers the shell only; tenants bring servers, an estimated $7-9bn hardware pool, and Crusoe\u0027s off-take is still unsigned.",
+        "entry_point":  "Mubbadrah CEO Yasser Al Barami for a preferred-vendor and reference-architecture listing for tenants; Deutsche Bank and Sustopia as financiers.",
+        "owner":  "ISG GCC data-centre lead",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-10-25",
+        "last_seen":  "2026-10-26",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-25",
+                              "story_id":  "",
+                              "title":  null,
+                              "url":  null
+                          },
+                          {
+                              "date":  "2026-10-26",
+                              "story_id":  "2026-10-26-05",
+                              "title":  "م. ياسر البرعمي لـ«الوصال»: 3 مليارات دولار لتأسيس مجمع حوسبة وذكاء اصطناعي في صلالة.. واستثمارات العملاء قد تضيف 7 إلى 9 مليارات أخرى",
+                              "url":  "https://alwisal.om/2026/10/25/%d9%85-%d9%8a%d8%a7%d8%b3%d8%b1-%d8%a7%d9%84%d8%a8%d8%b1%d8%b9%d9%85%d9%8a-%d9%84%d9%80%d8%a7%d9%84%d9%88%d8%b5%d8%a7%d9%84-3-%d9%85%d9%84%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa-%d8%af%d9%88/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-119",
+        "title":  "Get Lenovo storage and backup servers onto the SDAIA backup and DR phase-4 BOM through MIS",
+        "account":  "SDAIA via Al Moammar Information Systems (MIS)",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "ISG",
+                   "SSG"
+               ],
+        "why_now":  "MIS won a SAR 86.13M SDAIA award to expand backup and disaster-recovery systems with the OEM undisclosed; signing is expected 30 Nov and MIS has a new CEO from 1 Nov.",
+        "entry_point":  "MIS presales and procurement for the SDAIA account; SDAIA infrastructure team; incoming MIS CEO Ibrahim Al-Moammar.",
+        "owner":  "ISG KSA storage lead with MIS partner manager",
+        "urgency":  "This week",
+        "status":  "New",
+        "first_seen":  "2026-10-26",
+        "last_seen":  "2026-10-26",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-26",
+                              "story_id":  "2026-10-26-01",
+                              "title":  "MIS wins SAR 86.1M SDAIA project",
+                              "url":  "https://www.argaam.com/en/article/articledetail/id/1947288"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-120",
+        "title":  "Preferred AI PC, workstation and DaaS offer for Dubai AI Campus tenants",
+        "account":  "Dubai AI Campus (DIFC) tenants",
+        "country":  "UAE",
+        "bu":  [
+                   "IDG",
+                   "SSG"
+               ],
+        "why_now":  "New 2030 targets of 1,000+ AI firms approved 26 Oct; 500+ firms already on campus; HP is the only PC OEM partner at the Dubai AI Festival; Scale AI just set up at DIFC.",
+        "entry_point":  "DIFC Dubai AI Campus operator; DIFC FinTech Hive; new tenant setup teams.",
+        "owner":  "IDG UAE commercial lead with SSG DaaS lead",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-10-26",
+        "last_seen":  "2026-10-26",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-26",
+                              "story_id":  "2026-10-26-08",
+                              "title":  "Sheikh Hamdan approves targets for Dubai\u0027s AI campus to attract 1,000 firms and create 5,000 jobs",
+                              "url":  "https://www.thenationalnews.com/news/uae/2026/10/26/sheikh-hamdan-approves-targets-for-dubais-ai-campus-to-attract-1000-firms-and-create-5000-jobs/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-121",
+        "title":  "Certify Lenovo AI edge and servers in industrial ISV stacks to counter Dell\u0027s Dangote win",
+        "account":  "Industrial AI ISVs (Honeywell, AspenTech, AVEVA, SLB) for META energy accounts",
+        "country":  "Nigeria / Kenya / GCC",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "Dell and NVIDIA are inside Honeywell\u0027s Forge Plant Cognition at Dangote (26 Oct), and Honeywell\u0027s Kenyan refinery reuses that design.",
+        "entry_point":  "Honeywell, AspenTech, AVEVA and SLB partner alliances; Dangote IT.",
+        "owner":  "ISG energy vertical lead",
+        "urgency":  "Watch",
+        "status":  "New",
+        "first_seen":  "2026-10-26",
+        "last_seen":  "2026-10-26",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-26",
+                              "story_id":  "2026-10-26-07",
+                              "title":  "Honeywell brings AI backed by Nvidia and Dell to Africa\u0027s biggest refinery as Dangote pushes to improve productivity",
+                              "url":  "https://africa.businessinsider.com/local/markets/honeywell-brings-ai-backed-by-nvidia-and-dell-to-africas-biggest-refinery-as-dangote/smyfmec"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-122",
+        "title":  "Position Lenovo ISG for the 150 MW AI-ready data centre build in South Africa and Nigeria",
+        "account":  "Africa Data Hub Holding (MTN/Bayobab + UAE platform)",
+        "country":  "South Africa / Nigeria",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "The MTN digital infrastructure CEO put the 150 MW plan and the SA/Nigeria phasing on record on 26 Oct; hardware is undisclosed and Gulf capital is behind it.",
+        "entry_point":  "Mazen Mroué (MTN Digital Infrastructure); Tarek Al Ashram\u0027s UAE DC platform.",
+        "owner":  "ISG Africa lead with ISG GCC DC lead",
+        "urgency":  "Watch",
+        "status":  "New",
+        "first_seen":  "2026-10-26",
+        "last_seen":  "2026-10-26",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-26",
+                              "story_id":  "2026-10-26-09",
+                              "title":  "\"We want to build the foundation right\": Inside MTN\u0027s 150 MW data center strategy",
+                              "url":  "https://w.media/we-want-to-build-the-foundation-right-inside-mtns-150-mw-data-center-strategy/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-123",
+        "title":  "Become the compute and storage partner for Mannai\u0027s sovereign AI stacks alongside Cisco",
+        "account":  "Mannai Corp (Mannai Technologies), Qatar",
+        "country":  "Qatar",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "Cisco signed Mannai for sovereign networking and security in Qatar on 26 Oct with compute undisclosed; MWC26 Doha is 8-10 Nov.",
+        "entry_point":  "Mannai Technologies leadership; pair with Meeza (OPP-084) and QDS (OPP-091) for a Lenovo sovereign AI pod.",
+        "owner":  "ISG Qatar lead",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-10-26",
+        "last_seen":  "2026-10-26",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-26",
+                              "story_id":  "2026-10-26-06",
+                              "title":  "Cisco partners with Mannai to build sovereign AI infrastructure in Qatar",
+                              "url":  "https://www.tahawultech.com/channel/cisco-partners-with-mannai-to-build-sovereign-ai-infrastructure-in-qatar/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-124",
+        "title":  "Co-sell Lenovo ThinkAgile HX into the Ministry of Media\u0027s Nutanix hybrid cloud and DR programme",
+        "account":  "Saudi Ministry of Media (Digital Transformation Agency) via Nutanix",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "Nutanix\u0027s MoU with the Ministry (signed at LEAP, first published 26 Oct) covers hybrid cloud, DR and AI readiness with hardware unnamed; Nutanix also holds a September MoU with MEWA.",
+        "entry_point":  "Talal Al-Saif, Nutanix Regional Director KSA; Ministry of Media Digital Transformation Agency (Eng. Ahmed Salem Al-Rashdi).",
+        "owner":  "ISG KSA HCI/partner lead",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-10-26",
+        "last_seen":  "2026-10-26",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-26",
+                              "story_id":  "2026-10-26-18",
+                              "title":  "Nutanix and Saudi Ministry of Media sign MoU to build a more resilient, AI-ready digital foundation for the media sector",
+                              "url":  "https://www.zawya.com/en/press-release/events-conferences/nutanix-and-saudi-ministry-of-media-sign-mou-to-build-a-more-resilient-ai-ready-digital-foundation-for-the-media-sector-1851414"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-114",
+        "title":  "Win a role in Pakistan\u0027s 500,000-Chromebook student programme",
+        "account":  "Pakistan PM Youth Chromebooks Scheme (MoITT, Tech Valley Haripur)",
+        "country":  "Pakistan",
+        "bu":  [
+                   "IDG"
+               ],
+        "why_now":  "Launched 25 Oct with supply from the Google/Tech Valley Haripur line and no OEM brand disclosed.",
+        "entry_point":  "PM Youth Programme office and MoITT; Tech Valley as potential ODM/channel partner; Google for Education Pakistan.",
+        "owner":  "Lenovo Pakistan country GM with IDG education lead",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-10-25",
+        "last_seen":  "2026-10-25",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-25",
+                              "story_id":  "2026-10-25-06",
+                              "title":  "Pakistan vows to distribute 500,000 Chromebooks to students on merit within two years",
+                              "url":  "https://www.arabnews.pk/node/3005234/pakistan"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-115",
+        "title":  "Counter HPE\u0027s SAMD localisation KPIs with a published Lenovo-ALAT Made-in-KSA scorecard",
+        "account":  "MCIT SAMD programme and Saudi ISVs (ShaheenAI, Mozn, OmniOps)",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "IDG",
+                   "ISG",
+                   "SSG"
+               ],
+        "why_now":  "HPE published 2027 localisation targets (30 companies, 12 solutions, 150 nationals), restated alfanar-built servers and tied itself to MCIT\u0027s SAMD programme and Saudi ISVs.",
+        "entry_point":  "MCIT SAMD programme team; ShaheenAI, Mozn and OmniOps as a second hardware partner; ALAT for joint messaging.",
+        "owner":  "META government affairs lead with ISG KSA lead",
+        "urgency":  "This week",
+        "status":  "New",
+        "first_seen":  "2026-10-25",
+        "last_seen":  "2026-10-25",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-25",
+                              "story_id":  "2026-10-25-01",
+                              "title":  "\"إتش بي إي\" توسّع التوطين التقني في السعودية ليشمل البرمجيات والملكية الفكرية",
+                              "url":  "https://www.alriyadh.com/2212318"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-116",
+        "title":  "Take a GSTS/SAIF partner slot for safe-city, cyber and education offers",
+        "account":  "MOI GSTS/SAIF - Elm, Tahakom, Tuwaiq Academy",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "SSG",
+                   "IDG",
+                   "ISG"
+               ],
+        "why_now":  "The organising committee is recruiting 100 partners for 1 Nov-20 Dec; it replaces the postponed Intersec Saudi and no OEM is named yet.",
+        "entry_point":  "Elm (principal partner) and Tahakom (founding partner) partnership teams; Tahaluf as producer.",
+        "owner":  "SSG public-safety lead with META events",
+        "urgency":  "This week",
+        "status":  "New",
+        "first_seen":  "2026-10-25",
+        "last_seen":  "2026-10-25",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-25",
+                              "story_id":  "2026-10-25-04",
+                              "title":  "اللجنة المنظمة للقمة العالمية للأمن والتقنية تستعرض برامج القمة وفعالياتها المصاحبة",
+                              "url":  "https://spa.gov.sa/ar/N2709441"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-117",
+        "title":  "Neptune TCO offensive ahead of the 1 Jan 2027 Saudi electricity tariff reset",
+        "account":  "KSA DC operators - center3, HUMAIN, DataVolt, Gulf Data Hub",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "Saudi Energy\u0027s tariff adjustment takes effect 1 Jan 2027; commercial and industrial rates still to be verified.",
+        "entry_point":  "DC operator engineering and finance teams; on-prem enterprise DCs; PUE/TCO model once rates are confirmed.",
+        "owner":  "ISG KSA solutions architect lead",
+        "urgency":  "Watch",
+        "status":  "New",
+        "first_seen":  "2026-10-25",
+        "last_seen":  "2026-10-25",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-25",
+                              "story_id":  "2026-10-25-02",
+                              "title":  "Saudi Energy Announces Electricity Service Tariff Adjustment from January 1, 2027",
+                              "url":  "https://www.spa.gov.sa/en/N2709801"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-109",
+        "title":  "Win hardware for DataVolt\u0027s 12 MW TAS-1 (500 MW planned) as a reference before Oxagon",
+        "account":  "DataVolt – TAS-1 data centre, Tashkent",
+        "country":  "Uzbekistan",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "Phase 1 is nearly complete and due by end-2026 with the hardware supplier undisclosed; DataVolt also develops HUMAIN\u0027s Oxagon campus.",
+        "entry_point":  "DataVolt head of investments (DCD Connect MENA 26-27 Oct) and Vision Invest; coordinate with Lenovo CIS/Central Asia.",
+        "owner":  "ISG KSA AI-factory lead",
+        "urgency":  "This week",
+        "status":  "New",
+        "first_seen":  "2026-10-24",
+        "last_seen":  "2026-10-24",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-24",
+                              "story_id":  "2026-10-24-03",
+                              "title":  "DataVolt Nears Completion of US$200 Million Green Data Centre",
+                              "url":  "https://www.uzdaily.uz/en/datavolt-nears-completion-of-us200-million-green-data-centre/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-110",
+        "title":  "Sell \u0027survivable AI\u0027: in-country DR, edge and on-prem copies after the Gulf cable threat",
+        "account":  "Gulf banks and government – in-country, distributed DR and AI",
+        "country":  "Saudi Arabia / UAE / Qatar",
+        "bu":  [
+                   "ISG",
+                   "SSG"
+               ],
+        "why_now":  "Reuters reports Iran has detailed plans to cut Gulf subsea cables and block repairs; Bloomberg Economics frames home-built DCs as at risk. Boards will ask about cable-cut scenarios this week.",
+        "entry_point":  "Bank CIOs and CROs (SAMA-regulated banks, ENBD, QNB), NIC/DGA, telco DR services (center3, stc Bahrain).",
+        "owner":  "ISG KSA/GCC enterprise leads with SSG DR services lead",
+        "urgency":  "This week",
+        "status":  "New",
+        "first_seen":  "2026-10-24",
+        "last_seen":  "2026-10-24",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-24",
+                              "story_id":  "2026-10-24-04",
+                              "title":  "Iranian officials: Tehran has detailed plans to hit Gulf undersea cables if war resumes",
+                              "url":  "https://www.timesofisrael.com/liveblog_entry/iranian-officials-tehran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-111",
+        "title":  "Counter Dell\u0027s Cairo ICT title sponsorship with a Lenovo side-event or executive programme",
+        "account":  "Cairo ICT 2026 – MCIT Egypt, Telecom Egypt, Vodafone Egypt",
+        "country":  "Egypt",
+        "bu":  [
+                   "IDG",
+                   "ISG",
+                   "SSG"
+               ],
+        "why_now":  "Dell is Title Sponsor and Huawei Technology Partner for 7-10 Nov; Lenovo is absent while Egypt plans 5-7 mega data centres.",
+        "entry_point":  "MCIT Egypt, Telecom Egypt, Vodafone Egypt, Orange Egypt; off-site executive meetings.",
+        "owner":  "META marketing/events lead with Egypt country GM",
+        "urgency":  "This week",
+        "status":  "New",
+        "first_seen":  "2026-10-24",
+        "last_seen":  "2026-10-24",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-24",
+                              "story_id":  "2026-10-24-04",
+                              "title":  "Iranian officials: Tehran has detailed plans to hit Gulf undersea cables if war resumes",
+                              "url":  "https://www.timesofisrael.com/liveblog_entry/iranian-officials-tehran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-112",
+        "title":  "Safe-city edge and rugged devices at World Police Summit Dubai (16-18 Nov)",
+        "account":  "Dubai Police / UAE MOI – World Police Summit",
+        "country":  "UAE",
+        "bu":  [
+                   "SSG",
+                   "IDG"
+               ],
+        "why_now":  "The region\u0027s live safe-city venue while Intersec Saudi is postponed to Oct 2027.",
+        "entry_point":  "Dubai Police, UAE MOI and GCC police forces; ThinkEdge video analytics and rugged devices.",
+        "owner":  "SSG public-safety lead",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-10-24",
+        "last_seen":  "2026-10-24",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-24",
+                              "story_id":  "2026-10-24-05",
+                              "title":  "سعود بن صقر القاسمي يختتم زيارة عمل إلى الصين ببحث فرص التعاون والاستثمار",
+                              "url":  "https://emirates24.net/local/2310/120552/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-113",
+        "title":  "Take the empty server-OEM slot at Abu Dhabi\u0027s 17-19 Nov data-centre events",
+        "account":  "Khazna / Core42 – Data Center World ME and Touchdown ME, Abu Dhabi",
+        "country":  "UAE",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "Data Center World ME (1st edition) and Touchdown ME run back-to-back with no server OEM sponsor listed.",
+        "entry_point":  "Event organisers for a speaking/partner slot; Khazna and Core42 infrastructure heads; UAE MoEI Chief AI Officer.",
+        "owner":  "ISG UAE lead with META events",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-10-24",
+        "last_seen":  "2026-10-24",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-24",
+                              "story_id":  "2026-10-24-01",
+                              "title":  "Gulf Nation AI Ambitions Face Risks at Home and Abroad",
+                              "url":  "https://www.bloomberg.com/news/newsletters/2026-10-24/gulf-nation-ai-ambitions-face-risks-at-home-and-abroad-new-economy"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-104",
+        "title":  "Contain Huawei at DEWA and win Moro Hub\u0027s regulated and AI workloads with a trusted non-Huawei stack",
+        "account":  "Moro Hub (Digital DEWA) / DEWA International",
+        "country":  "UAE",
+        "bu":  [
+                   "ISG",
+                   "SSG"
+               ],
+        "why_now":  "DEWA signed Huawei through Moro Hub for ICT, networks, data centres and servers at WETEX (21 Oct).",
+        "entry_point":  "Moro Hub CTO and sovereign-cloud product leads; TCS energy practice (DEWA International IT/OT partner).",
+        "owner":  "ISG UAE account lead with government affairs",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-10-22",
+        "last_seen":  "2026-10-22",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-22",
+                              "story_id":  "2026-10-22-04",
+                              "title":  "DEWA signs three agreements with global partners during WETEX 2026",
+                              "url":  "https://www.wam.ae/en/article/c2us57j-dewa-signs-three-agreements-with-global-partners"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-105",
+        "title":  "Win the server, storage and cooling OEM slot for Nebius\u0027s 50 MW at HUMAIN/DataVolt Oxagon",
+        "account":  "Nebius / HUMAIN / DataVolt – Oxagon AI campus, NEOM",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "ISG",
+                   "SSG"
+               ],
+        "why_now":  "Nebius named HUMAIN\u0027s first customer for up to 50 MW of the first 100 MW, live from Q4 2027, on NVIDIA compute with no OEM named; Dell already shipping a DSX POD modular design.",
+        "entry_point":  "Nebius EMEA infrastructure procurement; DataVolt CEO office and head of investments (DCD Connect MENA 26-27 Oct); MIS as HUMAIN\u0027s design-and-build contractor.",
+        "owner":  "ISG KSA AI-factory lead with the NVIDIA alliance manager",
+        "urgency":  "This week",
+        "status":  "New",
+        "first_seen":  "2026-10-22",
+        "last_seen":  "2026-10-22",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-22",
+                              "story_id":  "2026-10-22-01",
+                              "title":  "HUMAIN and DataVolt sign framework agreement with Nebius for large-scale campus in Saudi Arabia",
+                              "url":  "https://w.media/humain-and-datavolt-sign-framework-agreement-with-nebius/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-106",
+        "title":  "Position Lenovo GPU servers and Neptune cooling for Aleria\u0027s 14,000-GPU and modular builds",
+        "account":  "Aleria (Abu Dhabi) – 60 MW Rubin site and 10 MW Hyperfusion modular DC",
+        "country":  "UAE",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "Two GPU builds announced 21 Oct with no server OEM; the 10 MW modular site targets Q1 2027 with a 45°C warm-water loop.",
+        "entry_point":  "Aleria infrastructure leadership; NVIDIA Cloud Partner team for the UAE; Hyperfusion (OPP-096).",
+        "owner":  "ISG UAE AI-infrastructure lead",
+        "urgency":  "This week",
+        "status":  "New",
+        "first_seen":  "2026-10-22",
+        "last_seen":  "2026-10-22",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-22",
+                              "story_id":  "2026-10-22-05",
+                              "title":  "Aleria Expands UAE Sovereign AI Capacity with 14,000 NVIDIA Rubin GPUs",
+                              "url":  "https://www.einpresswire.com/article/951258220/aleria-expands-uae-sovereign-ai-capacity-with-14-000-nvidia-rubin-gpus"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-107",
+        "title":  "Get Lenovo validated under Open Innovation AI\u0027s stack for VivoPower\u0027s first GCC sovereign AI site",
+        "account":  "Open Innovation AI / VivoPower – GCC sovereign AI data centres",
+        "country":  "UAE / GCC",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "1 GW three-year heads of agreement covering the GCC signed 21 Oct; hardware undisclosed.",
+        "entry_point":  "Open Innovation AI partnerships team.",
+        "owner":  "ISG UAE partner manager",
+        "urgency":  "Watch",
+        "status":  "New",
+        "first_seen":  "2026-10-22",
+        "last_seen":  "2026-10-22",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-22",
+                              "story_id":  "2026-10-22-09",
+                              "title":  "VivoPower, Open Innovation AI to develop sovereign AI data centers across Europe, Gulf and Asia",
+                              "url":  "https://www.proactiveinvestors.com/companies/news/1100482/vivopower-open-innovation-ai-to-develop-sovereign-ai-data-centers-across-europe-gulf-and-asia-1100482.html"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-108",
+        "title":  "Edge compute at 4,000 GCC towers through the new Zain–Ooredoo TowerCo",
+        "account":  "Zain–Ooredoo regional tower platform (ITK Kuwait, Al Abraj Qatar)",
+        "country":  "Kuwait / Qatar",
+        "bu":  [
+                   "ISG",
+                   "SSG"
+               ],
+        "why_now":  "First closing of the 50:50 tower platform on an infrastructure-as-a-service model; more portfolios to come.",
+        "entry_point":  "TowerCo leadership once named; Zain Group and Ooredoo infrastructure strategy teams.",
+        "owner":  "ISG telco lead (GCC)",
+        "urgency":  "Watch",
+        "status":  "New",
+        "first_seen":  "2026-10-22",
+        "last_seen":  "2026-10-22",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-22",
+                              "story_id":  "2026-10-22-07",
+                              "title":  "Zain and Ooredoo Combine 4,000 Towers in Regional Infrastructure Deal",
+                              "url":  "https://techafricanews.com/2026/10/22/zain-ooredoo-combine-4000-towers-regional-infrastructure-deal/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-099",
+        "title":  "Position Lenovo-delivered DSX POD AI factories for Gulf capacity needed before 2028 halls",
+        "account":  "Nvidia DSX POD – Gulf fast-capacity AI factories (HUMAIN, center3, DataVolt, Khazna)",
+        "country":  "Saudi Arabia / UAE",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "Nvidia named Lenovo among 17 DSX POD delivery partners on 21 Oct, deliveries from early 2027; Dell and HPE are on the same list.",
+        "entry_point":  "HUMAIN DC delivery team; DC developers\u0027 CTOs; Nvidia META sovereign AI team.",
+        "owner":  "ISG KSA AI-factory lead with Nvidia alliance manager and Neptune cooling specialist",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-10-21",
+        "last_seen":  "2026-10-21",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-21",
+                              "story_id":  "2026-10-21-11",
+                              "title":  "NVIDIA Introduces DSX POD AI Factories to Accelerate Europe’s Infrastructure Deployment",
+                              "url":  "https://nvidianews.nvidia.com/news/nvidia-introduces-dsx-pod-ai-factories-to-accelerate-europes-infrastructure-deployment"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-100",
+        "title":  "Offer allocation-guaranteed, in-country AI compute to Gulf sovereign funds and their AI companies",
+        "account":  "Gulf sovereign AI buyers – PIF/HUMAIN, Mubadala/MGX/G42, QIA/Qai, KIA",
+        "country":  "GCC",
+        "bu":  [
+                   "ISG",
+                   "SSG"
+               ],
+        "why_now":  "AGBI (21 Oct) reports the funds now demand compute on Gulf soil, guaranteed chip allocations and data residency; Supermicro\u0027s beat shows AI-server capacity is being absorbed fast.",
+        "entry_point":  "Fund AI-infrastructure investment teams and portfolio procurement (HUMAIN, Core42, Qai).",
+        "owner":  "ISG META GM\u0027s office with trade compliance and the ALAT localisation lead",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-10-21",
+        "last_seen":  "2026-10-21",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-21",
+                              "story_id":  "2026-10-21-03",
+                              "title":  "Gulf wealth funds seek greater control over AI bets",
+                              "url":  "https://www.agbi.com/analysis/ai/2026/10/gulf-wealth-funds-seek-greater-control-over-ai-bets/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-101",
+        "title":  "Win the platform and tenant fit-out hardware for Umniah\u0027s new Amman data centre",
+        "account":  "Umniah by Beyon – Amman Tier III data centre",
+        "country":  "Jordan",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "Tier III constructed-facility certification on 20 Oct; launch approaching; hardware undisclosed.",
+        "entry_point":  "Umniah Business Officer\u0027s team and DC operations.",
+        "owner":  "ISG Levant account lead",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-10-21",
+        "last_seen":  "2026-10-21",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-21",
+                              "story_id":  "2026-10-21-07",
+                              "title":  "Umniah’s New Data Center, the Largest in Amman, Nears Launch Following Tier III Facility Certification",
+                              "url":  "https://alsaa.net/amp/654573/Umniah%E2%80%99s-New-Data-Center"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-102",
+        "title":  "Engage post-IPO MNT-Halan on devices-as-a-service and infrastructure",
+        "account":  "MNT-Halan / MNT Tech Holding",
+        "country":  "Egypt",
+        "bu":  [
+                   "IDG",
+                   "SSG",
+                   "ISG"
+               ],
+        "why_now":  "EGP 7.84bn IPO closed 20 Oct; funded fintech scaling operations.",
+        "entry_point":  "CFO/COO and IT infrastructure lead.",
+        "owner":  "Lenovo Egypt enterprise account lead",
+        "urgency":  "Watch",
+        "status":  "New",
+        "first_seen":  "2026-10-21",
+        "last_seen":  "2026-10-21",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-21",
+                              "story_id":  "2026-10-21-08",
+                              "title":  "Egypt fintech firm MNT-Halan rises 6.6% on debut after biggest IPO since 2021",
+                              "url":  "https://www.zawya.com/en/capital-markets/egypt-fintech-firm-mnt-halan-rises-6.6-on-debut-after-biggest-ipo-since-2021-1794118"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-103",
+        "title":  "Supply the Databricks Abu Dhabi office fleet and build a joint on-prem AI reference",
+        "account":  "Databricks MEA – Abu Dhabi hub (Feb 2027)",
+        "country":  "UAE",
+        "bu":  [
+                   "IDG",
+                   "SSG",
+                   "ISG"
+               ],
+        "why_now":  "Office opens February 2027 with the MEA team relocating and headcount set to more than double.",
+        "entry_point":  "Databricks regional HQ setup and IT leads; alliances.",
+        "owner":  "IDG UAE commercial lead",
+        "urgency":  "Watch",
+        "status":  "New",
+        "first_seen":  "2026-10-21",
+        "last_seen":  "2026-10-21",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-21",
+                              "story_id":  "2026-10-21-06",
+                              "title":  "Databricks sets sights on Abu Dhabi as Middle East growth takes off",
+                              "url":  "https://fortune.com/2026/10/21/databricks-sets-sights-abu-dhabi-middle-east-growth-takes-off/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-075",
+        "title":  "Decide FII10 attendance and book HUMAIN, PIF-portfolio and MCIT executive meetings",
+        "account":  "FII10 executive meeting slate – HUMAIN, PIF portfolio, MCIT/SDAIA",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "ISG",
+                   "IDG",
+                   "SSG"
+               ],
+        "why_now":  "FII10 postponed to 2027 (19 Oct); Intersec Saudi and Saudi Retail Forum also moved. Convert FII side meetings to one-to-one Riyadh meetings in the 26-29 Oct week or DCD\u003eConnect MENA / GITEX Global.",
+        "entry_point":  "Existing FII meeting requests converted to Riyadh office meetings; DCD\u003eConnect MENA Dubai (if confirmed 26-27 Oct); GITEX Global 7-11 Dec.",
+        "owner":  "RHQ executive office with ISG KSA HUMAIN account lead",
+        "urgency":  "This week",
+        "status":  "New",
+        "first_seen":  "2026-10-11",
+        "last_seen":  "2026-10-20",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-11",
+                              "story_id":  "2026-10-11-02",
+                              "title":  "Major Saudi conferences to proceed, organisers say, despite deadly airport attack",
+                              "url":  "https://www.brecorder.com/news/40443656/major-saudi-conferences-to-proceed-organisers-say-despite-deadly-airport-attack"
+                          },
+                          {
+                              "date":  "2026-10-14",
+                              "story_id":  "2026-10-14-02",
+                              "title":  "EXCLUSIVE-Saudi Arabia plans hybrid format for marquee FII conference after attacks, sources say",
+                              "url":  "https://www.devdiscourse.com/article/international/3991751-exclusive-saudi-arabia-plans-hybrid-format-for-marquee-fii-conference-after-attacks-sources-say"
+                          },
+                          {
+                              "date":  "2026-10-20",
+                              "story_id":  "2026-10-20-01",
+                              "title":  "FII Institute postpones 10th annual conference to 2027",
+                              "url":  "https://www.arabnews.com/business/fii-institute-postpones-10th-annual-conference-to-2027-3007192"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-095",
+        "title":  "Get Lenovo onto the next phases (DR, storage, AI inference) of NBB Group\u0027s data-centre modernisation through stc Bahrain",
+        "account":  "NBB Group (Bahrain) – data-centre modernisation via stc Bahrain",
+        "country":  "Bahrain",
+        "bu":  [
+                   "ISG",
+                   "SSG"
+               ],
+        "why_now":  "stc Bahrain completed phase 2 of NBB\u0027s DC transformation (BisB integration) with the infrastructure OEM undisclosed; further phases typically follow.",
+        "entry_point":  "NBB Group CTO office (Razi Amin); stc Bahrain enterprise/ICT; Lenovo Bahrain distributor.",
+        "owner":  "Lenovo Bahrain/GCC ISG account manager with channel lead",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-10-20",
+        "last_seen":  "2026-10-20",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-20",
+                              "story_id":  "2026-10-20-07",
+                              "title":  "Stc Bahrain partners with NBB Group to modernize Data Center infrastructure and elevate financial sector capabilities",
+                              "url":  "https://www.zawya.com/en/press-release/companies-news/stc-bahrain-partners-with-nbb-group-to-modernize-data-center-infrastructure-and-elevate-financial-sector-capabilities-1761580"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-096",
+        "title":  "Win the GPU-server OEM slot in Hyperfusion\u0027s 96-GPU Sentinel and HyperPod modular AI data centres",
+        "account":  "Hyperfusion (UAE) – Sentinel / HyperPod modular sovereign AI pods",
+        "country":  "UAE",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "VAST is now the data layer and joint go-to-market starts now; the GPU-server vendor is undisclosed and ZTE is launching a competing micro-module AIDC.",
+        "entry_point":  "Hyperfusion founders and engineering; VAST Data META alliances.",
+        "owner":  "ISG UAE AI-infrastructure lead with alliances",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-10-20",
+        "last_seen":  "2026-10-20",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-20",
+                              "story_id":  "2026-10-20-08",
+                              "title":  "VAST Data and Hyperfusion Accelerate AI Infrastructure Deployment from Years to Weeks",
+                              "url":  "https://fintechgate.net/254975"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-097",
+        "title":  "Offer ThinkEdge compute and rugged devices for TAWAL\u0027s tower-estate monitoring and AI analytics",
+        "account":  "TAWAL (stc towers) – edge compute behind Samsung SmartThings Pro roll-out",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "ISG",
+                   "IDG"
+               ],
+        "why_now":  "Samsung won the IoT and monitoring platform across 30,000+ towers in five countries; on-site and aggregation edge compute is not named.",
+        "entry_point":  "TAWAL CTO and operations; solutions by stc as integrator.",
+        "owner":  "ISG KSA telco account lead",
+        "urgency":  "Watch",
+        "status":  "New",
+        "first_seen":  "2026-10-20",
+        "last_seen":  "2026-10-20",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-20",
+                              "story_id":  "2026-10-20-03",
+                              "title":  "TAWAL Signs Agreement with Samsung for Network Asset Monitoring and Management",
+                              "url":  "https://www.einpresswire.com/article/950921758/tawal-signs-agreement-with-samsung-for-network-asset-monitoring-and-management"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-098",
+        "title":  "Position Lenovo in Egypt\u0027s first national data-centre strategy and Orange Egypt\u0027s AI DC capacity talks",
+        "account":  "Egypt MCIT national DC strategy / Orange Egypt AI data centre",
+        "country":  "Egypt",
+        "bu":  [
+                   "ISG",
+                   "SSG"
+               ],
+        "why_now":  "Officials will finalise the national DC strategy before end-2026; only about 20 MW is firmly committed and Orange Egypt\u0027s AI DC talks name no OEM.",
+        "entry_point":  "MCIT Egypt; Orange Egypt enterprise/infrastructure; Vertiv-IoT Misr as facilities co-sell partner.",
+        "owner":  "Lenovo Egypt ISG lead",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-10-20",
+        "last_seen":  "2026-10-20",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-20",
+                              "story_id":  "2026-10-20-09",
+                              "title":  "Egypt\u0027s play to become an exporter of computing power",
+                              "url":  "https://enterpriseam.com/ai/2026/10/20/egypts-play-to-become-an-exporter-of-computing-power/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-091",
+        "title":  "Get Lenovo servers, storage, DR and devices onto the QDS bill of materials",
+        "account":  "Qatar Cabinet General Secretariat – digital infrastructure and business continuity (via QDS)",
+        "country":  "Qatar",
+        "bu":  [
+                   "ISG",
+                   "SSG",
+                   "IDG"
+               ],
+        "why_now":  "Contract signed 18 Oct with Qatar Computer Systems covering infrastructure, business continuity, application security and data protection; OEM undisclosed.",
+        "entry_point":  "QDS presales and alliances; Al Darwish United Group; Lenovo Qatar distributor.",
+        "owner":  "Lenovo Qatar ISG account manager with channel lead",
+        "urgency":  "This week",
+        "status":  "New",
+        "first_seen":  "2026-10-19",
+        "last_seen":  "2026-10-19",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-19",
+                              "story_id":  "2026-10-19-04",
+                              "title":  "الأمانة العامة لمجلس الوزراء تعلن بدء تنفيذ مشروع تطوير البنية التحتية الرقمية",
+                              "url":  "https://qna.org.qa/ar-QA/news/news-details?id=الامانة-العامة-لمجلس-الوزراء-تعلن-بدء-تنفيذ-مشروع-تطوير-البنية-التحتية-الرقمية\u0026date=18/10/2026"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-092",
+        "title":  "Position Lenovo as the in-Kingdom AI-factory supplier for GCC and foreign tenants of the 14 GW offer",
+        "account":  "MCIT / MISA – KSA 14 GW data-centre sites and power offer",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "ISG",
+                   "SSG"
+               ],
+        "why_now":  "MCIT publicly offered sites and 14 GW of DC power to the GCC and the world and proposed a GCC digital interconnection; Europe is power-constrained (Microsoft-Nscale); no vendor named.",
+        "entry_point":  "MCIT digital infrastructure team; MISA data-centre investment desk; developers and colocation operators taking the sites (center3, DataVolt, HUMAIN, Salam).",
+        "owner":  "ISG KSA AI-factory lead with RHQ government affairs",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-10-19",
+        "last_seen":  "2026-10-19",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-19",
+                              "story_id":  "2026-10-19-01",
+                              "title":  "Saudi Arabia Calls for Sustainable GCC Digital Connectivity and Sovereign Computing to Strengthen Global Competitiveness",
+                              "url":  "https://www.spa.gov.sa/en/N2704500"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-093",
+        "title":  "Position ThinkEdge and on-prem AI inference for the Raed autonomous offshore platform",
+        "account":  "KJO / Aramco Digital / SLB – Raed autonomous offshore platform",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "ISG",
+                   "SSG"
+               ],
+        "why_now":  "Three-way MoU on generative AI, autonomous operations, cloud, real-time analytics and industrial IoT; compute vendor undisclosed; signing date unconfirmed.",
+        "entry_point":  "Aramco Digital telecoms (Eid Al-Harbi); KJO projects and engineering (Musaed Al-Mazeed); SLB Saudi and Bahrain (Reda Kalkouli).",
+        "owner":  "ISG KSA energy-vertical lead",
+        "urgency":  "Watch",
+        "status":  "New",
+        "first_seen":  "2026-10-19",
+        "last_seen":  "2026-10-19",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-19",
+                              "story_id":  "2026-10-19-02",
+                              "title":  "\"الخفجي المشتركة\" توقع مذكرة تفاهم مع \"أرامكو\" و\"إس إل بي\" لتطوير \"منصة رائد\"",
+                              "url":  "https://alseyassah.com/article/473865/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-094",
+        "title":  "Offer right-sized liquid-cooled GPU clusters and TruScale GPU-as-a-service for Vodacom\u0027s Egypt and Kenya builds",
+        "account":  "Vodacom – sovereign AI GPUs (Africa Data Centres Egypt, Kenya GPU-as-a-service)",
+        "country":  "Egypt",
+        "bu":  [
+                   "ISG",
+                   "SSG"
+               ],
+        "why_now":  "Group CTO deciding build vs buy after meeting Nvidia; Africa Data Centres Egypt phase one about $200m with own GPUs; server OEM undisclosed; Huawei incumbent risk.",
+        "entry_point":  "Vodacom Group CTO office (Dejan Kastelic); Vodafone Business Egypt; Elsewedy Electric and Cassava; Nvidia Africa partner team.",
+        "owner":  "Lenovo ISG Africa/Egypt AI lead",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-10-19",
+        "last_seen":  "2026-10-19",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-19",
+                              "story_id":  "2026-10-19-05",
+                              "title":  "Vodacom’s technology chief outlines regional data centre strategy",
+                              "url":  "https://www.businessday.co.za/companies/2026-10-18-vodacoms-technology-chief-outlines-regional-data-centre-strategy/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-086",
+        "title":  "Offer licensed, scheduled GPU-server delivery as US chip shipments lag",
+        "account":  "HUMAIN and G42 – GPU-server delivery certainty",
+        "country":  "Saudi Arabia / UAE",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "AGBI (16 Oct, catch-up) reports only part of 35,000 authorised Blackwell chips delivered to HUMAIN and G42; G42/Core42 direct-purchase facility runs to 6 Apr 2027.",
+        "entry_point":  "HUMAIN and Core42 procurement; Lenovo trade compliance with the Nvidia allocation team.",
+        "owner":  "ISG META GM\u0027s office with trade compliance",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-10-18",
+        "last_seen":  "2026-10-18",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-18",
+                              "story_id":  "2026-10-18-01",
+                              "title":  "Humain\u0027s next build goes to tender, Aramco fills the pipe order books, Taiba exits a hotel",
+                              "url":  "https://enterpriseam.com/ksa/2026/10/18/humains-next-build-goes-to-tender-aramco-fills-the-pipe-order-books-taiba-exits-a-hotel/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-087",
+        "title":  "Get Neptune cooling interface and AI-factory reference rack to HUMAIN and EPC bidders before 8 Nov",
+        "account":  "HUMAIN – 100 MW Al-Saad AI data centre (EPC tender)",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "ISG",
+                   "SSG"
+               ],
+        "why_now":  "EPC RFP for a c. USD 1bn, 100 MW facility with 240-250 kW liquid-cooled racks closes 8 Nov; no GPU, server or cooling vendor named; CEO reaffirms 250 MW by year-end and 1.7 GW in 2027.",
+        "entry_point":  "HUMAIN DC delivery and procurement; shortlisted EPC bidders (Al Yamama holds campus enabling works; MIS is HUMAIN\u0027s work-order contractor); Nvidia Saudi.",
+        "owner":  "ISG KSA AI-factory lead with Neptune solutions architect",
+        "urgency":  "This week",
+        "status":  "New",
+        "first_seen":  "2026-10-18",
+        "last_seen":  "2026-10-18",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-18",
+                              "story_id":  "2026-10-18-01",
+                              "title":  "Humain\u0027s next build goes to tender, Aramco fills the pipe order books, Taiba exits a hotel",
+                              "url":  "https://enterpriseam.com/ksa/2026/10/18/humains-next-build-goes-to-tender-aramco-fills-the-pipe-order-books-taiba-exits-a-hotel/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-089",
+        "title":  "Sign Systems Limited as SI partner for telco and banking infrastructure",
+        "account":  "Systems Limited – SI partner (Egypt, UAE)",
+        "country":  "Egypt / UAE",
+        "bu":  [
+                   "SSG",
+                   "ISG"
+               ],
+        "why_now":  "Plans to raise Egypt investment by more than 50% in 2027; serves Orange, Vodafone, e\u0026, nine Egyptian banks and two UAE banks.",
+        "entry_point":  "Systems Egypt GM Ahmed Kandil; Systems Limited group alliances.",
+        "owner":  "Lenovo Egypt channel/alliances lead",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-10-18",
+        "last_seen":  "2026-10-18",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-18",
+                              "story_id":  "2026-10-18-04",
+                              "title":  "Systems Limited invests $10m in Egypt, targets further growth in 2027",
+                              "url":  "https://www.dailynewsegypt.com/2026/10/17/systems-limited-invests-10m-in-egypt-targets-further-growth-in-2027/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-090",
+        "title":  "Counter ByteDance Lark with digital-workplace services and government devices",
+        "account":  "Pakistan MoITT – public-sector digital workplace",
+        "country":  "Pakistan",
+        "bu":  [
+                   "SSG",
+                   "IDG"
+               ],
+        "why_now":  "MoITT is reportedly close to adopting Lark government-wide; hosting and devices undecided.",
+        "entry_point":  "MoITT digital-government team; Pakistani SIs.",
+        "owner":  "Lenovo Pakistan country manager with SSG digital-workplace lead",
+        "urgency":  "Watch",
+        "status":  "New",
+        "first_seen":  "2026-10-18",
+        "last_seen":  "2026-10-18",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-18",
+                              "story_id":  "2026-10-18-03",
+                              "title":  "Pakistan Nears Deal to Adopt ByteDance\u0027s Lark Workplace Platform",
+                              "url":  "https://www.techjuice.pk/pakistan-nears-deal-to-adopt-bytedances-lark-workplace-platform/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-061",
+        "title":  "Measured DR and continuity offer after the Riyadh Aramco strike",
+        "account":  "KSA energy and government accounts – business continuity and DR",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "ISG",
+                   "SSG"
+               ],
+        "why_now":  "Reuters sources say Aramco\u0027s Dhahran HQ fire spread across floors 6–10, with staff working from home and functions moved to global offices.",
+        "entry_point":  "Existing Aramco IT and Aramco Digital sponsors via the account team",
+        "owner":  "ISG KSA energy account lead with SSG KSA services lead",
+        "urgency":  "This week",
+        "status":  "New",
+        "first_seen":  "2026-10-04",
+        "last_seen":  "2026-10-15",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-04",
+                              "story_id":  "2026-10-04-02",
+                              "title":  "Yemen\u0027s Houthis Say They Attacked Aramco Facility in Riyadh With Missiles, Drones",
+                              "url":  "https://www.usnews.com/news/world/articles/2026-10-03/fire-smoke-seen-near-aramco-facility-in-riyadh-witness-says"
+                          },
+                          {
+                              "date":  "2026-10-08",
+                              "story_id":  "2026-10-08-01",
+                              "title":  "Three killed, 36 injured in Houthi attacks on Saudi airports, Riyadh says",
+                              "url":  "https://www.aljazeera.com/news/2026/10/7/saudi-arabia-says-three-foreign-nationals-killed-in-attacks-on-airports"
+                          },
+                          {
+                              "date":  "2026-10-11",
+                              "story_id":  "2026-10-11-01",
+                              "title":  "Riyadh airport attack killed 12 people and wounded over 300 more, says Saudi civil aviation agency",
+                              "url":  "https://www.arabnews.com/saudi-arabia/riyadh-airport-attack-killed-12-people-and-wounded-over-300-more-says-saudi-civil-aviation-agency-3005640"
+                          },
+                          {
+                              "date":  "2026-10-14",
+                              "story_id":  "2026-10-14-01",
+                              "title":  "Aramco\u0027s Dhahran headquarters hit during Houthi missile attack on Saudi Arabia",
+                              "url":  "https://www.worldoil.com/news/2026/10/13/aramco-s-dhahran-headquarters-hit-during-houthi-missile-attack-on-saudi-arabia/"
+                          },
+                          {
+                              "date":  "2026-10-15",
+                              "story_id":  "2026-10-15-01",
+                              "title":  "Saudi Aramco headquarters suffered extensive damage in Houthi attack, sources say",
+                              "url":  "https://www.straitstimes.com/world/middle-east/aramcos-dhahran-hq-suffered-extensive-damage-in-tuesdays-attack-sources-say"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-071",
+        "title":  "ALAT-made devices and edge for giga-project packages now favouring local content",
+        "account":  "Giga-project local sourcing – ROSHN, Qiddiya",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "IDG",
+                   "ISG"
+               ],
+        "why_now":  "Semafor reports PIF is set to drop five World Cup stadiums including ROSHN, Qiddiya Coast, NEOM and New Murabba; re-scope toward confirmed venues.",
+        "entry_point":  "PIF portfolio IT office and main contractors on confirmed venues",
+        "owner":  "IDG KSA public-sector/giga-project lead with government affairs",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-10-06",
+        "last_seen":  "2026-10-15",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-06",
+                              "story_id":  "2026-10-06-07",
+                              "title":  "War disruption drives Saudi giga-projects to source locally",
+                              "url":  "https://www.agbi.com/analysis/giga-projects/2026/10/war-disruption-drives-saudi-giga-projects-to-source-locally/"
+                          },
+                          {
+                              "date":  "2026-10-15",
+                              "story_id":  "2026-10-15-02",
+                              "title":  "Exclusive / Saudi set to drop plans for five 2034 World Cup stadiums",
+                              "url":  "https://www.semafor.com/article/10/14/2026/saudi-set-to-drop-plans-for-five-2034-world-cup-stadiums"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-082",
+        "title":  "Defend notebook and monitor channel share after LG appoints Al Mulla Electronics",
+        "account":  "Kuwait IDG channel – LG–Al Mulla",
+        "country":  "Kuwait",
+        "bu":  [
+                   "IDG"
+               ],
+        "why_now":  "LG made Al Mulla Electronics its authorised Kuwait distributor on 14 Oct, including laptops and monitors, with an experience center in 2027.",
+        "entry_point":  "Lenovo Kuwait distributors and retail partners; Al Mulla Group",
+        "owner":  "Lenovo Kuwait country manager with IDG channel lead",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-10-15",
+        "last_seen":  "2026-10-15",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-15",
+                              "story_id":  "2026-10-15-09",
+                              "title":  "LG Electronics Accelerates GCC Growth Trajectory with Strategic Partnership in Kuwait",
+                              "url":  "https://www.prnewswire.com/news-releases/lg-electronics-accelerates-gcc-growth-trajectory-with-strategic-partnership-in-kuwait-302908441.html"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-083",
+        "title":  "Get Lenovo endpoints and hospital DC refresh onto the MIS–KSMC bill of materials",
+        "account":  "MIS – King Saud Medical City IT contract",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "IDG",
+                   "ISG"
+               ],
+        "why_now":  "SAR 179.78M, 60-month contract signed 14 Oct with impact from Q1 2027; hardware OEM undisclosed; MIS is also HUMAIN\u0027s work-order contractor.",
+        "entry_point":  "MIS bid and procurement team; KSMC IT directorate",
+        "owner":  "KSA healthcare/public-sector account director with IDG KSA channel lead",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-10-15",
+        "last_seen":  "2026-10-15",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-15",
+                              "story_id":  "2026-10-15-03",
+                              "title":  "MIS signs SAR 179.8M contract with KSMC",
+                              "url":  "https://www.argaam.com/en/article/articledetail/id/1944086"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-084",
+        "title":  "ThinkAgile MX Azure Local hardware for Meeza\u0027s sovereign private cloud",
+        "account":  "Meeza – Microsoft Sovereign Private Cloud on Azure Local",
+        "country":  "Qatar",
+        "bu":  [
+                   "ISG",
+                   "SSG"
+               ],
+        "why_now":  "Launched 14 Oct with Meeza supplying the hardware and no server OEM named; Azure Local runs only on validated hardware.",
+        "entry_point":  "Meeza CTO and DC infrastructure team; Microsoft Qatar partner team",
+        "owner":  "ISG Qatar account lead with Microsoft alliance manager",
+        "urgency":  "This week",
+        "status":  "New",
+        "first_seen":  "2026-10-15",
+        "last_seen":  "2026-10-15",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-15",
+                              "story_id":  "2026-10-15-06",
+                              "title":  "Meeza, Microsoft launch Sovereign Private Cloud for enterprises in Qatar",
+                              "url":  "https://thepeninsulaqatar.com/article/14/10/2026/meeza-microsoft-launch-sovereign-private-cloud-for-enterprises-in-qatar"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-069",
+        "title":  "Re-validate Q4 quotes and make memory indexation standard in multi-year deals",
+        "account":  "META open bids – Q4 memory pass-through",
+        "country":  "Regional (META)",
+        "bu":  [
+                   "IDG",
+                   "ISG"
+               ],
+        "why_now":  "DDR5 spot is $60.10, J.P. Morgan sees a 19% shortfall in 2027, Morgan Stanley warns memory stocks are near peak, and ASML says supply is short through 2028.",
+        "entry_point":  "META deal desk and pricing leads; global memory procurement for 2027 allocation.",
+        "owner":  "META IDG/ISG pricing and supply-planning leads",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-10-06",
+        "last_seen":  "2026-10-14",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-06",
+                              "story_id":  "2026-10-06-18",
+                              "title":  "[News] Nanya DRAM ASP Seen Rising 10% in 4Q26; Winbond Also Sees Further Price Gains as Memory Supply Stays Tight",
+                              "url":  "https://www.trendforce.com/news/2026/10/06/news-nanya-dram-asp-seen-rising-10-in-4q26-winbond-also-sees-further-price-gains-as-memory-supply-stays-tight/"
+                          },
+                          {
+                              "date":  "2026-10-08",
+                              "story_id":  "2026-10-08-21",
+                              "title":  "Samsung Electronics Announces Earnings Guidance for Third Quarter 2026",
+                              "url":  "https://news.samsungsemiconductor.com/global/samsung-electronics-announces-earnings-guidance-for-third-quarter-2026/"
+                          },
+                          {
+                              "date":  "2026-10-11",
+                              "story_id":  "2026-10-11-12",
+                              "title":  "AMD Hikes GDDR6 Prices For Partners Starting October 1st, While NVIDIA Reportedly Holds Off On GDDR7",
+                              "url":  "https://wccftech.com/amd-reportedly-raised-gddr6-memory-prices-for-its-partners/"
+                          },
+                          {
+                              "date":  "2026-10-14",
+                              "story_id":  "2026-10-14-15",
+                              "title":  "Musk Blasts Memory Chipmakers Over \"Extortionate\" Pricing, Praises Micron",
+                              "url":  "https://en.sedaily.com/finance/2026/10/14/musk-blasts-memory-chipmakers-over-extortionate-pricing"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-078",
+        "title":  "Get Lenovo and ALAT-made SKUs onto DGA\u0027s government ICT framework agreements",
+        "account":  "Digital Government Authority – ICT framework agreements (SR60bn+, 100+ providers)",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "IDG",
+                   "ISG",
+                   "SSG"
+               ],
+        "why_now":  "DGA disclosed almost SR32bn of government ICT spend, AI spend up 20%, and seven active framework agreements worth more than SR60bn across 100+ providers.",
+        "entry_point":  "DGA technology and solutions sector (Deputy Governor Anas Al-Rimi\u0027s office); map framework holders carrying Lenovo; LCGPA certification for ALAT-made SKUs.",
+        "owner":  "KSA public-sector account director with government affairs and the IDG KSA channel lead",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-10-14",
+        "last_seen":  "2026-10-14",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-14",
+                              "story_id":  "2026-10-14-03",
+                              "title":  "Saudi Arabia upgrading 50% of power grid as demand climbs from industry to AI",
+                              "url":  "https://www.arabnews.com/energy/saudi-arabia-upgrading-50-of-power-grid-as-demand-climbs-from-industry-to-ai-3006079"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-079",
+        "title":  "Second-source ThinkEdge reference for UAE smart-city and public-safety programmes",
+        "account":  "UAE public-sector smart-city edge AI – counter Dell–Tahaluf",
+        "country":  "UAE",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "Dell signed an in-vehicle edge-AI MoU with Tahaluf for UAE smart cities, its third GCC government resilience or edge reference in three weeks.",
+        "entry_point":  "Tahaluf (non-exclusive MoU); Abu Dhabi and Dubai municipal and police smart-mobility programmes; Sharjah Digital.",
+        "owner":  "ISG UAE public-sector lead (edge)",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-10-14",
+        "last_seen":  "2026-10-14",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-14",
+                              "story_id":  "2026-10-14-06",
+                              "title":  "Dell Technologies and Tahaluf Partner on AI Solutions for UAE Smart Cities",
+                              "url":  "https://techafricanews.com/2026/10/13/dell-technologies-tahaluf-ai-solutions-uae-smart-cities/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-080",
+        "title":  "Platform compute, storage and endpoints via the Ithca Group integrator",
+        "account":  "Muscat Municipality – unified municipal system (Ithca Group / Al Taqnia Al Raida)",
+        "country":  "Oman",
+        "bu":  [
+                   "ISG",
+                   "IDG"
+               ],
+        "why_now":  "Contract signed 13 Oct for a nationwide municipal digital platform on geospatial data; hardware undisclosed.",
+        "entry_point":  "Al Taqnia Al Raida (Ithca Group) as integrator and potential channel partner; Muscat Municipality IT.",
+        "owner":  "Lenovo Oman country manager with ISG pre-sales",
+        "urgency":  "Watch",
+        "status":  "New",
+        "first_seen":  "2026-10-14",
+        "last_seen":  "2026-10-14",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-14",
+                              "story_id":  "2026-10-14-09",
+                              "title":  "بلدية مسقط توقع اتفاقية مشروع النظام البلدي الموحد",
+                              "url":  "https://omannews.gov.om/topics/ar/7/show/475015/ona"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-081",
+        "title":  "GPU inference servers and storage for e\u0026 UAE\u0027s self-hosted DataRobot agent platform",
+        "account":  "e\u0026 UAE – on-premises sovereign agentic-AI infrastructure (DataRobot)",
+        "country":  "UAE",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "e\u0026 UAE will host the DataRobot Agent Workforce Platform in its own data centre under a new multi-year deal; the hardware vendor is undisclosed.",
+        "entry_point":  "e\u0026 UAE enterprise IT and data-centre infrastructure team; DataRobot partner team for a validated ThinkSystem GPU reference.",
+        "owner":  "ISG UAE telco account lead with the alliances manager",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-10-14",
+        "last_seen":  "2026-10-14",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-14",
+                              "story_id":  "2026-10-14-07",
+                              "title":  "Etisalat UAE and DataRobot deepen strategic partnership to advance sovereign agentic AI",
+                              "url":  "https://www.datarobot.com/newsroom/press/etisalat-uae-and-datarobot-deepen-strategic-partnership-to-advance-sovereign-agentic-ai/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-072",
+        "title":  "Launch RTX Spark and GB300 workstation offers in META and price-lock before 2027",
+        "account":  "META IDG channel and AI-PC accounts – RTX Spark and GB300 workstations",
+        "country":  "Regional (META)",
+        "bu":  [
+                   "IDG"
+               ],
+        "why_now":  "NVIDIA reportedly moves GB202 from the RTX 5090 to RTX Pro and data-centre cards, and AMD has raised GDDR6 to partners; secure META RTX Pro allocation for ThinkStation and RTX Pro servers before Q4 closers.",
+        "entry_point":  "NVIDIA META channel team; GCC IDG distributors; KAUST, CST and giga-project design offices",
+        "owner":  "META IDG premium and workstation product lead with channel marketing",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-10-08",
+        "last_seen":  "2026-10-11",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-08",
+                              "story_id":  "2026-10-08-12",
+                              "title":  "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+                              "url":  "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/"
+                          },
+                          {
+                              "date":  "2026-10-11",
+                              "story_id":  "2026-10-11-11",
+                              "title":  "Nvidia reportedly halts GeForce RTX 5090 production in favor of AI data center and professional GPUs — impending supply drought expected to drive up prices, RTX 5080 24GB rumored as new gaming flagship",
+                              "url":  "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-halts-geforce-rtx-5090-production-in-favor-of-ai-data-center-and-professional-gpus-impending-supply-drought-expected-to-drive-up-prices-rtx-5080-24gb-rumored-as-new-gaming-flagship"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-076",
+        "title":  "Track Nigeria\u0027s 200 MW target and position with Lagos colocation operators",
+        "account":  "Nigeria National Digital Cloud Policy – 200 MW data-centre target",
+        "country":  "Nigeria",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "A five-year target of 50 to 200 MW and $750M of private investment sought in 24 months; power availability will decide which operators build first.",
+        "entry_point":  "NITDA cloud-policy team; Lagos colocation operators (Rack Centre, MainOne/Equinix, OADC, Africa Data Centres)",
+        "owner":  "Lenovo West Africa ISG lead",
+        "urgency":  "Watch",
+        "status":  "New",
+        "first_seen":  "2026-10-11",
+        "last_seen":  "2026-10-11",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-11",
+                              "story_id":  "2026-10-11-07",
+                              "title":  "Nigeria Targets 200MW of Data Centre Capacity, and the Governing Party Chairman Is Asking Where the Power Comes From",
+                              "url":  "https://iafrica.com/nigeria-targets-200mw-of-data-centre-capacity-and-the-governing-party-chairman-is-asking-where-the-power-comes-from/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-077",
+        "title":  "Partner a likely bidder for the Daanish IT Park operator tender",
+        "account":  "Pakistan Daanish IT Park (Islamabad National Technology Park) – operator tender",
+        "country":  "Pakistan",
+        "bu":  [
+                   "ISG",
+                   "IDG",
+                   "SSG"
+               ],
+        "why_now":  "The PM opened the park on 10 Oct and said the operator will be selected by open bidding for local and international IT and AI firms, with parks to follow in every province.",
+        "entry_point":  "MoITT and the technology-park project office for tender timing; likely bidders (local IT majors, telco ICT arms) as consortium partners",
+        "owner":  "Lenovo Pakistan country manager with ISG pre-sales",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-10-11",
+        "last_seen":  "2026-10-11",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-11",
+                              "story_id":  "2026-10-11-06",
+                              "title":  "PM Shehbaz inaugurates IT Park to drive tech-led growth",
+                              "url":  "https://tribune.com.pk/story/2634073/pm-shehbaz-inaugurates-it-park-to-drive-tech-led-growth"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-063",
+        "title":  "Tenant fit-outs at Digitus Kuwait colocation sites",
+        "account":  "Digitus (Hayat Communications) – Kuwait colocation",
+        "country":  "Kuwait",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "MEWRE expected to award cloud-DC substations in Q1 2027, setting the power timeline for Kuwait\u0027s hyperscale campus and tenants.",
+        "entry_point":  "Digitus commercial team; CITRA; substation EPC once awarded",
+        "owner":  "Lenovo Kuwait country manager",
+        "urgency":  "Watch",
+        "status":  "New",
+        "first_seen":  "2026-10-04",
+        "last_seen":  "2026-10-08",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-04",
+                              "story_id":  "2026-10-04-05",
+                              "title":  "90 ألف متر مربع و3 محطات كهرباء.. «غوغل كلاود» تأخذ شكلها في الكويت",
+                              "url":  "https://www.erembusiness.com/technology/7weg9id"
+                          },
+                          {
+                              "date":  "2026-10-08",
+                              "story_id":  "2026-10-08-08",
+                              "title":  "Kuwait likely to award cloud data centre substations contract in Q1 2027",
+                              "url":  "https://www.zawya.com/en/projects/kuwait-likely-to-award-cloud-data-centre-substations-contract-in-q1-2027-1561703"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-068",
+        "title":  "Table an ALAT-made industrial-AI and continuity offer at Aramco Digital before the Dell MoU becomes a programme",
+        "account":  "Aramco Digital – counter Dell industrial-AI MoU",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "ISG",
+                   "SSG",
+                   "IDG"
+               ],
+        "why_now":  "A second industrial-AI partner (OrbitronAI, NovaOS agents) was announced on 7 Oct, three days after Dell\u0027s MoU; the compute under both is undisclosed.",
+        "entry_point":  "Aramco Digital CEO office and infrastructure leads; OrbitronAI KSA team as co-sell partner for NovaOS on ThinkEdge/ThinkSystem",
+        "owner":  "ISG KSA energy account lead with RHQ executive sponsor",
+        "urgency":  "This week",
+        "status":  "New",
+        "first_seen":  "2026-10-06",
+        "last_seen":  "2026-10-08",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-06",
+                              "story_id":  "2026-10-06-01",
+                              "title":  "Dell Technologies and Aramco Digital sign MoU to advance Industrial AI and Digital Infrastructure across Saudi Arabia",
+                              "url":  "https://www.tahawultech.com/channel/dell-technologies-and-aramco-digital-sign-mou-to-advance-industrial-ai-and-digital-infrastructure-across-saudi-arabia/"
+                          },
+                          {
+                              "date":  "2026-10-08",
+                              "story_id":  "2026-10-08-03",
+                              "title":  "Industrial AI, Saudi Scale: OrbitronAI and Aramco Digital Partner to Unlock Billions",
+                              "url":  "https://www.prnewswire.com/news-releases/industrial-ai-saudi-scale-orbitronai-and-aramco-digital-partner-to-unlock-billions-302901510.html"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-073",
+        "title":  "Bid Vera Rubin racks and Neptune cooling for the Nexus AI Factory via FiveNines",
+        "account":  "Nexus AI Factory, Casablanca",
+        "country":  "Morocco",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "US$1.2bn AI DC in two phases through 2027 on NVIDIA\u0027s Vera Rubin NVL72 reference design; FiveNines owns procurement strategy and no server vendor has been named.",
+        "entry_point":  "FiveNines Group procurement lead; Nexus founders; Zutari cooling design",
+        "owner":  "Lenovo North Africa ISG lead with META AI-factory solutions architect",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-10-08",
+        "last_seen":  "2026-10-08",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-08",
+                              "story_id":  "2026-10-08-07",
+                              "title":  "FiveNines Group joins US$ 1.2 billion Nexus AI Factory project in Morocco",
+                              "url":  "https://w.media/fivenines-group-joins-us-1-2-billion-nexus-ai-factory-project-in-morocco/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-074",
+        "title":  "Offer ThinkSystem and ThinkAgile reference designs under the stc–Cloudera data platform",
+        "account":  "stc Kuwait and stc Bahrain – Cloudera data platform",
+        "country":  "Kuwait / Bahrain",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "stc group–Cloudera partnership delivered through Kuwait and Bahrain; hardware undisclosed.",
+        "entry_point":  "stc Kuwait and stc Bahrain B2B/ICT heads; Cloudera META partner team",
+        "owner":  "Lenovo Kuwait and Bahrain country managers with ISG GCC data-platform specialist",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-10-08",
+        "last_seen":  "2026-10-08",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-08",
+                              "story_id":  "2026-10-08-04",
+                              "title":  "Cloudera and stc group partner to accelerate digital transformation across the Middle East",
+                              "url":  "https://www.zawya.com/en/press-release/companies-news/cloudera-and-stc-group-partner-to-accelerate-digital-transformation-across-the-middle-east-1548077"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-066",
+        "title":  "Position Lenovo ThinkAgile HX as the hardware for Salam\u0027s Nutanix private-cloud service",
+        "account":  "Salam – ThinkAgile HX under Salam–Nutanix private cloud",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "ISG",
+                   "SSG"
+               ],
+        "why_now":  "Three-year Salam–Nutanix managed private-cloud service for Saudi B2B. Salam already partners Dell; the Nutanix layer opens the hardware choice.",
+        "entry_point":  "Salam CBO Abdullah Khorami\u0027s team; Nutanix KSA (Talal Al-Saif) as co-sell partner",
+        "owner":  "ISG KSA channel lead with Nutanix alliance manager",
+        "urgency":  "This week",
+        "status":  "New",
+        "first_seen":  "2026-10-06",
+        "last_seen":  "2026-10-06",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-06",
+                              "story_id":  "2026-10-06-05",
+                              "title":  "Salam and Nutanix Partner to Deliver Private Cloud Services to Saudi Enterprises",
+                              "url":  "https://techafricanews.com/2026/10/05/salam-nutanix-private-cloud-services-saudi-enterprises/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-067",
+        "title":  "Win the IT fit-out and a Neptune cooling design for the HUMAIN–center3 Riyadh halls",
+        "account":  "HUMAIN–center3 Riyadh AI data centre (16.2 to 50 MW)",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "The construction JV (Hassan Allam / Sterling \u0026 Wilson, estimated SR750m) was awarded. Four 11.2 MW high-density halls; MEP design being fixed now; IT vendor undisclosed.",
+        "entry_point":  "center3 CTO and infrastructure; HUMAIN infrastructure procurement; the JV\u0027s MEP design team",
+        "owner":  "ISG KSA HUMAIN account lead with stc/center3 account lead",
+        "urgency":  "This week",
+        "status":  "New",
+        "first_seen":  "2026-10-06",
+        "last_seen":  "2026-10-06",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-06",
+                              "story_id":  "2026-10-06-02",
+                              "title":  "Joint venture wins Riyadh data centre construction deal",
+                              "url":  "https://www.meed.com/hassan-allamsterling-wilson-jv-wins-200m-humain-data-centre"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-070",
+        "title":  "Build a Lenovo immutable-storage and DR reference before a KSA \u0027national vault\u0027 tender",
+        "account":  "KSA cyber-recovery / national data vault",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "ISG",
+                   "SSG"
+               ],
+        "why_now":  "Dell, CPX and the UAE Cyber Security Council launched a National Vault. Houthi strikes on Riyadh and Aramco make resilience a KSA requirement.",
+        "entry_point":  "NCA and NIC; Aramco Digital; critical-infrastructure CIOs (account channels)",
+        "owner":  "ISG KSA storage lead with SSG services lead",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-10-06",
+        "last_seen":  "2026-10-06",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-06",
+                              "story_id":  "2026-10-06-11",
+                              "title":  "Dell Technologies, CPX and UAE Cyber Security Council collaborate on National Vault initiative",
+                              "url":  "https://www.intelligentciso.com/2026/10/06/dell-technologies-cpx-and-uae-cyber-security-council-collaborate-on-national-vault-initiative/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-060",
+        "title":  "Re-validate open quotes before Intel\u0027s 5 Oct CPU rise",
+        "account":  "META IDG/ISG open bids – CPU and memory repricing",
+        "country":  "Regional (META)",
+        "bu":  [
+                   "IDG",
+                   "ISG"
+               ],
+        "why_now":  "Intel\u0027s roughly 10% PC CPU rise takes effect 5 Oct; Tesla and reportedly NVIDIA are cutting memory per product; GB10 workstation prices are up about 74%.",
+        "entry_point":  "META deal desk; IDG pricing; open public-sector PC tenders",
+        "owner":  "META IDG/ISG pricing leads",
+        "urgency":  "This week",
+        "status":  "New",
+        "first_seen":  "2026-10-04",
+        "last_seen":  "2026-10-04",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-04",
+                              "story_id":  "2026-10-04-09",
+                              "title":  "Tesla CEO Elon Musk Cuts AI Chip Memory Amid Shortage",
+                              "url":  "https://www.chosun.com/english/industry-en/2026/10/04/ALC64IR5IZGLZHSMFRJGG33S2U/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-062",
+        "title":  "Get Lenovo AI racks into the MIS bill of materials for HUMAIN work orders",
+        "account":  "MIS (7200) – HUMAIN 50 MW Work Order No. 1",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "MIS received HUMAIN Work Order No. 1 (more than 148% of 2025 revenue, 50 MW) with more expected; no IT vendor named, so the template for later orders is being set now.",
+        "entry_point":  "MIS leadership and procurement as EPC and integrator; HUMAIN infrastructure procurement",
+        "owner":  "ISG KSA HUMAIN account lead with ISG KSA channel lead",
+        "urgency":  "This week",
+        "status":  "New",
+        "first_seen":  "2026-10-04",
+        "last_seen":  "2026-10-04",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-04",
+                              "story_id":  "2026-10-04-01",
+                              "title":  "MIS Receives First Work Order under HUMAIN Agreement Worth More Than 148% of 2025 Revenue",
+                              "url":  "https://maaal.com/en/news/details/mis-receives-first-work-o/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-064",
+        "title":  "Use A:5 export status for faster GPU server delivery in the UAE",
+        "account":  "UAE AI campuses under A:5 (G42, Core42, Space42, ATRC)",
+        "country":  "UAE",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "The UAE-US delegation is building on A:5, the first such export designation for an Arab state, easing US-origin GPU server deliveries.",
+        "entry_point":  "G42/Core42 infrastructure; Space42 and ATRC; RHQ trade compliance on AI Express eligibility",
+        "owner":  "ISG UAE G42 account lead with RHQ trade compliance",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-10-04",
+        "last_seen":  "2026-10-04",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-04",
+                              "story_id":  "2026-10-04-07",
+                              "title":  "UAE and US Advance Technology Partnership Agenda in High-Level Washington Engagements",
+                              "url":  "https://www.uae-embassy.org/news/uae-and-us-advance-technology-partnership-agenda-high-level-washington-engagements"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-065",
+        "title":  "Confirm the ThinkStation PGX 64GB plan for the DGX Spark 64GB launch",
+        "account":  "ThinkStation PGX (GB10) – META universities and AI developers",
+        "country":  "Regional (META)",
+        "bu":  [
+                   "IDG"
+               ],
+        "why_now":  "NVIDIA\u0027s DGX Spark 64GB launches 23 Oct with Dell and HP, among others, and Lenovo not listed; the 128GB tier is now $6,950.",
+        "entry_point":  "KAUST, CST and SDAIA developer programmes; MBZUAI; workstation channel",
+        "owner":  "META IDG workstation product lead",
+        "urgency":  "This week",
+        "status":  "New",
+        "first_seen":  "2026-10-04",
+        "last_seen":  "2026-10-04",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-04",
+                              "story_id":  "2026-10-04-10",
+                              "title":  "NVIDIA DGX Spark 64GB Launched and Big 128GB GB10 Price Increases",
+                              "url":  "https://www.servethehome.com/nvidia-dgx-spark-64gb-launched-and-big-128gb-gb10-price-increases/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-053",
+        "title":  "Secure 2027 memory allocation for named META pipeline",
+        "account":  "META ISG/IDG open bids – memory allocation for 2027",
+        "country":  "Regional (META)",
+        "bu":  [
+                   "ISG",
+                   "IDG"
+               ],
+        "why_now":  "Micron: more than 75% of 2027 output committed, 2027-28 supply much tighter, PC and phone units to fall double digits; September PC DRAM contract +4% to a record; 2027 HBM estimates +70-121%.",
+        "entry_point":  "META deal desk; global memory procurement; ISG and IDG product management",
+        "owner":  "META ISG/IDG pricing and supply-planning leads",
+        "urgency":  "This week",
+        "status":  "New",
+        "first_seen":  "2026-10-01",
+        "last_seen":  "2026-10-01",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-01",
+                              "story_id":  "2026-10-01-20",
+                              "title":  "MICRON TECHNOLOGY, INC. REPORTS RECORD FISCAL FOURTH-QUARTER AND FULL-YEAR 2026 RESULTS",
+                              "url":  "https://www.sec.gov/Archives/edgar/data/0000723125/000072312526000018/a2026q4ex991-pressrelease.htm"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-054",
+        "title":  "Defend the AMD Helios slot at HUMAIN",
+        "account":  "HUMAIN – AMD joint AI-factory project",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "HPE booked the first AMD Helios order ($1.2bn, Vultr) and holds the reference design; AMD is HUMAIN\u0027s named JV partner.",
+        "entry_point":  "AMD Saudi/META alliance team for Lenovo\u0027s Helios-class/MI455X roadmap and co-sell position; HUMAIN CTO office",
+        "owner":  "ISG KSA HUMAIN account lead with the AMD alliance manager",
+        "urgency":  "This week",
+        "status":  "New",
+        "first_seen":  "2026-10-01",
+        "last_seen":  "2026-10-01",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-01",
+                              "story_id":  "2026-10-01-10",
+                              "title":  "HPE Secures Its First AMD Helios Order in $1.2 Billion Deal With Vultr",
+                              "url":  "https://www.stocktitan.net/news/HPE/hpe-secures-its-first-amd-helios-order-in-1-2-billion-deal-with-awoco485lxcg.html"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-055",
+        "title":  "Financed AI-rack offer for HUMAIN\u0027s compute fund",
+        "account":  "HUMAIN – compute-infrastructure fund and the 1.7 GW 2027 build",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "ISG",
+                   "SSG"
+               ],
+        "why_now":  "HUMAIN raised its 2027 target to 1.7 GW (about USD 20bn at USD 10-12M/MW, EnterpriseAM estimate) and plans a separate compute-infrastructure fund; no server, storage or cooling vendor named.",
+        "entry_point":  "HUMAIN CFO and infrastructure procurement; BSF Capital on who structures the compute fund; Lenovo Financial Services/TruScale",
+        "owner":  "ISG KSA HUMAIN account lead with Lenovo Financial Services/TruScale lead",
+        "urgency":  "This week",
+        "status":  "New",
+        "first_seen":  "2026-10-01",
+        "last_seen":  "2026-10-01",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-01",
+                              "story_id":  "2026-10-01-01",
+                              "title":  "Humain scales up 2027 data center target as it aims for a self-funding buildout",
+                              "url":  "https://enterpriseam.com/ksa/2026/10/01/humain-scales-up-2027-data-center-target-as-it-aims-for-a-self-funding-buildout/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-056",
+        "title":  "Recruit Anmat as strategic KSA integrator",
+        "account":  "Anmat Technology – SEC devices and HADAF HQ",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "IDG",
+                   "SSG"
+               ],
+        "why_now":  "Anmat won SAR 129.9M for the HADAF HQ rehabilitation on top of its SAR 314.5M SEC device contract; brand undisclosed on both.",
+        "entry_point":  "Anmat leadership as channel/integrator partner; HADAF facilities and IT for HQ devices and AV",
+        "owner":  "IDG KSA channel lead with the public-sector account lead",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-10-01",
+        "last_seen":  "2026-10-01",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-01",
+                              "story_id":  "2026-10-01-03",
+                              "title":  "\"أنماط\" تتلقى إشعار ترسية مشروع تأهيل مقر \"هدف\" بـ130مليون ريال",
+                              "url":  "https://www.mubasher.info/news/4679207/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-057",
+        "title":  "Sovereign capacity for UAE government workloads on Core42",
+        "account":  "Core42 Sovereign Public Cloud",
+        "country":  "UAE",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "Microsoft MDASH is moving onto Core42\u0027s sovereign public cloud across UAE government entities; hardware undisclosed.",
+        "entry_point":  "Core42 infrastructure engineering via the G42 relationship; Microsoft UAE government co-sell team",
+        "owner":  "ISG UAE G42 account lead",
+        "urgency":  "Watch",
+        "status":  "New",
+        "first_seen":  "2026-10-01",
+        "last_seen":  "2026-10-01",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-01",
+                              "story_id":  "2026-10-01-06",
+                              "title":  "Microsoft, UAE Cyber Security Council and Core42 unite to scale AI-powered cyber defense across UAE government",
+                              "url":  "https://news.microsoft.com/source/emea/2026/09/microsoft-uae-cyber-security-council-and-core42-unite-to-scale-ai-powered-cyber-defense-across-uae-government/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-058",
+        "title":  "Delivery-centre devices and managed workplace for the BPO",
+        "account":  "HUMAIN–EY AI-native BPO",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "IDG",
+                   "SSG"
+               ],
+        "why_now":  "HUMAIN and EY are building a national AI-native BPO on HUMAIN ONE; workforce endpoints and delivery centres are not specified.",
+        "entry_point":  "EY MENA consulting and managed-services lead; HUMAIN ONE programme office",
+        "owner":  "SSG KSA services lead with the IDG KSA enterprise lead",
+        "urgency":  "Watch",
+        "status":  "New",
+        "first_seen":  "2026-10-01",
+        "last_seen":  "2026-10-01",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-01",
+                              "story_id":  "2026-10-01-02",
+                              "title":  "HUMAIN Engages EY MENA to Develop Saudi Arabia\u0027s First AI-Native Business Process Outsourcing Service",
+                              "url":  "https://www.ey.com/en_pk/newsroom/2026/09/humain-engages-ey-mena-to-develop-saudi-arabia-s-first-ai-native-business-process-outsourcing-service"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-059",
+        "title":  "Tenant fit-out at the Ankara campus",
+        "account":  "Rönesans–Digital Realty Ankara campus",
+        "country":  "Türkiye",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "Construction started on phase 1 (22+ MW, 2028) with a 200 MW / up to USD 3bn target and an Istanbul campus next; hardware undisclosed.",
+        "entry_point":  "JV commercial team and prospective tenants (Turkcell, Türk Telekom, banks, public cloud)",
+        "owner":  "ISG Türkiye country lead",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-10-01",
+        "last_seen":  "2026-10-01",
+        "sightings":  [
+                          {
+                              "date":  "2026-10-01",
+                              "story_id":  "2026-10-01-07",
+                              "title":  "Rönesans ve Digital Realty’den Türkiye’ye veri merkezi yatırımı",
+                              "url":  "https://www.dunya.com/sirketler/ronesans-ve-digital-realtyden-turkiyeye-veri-merkezi-yatirimi-haberi-842164"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-045",
+        "title":  "Memory indexation and H1 2027 allocation on META bids",
+        "account":  "META ISG/IDG open bids – memory price protection and allocation",
+        "country":  "Regional (META)",
+        "bu":  [
+                   "ISG",
+                   "IDG"
+               ],
+        "why_now":  "TrendForce 4Q26 forecast: DRAM contract +10-15%, NAND +15-20%, enterprise SSD accelerating; Micron reports 30 Sep 23:30 KSA; Netlist\u0027s ITC action puts Micron-sourced memory supply at risk.",
+        "entry_point":  "META deal desk and pricing leads; global memory procurement; ISG product management for Micron content and alternate-source qualification",
+        "owner":  "META ISG/IDG pricing and supply-planning leads",
+        "urgency":  "This week",
+        "status":  "New",
+        "first_seen":  "2026-09-29",
+        "last_seen":  "2026-09-30",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-29",
+                              "story_id":  "2026-09-29-28",
+                              "title":  "Server DDR5 RDIMM Prices Surge Past $2,000",
+                              "url":  "https://www.businesskorea.co.kr/news/articleView.html?idxno=277863"
+                          },
+                          {
+                              "date":  "2026-09-30",
+                              "story_id":  "2026-09-30-15",
+                              "title":  "AI Server Demand Sustains Memory Contract Price Increases in 4Q26, While Consumer-Side Pressure Persists, Says TrendForce",
+                              "url":  "https://www.trendforce.com/presscenter/news/20260930-13258.html"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-047",
+        "title":  "On-premises inference capacity for Morocco\u0027s Darija AI tools",
+        "account":  "Morocco MTNRA – Darija sovereign AI (Mistral)",
+        "country":  "Morocco",
+        "bu":  [
+                   "ISG",
+                   "SSG"
+               ],
+        "why_now":  "Morocco\u0027s digital ministry released two open-source Darija models with Mistral AI for public services on 29 Sep; no hardware disclosed.",
+        "entry_point":  "MTNRA digital transformation team; Mistral AI partnerships for sovereign inference co-sell",
+        "owner":  "Lenovo North Africa ISG lead with the alliances manager",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-09-30",
+        "last_seen":  "2026-09-30",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-30",
+                              "story_id":  "2026-09-30-04",
+                              "title":  "Morocco, Mistral AI Release First Open-Source Darija AI Tools",
+                              "url":  "https://www.moroccoworldnews.com/2026/09/340193/morocco-mistral-ai-release-first-open-source-darija-ai-tools/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-048",
+        "title":  "Sovereign-AI counter-brief against Huawei Ascend full stack",
+        "account":  "Sovereign AI buyers in META pitched Huawei Ascend (KSA, UAE, Egypt, Pakistan)",
+        "country":  "Regional (META)",
+        "bu":  [
+                   "ISG",
+                   "SSG"
+               ],
+        "why_now":  "DeepSeek released open-source Ascend programming tools (TileLang) on 30 Sep, removing Huawei\u0027s main software weakness ahead of its AI Cluster Service going on sale overseas on 30 Nov.",
+        "entry_point":  "Government affairs and sovereign-AI account teams at SDAIA, NIC, the UAE AI Office and Egypt MCIT; multi-silicon and compliance positioning",
+        "owner":  "RHQ government affairs with the ISG META AI solutions lead",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-09-30",
+        "last_seen":  "2026-09-30",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-30",
+                              "story_id":  "2026-09-30-05",
+                              "title":  "DeepSeek partners with Huawei to develop chip programming tools, reducing reliance on Nvidia",
+                              "url":  "https://www.investing.com/news/stock-market-news/deepseek-partners-with-huawei-to-develop-chip-programming-tools-reducing-reliance-on-nvidia-4924051"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-049",
+        "title":  "Defend Motorola ranging at Türk Telekom before the 2027 domestic phone",
+        "account":  "Türk Telekom – device channel ahead of ASELSAN domestic smartphone",
+        "country":  "Türkiye",
+        "bu":  [
+                   "IDG"
+               ],
+        "why_now":  "Türk Telekom will market and distribute the ASELSAN-built domestic smartphone from H1 2027, putting Motorola shelf position at the operator at risk.",
+        "entry_point":  "Türk Telekom devices and retail leadership; Motorola 2027 range review and local-content options",
+        "owner":  "Motorola Türkiye country lead",
+        "urgency":  "Watch",
+        "status":  "New",
+        "first_seen":  "2026-09-30",
+        "last_seen":  "2026-09-30",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-30",
+                              "story_id":  "2026-09-30-02",
+                              "title":  "Turkey\u0027s defense firm, telecom operator test smartphone for 2027 sales",
+                              "url":  "https://www.turkishminute.com/2026/09/29/turkeys-defense-firm-telecom-operator-test-smartphone-for-2027-sales/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-050",
+        "title":  "Get onto the SEC device refresh tranches through Anmat",
+        "account":  "Saudi Electricity Co – end-user devices via Anmat Technology (SAR 314.5M)",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "IDG"
+               ],
+        "why_now":  "A re-indexed Argaam item (signed 16 Jun 2026) resurfaced a live SEC contract for desktops, laptops, workstations and interactive displays through 30 Jun 2028 with the brand undisclosed.",
+        "entry_point":  "Anmat Technology as integrator and potential channel partner; SEC IT procurement",
+        "owner":  "IDG KSA enterprise/channel lead",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-09-30",
+        "last_seen":  "2026-09-30",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-30",
+                              "story_id":  null,
+                              "title":  null,
+                              "url":  null
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-051",
+        "title":  "AI PC and connectivity bundle for Zain KSA education programmes",
+        "account":  "Zain KSA – Year of AI education programmes (IBM SkillsBuild)",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "IDG",
+                   "SSG"
+               ],
+        "why_now":  "Zain KSA launched AI skills programmes for teachers and students with IBM on 29 Sep, with no devices in scope; links to the SAMAI Year of AI lead (OPP-031).",
+        "entry_point":  "Zain KSA HR/CSR and B2B education teams",
+        "owner":  "IDG KSA education account lead",
+        "urgency":  "Watch",
+        "status":  "New",
+        "first_seen":  "2026-09-30",
+        "last_seen":  "2026-09-30",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-30",
+                              "story_id":  "2026-09-30-01",
+                              "title":  "“زين السعودية” تطلق برامج لتنمية مهارات الذكاء الاصطناعي والتقنية لدى الطلاب والمعلمين عبر منصة IBM SkillsBuild",
+                              "url":  "https://sabq.org/article/lfzljtx"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-052",
+        "title":  "Joint AI-factory and Neptune pipeline with Datacentrix",
+        "account":  "Datacentrix (SADC) – ISG Platinum partner",
+        "country":  "South Africa",
+        "bu":  [
+                   "ISG",
+                   "IDG"
+               ],
+        "why_now":  "Datacentrix was named Lenovo ISG Platinum Partner of the Year on 30 Sep; use the momentum for joint AI-factory pipeline and reuse the Ship Happens delivery-visibility story in GCC deals.",
+        "entry_point":  "Datacentrix leadership; Lenovo SADC channel team",
+        "owner":  "Lenovo SADC ISG channel lead",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-09-30",
+        "last_seen":  "2026-09-30",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-30",
+                              "story_id":  "2026-09-30-03",
+                              "title":  "Datacentrix doubles up at Lenovo Partner Awards",
+                              "url":  "https://www.itweb.co.za/article/datacentrix-doubles-up-at-lenovo-partner-awards/KzQenvjyjw2qZd2r"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-040",
+        "title":  "Air-gapped infrastructure for Core42 classified sovereign cloud",
+        "account":  "Core42 – Signature Sovereign AI Cloud (Secret/Top-Secret, UAE Cyber Security Council)",
+        "country":  "UAE",
+        "bu":  [
+                   "ISG",
+                   "SSG"
+               ],
+        "why_now":  "The Core42–CSC MoU was made public on 29 Sep; classified workloads need certified on-premises infrastructure and the hardware supplier is undisclosed.",
+        "entry_point":  "Core42 sovereign cloud engineering, via the existing G42 relationship",
+        "owner":  "ISG UAE G42 account lead",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-09-29",
+        "last_seen":  "2026-09-29",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-29",
+                              "story_id":  "2026-09-29-07",
+                              "title":  "Core42 and CSC sign MoU to advance Signature Sovereign AI Cloud in the UAE",
+                              "url":  "https://www.tahawultech.com/channel/core42-and-csc-sign-mou-to-advance-signature-sovereign-ai-cloud-in-the-uae/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-041",
+        "title":  "Certify Alat-made SKUs and register in stc Rawafed",
+        "account":  "stc group / solutions by stc – local-content (Rawafed) supplier qualification",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "IDG",
+                   "ISG",
+                   "SSG"
+               ],
+        "why_now":  "stc disclosed 53% local content against a 41% LCGPA benchmark, driven by Rawafed, so certified local content will weigh in supplier scoring before competitors claim it.",
+        "entry_point":  "stc procurement and the Rawafed localisation programme office; LCGPA local-content certificate for Alat-made ThinkPad SKUs",
+        "owner":  "KSA government affairs lead with the IDG KSA telco account manager",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-09-29",
+        "last_seen":  "2026-09-29",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-29",
+                              "story_id":  "2026-09-29-02",
+                              "title":  "مجموعة «stc» تحقق 53 % محتوى محلياً متجاوزة معيار قطاع الاتصالات",
+                              "url":  "https://aawsat.com/node/5323843"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-042",
+        "title":  "Get Lenovo onto the AMD rack bill of materials at HUMAIN",
+        "account":  "HUMAIN – AMD joint AI-factory project (14 GW site allocation)",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "ISG",
+                   "SSG"
+               ],
+        "why_now":  "HUMAIN CEO Tareq Amin publicly confirmed a joint AMD project and about 14 GW of allocated power on 29 Sep, Qualcomm is also pitching chips, and no server OEM is named.",
+        "entry_point":  "HUMAIN CTO and infrastructure procurement, co-sold with AMD Saudi/META (Instinct and EPYC Venice on Lenovo platforms with Neptune liquid cooling)",
+        "owner":  "ISG KSA HUMAIN account lead with the AMD alliance manager",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-09-29",
+        "last_seen":  "2026-09-29",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-29",
+                              "story_id":  "2026-09-29-01",
+                              "title":  "«هيوماين»: السعودية تخصص 14 غيغاواط لمصانع الذكاء الاصطناعي",
+                              "url":  "https://aawsat.com/الاقتصاد/5323874-هيوماين-السعودية-تخصص-14-غيغاواط-لمصانع-الذكاء-الاصطناعي"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-043",
+        "title":  "GPU cloud capacity for Together AI in Abu Dhabi",
+        "account":  "Together AI – Abu Dhabi presence (Mubadala UAE Investments Platform)",
+        "country":  "UAE",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "Together AI is establishing a local presence in Abu Dhabi with Mubadala behind it, and no data-centre or hardware supplier has been named.",
+        "entry_point":  "Together AI Abu Dhabi launch and infrastructure lead; Mubadala UAE Investments Platform team",
+        "owner":  "ISG UAE neocloud and AI-cloud specialist",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-09-29",
+        "last_seen":  "2026-09-29",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-29",
+                              "story_id":  "2026-09-29-08",
+                              "title":  "Mubadala and Together AI Partner to Explore AI Infrastructure Opportunities in the UAE",
+                              "url":  "https://www.mubadala.com/en/news/mubadala-and-together-ai-partner-to-explore-ai-infrastructure-opportunities-in-the-uae"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-044",
+        "title":  "Defend Saudi German Health KSA estate against HPE",
+        "account":  "Saudi German Health – KSA hospitals (after HPE UAE win)",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "IDG",
+                   "ISG"
+               ],
+        "why_now":  "HPE anchored Saudi German Health UAE with Aruba networking on 29 Sep; the KSA parent\u0027s device and hybrid-cloud estate is the next battleground.",
+        "entry_point":  "Saudi German Health group CIO (KSA)",
+        "owner":  "IDG/ISG KSA healthcare account lead",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-09-29",
+        "last_seen":  "2026-09-29",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-29",
+                              "story_id":  "2026-09-29-11",
+                              "title":  "Saudi German Health UAE transforms digital healthcare in the UAE with the HPE Self-Driving Network",
+                              "url":  "https://www.zawya.com/en/press-release/companies-news/saudi-german-health-uae-transforms-digital-healthcare-in-the-uae-with-the-hpe-self-driving-network-1388889"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-046",
+        "title":  "Shape the Kuwait National Data Center specification",
+        "account":  "Kuwait CAIT – National Data Center (consultant RFP stage)",
+        "country":  "Kuwait",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "CAPT is about to rule on the consultant tender, and the winning consultant will write the RFP and hardware specification.",
+        "entry_point":  "Consultancies bidding for the CAIT design and supervision mandate; CAIT technical directorate",
+        "owner":  "Lenovo Kuwait country manager with an ISG pre-sales architect",
+        "urgency":  "Watch",
+        "status":  "New",
+        "first_seen":  "2026-09-29",
+        "last_seen":  "2026-09-29",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-29",
+                              "story_id":  "2026-09-29-10",
+                              "title":  "Data center tender awaits CAPT nod",
+                              "url":  "https://www.arabtimesonline.com/news/data-center-tender-awaits-capt-nod/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-033",
+        "title":  "Edge and simulation compute for physical AI",
+        "account":  "Echelon / Applied Intuition (national-scale physical AI, KSA)",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "ISG",
+                   "IDG"
+               ],
+        "why_now":  "The partnership targets robotaxis, ports, mining, manufacturing and trucking at national scale, Applied Intuition just opened a Riyadh office and is hiring, and the hardware supplier is undisclosed.",
+        "entry_point":  "Echelon as local integrator partner; Applied Intuition\u0027s new Riyadh regional office as prospective customer (ThinkEdge, ThinkStation for simulation)",
+        "owner":  "ISG KSA account lead (edge/AI) with IDG workstation specialist",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-09-22",
+        "last_seen":  "2026-09-22",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-22",
+                              "story_id":  "2026-09-22-02",
+                              "title":  "Echelon and Applied Intuition Partner to Scale Physical AI Across Saudi Arabia",
+                              "url":  "https://finance.yahoo.com/technology/ai/articles/echelon-applied-intuition-partner-scale-153400220.html"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-034",
+        "title":  "Position before Egypt–NVIDIA MoU signing",
+        "account":  "Egypt MCIT / Hassan Allam Data Centers (Egypt–NVIDIA AI cooperation)",
+        "country":  "Egypt",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "Egypt\u0027s ICT Minister met NVIDIA\u0027s EMEA VP on AI compute cooperation with no MoU signed yet, and NVIDIA cites a 656MW African pipeline with no server OEM disclosed; any MoU will need a local OEM or integration partner.",
+        "entry_point":  "MCIT Egypt and Hassan Allam Data Centers (NTRA-licensed, estimated $400m); Cassava as the other named builder; watch the FDC Summit Egypt for a signing",
+        "owner":  "Lenovo Egypt ISG lead, supported by ISG META infrastructure lead",
+        "urgency":  "This week",
+        "status":  "New",
+        "first_seen":  "2026-09-22",
+        "last_seen":  "2026-09-22",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-22",
+                              "story_id":  "2026-09-22-07",
+                              "title":  "Egypt, NVIDIA explore AI, computing, startup cooperation",
+                              "url":  "http://arabfinance.com/en/news/newdetails/47929"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-035",
+        "title":  "Neptune seat in Intel–Submer reference designs",
+        "account":  "Intel META / Submer (META liquid-cooled AI/HPC reference architectures)",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "Submer and Intel launched a META collaboration on liquid-cooled AI/HPC reference designs with Intel\u0027s Saudi GM on the release, and no server OEM is named, so the slot is still open before sovereign and telco specifications are written.",
+        "entry_point":  "Intel Saudi (GM Ahmad Alabduljabbar, named on the release) and Submer META (GM Khalid Aljamed); request a place in the reference designs or table a Neptune-based alternative",
+        "owner":  "ISG META infrastructure lead",
+        "urgency":  "This week",
+        "status":  "New",
+        "first_seen":  "2026-09-22",
+        "last_seen":  "2026-09-22",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-22",
+                              "story_id":  "2026-09-22-05",
+                              "title":  "Submer and Intel collaborate to advance AI and HPC infrastructure across the Middle East, Africa and Turkey",
+                              "url":  "https://businessnewsweek.in/business/submer-and-intel-collaborate-to-advance-ai-and-hpc-infrastructure-across-the-middle-east-africa-and-turkey/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-036",
+        "title":  "Neptune DSX status for HUMAIN AI-factory bids",
+        "account":  "HUMAIN 250MW programme (MIS EPC)",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "NVIDIA\u0027s DSX Ready qualified Vertiv, LG and LiquidStack CDUs without Lenovo Neptune, META AI-factory specifications will increasingly reference DSX components, and HUMAIN\u0027s 250MW programme still has no named compute vendor.",
+        "entry_point":  "HUMAIN procurement and MIS (7200) as EPC contractor; confirm Neptune DSX Ready status or interoperability with qualified CDUs first",
+        "owner":  "ISG META infrastructure lead",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-09-22",
+        "last_seen":  "2026-09-22",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-22",
+                              "story_id":  "2026-09-22-12",
+                              "title":  "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
+                              "url":  "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-037",
+        "title":  "Employee-purchase programme via Tamam financing",
+        "account":  "NTDP / Tamam (SAR 200m tech-employee financing portfolio)",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "IDG"
+               ],
+        "why_now":  "NTDP and Tamam signed an MoU for a SAR 200m financing portfolio for tech-sector employees, a natural channel for financed premium laptops and workstations.",
+        "entry_point":  "NTDP as programme partner and Tamam as financing channel",
+        "owner":  "IDG KSA consumer/SMB channel lead",
+        "urgency":  "Watch",
+        "status":  "New",
+        "first_seen":  "2026-09-22",
+        "last_seen":  "2026-09-22",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-22",
+                              "story_id":  "2026-09-22-03",
+                              "title":  "200 مليون ريال لتمويل موظفي قطاع التكنولوجيا.. شراكة جديدة لتعزيز الكفاءات الرقمية",
+                              "url":  "https://entarabi.com/2026/09/200-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d8%b1%d9%8a%d8%a7%d9%84-%d9%84%d8%aa%d9%85%d9%88%d9%8a%d9%84-%d9%85%d9%88%d8%b8%d9%81%d9%8a-%d9%82%d8%b7%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%83%d9%86%d9%88%d9%84/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-038",
+        "title":  "Copilot+ AI PC co-sell on KSA adoption surge",
+        "account":  "Microsoft KSA (Copilot+ PC co-sell)",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "IDG"
+               ],
+        "why_now":  "Microsoft ranks Saudi Arabia the world\u0027s fastest-rising AI-adoption market (30th to 25th), signalling enterprise AI moving from pilots to deployment ahead of National Day and Year of AI campaigns.",
+        "entry_point":  "Microsoft KSA partner team for Copilot+ PC co-sell; use the ranking in SDAIA/MCIT and enterprise commercial-refresh pitches",
+        "owner":  "IDG KSA commercial lead with alliances manager",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-09-22",
+        "last_seen":  "2026-09-22",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-22",
+                              "story_id":  "2026-09-22-01",
+                              "title":  "The continued state of global AI diffusion in 2026",
+                              "url":  "https://blogs.microsoft.com/on-the-issues/2026/09/21/the-continued-state-of-global-ai-diffusion-in-2026/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-039",
+        "title":  "Recruit Mannai as KSA channel partner",
+        "account":  "Mannai Information Technology (KSA entry)",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "IDG",
+                   "SSG"
+               ],
+        "why_now":  "Qatar-based SI Mannai is extending its Kodak Alaris document-processing partnership into Saudi Arabia, targeting document-heavy organisations and government digitisation.",
+        "entry_point":  "Mannai Information Technology\u0027s KSA expansion team, for Lenovo devices and services bundles in government digitisation",
+        "owner":  "IDG/SSG KSA channel lead",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-09-22",
+        "last_seen":  "2026-09-22",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-22",
+                              "story_id":  "2026-09-22-04",
+                              "title":  "\"كوداك الاريس\" و\"ماناي لتقنية المعلومات\" توسعان شراكتهما الاستراتيجية إلى السعودية لتسريع إدارة المعلومات الذكية والتحول الرقمي",
+                              "url":  "https://gulftech-news.com/%D9%83%D9%88%D8%AF%D8%A7%D9%83-%D8%A7%D9%84%D8%A7%D8%B1%D9%8A%D8%B3-%D9%88%D9%85%D8%A7%D9%86%D8%A7%D9%8A-%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-025",
+        "title":  "Compliant sovereign inference platforms for UAE",
+        "account":  "UAE sovereign accounts: IHC group / G42",
+        "country":  "UAE",
+        "bu":  [
+                   "ISG",
+                   "SSG"
+               ],
+        "why_now":  "IHC formally placed Tahnoon\u0027s group under Fount Trust, centralising purchasing and US alignment, while G42 leans into NVIDIA\u0027s free-model push, which favours OEM-delivered on-premises inference over hyperscaler-only consumption.",
+        "entry_point":  "UAE sovereign-account teams with a refreshed trusted, compliant, localised brief ahead of Q4 tenders; position ThinkSystem/NVIDIA-certified inference platforms.",
+        "owner":  "RHQ Government Affairs with ISG marketing",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-09-21",
+        "last_seen":  "2026-09-21",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-21",
+                              "story_id":  "2026-09-21-07",
+                              "title":  "IHC confirms Fount Trust as ultimate parent after ownership restructure",
+                              "url":  "https://www.thenationalnews.com/business/2026/09/21/ihc-confirms-fount-trust-as-ultimate-parent-after-ownership-restructure/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-026",
+        "title":  "Microenterprise centre devices via Itmam",
+        "account":  "Social Development Bank / Itmam Consultancy (Dulani Business Center)",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "IDG",
+                   "SSG"
+               ],
+        "why_now":  "Itmam won the SDB Dulani Business Center 2026 award (derived floor above SAR 19.81m, not a stated value) whose scope includes microenterprises\u0027 technical and technological needs and equipment.",
+        "entry_point":  "Itmam as channel/integrator partner for entry PCs and tablets; SDB as a prospective devices-as-a-service customer.",
+        "owner":  "IDG KSA channel / SMB partner manager",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-09-21",
+        "last_seen":  "2026-09-21",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-21",
+                              "story_id":  "2026-09-21-03",
+                              "title":  "Itmam wins Dulani Business Center Operational Sustainability project",
+                              "url":  "https://www.argaam.com/en/article/articledetail/id/1938084"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-027",
+        "title":  "HUMAIN compute, cooling and integration slot",
+        "account":  "HUMAIN AI data centres / MIS (EPC contractor)",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "ISG",
+                   "SSG"
+               ],
+        "why_now":  "MIS signed the definitive 250MW HUMAIN EPC on 19 Sep (SAR 8.76bn+ incl. VAT, sequential work orders) and NVIDIA restated a 500MW / 18,000-GB300 plan on 21 Sep; neither names a server OEM, and EPC work orders come before IT fit-out.",
+        "entry_point":  "MIS\u0027s EPC team and HUMAIN\u0027s infrastructure office; technical session on Neptune direct-water cooling and Riyadh-assembled racks; Tadawul alert on MIS (7200) for each work order.",
+        "owner":  "ISG KSA lead (individual to be confirmed by RHQ)",
+        "urgency":  "This week",
+        "status":  "New",
+        "first_seen":  "2026-09-21",
+        "last_seen":  "2026-09-21",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-21",
+                              "story_id":  "2026-09-21-01",
+                              "title":  "مارك دومينيك نائب رئيس شركة NVIDIA لـ «الرياض»: المملكة تجاوزت مرحلة التخطيط للذكاء الاصطناعي إلى مرحلة التشغيل",
+                              "url":  "https://www.alriyadh.com/2207566"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-028",
+        "title":  "Take commercial PC share from HP",
+        "account":  "META commercial PC refreshes (KSA government and education, UAE banks)",
+        "country":  "Saudi Arabia / UAE",
+        "bu":  [
+                   "IDG"
+               ],
+        "why_now":  "HP\u0027s 8-K assumes 2027 PC units fall mid-single digits and withholds FY27 guidance, signalling margin defence over share; in a shrinking, cost-driven market, share goes to whoever can deliver.",
+        "entry_point":  "Commercial refresh accounts where HP is incumbent; lock 2027 DRAM and NAND allocation for META commercial SKUs this month before quoting.",
+        "owner":  "META IDG GM with supply planning",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-09-21",
+        "last_seen":  "2026-09-21",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-21",
+                              "story_id":  "2026-09-21-12",
+                              "title":  "HP Shares Slide as Tech Giant Forecasts 2027 PC Market Slump",
+                              "url":  "https://ca.investing.com/news/stock-market-news/hp-shares-slide-as-tech-giant-forecasts-2027-pc-market-slump-4846261"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-029",
+        "title":  "EV plant MES, edge and workstations",
+        "account":  "CEER (King Salman Automotive Cluster)",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "ISG",
+                   "SSG",
+                   "IDG"
+               ],
+        "why_now":  "The Crown Prince launched CEER\u0027s first EVs, the first of seven models over five years at the CEER Manufacturing Complex; automotive plants need MES, edge compute and workstation fleets.",
+        "entry_point":  "CEER Manufacturing Complex plant IT; note Foxconn (the JV partner) is a contract-manufacturing competitor.",
+        "owner":  "ISG KSA manufacturing vertical lead",
+        "urgency":  "Watch",
+        "status":  "New",
+        "first_seen":  "2026-09-21",
+        "last_seen":  "2026-09-21",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-21",
+                              "story_id":  "2026-09-21-04",
+                              "title":  "HRH the Crown Prince Launches CEER\u0027s Flagship Vehicles Further Strengthening Saudi Arabia\u0027s Position in the Global Automotive Industry",
+                              "url":  "https://www.pif.gov.sa/en/news-and-insights/newswire/2026/hrh-the-crown-prince-launches-ceers-flagship-vehicles-further-strengthening-saudi-arabias-position-in-the-global-automotive-industry/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-030",
+        "title":  "Motorola 4G/5G migration operator bundles",
+        "account":  "Africa operators: MTN, Safaricom, Airtel (GSMA/PDAA roadmap)",
+        "country":  "Africa (pan-African)",
+        "bu":  [
+                   "IDG"
+               ],
+        "why_now":  "The GSMA/PDAA roadmap prioritises migrating 600m+ legacy users to 4G/5G across 11 markets, the core of Motorola\u0027s Africa volume thesis.",
+        "entry_point":  "Operator device-financing and bundle teams at MTN, Safaricom and Airtel.",
+        "owner":  "Motorola Africa channel lead",
+        "urgency":  "Watch",
+        "status":  "New",
+        "first_seen":  "2026-09-21",
+        "last_seen":  "2026-09-21",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-21",
+                              "story_id":  "2026-09-21-11",
+                              "title":  "GSMA and PDAA Launch Roadmap to Connect 1 Billion Africans to Internet by 2030",
+                              "url":  "https://techafricanews.com/2026/09/21/gsma-pdaa-roadmap-connect-1-billion-africans-by-2030/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-031",
+        "title":  "AI PC and training bundle for SAMAI",
+        "account":  "SDAIA / Ministry of Education (SAMAI, Year of AI)",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "IDG",
+                   "SSG"
+               ],
+        "why_now":  "SDAIA\u0027s UNGA-week Year of AI release headlines SAMAI\u0027s 1.2m+ Saudis trained in AI; there is no procurement yet, but it frames an education-device pitch.",
+        "entry_point":  "SDAIA and MoE programme owners, with AI PCs plus training services under Year of AI branding.",
+        "owner":  "IDG KSA public sector / education account lead",
+        "urgency":  "Watch",
+        "status":  "New",
+        "first_seen":  "2026-09-21",
+        "last_seen":  "2026-09-21",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-21",
+                              "story_id":  "2026-09-21-02",
+                              "title":  "Saudi Arabia Advances Data and AI Leadership, Promotes Responsible Use for Humanity",
+                              "url":  "https://www.spa.gov.sa/en/N2681378"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-032",
+        "title":  "Workstations and hybrid infra for Paymob",
+        "account":  "Paymob",
+        "country":  "Egypt / UAE / Saudi Arabia",
+        "bu":  [
+                   "IDG",
+                   "ISG"
+               ],
+        "why_now":  "Paymob raised a $35m pre-Series C co-led by Mubadala and EBRD, with GCC revenue up 7x to close to half of the total; a local-hosting move for KSA data rules would require hybrid infrastructure.",
+        "entry_point":  "Paymob COO/CFO; Mubadala as potential partner.",
+        "owner":  "IDG/ISG enterprise account manager (GCC fintech)",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-09-21",
+        "last_seen":  "2026-09-21",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-21",
+                              "story_id":  "2026-09-21-09",
+                              "title":  "Paymob raises $35 million pre-Series C co-led by Mubadala, EBRD",
+                              "url":  "https://www.wamda.com/2026/09/paymob-raises-35-million-pre-series-c-led-mubadala-ebrd"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-017",
+        "title":  "Compute layer for Zain Kuwait AI-ready DCs",
+        "account":  "Zain Kuwait",
+        "country":  "Kuwait",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "Zain Kuwait signed with Schneider Electric on 16 Sep for resilience of its critical facilities including AI-ready data centres; Schneider covers power and cooling, the compute layer is unassigned.",
+        "entry_point":  "Zain Kuwait CTO office (agreement signed by CTO Daaij Aloud) via Lenovo-Schneider joint reference designs",
+        "owner":  "ISG Kuwait/GCC telco account lead",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-09-17",
+        "last_seen":  "2026-09-17",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-17",
+                              "story_id":  "2026-09-17-10",
+                              "title":  "Zain Kuwait partners with Schneider Electric",
+                              "url":  "https://kuwaittimes.com/article/49895/business/zain-kuwait-partners-with-schneider-electric/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-018",
+        "title":  "Azure Local pairing for UAE government bids",
+        "account":  "UAE government entities adopting Microsoft Agent 365 in-country",
+        "country":  "UAE",
+        "bu":  [
+                   "ISG",
+                   "SSG"
+               ],
+        "why_now":  "Microsoft will run Agent 365 from its UAE data centre from October 2026 while AWS\u0027s UAE zone is down; Lenovo\u0027s Azure Local (ThinkAgile MX) is the on-prem complement. Hardware undisclosed.",
+        "entry_point":  "UAE government bids jointly with Microsoft UAE",
+        "owner":  "ISG UAE lead with Microsoft alliance team",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-09-17",
+        "last_seen":  "2026-09-17",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-17",
+                              "story_id":  "2026-09-17-09",
+                              "title":  "Microsoft expands Agent 365 availability to the UAE as organizations move to govern AI agents at scale",
+                              "url":  "https://www.zawya.com/en/press-release/companies-news/microsoft-expands-agent-365-availability-to-the-uae-as-organizations-move-to-govern-ai-agents-at-scale-799642"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-019",
+        "title":  "Local compute for Atos-GCH sovereign SOC",
+        "account":  "Atos / Gulf Cyberfender Hub (GCH) Dubai SOC",
+        "country":  "UAE",
+        "bu":  [
+                   "SSG",
+                   "ISG"
+               ],
+        "why_now":  "Atos and GCH are opening a Dubai AI-driven SOC with local data residency for government and critical infrastructure; no value or infrastructure supplier disclosed.",
+        "entry_point":  "Atos UAE and GCH SOC infrastructure leads",
+        "owner":  "ISG/SSG UAE partner lead",
+        "urgency":  "Watch",
+        "status":  "New",
+        "first_seen":  "2026-09-17",
+        "last_seen":  "2026-09-17",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-17",
+                              "story_id":  "2026-09-17-14",
+                              "title":  "Atos partners with GCH to open new AI-Driven Security Operations Center in the UAE",
+                              "url":  "https://www.globenewswire.com/news-release/2026/09/17/3363657/0/en/atos-partners-with-gch-to-open-new-ai-driven-security-operations-center-in-the-uae.html"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-020",
+        "title":  "SME device-financing bundles with STC Bank",
+        "account":  "STC Bank (Monsha\u0027at SME financing portfolio)",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "IDG",
+                   "ISG"
+               ],
+        "why_now":  "Monsha\u0027at and STC Bank launched an up to SAR 5bn SME financing portfolio covering asset and equipment purchases, and STC Bank signed 28 Money20/20 agreements including Huawei, where Lenovo is not yet visible.",
+        "entry_point":  "STC Bank SME and partnerships teams; IDG SMB channel",
+        "owner":  "IDG KSA SMB channel lead",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-09-17",
+        "last_seen":  "2026-09-17",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-17",
+                              "story_id":  "2026-09-17-03",
+                              "title":  "Monsha\u0027at, STC Bank Sign Cooperation Agreement with SAR5 Billion Financing Portfolio",
+                              "url":  "https://www.spa.gov.sa/en/N2678815"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-021",
+        "title":  "Open CNTXT as a named account",
+        "account":  "CNTXT (Aramco-Cognite JV)",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "ISG",
+                   "SSG"
+               ],
+        "why_now":  "CNTXT says revenue is running ahead of plan as Saudi clients seek multiple cloud providers after the AWS damage, while Tencent Cloud MENA chases the same resilience demand with in-Kingdom capacity.",
+        "entry_point":  "CNTXT leadership for industrial-AI edge and sovereign cloud stack",
+        "owner":  "ISG KSA channel lead",
+        "urgency":  "This week",
+        "status":  "New",
+        "first_seen":  "2026-09-17",
+        "last_seen":  "2026-09-17",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-17",
+                              "story_id":  "2026-09-17-02",
+                              "title":  "War fears lead to AI revenue growth in Saudi Arabia",
+                              "url":  "https://www.agbi.com/analysis/ai/2026/09/war-fears-lead-to-ai-revenue-growth-in-saudi-arabia/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-022",
+        "title":  "Get onto Edarat\u0027s GPU cloud PO",
+        "account":  "Edarat Communication \u0026 IT / Aklaniyat Technology Co.",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "Edarat placed a SAR 127.54m PO with reseller Aklaniyat for cloud and GPU infrastructure, delivered in five phases over six months with the OEM undisclosed. It follows Edarat\u0027s SAR 197.8m design contract for a 200MW AI data centre.",
+        "entry_point":  "Aklaniyat as reseller and potential Lenovo channel partner; Edarat procurement for later phases of the EdaratCloud Stack plan",
+        "owner":  "ISG KSA channel lead",
+        "urgency":  "This week",
+        "status":  "New",
+        "first_seen":  "2026-09-17",
+        "last_seen":  "2026-09-17",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-17",
+                              "story_id":  "2026-09-17-01",
+                              "title":  "Edarat issues SAR 127.5M PO for computing infrastructure equipment",
+                              "url":  "https://www.argaam.com/en/article/articledetail/id/1936980"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-023",
+        "title":  "Non-Chinese reference architecture for OADC sites",
+        "account":  "WIOCC / Open Access Data Centres (OADC) and Vision Invest",
+        "country":  "Africa (pan-African); Vision Invest in Saudi Arabia",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "The DFC\u0027s largest-ever equity deal ($155m) with Saudi-based Vision Invest backs WIOCC\u0027s 40+ African data centres explicitly as a Huawei alternative, while Huawei says its Ascend export supply is limited before a 2027 ramp. Hardware undisclosed.",
+        "entry_point":  "Vision Invest as the Saudi counterparty the RHQ can approach; WIOCC/OADC infrastructure leadership",
+        "owner":  "ISG Africa lead plus RHQ strategy",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-09-17",
+        "last_seen":  "2026-09-17",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-17",
+                              "story_id":  "2026-09-17-08",
+                              "title":  "Washington bets big on African fibre with $155-million Wiocc deal",
+                              "url":  "https://techcentral.co.za/wiocc-dfc-155-million-investment/286209/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-024",
+        "title":  "Sovereign-resilience bundle for AWS-exit customers",
+        "account":  "GCC customers displaced from AWS me-south-1 (Bahrain) and mec1-az2 (UAE)",
+        "country":  "Bahrain / UAE",
+        "bu":  [
+                   "ISG",
+                   "SSG"
+               ],
+        "why_now":  "Amazon will not commit to rebuilding, with a UAE update in coming months and Bahrain only in early 2027, giving at least a two-quarter migration window; Lenovo launched ThinkAgile VX850 V4 on 16 Sep.",
+        "entry_point":  "Affected enterprise and government IT leads leaving me-south-1 and mec1-az2; offer ThinkAgile V4 plus DR services plus TruScale",
+        "owner":  "ISG KSA/UAE leads plus SSG",
+        "urgency":  "This week",
+        "status":  "New",
+        "first_seen":  "2026-09-17",
+        "last_seen":  "2026-09-17",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-17",
+                              "story_id":  "2026-09-17-06",
+                              "title":  "AWS \"unable to restore access\" to data centers hit by Iran strikes",
+                              "url":  "https://www.datacenterdynamics.com/en/news/aws-unable-to-restore-access-to-data-centers-hit-by-iran-strikes/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-009",
+        "title":  "Newly funded fintech: in-Kingdom compute and device fleet",
+        "account":  "barq",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "ISG",
+                   "IDG"
+               ],
+        "why_now":  "barq closed a $329.5m Series A at a $1.85bn valuation and is scaling fast (more than 15 million users), and SAMA data-residency rules require in-Kingdom compute for payments infrastructure and fraud AI. The AWS write-off strengthens the case for customer-controlled DR among SAMA-regulated fintechs.",
+        "entry_point":  "barq COO/CFO and infrastructure lead; Noon Investments relationship via Lenovo\u0027s Noon e-commerce channel",
+        "owner":  "KSA FSI ISG account director with IDG commercial lead",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-09-15",
+        "last_seen":  "2026-09-15",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-15",
+                              "story_id":  "2026-09-15-02",
+                              "title":  "barq closes $329.5 million Series A funding round",
+                              "url":  "https://saudigazette.com.sa/article/664589/business/barq-closes-3295-million-series-a-funding-round"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-010",
+        "title":  "Map and counter Huawei scope at STC Bank",
+        "account":  "STC Bank (stc group)",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "STC Bank signed an agreement with Huawei at Money20/20 on 14 Sep with scope and value undisclosed, embedding a competitor inside an stc-ecosystem account where Lenovo ISG competes on infrastructure.",
+        "entry_point":  "STC Bank technology leadership via the Lenovo ISG stc account team",
+        "owner":  "KSA FSI ISG account director / stc account team",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-09-15",
+        "last_seen":  "2026-09-15",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-15",
+                              "story_id":  "2026-09-15-05",
+                              "title":  "اقتصادي / STC Bank الشريك المؤسس لمؤتمر \"موني 20/20 الشرق الأوسط\"",
+                              "url":  "https://www.spa.gov.sa/ar/N2676954"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-011",
+        "title":  "Sovereign resilience DR and hybrid proposition",
+        "account":  "Customers exiting AWS me-south-1 (Bahrain) and mec1-az2 (UAE)",
+        "country":  "Bahrain / UAE",
+        "bu":  [
+                   "ISG",
+                   "SSG"
+               ],
+        "why_now":  "AWS has told customers it cannot restore its Bahrain region or one UAE availability zone and that un-migrated data is lost, so affected customers need replacement capacity now. The digest\u0027s advisory note calls this the strongest hybrid/sovereign-infrastructure argument META has had.",
+        "entry_point":  "CIOs and infrastructure/DR leads of GCC banks, ministries and critical-infrastructure operators running workloads in the affected zones; SAMA-regulated banks and fintechs",
+        "owner":  "ISG KSA and UAE country leads plus SSG services lead (RHQ to confirm names)",
+        "urgency":  "This week",
+        "status":  "New",
+        "first_seen":  "2026-09-15",
+        "last_seen":  "2026-09-15",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-15",
+                              "story_id":  "2026-09-15-09",
+                              "title":  "Amazon\u0027s AWS is unable to restore access to Bahrain, one UAE cloud data zone after war damage",
+                              "url":  "https://www.reuters.com/world/middle-east/amazons-aws-is-unable-restore-access-bahrain-one-uae-cloud-data-zone-after-war-2026-09-15/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-012",
+        "title":  "AI-mature ministries: next-phase AI infrastructure and AI-PC refresh",
+        "account":  "SDAIA National AI Index leaders: Ministry of Energy, Ministry of Interior, GOSI, MEWA",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "ISG",
+                   "SSG",
+                   "IDG"
+               ],
+        "why_now":  "SDAIA and UNESCO named eight government entities as National AI Index winners on 15 Sep, in effect a ranked list of the most AI-mature ministries likely to fund next-phase AI infrastructure and AI-PC refreshes. The advisory note lists them among the first targets for the sovereign resilience offer.",
+        "entry_point":  "Agency CIOs and digital-transformation heads at the Ministry of Energy, Interior, GOSI and MEWA",
+        "owner":  "KSA public-sector ISG account directors with SSG services lead",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-09-15",
+        "last_seen":  "2026-09-15",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-15",
+                              "story_id":  "2026-09-15-04",
+                              "title":  "عام / \"سدايا\" و \"اليونسكو\" تكرّمان 8 جهات حكومية لتميزها بالمؤشر الوطني للذكاء الاصطناعي في دورته الأولى خلال منتدى اليونسكو بالرياض",
+                              "url":  "https://www.spa.gov.sa/ar/N2676955"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-013",
+        "title":  "Local PC assembly or CKD partnership in Egypt",
+        "account":  "Tuya Technology (Egypt Ministry of Military Production) and Intel MEA",
+        "country":  "Egypt",
+        "bu":  [
+                   "IDG"
+               ],
+        "why_now":  "Tuya Technology and Intel signed an MoU to explore local assembly of PCs and edge-AI solutions, which could create a preferred local-content brand in Egyptian government PC tenders. The advisory note says to engage before a rival brand is anchored.",
+        "entry_point":  "Intel MEA and Tuya Technology leadership, with the Ministry of State for Military Production",
+        "owner":  "Egypt IDG country lead",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-09-15",
+        "last_seen":  "2026-09-15",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-15",
+                              "story_id":  "2026-09-15-13",
+                              "title":  "تعاون بين تويا تكنولوجي وإنتل لتوطين تكنولوجيا الذكاء الاصطناعي",
+                              "url":  "https://eleqtisadenews.com/تعاون-بين-تويا-تكنولوجي-وإنتل-لتوطين-ت/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-014",
+        "title":  "Preferred-infrastructure status in e\u0026–Accenture alliance",
+        "account":  "e\u0026 UAE and Accenture AI Transformation Alliance",
+        "country":  "UAE",
+        "bu":  [
+                   "SSG",
+                   "ISG"
+               ],
+        "why_now":  "e\u0026 UAE and Accenture launched an alliance to bundle UAE government and enterprise AI transformation, with commercial and governance frameworks still to be agreed, a window before hardware choices are locked upstream.",
+        "entry_point":  "Accenture Middle East (a global Lenovo alliance partner) and e\u0026 UAE enterprise leadership",
+        "owner":  "Alliances lead for Accenture",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-09-15",
+        "last_seen":  "2026-09-15",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-15",
+                              "story_id":  "2026-09-15-14",
+                              "title":  "e\u0026 UAE and Accenture launch AI Transformation Alliance",
+                              "url":  "https://www.gdnonline.com/Details/1406536"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-015",
+        "title":  "SDAIA-aligned sovereign AI references for Bahrain",
+        "account":  "Bahrain Information \u0026 eGovernment Authority (iGA)",
+        "country":  "Bahrain",
+        "bu":  [
+                   "ISG",
+                   "SSG"
+               ],
+        "why_now":  "iGA and SDAIA signed an MoU covering data governance, AI infrastructure and LLMs, so Bahrain\u0027s AI infrastructure is likely to follow Saudi design choices; hardware is undisclosed. Bahrain has also lost its AWS region, adding urgency to in-country capacity.",
+        "entry_point":  "iGA leadership (CEO Mohammed Ali Al-Qaed\u0027s organisation) and its AI infrastructure team",
+        "owner":  "KSA public-sector ISG account director with Bahrain country coverage",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-09-15",
+        "last_seen":  "2026-09-15",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-15",
+                              "story_id":  "2026-09-15-01",
+                              "title":  "البحرين و\"سدايا\" توقعان مذكرة تفاهم لتعزيز التعاون في البيانات والذكاء الاصطناعي",
+                              "url":  "https://www.mubasher.info/news/4672594/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-016",
+        "title":  "800 VDC-ready Neptune rack-scale AI for Khazna",
+        "account":  "Khazna Data Centers",
+        "country":  "UAE",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "Khazna signed an MoU with Siemens to explore digital twins and next-generation 800 VDC power architectures for AI data centres, the architecture for next-generation rack-scale AI. The compute supplier is undisclosed.",
+        "entry_point":  "Khazna CTO and procurement; Khazna and G42 AI data-centre tenders",
+        "owner":  "ISG UAE country lead",
+        "urgency":  "Watch",
+        "status":  "New",
+        "first_seen":  "2026-09-15",
+        "last_seen":  "2026-09-15",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-15",
+                              "story_id":  "2026-09-15-11",
+                              "title":  "Khazna Data Centers and Siemens sign MoU to explore next-generation AI data center technologies",
+                              "url":  "https://www.zawya.com/en/press-release/companies-news/khazna-data-centers-and-siemens-sign-mou-to-explore-next-generation-ai-data-center-technologies-671645"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-001",
+        "title":  "Next HUMAIN Cloud HPC capacity tranche",
+        "account":  "HUMAIN Cloud - follow-on sovereign HPC tranche",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "HUMAIN Cloud will offer KAUST\u0027s HPE Cray EX-based Shaheen III as HPC-as-a-Service, subject to definitive agreements, so first customers will benchmark on HPE. Whoever supplies the follow-on sovereign HPC tranche inherits those workloads.",
+        "entry_point":  "HUMAIN account team: request a HUMAIN Cloud HPC roadmap briefing before the definitive agreements close",
+        "owner":  "ISG HPC/AI solutions lead plus HUMAIN account director",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-09-14",
+        "last_seen":  "2026-09-14",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-14",
+                              "story_id":  "2026-09-14-01",
+                              "title":  "KAUST and HUMAIN collaborate on cloud-based high-performance computing",
+                              "url":  "https://www.kaust.edu.sa/news/kaust-and-humain-collaborate-on-cloud-based-high-performance-computing"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-002",
+        "title":  "Storage and services for National Data Lake scale-out",
+        "account":  "SDAIA - National Data Lake",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "ISG",
+                   "SSG"
+               ],
+        "why_now":  "SDAIA says more than 500 government systems from about 90 entities are now integrated into the National Data Lake, with 23,000+ open datasets. The scale-out implies government storage, data-platform and sovereign AI infrastructure demand with no disclosed supplier.",
+        "entry_point":  "SDAIA National Data Management Office and the SI delivering the data-lake build",
+        "owner":  "ISG public-sector account lead with SSG services lead",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-09-14",
+        "last_seen":  "2026-09-14",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-14",
+                              "story_id":  "2026-09-14-05",
+                              "title":  "SDAIA at Riyadh Biotech Summit: Over 500 Government Systems Integrated into National Data Lake",
+                              "url":  "https://www.spa.gov.sa/en/N2676261"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-003",
+        "title":  "Telco-edge servers for TAWAL Cloud RAN",
+        "account":  "TAWAL (stc tower company) - Cloud RAN neutral-host scale-out",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "TAWAL and Rakuten Symphony completed first 5G NR and VoLTE calls on a shared indoor Cloud RAN at KAUST, and the COTS edge-server supplier is undisclosed. TAWAL\u0027s 30,000+ tower footprint makes the scale-out the priority target in the advisory\u0027s telco-channel blitz.",
+        "entry_point":  "TAWAL network and procurement leadership, leveraging Lenovo ThinkEdge/ThinkSystem SR-series pedigree with Rakuten Symphony",
+        "owner":  "ISG KSA country lead and channel director (RHQ to confirm names)",
+        "urgency":  "This week",
+        "status":  "New",
+        "first_seen":  "2026-09-14",
+        "last_seen":  "2026-09-14",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-14",
+                              "story_id":  "2026-09-14-07",
+                              "title":  "TAWAL and Rakuten Symphony Launch Saudi Arabia\u0027s First Multi-Operator Shared Indoor Network Powered by Cloud RAN",
+                              "url":  "https://www.einpresswire.com/article/942086787/tawal-and-rakuten-symphony-launch-saudi-arabia-s-first-multi-operator-shared-indoor-network-powered-by-cloud-ran"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-004",
+        "title":  "ThinkEdge plus TruScale telco-channel counter to Dell",
+        "account":  "Mobily, Zain KSA and Salam (Saudi telcos)",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "ISG",
+                   "SSG"
+               ],
+        "why_now":  "Dell signed Salam to embed its cloud infrastructure and edge AI on a consumption basis, locking a licensed Saudi telco channel. Lenovo has a fresh IDC 2Q26 #1 x86 server shipments credential to use before further partner lock-ins set.",
+        "entry_point":  "Telco B2B and enterprise business heads at Mobily and Zain KSA; Salam for non-exclusive edge and TruScale scope",
+        "owner":  "ISG KSA country lead and channel director",
+        "urgency":  "This week",
+        "status":  "New",
+        "first_seen":  "2026-09-14",
+        "last_seen":  "2026-09-14",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-14",
+                              "story_id":  "2026-09-14-03",
+                              "title":  "Salam and Dell to expand Cloud Infrastructure and Edge AI solutions across Saudi Arabia",
+                              "url":  "https://www.cxoinsightme.com/business/channel/salam-and-dell-to-expand-cloud-infrastructure-and-edge-ai-solutions-across-saudi-arabia/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-005",
+        "title":  "SMB device financing bundles through Jarir",
+        "account":  "Jarir (with Mastercard SME programme and HyperPay)",
+        "country":  "Saudi Arabia",
+        "bu":  [
+                   "IDG"
+               ],
+        "why_now":  "Mastercard launched SME programmes in KSA at Money20/20 ME, including a Jarir partnership giving SME cardholders discounts on Jarir\u0027s e-commerce platform. Jarir is one of Lenovo\u0027s most important KSA retail and SMB channels.",
+        "entry_point":  "Jarir category and B2B team; Mastercard SME programme team",
+        "owner":  "IDG KSA channel/SMB lead",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-09-14",
+        "last_seen":  "2026-09-14",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-14",
+                              "story_id":  "2026-09-14-11",
+                              "title":  "Mastercard Expands SME Support Platform Across Middle East With New Partnerships",
+                              "url":  "https://techafricanews.com/2026/09/14/mastercard-expands-sme-support-platform-across-middle-east-with-new-partnerships/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-006",
+        "title":  "Tenant fit-outs at Digital Realty Ankara campus",
+        "account":  "Digital Realty-Rönesans JV - Ankara campus",
+        "country":  "Türkiye",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "Digital Realty entered Türkiye via a JV with Rönesans, starting with a 22MW+ carrier-neutral Ankara campus due in 2028 and an Istanbul site planned. The hardware supplier is undisclosed, opening tenant fit-out and liquid-cooled AI hall scope.",
+        "entry_point":  "JV development team and prospective colocation tenants (Turkcell, Türk Telekom, banks already sold to by Lenovo ISG)",
+        "owner":  "ISG Türkiye country lead",
+        "urgency":  "Watch",
+        "status":  "New",
+        "first_seen":  "2026-09-14",
+        "last_seen":  "2026-09-14",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-14",
+                              "story_id":  "2026-09-14-16",
+                              "title":  "Digital Realty Enters Türkiye Through Formation of New Joint Venture",
+                              "url":  "https://www.globenewswire.com/news-release/2026/09/14/3360821/0/en/digital-realty-enters-t%C3%BCrkiye-through-formation-of-new-joint-venture.html"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-007",
+        "title":  "Compute partner for Submer-Edgecore AI halls",
+        "account":  "Submer (with Edgecore Networks) - META AI-ready data centres",
+        "country":  "Regional (META)",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "Submer and Edgecore signed an MoU bundling cooling, power and networking for AI data centres across the Middle East, Türkiye and Africa, with no compute partner named. Lenovo can join as the server layer (Neptune plus immersion options) or face it as a rival turnkey bid.",
+        "entry_point":  "Submer META partnerships and go-to-market leadership",
+        "owner":  "ISG alliances/partner lead, META",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-09-14",
+        "last_seen":  "2026-09-14",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-14",
+                              "story_id":  "2026-09-14-18",
+                              "title":  "Submer and Edgecore Partner on AI-Ready Data Centre Infrastructure Across META",
+                              "url":  "https://techafricanews.com/2026/09/14/submer-and-edgecore-partner-on-ai-ready-data-centre-infrastructure-across-meta/"
+                          }
+                      ]
+    },
+    {
+        "id":  "OPP-008",
+        "title":  "GPU infrastructure reseller for Kuwait sovereign AI",
+        "account":  "Dhow Engineering (Dhow International Holding) - Kuwait sovereign AI",
+        "country":  "Kuwait",
+        "bu":  [
+                   "ISG"
+               ],
+        "why_now":  "Dhow Engineering became local integrator for Open Innovation AI\u0027s hardware-agnostic AI Fabric platform targeting Kuwaiti government and critical sectors. The GPU infrastructure beneath it is undisclosed.",
+        "entry_point":  "Dhow Engineering as local integration and delivery partner; Open Innovation AI as co-sell partner",
+        "owner":  "ISG Kuwait channel lead",
+        "urgency":  "This quarter",
+        "status":  "New",
+        "first_seen":  "2026-09-14",
+        "last_seen":  "2026-09-14",
+        "sightings":  [
+                          {
+                              "date":  "2026-09-14",
+                              "story_id":  "2026-09-14-19",
+                              "title":  "Open Innovation AI and Dhow Engineering Partner to Advance Sovereign AI in Kuwait",
+                              "url":  "https://techafricanews.com/2026/09/14/open-innovation-ai-and-dhow-engineering-partner-to-advance-sovereign-ai-in-kuwait/"
+                          }
+                      ]
+    }
+]

@@ -1,0 +1,95 @@
+*Riyadh airport attack killed 12 people and wounded over 300 more, says Saudi civil aviation agency*
+
+* GACA said 12 people were killed and 309 injured in Saturday's missile attack on King Khalid International Airport, some of them critically
+* The dead were four Saudis, two Bangladeshis, and one each from Palestine, the US, Egypt, Jordan, Syria and Sudan
+* GACA temporarily suspended operations, FlightAware reported at least 291 cancelled flights at Riyadh airport in 24 hours, and King Fahd International Airport in Dammam was also attacked
+
+Source - https://www.arabnews.com/saudi-arabia/riyadh-airport-attack-killed-12-people-and-wounded-over-300-more-says-saudi-civil-aviation-agency-3005640
+
+*Major Saudi conferences to proceed, organisers say, despite deadly airport attack*
+
+* The World Petroleum Congress will proceed as planned from Sunday to Thursday with foreign leaders and ministers attending, and organisers noted a four-hour drive from Dammam as an alternative route
+* The Future Investment Initiative will also proceed as planned from October 26-29, with security measures at Riyadh's airports, conference venues and official hotels
+* The UK, France and Germany have warned their citizens to avoid Riyadh, and Italian Energy Minister Gilberto Pichetto Fratin will join the IEF ministerial by video link
+
+Source - https://www.brecorder.com/news/40443656/major-saudi-conferences-to-proceed-organisers-say-despite-deadly-airport-attack
+
+*Tawakkalna App surpasses 30 billion operations, with over 36.7 million users*
+
+* Tawakkalna has processed more than 30 billion transactions since its launch in 2020, averaging 88 million operations daily
+* Registered users exceed 36.7 million, with more than 2.1 million daily active users accessing over 1,800 services from 380 entities
+* The digital wallet hosts over 800 categories of official documents and has recorded more than 3.6 billion views
+
+Source - https://saudigazette.com.sa/article/665283/saudi-arabia/tawakkalna-app-surpasses-30-billion-operations-with-over-367-million-users
+
+*136 مليار دولار صفقات متوقعة للصناديق السيادية في المنطقة بنهاية 2026*
+
+* بلغت استثمارات الصناديق السيادية في الشرق الأوسط وشمال أفريقيا 102 مليار دولار خلال الأشهر التسعة الأولى من 2026 عبر 245 صفقة
+* استحوذت الولايات المتحدة على 45% من قيمة الاستثمارات بما يعادل 45.6 مليار دولار، تلتها الإمارات بقيمة 18.2 مليار دولار
+* تتوقع غلوبال إس دبليو إف ارتفاع أصول الصناديق السيادية في المنطقة من 6.1 تريليون دولار في سبتمبر 2026 إلى 8.8 تريليون دولار بحلول 2030
+
+Source - https://www.okaz.com.sa/economy/na/2270164
+
+*ياسمينة السعودية تجمع استثمار استراتيجي من صندوق الإنماء التقني لدعم نمو تقنيات التأمين*
+
+* حصلت ياسمينة على استثمار استراتيجي من صندوق الإنماء التقني، وأُعلن عن الاتفاقية خلال معرض Money 20/20
+* تأسست الشركة عام 2023 وتقدم بنية تحتية برمجية لدمج منتجات التأمين في المنصات الرقمية
+* لم يُعلن عن قيمة الاستثمار
+
+Source - https://jawlah.co/66149
+
+*PM Shehbaz inaugurates IT Park to drive tech-led growth*
+
+* The park will be handed to a company selected through a transparent bidding process open to local and international IT and AI companies
+* Shehbaz said similar parks will spread across all four provinces, with plans to extend the initiative to Azad Jammu and Kashmir and Gilgit-Baltistan
+* The foundation stone was laid in 2018 and the project suffered considerable delays
+
+Source - https://tribune.com.pk/story/2634073/pm-shehbaz-inaugurates-it-park-to-drive-tech-led-growth
+
+*Nigeria Targets 200MW of Data Centre Capacity, and the Governing Party Chairman Is Asking Where the Power Comes From*
+
+* Nigeria aims to expand data centre capacity from about 50 MW of IT load to 200 MW over five years
+* The National Digital Cloud Policy seeks $750 million in private investment into cloud and data infrastructure within 24 months
+* The policy targets $250 million of that investment in its first year
+
+Source - https://iafrica.com/nigeria-targets-200mw-of-data-centre-capacity-and-the-governing-party-chairman-is-asking-where-the-power-comes-from/
+
+*Türk Telekom’dan Avrupa Birinciliği: M-NEO İle Enerjide 3 Katın Üzerinde Tasarruf*
+
+* Türk Telekom'un M-NEO Mobil Şebeke Enerji Yönetim Platformu, Gartner'ın Eye on Innovation Awards kapsamında 2026'da Avrupa'daki operatörler arasında birinci oldu
+* Platform, mobil baz istasyonlarında yapay zekâ destekli enerji yönetimi ile akü kullanımında 3 kattan fazla tasarruf sağlıyor
+* Türk Telekom, 2024'te NOVA ALFA projesiyle de Avrupa birinciliği kazanmıştı
+
+Source - https://rayhaber.com/2026/10/turk-telekomdan-avrupa-birinciligi-m-neo-ile-enerjide-3-katin-uzerinde-tasarruf/
+
+*Huawei hosts cybersecurity, ICT competition in Kiambu*
+
+* Huawei Kenya held a Cybersecurity Awareness and ICT Competition at Kiambu National Polytechnic for students, government officials and technology stakeholders
+* National Cybersecurity Authority Chairperson Dr Martin Koyabe attended the event
+* Adam Lane, Huawei Kenya's Director of Policy and Partnerships, said the company is committed to developing local digital talent
+
+Source - https://www.kenyanews.go.ke/huawei-hosts-cybersecurity-ict-competition-in-kiambu/
+
+*Nvidia in talks to invest further in Reflection AI or buy it, FT reports*
+
+* Nvidia has put $800 million into Reflection AI, according to the FT
+* In April, Reflection's CEO said the company was raising funds at a $25 billion pre-money valuation
+* Reflection was founded in 2024 by former DeepMind researchers Misha Laskin and Ioannis Antonoglou
+
+Source - https://www.aol.com/articles/nvidia-talks-invest-further-reflection-193237000.html
+
+*Nvidia reportedly halts GeForce RTX 5090 production in favor of AI data center and professional GPUs — impending supply drought expected to drive up prices, RTX 5080 24GB rumored as new gaming flagship*
+
+* A leaked factory notice cited by @hongxing2020 says Nvidia will no longer manufacture any RTX 5090 models, including the D variants
+* GB202 silicon will reportedly be used exclusively on data center and professional graphics cards, with the RTX 5080 24GB becoming the highest-end GeForce card
+* The RTX Pro 5500 has the same 21,760 CUDA cores as the RTX 5090 but comes with 84GB of GDDR7 memory
+
+Source - https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-halts-geforce-rtx-5090-production-in-favor-of-ai-data-center-and-professional-gpus-impending-supply-drought-expected-to-drive-up-prices-rtx-5080-24gb-rumored-as-new-gaming-flagship
+
+*AMD Hikes GDDR6 Prices For Partners Starting October 1st, While NVIDIA Reportedly Holds Off On GDDR7*
+
+* AMD has raised GDDR6 memory prices for its board partners, effective October 1st
+* The hike affects Radeon RX 5000, 6000, 7000 and RDNA 4-based RX 9000 series, with the RX 9000 series expected to be hit hardest
+* Other components such as SMD components and PCBs have also risen in price, according to Bench Life
+
+Source - https://wccftech.com/amd-reportedly-raised-gddr6-memory-prices-for-its-partners/

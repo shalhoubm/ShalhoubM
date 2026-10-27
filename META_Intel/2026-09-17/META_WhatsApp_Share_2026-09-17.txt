@@ -1,0 +1,297 @@
+*Edarat issues SAR 127.5M PO for computing infrastructure equipment*
+
+* Edarat issued a purchase order on Sept. 16 to Aklaniyat Technology Co. Ltd. for cloud and GPU-based computing infrastructure equipment totaling SAR 127.54 million, excluding VAT.
+* The order will be funded through supplier financing with Aklaniyat and credit facilities, and supplied and commissioned in five phases over the next six months.
+* The capital assets will be recognized in Q4 2026 and Q1 2027 and depreciated over five years, following a Sept. 9 board decision approving the EdaratCloud Stack strategic plan.
+
+Source - https://www.argaam.com/en/article/articledetail/id/1936980
+
+*War fears lead to AI revenue growth in Saudi Arabia*
+
+* CNTXT, a joint venture between Saudi Aramco and Norwegian AI company Cognite, has doubled its revenue every year since it was established in 2022.
+* Tencent Cloud Mena acquired the Class C licence required to handle top-secret data and launched its first data centre in Saudi Arabia last year.
+* Salesforce's Mohammed Alkhotani said the company saw the high end of triple digit growth in Saudi Arabia over the past year.
+
+Source - https://www.agbi.com/analysis/ai/2026/09/war-fears-lead-to-ai-revenue-growth-in-saudi-arabia/
+
+*Monsha'at, STC Bank Sign Cooperation Agreement with SAR5 Billion Financing Portfolio*
+
+* Monsha'at signed the agreement with STC Bank on the sidelines of the Money20/20 conference in Riyadh.
+* The agreement provides Sharia-compliant financing solutions through a portfolio valued at up to SAR5 billion.
+* The program offers short-, medium- and long-term cash and non-cash facilities with terms of up to 10 years, covering working capital, asset and equipment purchases, point-of-sale receivables, and contract and project financing.
+
+Source - https://www.spa.gov.sa/en/N2678815
+
+*ICAIRE Launches Program to Train 10,000 AI Leaders Across 53 Countries at UNESCO AI Ethics Forum*
+
+* ICAIRE launched the program in cooperation with ICESCO, in partnership with the Apolitical platform, and in coordination with the Saudi National Commission for Education, Culture and Science.
+* Over two years, the program aims to train 10,000 leaders and gradually expand to the 53 ICESCO member states, delivered entirely online.
+* The program has four tracks: AI fundamentals, advanced applications, AI ethics and governance, and the use of AI in strategic decision-making.
+
+Source - https://www.spa.gov.sa/en/N2678062
+
+*Wipro partners with Aramco and SAP to launch Wipro STO360™ for STO management*
+
+* Wipro STO360™ is built on SAP's Business Technology Platform to help asset-intensive organisations manage Shutdown, Turnaround, and Outage (STO) operations.
+* SAP has recognised Wipro STO360™ as an endorsed app available on the SAP Store.
+* Wipro's collaboration with Aramco spans over two decades, and Aramco Executive Vice President of Technology & Innovation Ahmad O. Al Khowaiter is quoted on the launch.
+
+Source - https://www.businessupturn.com/business/wipro-partners-with-aramco-and-sap-to-launch-wipro-sto360-for-sto-management/
+
+*AWS "unable to restore access" to data centers hit by Iran strikes*
+
+* AWS said it is unable to restore access to resources and data hosted exclusively in the mec1-az2 availability zone of its Middle East (UAE) me-central-1 region.
+* For the Bahrain me-south-1 region, AWS said damage spanned multiple availability zones and it will share further updates in early 2027.
+* An Amazon spokesperson disputed the suggestion that the impacted data centers will not reopen.
+
+Source - https://www.datacenterdynamics.com/en/news/aws-unable-to-restore-access-to-data-centers-hit-by-iran-strikes/
+
+*War damage forces costly rethink of AI infrastructure*
+
+* AWS said it could not restore access to data and resources held exclusively in its Bahrain cloud region or one UAE availability zone, six months after the damage.
+* Sona Muzikarova of Gravitas Advisors and the Atlantic Council said hyperscalers must adapt to a new threat model that includes deliberate attacks on several availability zones at a time.
+* Saudi Arabia shut its 1,200km East-West oil pipeline last weekend after drone attacks in the Riyadh and Medina regions.
+
+Source - https://www.agbi.com/analysis/ai/2026/09/war-damage-forces-costly-rethink-of-ai-infrastructure/
+
+*Washington bets big on African fibre with $155-million Wiocc deal*
+
+* The US International Development Finance Corporation said it would invest up to US$155-million in Wiocc Group, which DFC CEO Ben Black called DFC's largest-ever equity investment.
+* DFC will provide the equity investment alongside Vision Invest and the African Finance Corporation.
+* Johannesburg-headquartered Wiocc operates undersea cables, fibre networks and data centres in more than 30 African countries.
+
+Source - https://techcentral.co.za/wiocc-dfc-155-million-investment/286209/
+
+*Microsoft expands Agent 365 availability to the UAE as organizations move to govern AI agents at scale*
+
+* Microsoft announced at GISEC Global 2026 that Microsoft Agent 365 will be available to customers in the UAE data centre starting October.
+* Agent 365 covers observability, governance and security, extending Microsoft Entra, Microsoft Purview and Microsoft Defender protections to agents.
+* The release cites the UAE government's aim to move 50% of government sectors, services and operations to autonomous Agentic AI models within two years.
+
+Source - https://www.zawya.com/en/press-release/companies-news/microsoft-expands-agent-365-availability-to-the-uae-as-organizations-move-to-govern-ai-agents-at-scale-799642
+
+*Zain Kuwait partners with Schneider Electric*
+
+* The agreement was announced at the Schneider Electric Innovation Summit Middle East & Africa 2026 in Abu Dhabi.
+* It was signed by Zain Kuwait Chief Technology Officer Daaij Aloud and Schneider Electric Gulf Cluster President Amel Chadli.
+* The companies also explored collaboration on AI-ready data centers, sustainability and decarbonization, AI-enabled Asset Performance Management, and Facilities Management and Operations Support.
+
+Source - https://kuwaittimes.com/article/49895/business/zain-kuwait-partners-with-schneider-electric/
+
+*du and QuantumGate bring post-quantum security to UAE cloud*
+
+* QuantumGate's post-quantum security technology will run on du Tech's National Hypercloud, with the UAE Cyber Security Council endorsing the collaboration for government and critical entities.
+* du will commercialise the technology to government entities, while QuantumGate will provide technical support.
+* A QuantumGate and UAE Cyber Security Council study found 64% of organisations in selected GCC markets had allocated budgets for post-quantum migration.
+
+Source - https://tbreak.com/du-quantumgate-national-hypercloud/
+
+*Dubai Government gains real-time view of cybersecurity posture with new DESC dashboard*
+
+* DESC and Microsoft announced the Zero Trust assurance dashboard at GISEC Global 2026, mapping Microsoft security signals against the 13-domain Dubai Information Security Regulation.
+* The dashboard covers 37 types of security finding, and its guidance can be exported in Arabic and English.
+* Following a pilot, two Dubai Government entities have been onboarded and the dashboard is being rolled out to more than 80 additional entities.
+
+Source - https://www.intelligentciso.com/2026/09/17/dubai-government-gains-real-time-view-of-cybersecurity-posture-with-new-desc-dashboard/
+
+*Sheikh Khaled chairs first Abu Dhabi Executive Council meeting to use agentic AI platform*
+
+* The meeting used the AI Committee System, an agentic AI platform, for the first time.
+* Phase 1 of the Abu Dhabi Liveability Strategy completed more than 60 major projects valued at more than Dhs12 billion, within a Dhs42 billion programme.
+* Sheikh Khaled approved expanding Al Ghad Nurseries from 3,000 to 12,000 seats by 2029.
+
+Source - https://www.gulftoday.ae/news/2026/09/17/sheikh-khaled-chairs-first-abu-dhabi-executive-council-meeting-to-use-agentic-ai-platform
+
+*Atos partners with GCH to open new AI-Driven Security Operations Center in the UAE*
+
+* The new Dubai-based SOC, opened with Gulf Cyberfender Hub, will provide sovereign security operations with local data residency.
+* It is designed to support compliance with UAE Information Assurance Standards and National Electronic Security Authority requirements.
+* The UAE SOC will work with the Atos Global Threat Research Center.
+
+Source - https://www.globenewswire.com/news-release/2026/09/17/3363657/0/en/atos-partners-with-gch-to-open-new-ai-driven-security-operations-center-in-the-uae.html
+
+*Goldman's AI Server Forecast Sends Dell Stock Jumping*
+
+* Dell Technologies shares climbed 4% on Wednesday as investors focused on Goldman Sachs' higher projections for the AI server market.
+* Goldman research has estimated global AI investment at about $1 trillion in 2026, including roughly $581 billion in the U.S.
+* Dell's latest results showed a $95 billion AI server backlog and $60.9 billion of AI server orders.
+
+Source - https://uk.finance.yahoo.com/news/goldmans-ai-server-forecast-sends-191505950.html
+
+*Apple May Return to Server Market With Nvidia Technology*
+
+* Apple is considering an AI server built around M8 series chips and has discussed incorporating Nvidia networking hardware, including NVLink Fusion.
+* The system would be sold to outside customers, bringing Apple back into a business it left when it discontinued Xserve in 2011.
+* The report places a potential release date in 2029, though the project could be canceled before then.
+
+Source - https://www.macrumors.com/2026/09/16/apple-may-return-to-server-market/
+
+*Banks provide $22 billion chip loan to Blackstone, Alphabet AI cloud venture, source says*
+
+* A group of 10 banks including Goldman Sachs, Sumitomo Mitsui Banking Corp, Barclays, BNP Paribas and Bank of Nova Scotia is providing a $22 billion chip loan to Crux AI.
+* Crux AI has secured an initial $5 billion equity investment from Blackstone, while Google will provide its custom Tensor Processing Units, software and services.
+* The venture plans to bring its first 500 megawatts of capacity online in 2027, with the debt used to buy Google TPUs and backed by those chips and customer contracts.
+
+Source - https://www.investing.com/news/stock-market-news/banks-provide-22-billion-chip-loan-to-blackstone-alphabet-cloud-venture-bloomberg-news-reports-4904543
+
+*Nebius Announces GPU Price Increases, Shares Rise Over 9% in Pre-Market Trading*
+
+* On-demand pricing for NVIDIA B300 GPUs will rise 21% to $9.50 per hour starting October 1.
+* H100 pricing will rise from $3.85 to $4.50 per GPU-hour, H200 from $4.50 to $5.40, and B200 from $7.15 to $8.50.
+* AMD EPYC Genoa CPU rates will increase by 25% from $0.012 per vCPU-hour to $0.015.
+
+Source - https://www.kucoin.com/news/flash/nebius-announces-gpu-price-hikes-shares-rise-over-9-pre-market
+
+*Generac Stock Soars 45% After Amazon Locks In $8 Billion AI Data Center Generator Deal*
+
+* Generac issued Amazon a warrant for roughly 1.69 million shares worth about $340 million.
+* Initial generator deliveries are set to total $2.4 billion across 2027 and 2028, per a filing Generac made with the SEC.
+* Roughly 307,954 of the warrant shares vested immediately, with the rest tied to Amazon's generator spending up to an $8 billion ceiling.
+
+Source - https://startupfortune.com/generac-stock-soars-45-after-amazon-locks-in-8-billion-ai-data-center-generator-deal/
+
+*OpenAI says CEO Altman will attend Trump's state dinner for Xi*
+
+* OpenAI said on Wednesday that CEO Sam Altman will attend U.S. President Donald Trump's state dinner for Chinese President Xi Jinping.
+
+Source - https://kfgo.com/2026/09/16/openai-says-ceo-altman-will-attend-trumps-state-dinner-for-xi/
+
+*Lenovo Modernizes Virtualization Infrastructure for an AI-Ready Future*
+
+* The expanded portfolio includes the Lenovo ThinkAgile VX850 V4, purpose-built for highly virtualized and demanding in-memory workloads.
+* Three deployment options will be available: Standard Deploy, Premier Deploy, and Premier Deploy Plus.
+* Premier Deploy Plus adds extended post-deployment assistance and a one-year infrastructure health assessment.
+
+Source - https://news.lenovo.com/pressroom/press-releases/lenovo-modernizes-virtualized-environments-giving-customers-greater-choice-resilience-and-control/
+
+*China's Huawei says AI chip demand outstrips supply as it steps up Nvidia challenge*
+
+* Huawei plans to have its Ascend 960DT chip ready in the first quarter of 2027, three quarters earlier than previously planned.
+* Huawei intends to release a new generation of Ascend chips every year, with the 970 and 980 following in 2028 and 2029.
+* Huawei unveiled a computing architecture called Peerium, designed eventually to let as many as 1 million processors operate as a single system.
+
+Source - https://thedailyguardian.com/news/science-tech/chinas-huawei-says-ai-chip-demand-outstrips-supply-as-it-steps-up-nvidia-challenge-757801/
+
+*TikTok is now asking Kenyan creators for their tax information*
+
+* Kenya has applied withholding tax on creator income since 1st July 2023, at 5% for residents and 20% for non-residents.
+* Meta told Facebook and Instagram creators in November 2025 that 5% would be deducted from payouts from 1 January 2026.
+* Creators on turnover tax at 3% with annual turnover between KES 1 million and KES 25 million face a monthly 5% withholding that exceeds their annual bill.
+
+Source - https://tech-ish.com/2026/09/16/tiktok-is-now-asking-kenyan-creators-for-their-tax-information/
+
+*Tencent Cloud and AI Singapore Connect Singapore's AI Talent with Real-World Industry Challenges*
+
+* The AI CAN DO IT Tencent Cloud Hackathon Singapore 2026 runs from 16 September to 3 November 2026.
+* Each registered participant receives 1,000 credits for Tencent CodeBuddy, with submissions closing on 16 October 2026 and shortlisted teams announced on 23 October.
+* Cash prizes of S$10,000, S$5,000 and S$2,000 go to the top three winners.
+
+Source - https://en.prnasia.com/releases/apac/tencent-cloud-and-ai-singapore-connect-singapore-s-ai-talent-with-real-world-industry-challenges-548305.shtml
+
+*ZTE, Antel Validate Symmetric 50G PON in Latin America*
+
+* ZTE and Antel, Uruguay's largest telecommunications operator, completed the first validation of symmetric 50G PON technology in Latin America during the Antel Summit 2026.
+* The validation achieved the convergence and evolution of three generations of PON technologies: GPON, 10G PON, and 50G PON.
+* ZTE says it will deepen its collaboration with Antel to drive the evolution of all-optical access networks.
+
+Source - https://www.thefastmode.com/technology-solutions/50632-zte-antel-validate-symmetric-50g-pon-in-latin-america
+
+*ColorOS 17 Unveiled: Natural AI Photo Editing, Smoother System Animations, and Smart Productivity Tools*
+
+* The gallery and camera upgrade is powered by the Da Vinci Large Model of Visual Understanding, which coordinates six specialized sub-models.
+* Native 2K ProXDR enhances dynamic range across supported displays directly in the gallery viewer.
+* The update adds AI Notes and the OPPO AI Heart Ball, a system-level, hardware-aware AI assistant.
+
+Source - https://nokiapoweruser.com/coloros-17-ai-retoucher-fluid-animations-productivity/
+
+*Honor WIN Tablet teased with flagship design, launching soon*
+
+* Honor's WIN tablet will likely debut next month and not with the Magic 9 series, and is available for pre-order on the official Mall.
+* The tablet can use the Snapdragon 8 Elite Gen 5 chip with an upgraded built-in active cooling fan.
+* The fan reduces core temperature by more than 10°C.
+
+Source - https://www.huaweicentral.com/honor-win-tablet-teased-with-flagship-design-launching-soon/
+
+*Hisense Crashes the Party With Four New Boom Portable Bluetooth Speakers*
+
+* The Boom family includes three portable speakers, FlexBoom, WeBoom and VoyageBoom, plus the larger Party Thunder Pro.
+* FlexBoom offers a dual driver configuration, 40 watts of output, up to 20 hours of playback and an IP67 rating.
+* Party Thunder Pro is priced at $399.99 and rated for up to 620 watts of output.
+
+Source - https://www.ecoustics.com/products/hisense-boom-portable-bluetooth-speakers-2026/
+
+*Samsung Chip Profit Seen at 370 Trillion Won as DDR5 Prices Jump 5.5-Fold*
+
+* Samsung Electronics' Device Solutions division management raised its operating profit outlook for this year to as much as 370 trillion won.
+* As of the 15th, the fixed contract price for 64-gigabyte DDR5 server modules (RDIMM) reached $1,500, 5.5 times the $272 recorded a year earlier.
+* Third-quarter operating profit is forecast at 107.4 trillion won, which would be the company's first quarter above 100 trillion won.
+
+Source - https://en.sedaily.com/finance/2026/09/17/samsung-chip-profit-seen-at-370-trillion-won-as-ddr5-prices
+
+*Citi Believes Global Memory Supply Tightness Will Persist Until 2031, and the Price Increase Cycle Is Expected to Remain Strong*
+
+* Citi expects HBM bit demand to rise 62% year over year to 75.2 billion Gb in 2027, with a supply gap of about 21% that could widen to about 36% in 2028.
+* Citi expects global DRAM bit demand to grow about 30.2% in 2027 against supply growth of 18.8%, a market gap of about 8.7%.
+* After DRAM blended average selling prices surged 242.4% in 2026, they may still rise 23.1% year over year in 2027.
+
+Source - https://nai500.com/blog/2026/09/citi-believes-global-memory-supply-tightness-will-persist-until-2031-and-the-price-increase-cycle-is-expected-to-remain-strong/
+
+*Memory Price Surge Erases Ultra-Low-Cost Smartphones*
+
+* Shipments of smartphones priced under $100 in the second quarter fell by approximately 60% from the same period last year.
+* Omdia reported Africa's smartphone shipments fell 7% year-on-year in the second quarter, while devices priced under $100 dropped 34%.
+* According to IDC, smartphone DRAM and NAND prices have surged over 300% from a year ago, and memory exceeded 64% of component costs in smartphones priced at $99 or less.
+
+Source - https://www.chosun.com/english/industry-en/2026/09/17/C5L6VEHLTZCW3GXZK4TAA25RYA/
+
+*Foreign funds sell Korea chip giants despite IB optimism on memory cycle*
+
+* Foreigners were net sellers on the main bourse for six straight sessions from Sept. 9 to 16, with total net sales of 11.927 trillion won.
+* Foreign investors net sold 5.8539 trillion won of SK hynix and 4.3869 trillion won of Samsung Electronics, about 86% of total foreign net sales on the KOSPI.
+* Goldman Sachs kept buy ratings on both companies, with target prices of 490,000 won for Samsung Electronics and 3.5 million won for SK hynix.
+
+Source - https://biz.chosun.com/en/en-finance/2026/09/17/KE2XXA4V6VEJRLIRC5CSXUP7XQ/
+
+*SK Hynix weighs US memory options as buyers lock in 2027 supply*
+
+* SK Hynix is keeping its US memory options open as customers move earlier to secure 2027 supply, with tightening availability raising pressure on memory makers to consider additional capacity.
+
+Source - https://www.digitimes.com/news/a20260917VL208/sk-hynix-2027-intel-investment-hbm.html
+
+*CXMT cashes in on the DRAM shortage — and takes aim at HBM*
+
+* ChangXin Memory Technologies is emerging from the memory shortage with sharply higher profits and greater pricing power, giving it more resources to expand into LPDDR6 and high-bandwidth memory.
+
+Source - https://www.digitimes.com/news/a20260917VL219/cxmt-dram-hbm-supply-chain-emerging-memory.html
+
+*Festive smartphone sales face steepest decline in decade in wake of memory chip crisis*
+
+* High memory chip prices are making even the most affordable devices 40% more expensive.
+* July-September quarter smartphone volumes are projected to decline 25% to about 36 million units from 48 million a year earlier, per data collated from IDC India.
+* This would be the worst sales level for India's $45 billion smartphone economy since September 2016.
+
+Source - https://www.livemint.com/technology/tech-news/smartphone-sales-in-india-festive-season-apple-iphonsamsung-11789555996640.html
+
+*Samsung Galaxy S26 Price To Hike By Rs 12,000 in India: Check New Prices*
+
+* The new pricing is effective from September 20, 2026, for both storage variants.
+* The 12GB + 256GB variant goes from Rs 87,999 to Rs 99,999.
+* The 12GB + 512GB variant goes from Rs 1,07,999 to Rs 1,19,999.
+
+Source - https://www.mymobileindia.com/samsung-galaxy-s26-price-to-hike-by-rs-12000-in-india-check-new-prices/
+
+*Xiaomi Laptop Price Hike: From Redmi Book Pro 16 to Redmi Book Pro 14; Check All Models With Upgraded Rates*
+
+* Citing Gizmochina, the price increases range between 400 and 700 yuan in the Chinese market.
+* The Redmi Book Pro 16 2025 rose from 4,699 yuan to 5,399 yuan, the steepest increase at 700 yuan.
+* The Redmi Book Pro 16 2026 moved from 7,399 yuan to 7,899 yuan, and the Redmi Book Pro 14 2026 from 7,199 yuan to 7,699 yuan.
+
+Source - https://www.latestly.com/technology/xiaomi-laptop-price-hike-from-redmi-book-pro-16-to-redmi-book-pro-14-check-all-models-with-upgraded-rates-7607870.html
+
+*Micron to scale up semiconductor assembly, testing in India next year*
+
+* Micron CEO Sanjay Mehrotra said the company will assemble and test tens of millions of chips at Sanand this year.
+* Micron has been in India for seven years and employs more than 7,000 people there directly.
+* Commercial production at Micron's Sanand, Gujarat facility began earlier this year.
+
+Source - https://www.business-standard.com/industry/news/micron-to-scale-up-semiconductor-assembly-testing-in-india-next-year-126091700349_1.html

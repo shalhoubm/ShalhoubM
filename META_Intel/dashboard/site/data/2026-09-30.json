@@ -1,0 +1,434 @@
+{
+    "date":  "2026-09-30",
+    "window":  "Tue 29 Sep 2026 10:57 → Wed 30 Sep 2026 10:57 KSA (UTC+3), i.e. 07:57 → 07:57 UTC.",
+    "headline":  "A quiet day for META: no KSA award, no META data-centre build and no GCC hardware procurement was first published in the window, and the Tier-1 KSA newsrooms were silent. The signals came from outside the region. TrendForce forecasts 4Q26 conventional DRAM contract prices up 10-15% and NAND up 15-20%, with enterprise SSD the only category accelerating. Netlist asked the US ITC to block imports of Micron AI memory, and Reuters notes an earlier complaint covering Lenovo, HPE and Supermicro products; DeepSeek also released open-source programming tools for Huawei Ascend chips.",
+    "lenovo_read":  "No new KSA account trigger today; the action is on price and supply. Hold short quote validity through Micron\u0027s results tonight (23:30 KSA), get ahead of the Netlist ITC exposure on Micron-sourced memory, and prepare a sovereign-AI counter-brief now that Huawei\u0027s Ascend stack has open model-maker tooling.",
+    "pillars":  {
+                    "dc":  "No META build, groundbreaking, MW expansion, land allocation, PPA or region launch first published in window; the only DC-relevant scored item is global (Anthropic\u0027s non-cancellable compute commitments). Alibaba Cloud Türkiye (23 Sep), AWS UAE fire (Mar 2026), USTDA Nigeria (23 Sep) and MIS-HUMAIN 250 MW (20 Sep) rejected as reposts.",
+                    "memory":  "6 scored items led by TrendForce 4Q26: conventional DRAM contract +10-15% QoQ, NAND +15-20%, enterprise SSD accelerating. DRAMeXchange spot 30 Sep: DDR5 16Gb $57.900, DDR4 16Gb 3200 $83.686. Netlist ITC action against Micron HBM. Micron reports 30 Sep 23:30 KSA.",
+                    "deals":  "3 scored items (ASELSAN-Türk Telekom smartphone, Morocco MTNRA-Mistral Darija AI, Zain KSA-IBM SkillsBuild); no KSA tech contract, no Tadawul IT filing, no funding round of $5M or more, and no hardware supplier named in any in-window META deal.",
+                    "global":  "Scored IBM (Zain KSA), Mistral (Morocco) and Lenovo\u0027s own South Africa partner awards; Chinese-rule news from Huawei (via DeepSeek), Hikvision, ZTE, OPPO, Hisense and ByteDance; nothing verifiable in window from Alibaba, Tencent, Xiaomi, vivo, Honor or Haier."
+                },
+    "stories":  [
+                    {
+                        "id":  "2026-09-30-01",
+                        "tier":  "KSA",
+                        "pillar":  "Global tech in META",
+                        "band":  "LOW",
+                        "score":  9,
+                        "title":  "“زين السعودية” تطلق برامج لتنمية مهارات الذكاء الاصطناعي والتقنية لدى الطلاب والمعلمين عبر منصة IBM SkillsBuild",
+                        "source":  "Sabq (Arabic)",
+                        "published":  "Sabq, 29 Sep 2026 15:00 KSA (page metadata 12:00:36Z).",
+                        "country":  "Saudi Arabia",
+                        "summary":  "Zain KSA and IBM SkillsBuild launched two free programmes, one for teachers and education practitioners and one for students, covering data and AI, cloud, cybersecurity and quantum computing with digital credentials. The launch is tied to the Year of AI; no value or participant numbers were given.",
+                        "bullets":  [
+                                        "أطلقت «زين السعودية» بالتعاون مع منصة IBM SkillsBuild برنامجين تعليميين مجانيين في التقنيات الناشئة، يستهدفان الطلاب والمعلمين والممارسين في قطاع التعليم في مختلف مناطق المملكة",
+                                        "يتيح البرنامجان الوصول إلى محتوى تعليمي وجلسات مباشرة وفرص للحصول على اعتمادات رقمية في البيانات والذكاء الاصطناعي، والحوسبة السحابية، والأمن السيبراني، والحوسبة الكمية",
+                                        "تتضمن المبادرة مسارين: الأول للمعلمين والممارسين في قطاع التعليم، والثاني للطلاب والمهتمين، ويتزامن الإطلاق مع عام الذكاء الاصطناعي"
+                                    ],
+                        "lenovo":  "IDG/SSG: No hardware in scope. IBM is using skills to get close to Zain KSA and the education sector. Lenovo\u0027s Year of AI education play (AI PCs plus training, OPP-031) should be pitched to Zain KSA as a device-and-connectivity bundle for the same teachers and students.",
+                        "url":  "https://sabq.org/article/lfzljtx",
+                        "arabic":  "زين السعودية وIBM تطلقان برنامجين مجانيين لتنمية مهارات الذكاء الاصطناعي والسحابة والأمن السيبراني لدى الطلاب والمعلمين ضمن عام الذكاء الاصطناعي.",
+                        "image":  null
+                    },
+                    {
+                        "id":  "2026-09-30-02",
+                        "tier":  "GCC/MEA",
+                        "pillar":  "Deals \u0026 MoUs",
+                        "band":  "LOW",
+                        "score":  11,
+                        "title":  "Turkey\u0027s defense firm, telecom operator test smartphone for 2027 sales",
+                        "source":  "Turkish Minute",
+                        "published":  "Turkish Minute, 29 Sep 2026 18:05 KSA (page metadata 15:05 UTC). Project first reported in August; the CEO\u0027s 2027 timeline is new.",
+                        "country":  "Türkiye",
+                        "summary":  "ASELSAN and Türk Telekom are producing and testing a domestic smartphone in Malatya, with sales planned for H1 2027. ASELSAN handles hardware and production and Türk Telekom software, marketing and distribution. Android comes first, with a Turkish OS and then a Turkish chip planned later.",
+                        "bullets":  [
+                                        "ASELSAN and Türk Telekom are producing and testing a smartphone in the eastern province of Malatya, with sales planned for the first half of 2027, according to Türk Telekom CEO Ebubekir Şahin",
+                                        "ASELSAN will handle hardware and production while Türk Telekom handles software, marketing and distribution; the first phones will run Android, with a Turkish operating system and then a Turkish chip planned in later phases",
+                                        "The companies plan to present five potential brand names to the presidency by the end of the year"
+                                    ],
+                        "lenovo":  "IDG: A state-backed domestic handset distributed by Türkiye\u0027s largest fixed-line operator is a direct threat to Motorola\u0027s range at Türk Telekom from 2027, and a sign of Ankara\u0027s local-content push in devices.",
+                        "url":  "https://www.turkishminute.com/2026/09/29/turkeys-defense-firm-telecom-operator-test-smartphone-for-2027-sales/",
+                        "arabic":  "أسيلسان وترك تيليكوم تختبران هاتفاً ذكياً محلياً في ملاطية تمهيداً لطرحه في النصف الأول من 2027، مع خطط لنظام تشغيل ورقاقة تركيين لاحقاً.",
+                        "image":  "img/2026-09-30-02.jpg"
+                    },
+                    {
+                        "id":  "2026-09-30-03",
+                        "tier":  "GCC/MEA",
+                        "pillar":  "Global tech in META",
+                        "band":  "LOW",
+                        "score":  10,
+                        "title":  "Datacentrix doubles up at Lenovo Partner Awards",
+                        "source":  "ITWeb",
+                        "published":  "ITWeb, 30 Sep 2026 08:34 SAST = 09:34 KSA (page metadata); earliest syndication 29 Sep 21:13 KSA.",
+                        "country":  "South Africa",
+                        "summary":  "Datacentrix was named Lenovo ISG Platinum Partner of the Year at the Lenovo Partner Awards in Johannesburg, and its Anle Brett won IDG Champion of the Year for the third consecutive year. Datacentrix credits Lenovo\u0027s \u0027Ship Happens\u0027 programme for visibility on availability and lead times.",
+                        "bullets":  [
+                                        "Datacentrix was named Infrastructure Solutions Group (ISG) Platinum Partner of the Year at the Lenovo Partner Awards, held at Montecasino in Johannesburg",
+                                        "Anle Brett, Product Manager: End-User Computing at Datacentrix, won Intelligent Devices Group (IDG) Champion of the Year for the third consecutive year",
+                                        "Customers gain access to Lenovo\u0027s \u0027Ship Happens\u0027 programme, which provides greater visibility into product availability and delivery timeframes amid supply, pricing and lead-time pressures"
+                                    ],
+                        "lenovo":  "ISG/IDG: Lenovo\u0027s own META Africa channel story and a ready SADC ISG reference. \u0027Ship Happens\u0027 delivery visibility is the right counter to memory-driven lead times and should be reused in GCC deals.",
+                        "url":  "https://www.itweb.co.za/article/datacentrix-doubles-up-at-lenovo-partner-awards/KzQenvjyjw2qZd2r",
+                        "arabic":  "داتاسنتريكس تفوز بجائزة شريك العام البلاتيني لمجموعة حلول البنية التحتية من لينوفو في جنوب أفريقيا، مع جائزة بطل مجموعة الأجهزة الذكية للعام الثالث.",
+                        "image":  "img/2026-09-30-03.jpg"
+                    },
+                    {
+                        "id":  "2026-09-30-04",
+                        "tier":  "GCC/MEA",
+                        "pillar":  "Deals \u0026 MoUs",
+                        "band":  "LOW",
+                        "score":  9,
+                        "title":  "Morocco, Mistral AI Release First Open-Source Darija AI Tools",
+                        "source":  "Morocco World News",
+                        "published":  "Morocco World News, 29 Sep 2026 15:35 UTC = 18:35 KSA (article:published_time; structured data inconsistent, both readings in window).",
+                        "country":  "Morocco",
+                        "summary":  "Morocco\u0027s Ministry of Digital Transition and Administrative Reform released two open-source AI tools built with Mistral AI: a dialect classifier that recognises Darija and a Darija speech-recognition model based on Mistral\u0027s Voxtral. They fall under Maroc Digital 2030 and target public services, education and media.",
+                        "bullets":  [
+                                        "Morocco\u0027s Ministry of Digital Transition and Administrative Reform released AI tools developed with Mistral AI as open source, under Maroc Digital 2030 and the AI Made in Morocco roadmap",
+                                        "The tools are a language identification classifier that recognises Arabic dialects including Darija, and a speech recognition model based on Mistral\u0027s Voxtral that transcribes Darija including code-switching with Arabic, French and English",
+                                        "Target uses include public services, education, media, customer support, document digitisation and multilingual data processing, with the initiative led by Minister Amal El Fallah Seghrouchni"
+                                    ],
+                        "lenovo":  "ISG/SSG: A sovereign-language AI stack moving into Moroccan public services needs on-premises inference capacity; hardware undisclosed, so an open ISG opportunity. A Lenovo-Mistral sovereign inference reference would also travel to the Gulf.",
+                        "url":  "https://www.moroccoworldnews.com/2026/09/340193/morocco-mistral-ai-release-first-open-source-darija-ai-tools/",
+                        "arabic":  "المغرب وميسترال للذكاء الاصطناعي يطلقان أول أدوات مفتوحة المصدر للدارجة، تشمل مصنفاً للهجات العربية ونموذجاً للتعرف على الكلام، ضمن رؤية المغرب الرقمي 2030.",
+                        "image":  "img/2026-09-30-04.jpg"
+                    },
+                    {
+                        "id":  "2026-09-30-05",
+                        "tier":  "Global",
+                        "pillar":  "AI \u0026 markets",
+                        "band":  "MONITOR",
+                        "score":  13,
+                        "title":  "DeepSeek partners with Huawei to develop chip programming tools, reducing reliance on Nvidia",
+                        "source":  "Reuters (via Investing.com)",
+                        "published":  "Reuters, 29 Sep 2026 23:05 ET = 30 Sep 06:05 KSA.",
+                        "country":  "China",
+                        "summary":  "DeepSeek is open-sourcing infrastructure for Huawei\u0027s Ascend chips, including the TileLang programming language and compute and communication libraries, and says TileLang offers a simpler programming model than Nvidia\u0027s CUDA. Also counts as the Huawei Chinese-rule item.",
+                        "bullets":  [
+                                        "DeepSeek announced a partnership with Huawei Technologies to develop programming tools for Huawei\u0027s Ascend chips",
+                                        "DeepSeek is open-sourcing infrastructure for Ascend, including the high-level programming language TileLang plus compute and communication libraries",
+                                        "DeepSeek says TileLang offers \"a simpler programming model\" than Nvidia\u0027s CUDA"
+                                    ],
+                        "lenovo":  "ISG: CUDA lock-in is why META sovereign buyers default to NVIDIA-based OEM servers. Open Ascend tooling makes Huawei\u0027s full-stack AI cluster pitch (overseas from 30 Nov) more credible in KSA, UAE, Egypt and Pakistan. Lenovo\u0027s answer is multi-silicon choice with compliance certainty and in-Kingdom service.",
+                        "url":  "https://www.investing.com/news/stock-market-news/deepseek-partners-with-huawei-to-develop-chip-programming-tools-reducing-reliance-on-nvidia-4924051",
+                        "arabic":  "ديب سيك تتعاون مع هواوي لتطوير أدوات برمجة مفتوحة المصدر لرقائق أسيند، بينها لغة TileLang كبديل أبسط من منصة كودا من إنفيديا.",
+                        "image":  null
+                    },
+                    {
+                        "id":  "2026-09-30-06",
+                        "tier":  "Global",
+                        "pillar":  "Data centres",
+                        "band":  "LOW",
+                        "score":  10,
+                        "title":  "Anthropic’s $518 billion AI buildout hinges largely on deals that cannot be canceled, filing shows",
+                        "source":  "Reuters (via Investing.com)",
+                        "published":  "Reuters, 29 Sep 2026 06:07 ET = 13:07 KSA.",
+                        "country":  "United States",
+                        "summary":  "About 80% of Anthropic\u0027s at least $518bn decade-long compute spend is non-cancellable or payable regardless of usage: Google $111.1bn, Amazon $110bn, Microsoft $31.4bn, about $161.2bn of Broadcom-related leases, up to $84.5bn with xAI and more than $20bn of AMD capacity. Figures are Reuters\u0027 reading of a confidential prospectus.",
+                        "bullets":  [
+                                        "Anthropic expects to spend at least $518 billion over a decade with six partners, and about 80% is non-cancelable or payable regardless of usage, according to a confidential IPO prospectus seen by Reuters",
+                                        "Commitments include $111.1 billion with Google, $110 billion with Amazon, $31.4 billion with Microsoft and about $161.2 billion of Broadcom-related equipment lease obligations",
+                                        "Deals with xAI could reach up to $84.5 billion through 2029, while AMD will supply capacity expected to exceed $20 billion and buy up to $5 billion of Anthropic stock"
+                                    ],
+                        "lenovo":  "ISG: Take-or-pay contracts mean frontier-lab demand for GPUs, HBM and eSSD will not flex down, locking in memory tightness. No server OEM disclosed; the capacity sits with hyperscalers and Broadcom custom silicon, not OEM channels.",
+                        "url":  "https://www.investing.com/news/stock-market-news/anthropics-518-billion-ai-buildout-hinges-largely-on-deals-that-cannot-be-canceled-filing-shows-4922031",
+                        "arabic":  "نشرة اكتتاب أنثروبيك: نحو 80% من التزامات حوسبة بقيمة 518 مليار دولار غير قابلة للإلغاء، و47% من مبيعات 2025 عبر أمازون وغوغل.",
+                        "image":  null
+                    },
+                    {
+                        "id":  "2026-09-30-07",
+                        "tier":  "Global",
+                        "pillar":  "AI \u0026 markets",
+                        "band":  "LOW",
+                        "score":  10,
+                        "title":  "Exclusive-Anthropic IPO prospectus lays bare deep dependence on Big Tech partners",
+                        "source":  "Reuters (via Investing.com)",
+                        "published":  "Reuters, 29 Sep 2026 16:52 ET = 23:52 KSA.",
+                        "country":  "United States",
+                        "summary":  "Anthropic routed 47% of 2025 sales through Amazon and Google; 2025 revenue rose 12-fold to nearly $4.6bn while operating losses topped $8bn. By early 2026 long-term compute commitments exceeded $417bn for 3.5 GW of dedicated capacity.",
+                        "bullets":  [
+                                        "Anthropic routed 47% of its 2025 sales through cloud partners Amazon and Google",
+                                        "2025 revenue rose 12-fold to nearly $4.6 billion, while operating losses more than doubled to over $8 billion",
+                                        "By early 2026, long-term compute commitments exceeded $417 billion, covering 3.5 gigawatts of dedicated capacity"
+                                    ],
+                        "lenovo":  "ISG: Second article in the same digest item. Frontier-lab capacity is concentrated in hyperscaler channels; the ripple effect for Lenovo is tighter GPU and memory allocation for everyone else.",
+                        "url":  "https://www.investing.com/news/stock-market-news/exclusiveanthropic-ipo-prospectus-lays-bare-deep-dependence-on-big-tech-partners-4923585",
+                        "arabic":  "نشرة اكتتاب أنثروبيك: نحو 80% من التزامات حوسبة بقيمة 518 مليار دولار غير قابلة للإلغاء، و47% من مبيعات 2025 عبر أمازون وغوغل.",
+                        "image":  null
+                    },
+                    {
+                        "id":  "2026-09-30-08",
+                        "tier":  "Global",
+                        "pillar":  "AI \u0026 markets",
+                        "band":  "LOW",
+                        "score":  9,
+                        "title":  "OpenAI targets $30 billion funding at $1.4 trillion valuation, Bloomberg News reports",
+                        "source":  "Reuters (via Investing.com)",
+                        "published":  "Reuters follow-up, 29 Sep 14:26 ET = 21:26 KSA (timezone inferred); Bloomberg original 20:35 KSA.",
+                        "country":  "United States",
+                        "summary":  "OpenAI aims to raise at least $30bn at a pre-money valuation of about $1.4T, versus $122bn committed in March at $852bn. Its annualised revenue run rate is nearing $70bn. Talks are early.",
+                        "bullets":  [
+                                        "OpenAI aims to raise at least $30 billion in a funding round and is seeking a valuation of about $1.4 trillion, not including the money raised",
+                                        "The company closed a funding round in March with $122 billion in committed capital, valuing it at $852 billion",
+                                        "OpenAI\u0027s annualized revenue run rate is nearing $70 billion, having risen more than 70% since the beginning of the third quarter"
+                                    ],
+                        "lenovo":  "ISG: Gulf sovereign funds are likely participants. More frontier capital means more Stargate-style capacity, including Stargate UAE, and tighter GPU and memory allocation for everyone else.",
+                        "url":  "https://www.investing.com/news/stock-market-news/openai-targets-30-billion-funding-at-14-trillion-valuation-bloomberg-news-reports-4923324",
+                        "arabic":  "أوبن إيه آي تسعى لجمع 30 مليار دولار على الأقل بتقييم يقارب 1.4 تريليون دولار، مع اقتراب إيراداتها السنوية من 70 مليار دولار.",
+                        "image":  null
+                    },
+                    {
+                        "id":  "2026-09-30-09",
+                        "tier":  "Global",
+                        "pillar":  "AI \u0026 markets",
+                        "band":  "LOW",
+                        "score":  9,
+                        "title":  "Trump, AI CEOs sign voluntary safety pact, back data center expansion",
+                        "source":  "Reuters (via Yahoo Finance)",
+                        "published":  "Reuters, 30 Sep 01:45 KSA (probably an update); CNBC reported the outcome at 29 Sep 20:08 KSA.",
+                        "country":  "United States",
+                        "summary":  "AI companies agreed to work with independent auditors to assess whether AI systems work as designed. Trump is considering a 10-person AI safety board and a new White House AI lead, and backed a fast data-centre buildout. No export-control outcome was reported.",
+                        "bullets":  [
+                                        "The companies agreed to work with \"independent auditors\" to assess whether AI systems are working as their designers intended, according to a copy of the agreement posted by Trump",
+                                        "Executives at the meeting included OpenAI\u0027s Greg Brockman, Anthropic\u0027s Dario Amodei, Meta\u0027s Mark Zuckerberg, Google\u0027s Sundar Pichai and Nvidia\u0027s Jensen Huang",
+                                        "Trump said he is considering setting up a 10-person board to police the safety of AI tools and would soon name a new official to lead White House policies on AI"
+                                    ],
+                        "lenovo":  "ISG/SSG: US AI governance is moving toward audits and agent controls, which Gulf regulators tend to mirror; this supports Lenovo\u0027s governed on-premises AI positioning. The NDAA chip-tracking risk to Gulf GPU shipments remains unresolved.",
+                        "url":  "https://finance.yahoo.com/news/trump-host-zuckerberg-anthropics-amodei-100709180.html",
+                        "arabic":  "ترامب ورؤساء شركات الذكاء الاصطناعي يوقعون ميثاق سلامة طوعياً يتضمن مدققين مستقلين، مع دعم التوسع في مراكز البيانات.",
+                        "image":  "img/2026-09-30-09.jpg"
+                    },
+                    {
+                        "id":  "2026-09-30-10",
+                        "tier":  "Global",
+                        "pillar":  "Global tech in META",
+                        "band":  "RULE",
+                        "score":  5,
+                        "title":  "Hikvision introduces new HIKO AI engine to Hik-Connect 7 in a major upgrade which simplifies day-to-day security management",
+                        "source":  "PR Newswire",
+                        "published":  "PR Newswire, 29 Sep 2026 11:43 ET = 18:43 KSA.",
+                        "country":  "China",
+                        "summary":  "Hik-Connect 7 adds HIKO, a cloud AI engine delivered by software update, with AI Guardian, AI Search and AI Assistant. Rolling out globally. Included by the Chinese-company rule.",
+                        "bullets":  [
+                                        "Hikvision announced Hik-Connect 7, a major upgrade to its cloud-based security software that introduces HIKO, an AI engine, alongside a redesigned interface",
+                                        "Because HIKO runs in the cloud, Team Mode and Personal Mode users get it through a software update, with no separate HIKO hardware to buy or install",
+                                        "Hik-Connect 7 centers on three upgraded experiences, AI Guardian, AI Search and AI Assistant, and is rolling out globally"
+                                    ],
+                        "lenovo":  "ISG: Hikvision dominates GCC giga-project surveillance; cloud AI analytics on its installed base competes with the edge-AI video analytics Lenovo sells on ThinkEdge through partners such as MemryX.",
+                        "url":  "http://www.prnewswire.com/news-releases/hikvision-introduces-new-hiko-ai-engine-to-hik-connect-7-in-a-major-upgrade-which-simplifies-day-to-day-security-management-302893150.html",
+                        "arabic":  "هيكفيجن تطلق محرك الذكاء الاصطناعي HIKO ضمن منصة Hik-Connect 7 السحابية لإدارة الأمن.",
+                        "image":  "img/2026-09-30-10.jpg"
+                    },
+                    {
+                        "id":  "2026-09-30-11",
+                        "tier":  "Global",
+                        "pillar":  "Global tech in META",
+                        "band":  "RULE",
+                        "score":  4,
+                        "title":  "ZTE and China Mobile Research Institute Win the 2026 Leading Lights Award for \"Outstanding Use Case: 5G/6G Innovation\" with GigaMIMO",
+                        "source":  "ZTE press centre",
+                        "published":  "ZTE, dateline Shenzhen 30 Sep 2026 (date only); Google News 05:11 KSA.",
+                        "country":  "China",
+                        "summary":  "ZTE says GigaMIMO field trials on China Mobile\u0027s commercial 5G-A network raised average throughput in overlapping coverage by 25% and user rates 2-6 times, with single-user peaks above 17 Gbps in U6G. Included by the Chinese-company rule.",
+                        "bullets":  [
+                                        "ZTE and the China Mobile Research Institute won the 2026 Leading Lights Award for \"Outstanding Use Case: 5G/6G Innovation\" for the GigaMIMO solution and its field practices",
+                                        "Field trial results on the commercial 5G-A network show average throughput in overlapping coverage areas increases by 25%, and user-experienced data rate rises by 2 to 6 times",
+                                        "Centralized MIMO achieves a tenfold increase in both cell capacity and user data rate, and end-to-end tests show a single-user peak rate exceeding 17 Gbps in the U6G band"
+                                    ],
+                        "lenovo":  "ISG/IDG: U6G is live in the GCC (e\u0026 UAE). ZTE\u0027s radio lead strengthens its telco footprint, and Lenovo telco-edge compute (ThinkEdge) must interoperate with it.",
+                        "url":  "https://www.zte.com.cn/global/about/news/zte-and-china-mobile-research-institute-win-the-2026-leading-lights-award-for-outstanding-use-case-5g-6g-innovation-with-gigamimo.html",
+                        "arabic":  "زد تي إي ومعهد أبحاث تشاينا موبايل يفوزان بجائزة ليدينغ لايتس 2026 عن حل GigaMIMO للجيل الخامس المتقدم.",
+                        "image":  "img/2026-09-30-11.jpg"
+                    },
+                    {
+                        "id":  "2026-09-30-12",
+                        "tier":  "Global",
+                        "pillar":  "Global tech in META",
+                        "band":  "RULE",
+                        "score":  5,
+                        "title":  "Oppo K15s and K15x launched with huge batteries and rugged builds",
+                        "source":  "Gizmochina",
+                        "published":  "Gizmochina, 30 Sep 2026 06:15 UTC = 09:15 KSA (page metadata).",
+                        "country":  "China",
+                        "summary":  "OPPO quietly listed the K15s (8000mAh, Dimensity 6360 Max) at 1,699-1,999 yuan and the K15x (6500mAh) at 1,399-1,699 yuan in China. Included by the Chinese-company rule.",
+                        "bullets":  [
+                                        "The Oppo K15s has an 8000mAh battery with 45W SuperVOOC and UFCS fast charging, a 6.57-inch FHD+ 120Hz AMOLED display and the Dimensity 6360 Max",
+                                        "The Oppo K15s is priced at 1,699 Yuan (~$250) for 6GB+128GB and 1,999 Yuan (~$294) for 8GB+256GB",
+                                        "The Oppo K15x has a 6500mAh battery and the Dimensity 6300, priced at 1,399 Yuan (~$206) for 6GB+128GB and 1,699 Yuan (~$250) for 6GB+256GB"
+                                    ],
+                        "lenovo":  "IDG: A mid-range pricing reference against Motorola; the spec-for-price holds despite memory inflation, a benchmark for Motorola GCC and Africa pricing.",
+                        "url":  "https://www.gizmochina.com/2026/09/30/oppo-k15s-k15x-launched-price-specs-features/",
+                        "arabic":  "أوبو تطلق هاتفي K15s وK15x ببطاريات كبيرة وتصميم متين في الصين.",
+                        "image":  "img/2026-09-30-12.jpg"
+                    },
+                    {
+                        "id":  "2026-09-30-13",
+                        "tier":  "Global",
+                        "pillar":  "Global tech in META",
+                        "band":  "RULE",
+                        "score":  4,
+                        "title":  "Hisense and TCL widen lead over Samsung in miniLED",
+                        "source":  "FlatpanelsHD",
+                        "published":  "FlatpanelsHD, 29 Sep 2026 (time 13:27 KSA inferred from article ID).",
+                        "country":  "China",
+                        "summary":  "Samsung held 76% of miniLED TV shipments in 2022, against TCL at 12% and Hisense at 2%; TCL and Hisense have since overtaken it. Included by the Chinese-company rule.",
+                        "bullets":  [
+                                        "In 2022, Samsung accounted for 76% of all miniLED LCD TV shipments, followed by TCL with 12% and Hisense with just 2%",
+                                        "In 2026, Samsung replaced \"QLED\" with ranges of cheaper miniLED LCD TVs sold as \"Mini LED\"",
+                                        "TCL has sued Samsung over whether miniLED without quantum dots and local dimming qualifies as true miniLED"
+                                    ],
+                        "lenovo":  "IDG: Minimal. Chinese display scale spills into monitor pricing in GCC retail.",
+                        "url":  "https://flatpanelshd.com/news.php?id=1790677665\u0026subaction=showfull",
+                        "arabic":  "هايسنس وتي سي إل توسعان تفوقهما على سامسونج في تلفزيونات miniLED.",
+                        "image":  "img/2026-09-30-13.jpg"
+                    },
+                    {
+                        "id":  "2026-09-30-14",
+                        "tier":  "Global",
+                        "pillar":  "Global tech in META",
+                        "band":  "RULE",
+                        "score":  4,
+                        "title":  "ByteDance’s Doubao reportedly preparing personal AI agent, codenamed Spell and tested since April",
+                        "source":  "TechNode",
+                        "published":  "TechNode, 30 Sep 2026 11:00 GMT+8 = 06:00 KSA (page metadata).",
+                        "country":  "China",
+                        "summary":  "Sources say Doubao\u0027s Spell personal agent entered small-scale internal testing in April, led by the Doubao Phone Assistant team; Doubao Work launched on 25 Aug. Not confirmed by ByteDance. Included by the Chinese-company rule.",
+                        "bullets":  [
+                                        "According to sources, the project began internal testing as early as April and was previously known internally as Spell",
+                                        "Spell was initially led by the Doubao Phone Assistant team and entered small-scale internal testing in April",
+                                        "On August 25, Doubao launched Doubao Work, an Agent product designed for enterprise and office scenarios"
+                                    ],
+                        "lenovo":  "IDG: Phone-level AI agents from Chinese platforms raise the bar for on-device AI on Motorola and AI PCs.",
+                        "url":  "https://technode.com/2026/09/30/bytedances-doubao-reportedly-preparing-personal-ai-agent-codenamed-spell-and-tested-since-april/",
+                        "arabic":  "بايت دانس تختبر داخلياً وكيلاً شخصياً للذكاء الاصطناعي ضمن دوباو باسم رمزي \"سبيل\" منذ أبريل.",
+                        "image":  "img/2026-09-30-14.jpg"
+                    },
+                    {
+                        "id":  "2026-09-30-15",
+                        "tier":  "Global",
+                        "pillar":  "Memory \u0026 components",
+                        "band":  "MONITOR",
+                        "score":  13,
+                        "title":  "AI Server Demand Sustains Memory Contract Price Increases in 4Q26, While Consumer-Side Pressure Persists, Says TrendForce",
+                        "source":  "TrendForce Press Center",
+                        "published":  "TrendForce, 30 Sep 2026 (Taipei; date only).",
+                        "country":  "Taiwan",
+                        "summary":  "TrendForce estimates 4Q26 conventional DRAM contract prices up 10-15% QoQ and NAND up 15-20%, with enterprise SSD the only category accelerating. Server DRAM stays undersupplied; notebook prices now reflect component costs and brands are cutting SSD capacity in mainstream models.",
+                        "bullets":  [
+                                        "Conventional DRAM contract prices are projected to grow 10–15% QoQ in 4Q26, while NAND Flash contract prices are expected to increase 15–20%",
+                                        "Enterprise SSDs are the only category expected to see price growth accelerate due to strong demand from CSPs, with enterprise SSD bit demand projected to grow by more than 80% YoY in 2026",
+                                        "Server DRAM is expected to remain undersupplied in 4Q26, while GDDR7 demand continues to be driven primarily by AI chips"
+                                    ],
+                        "lenovo":  "ISG/IDG: The pricing reference for Q4 META quotes. Storage-heavy ISG bids carry the most price risk now; competitors cutting SSD capacity on mainstream notebooks gives IDG a spec-for-price angle in tenders if allocation is secured.",
+                        "url":  "https://www.trendforce.com/presscenter/news/20260930-13258.html",
+                        "arabic":  "تريندفورس: ارتفاع أسعار عقود ذاكرة DRAM بين 10 و15% وNAND بين 15 و20% في الربع الرابع 2026، مع تسارع أسعار أقراص SSD للمؤسسات.",
+                        "image":  "img/2026-09-30-15.jpg"
+                    },
+                    {
+                        "id":  "2026-09-30-16",
+                        "tier":  "Global",
+                        "pillar":  "Memory \u0026 components",
+                        "band":  "LOW",
+                        "score":  10,
+                        "title":  "Netlist seeks U.S. import ban on Micron chips used in Google, Nvidia AI computing",
+                        "source":  "Reuters (via Investing.com)",
+                        "published":  "Reuters, 29 Sep 10:41 ET = 17:41 KSA (metadata 14:41 UTC).",
+                        "country":  "United States",
+                        "summary":  "Netlist filed an ITC complaint seeking to block imports of Micron HBM used in Google, Nvidia and Broadcom AI products. Reuters notes an August Netlist complaint covering Micron memory in Supermicro, HPE and Lenovo products.",
+                        "bullets":  [
+                                        "Netlist filed a new complaint at a U.S. trade tribunal seeking to block imports of Micron memory chips used in Google, Nvidia and Broadcom products for AI computing; it was first filed under seal at the ITC on Friday",
+                                        "Netlist filed another ITC complaint against Micron in August over memory chips used in Super Micro Computer, Hewlett Packard Enterprise and Lenovo products",
+                                        "Netlist won a $445 million patent infringement verdict against Micron in Marshall, Texas federal court in 2024, and settled with Samsung in August after winning $421 million in verdicts"
+                                    ],
+                        "lenovo":  "ISG: A direct supply-continuity risk for Lenovo servers using Micron memory, shared with HPE and Supermicro. An exclusion order would force re-qualification onto sold-out SK hynix or Samsung supply; ISG META should know Micron content in open HUMAIN, G42 and telco bids.",
+                        "url":  "https://www.investing.com/news/stock-market-news/netlist-seeks-us-import-ban-on-micron-chips-used-in-google-nvidia-ai-computing-4923043",
+                        "arabic":  "نتليست تطلب من لجنة التجارة الدولية الأمريكية حظر استيراد رقائق ذاكرة مايكرون المستخدمة في منتجات غوغل وإنفيديا، بعد شكوى سابقة شملت منتجات لينوفو.",
+                        "image":  null
+                    },
+                    {
+                        "id":  "2026-09-30-17",
+                        "tier":  "Global",
+                        "pillar":  "Memory \u0026 components",
+                        "band":  "LOW",
+                        "score":  9,
+                        "title":  "Bernstein sees Samsung gaining HBM share, cuts SK Hynix target",
+                        "source":  "Investing.com",
+                        "published":  "Investing.com, 29 Sep 11:10 ET = 18:10 KSA (metadata 15:10 UTC).",
+                        "country":  "South Korea",
+                        "summary":  "Bernstein analyst Mark Li cut SK hynix\u0027s target to 2.7M won from 3.3M and kept Samsung at 440,000 won on expected HBM share gains; Bernstein cut its 2027 HBM price assumptions after Korean export data.",
+                        "bullets":  [
+                                        "Bernstein kept its 440,000 won price target on Samsung Electronics, saying it is set to gain share in high-bandwidth memory",
+                                        "Analyst Mark Li lowered his price target on SK Hynix to 2.7 million won from 3.3 million won",
+                                        "He kept Outperform ratings on Samsung, SK Hynix, Micron and SanDisk and an Underperform rating on Kioxia, after Bernstein cut its 2027 HBM price assumptions following Korean memory export data in July and August"
+                                    ],
+                        "lenovo":  "ISG: Samsung gaining HBM share argues for keeping Samsung qualified across Lenovo GPU platforms. Bernstein\u0027s lower 2027 HBM assumption conflicts with TrendForce\u0027s +121% forecast.",
+                        "url":  "https://www.investing.com/news/stock-market-news/bernstein-sees-samsung-gaining-hbm-share-cuts-sk-hynix-target-4923095",
+                        "arabic":  "بيرنشتاين تتوقع مكاسب لسامسونج في حصة ذاكرة HBM وتخفض السعر المستهدف لسهم إس كيه هاينكس إلى 2.7 مليون وون.",
+                        "image":  null
+                    },
+                    {
+                        "id":  "2026-09-30-18",
+                        "tier":  "Global",
+                        "pillar":  "Memory \u0026 components",
+                        "band":  "RULE",
+                        "score":  8,
+                        "title":  "New Apple CEO John Ternus is reportedly planning layoffs as memory chip costs rise",
+                        "source":  "Yahoo Finance",
+                        "published":  "Yahoo Finance, 29 Sep 23:46 KSA; based on an earlier Bloomberg report the same day.",
+                        "country":  "United States",
+                        "summary":  "Bloomberg reports new Apple CEO John Ternus plans layoffs and project cancellations as memory costs rise; Tim Cook called memory pricing a 100-year flood. Included under Pillar 2.",
+                        "bullets":  [
+                                        "Ternus is reportedly planning layoffs ranging from small-scale numbers within large teams, while also canceling projects, according to a Bloomberg report",
+                                        "Tim Cook said on his final earnings call that the company is \"in what I would characterize as a 100-year flood on the memory pricing\"",
+                                        "SK Hynix, Samsung Electronics and Micron have largely sold out their premium AI memory capacity through much of 2026, with customers including Nvidia, Microsoft, Amazon and Meta"
+                                    ],
+                        "lenovo":  "IDG: The largest premium-device competitor is cutting cost because of memory. Expect Mac and iPad price or configuration moves in GCC retail and education, a possible window for Lenovo in Apple-heavy segments.",
+                        "url":  "https://finance.yahoo.com/technology/article/new-apple-ceo-john-ternus-is-reportedly-planning-layoffs-as-memory-chip-costs-rise-194734002.html",
+                        "arabic":  "تقارير: الرئيس التنفيذي الجديد لأبل جون تيرنوس يخطط لتسريح موظفين وإلغاء مشاريع مع ارتفاع تكاليف رقائق الذاكرة.",
+                        "image":  "img/2026-09-30-18.jpg"
+                    },
+                    {
+                        "id":  "2026-09-30-19",
+                        "tier":  "Global",
+                        "pillar":  "Memory \u0026 components",
+                        "band":  "RULE",
+                        "score":  8,
+                        "title":  "[Insights] Memory Spot Price Update: DRAM Market Quiet Amid Holidays; NAND Buying Stays Weak",
+                        "source":  "TrendForce Insights",
+                        "published":  "TrendForce, 30 Sep 2026 (date only).",
+                        "country":  "Taiwan",
+                        "summary":  "DDR4 1Gx8 3200 spot averaged $46.32 (+0.93% WoW); 512Gb TLC wafer spot fell 2.45% to $19.396 (28 Sep). DRAM trading was quiet over holidays and NAND buyers are waiting. Included under Pillar 2.",
+                        "bullets":  [
+                                        "The average spot price of mainstream DRAM chips (DDR4 1Gx8 3200MT/s) rose 0.93% from US$45.89 last week (September 23) to US$46.32 this week",
+                                        "Spot prices of 512Gb TLC wafers fell 2.45% this week (September 28), reaching an average quotation of US$19.396",
+                                        "The DRAM spot market stayed relatively quiet partly due to holidays in several regional markets, while NAND buyers have largely adopted a wait-and-see stance with low willingness to purchase"
+                                    ],
+                        "lenovo":  "IDG/ISG: Spot is flat to soft while contract prices rise; no spot relief big enough to change contract talks, but NAND spot softness is worth watching for H1 2027 SSD pricing.",
+                        "url":  "https://www.trendforce.com/news/2026/09/30/insights-memory-spot-price-update-dram-market-quiet-amid-holidays-nand-buying-stays-weak/",
+                        "arabic":  "تريندفورس: استقرار أسعار DRAM الفورية بسبب العطلات وتراجع أسعار رقائق NAND الفورية 2.45% مع ضعف الطلب.",
+                        "image":  "img/2026-09-30-19.jpg"
+                    },
+                    {
+                        "id":  "2026-09-30-20",
+                        "tier":  "Global",
+                        "pillar":  "Memory \u0026 components",
+                        "band":  "RULE",
+                        "score":  7,
+                        "title":  "Samsung, SK hynix Target Prices Raised on Record Earnings Outlook",
+                        "source":  "BusinessKorea",
+                        "published":  "BusinessKorea, 30 Sep 11:12 KST = 05:12 KSA (metadata).",
+                        "country":  "South Korea",
+                        "summary":  "FnGuide consensus puts Samsung\u0027s 3Q operating profit at 110.28 trillion won and SK hynix\u0027s at 78.06 trillion won; brokers raised targets. Included under Pillar 2.",
+                        "bullets":  [
+                                        "Per FnGuide, the consensus for Samsung Electronics\u0027 third-quarter operating profit stood at 110.28 trillion won as of Sept. 30, up 806% YoY and 23% QoQ, while SK hynix is expected at 78.06 trillion won, up 29% QoQ",
+                                        "Yuanta Securities raised its Samsung Electronics target from 530,000 won to 630,000 won, while Mirae Asset Securities raised its target to 400,000 won",
+                                        "For SK hynix, Mirae Asset Securities set a target of 3.1 million won and DB Securities 2.3 million won"
+                                    ],
+                        "lenovo":  "IDG/ISG: Record supplier margins show pricing power sits with the memory makers; Lenovo\u0027s leverage is volume commitment through LTAs, not price negotiation.",
+                        "url":  "https://www.businesskorea.co.kr/news/articleView.html?idxno=277906",
+                        "arabic":  "توقعات بأرباح تشغيلية قياسية لسامسونج وإس كيه هاينكس في الربع الثالث، ورفع الأسعار المستهدفة لسهميهما.",
+                        "image":  "img/2026-09-30-20.jpg"
+                    }
+                ]
+}

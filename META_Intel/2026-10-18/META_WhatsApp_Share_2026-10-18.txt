@@ -1,0 +1,79 @@
+*Humain's next build goes to tender, Aramco fills the pipe order books, Taiba exits a hotel*
+
+* Humain issued a request for proposals for an EPC contract worth c. USD 1 bn, per Meed, for a 100 MW AI data centre in Riyadh's Al-Saad district on a 350.2k sqm plot
+* Phase one comprises two 50 MW stages for high-density GPU clusters with rack densities of 240-250 kW cooled by direct-to-chip liquid loops, with an optional expansion of the site to 200 MW and bids due 8 November
+* CEO Tareq Amin reportedly aims for 250 MW online by year-end and 1.7 GW in 2027
+
+Source - https://enterpriseam.com/ksa/2026/10/18/humains-next-build-goes-to-tender-aramco-fills-the-pipe-order-books-taiba-exits-a-hotel/
+
+*Salam maps Kingdom's route from data corridor to AI destination, says Amjad Arab*
+
+* Salam's fibre network exceeds 19,000 km and links international landing stations in Al Khobar and Jeddah to six data centres across the Kingdom
+* Saudi Arabia's National Data Center Strategy targets up to 1.5 GW of data-centre capacity by 2030
+* Delivering the 1.5 GW goal depends on foreign investment, localisation and public-private collaboration
+
+Source - https://www.tahawultech.com/home-slide/salam-maps-kingdoms-route-from-data-corridor-to-ai-destination-says-amjad-arab/
+
+*Pakistan Nears Deal to Adopt ByteDance's Lark Workplace Platform*
+
+* Pakistan's Ministry of Information Technology and Telecommunication held a meeting on adopting Lark, and most arrangements are reportedly close to final
+* Lark combines messaging, video meetings, document editing, calendars, email and project management
+* It is unclear which government departments would adopt Lark first, and the rollout timeline and scale have not been announced
+
+Source - https://www.techjuice.pk/pakistan-nears-deal-to-adopt-bytedances-lark-workplace-platform/
+
+*Systems Limited invests $10m in Egypt, targets further growth in 2027*
+
+* Systems Limited has $10m invested in Egypt and plans to raise its investment by more than 50% in 2027, according to Ahmed Kandil, General Manager of Systems Egypt
+* The company employs about 300 IT professionals in Egypt and aims to reach 450 by the end of 2027
+* It works with Orange, Vodafone and e& and nine of Egypt's largest banks, and is building digital banking centres of excellence for two major UAE banks
+
+Source - https://www.dailynewsegypt.com/2026/10/17/systems-limited-invests-10m-in-egypt-targets-further-growth-in-2027/
+
+*DataVolt Reviews Data Centre Construction Progress in Uzbekistan*
+
+* Vision Invest Group chairman Muhammad Abunayyan and DataVolt CEO Rajit Nanda toured the data centre at IT Park Uzbekistan with first deputy minister Ayubkhon Sultonov
+* The parties focused on completing construction, installation and landscaping works by the end of 2026
+* Contractors presented power supply systems, air conditioning and air circulation systems, and equipment for water-cooling servers
+
+Source - https://uzdaily.uz/en/datavolt-reviews-data-centre-construction-progress-in-uzbekistan/
+
+*Data centers have become war targets. The attacks signal a new front in global conflict.*
+
+* An NBC News analysis counts at least 27 attacks affecting data centers across global conflicts
+* Facilities in five countries have been hit
+* In Kyiv, a Russian drone struck a data center just after its last employee evacuated
+
+Source - https://www.nbcnews.com/tech/security/data-center-attacks-reveal-new-front-modern-warfare-rcna603002
+
+*Samsung, SK hynix suffer worst weekly stock rout since 2008*
+
+* Samsung Electronics shares plunged 17.8 percent from Monday to Friday, from 262,000 won to 215,500 won, and SK hynix tumbled 24.3 percent to 1.272 million won from 1.681 million won
+* Foreign investors dumped a net 11.21 trillion won of Kospi-listed stocks over the week, with Samsung Electronics and SK hynix together representing 78.8 percent of total net foreign selling
+* Foreign ownership fell to 45.98 percent at Samsung Electronics, the lowest since July 2009, and to 48.85 percent at SK hynix, the lowest since December 2021
+
+Source - https://www.koreaherald.com/article/10906189
+
+*China's CXMT pushes into next-gen DRAM, but can it compete on cost?*
+
+* CXMT's July listing on Shanghai's STAR Market raised 57.92 billion yuan ($8.66 billion), the largest IPO in Asia this year
+* According to TrendForce, CXMT's global DRAM revenue share rose to 9.5 percent in Q2 from 7.6 percent in Q1
+* Reuters reported CXMT charged some Chinese customers more than Samsung's roughly $1,240 price for comparable 64GB DDR5 server modules
+
+Source - https://www.koreaherald.com/article/10906058
+
+*Wall Street: "Market overreaction to CXMT 4F² announcement causes memory stock slump"... Premature to view as threat to Samsung, SK Hynix*
+
+* SK Hynix shares fell for seven straight trading days through the 15th, down 32.8%, while Samsung Electronics dropped 10.6% on the same day
+* Rosenblatt analyst Kevin Cassidy estimated CXMT's 4F² cell could be about 34% larger than competitors' existing 6F² cells and kept buy ratings on Micron and SK Hynix
+* Mizuho's Jordan Klein noted CXMT has not disclosed full specifications or verified yields, making comparison with Samsung's 2028 4F² mass-production target difficult
+
+Source - https://news.jkn.co.kr/editions/english/post/1030982
+
+*Musk's criticism of Samsung, SK's memory chip pricing runs counter to market logic: expert*
+
+* Jim Handy, founder of Objective Analysis, said memory makers do not set their parts' pricing and the market determines the pricing
+* Handy does not expect supply to meet demand before 2029, assuming AI investment keeps growing as projected
+* CXMT's aggressive entry into the DDR4 market in 2023 led the three largest DRAM makers to abandon that segment
+
+Source - https://www.koreatimes.co.kr/business/companies/20261018/musks-criticism-of-samsung-sks-memory-chip-pricing-runs-counter-to-market-logic-expert

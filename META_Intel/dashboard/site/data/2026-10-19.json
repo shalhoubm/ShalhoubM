@@ -1,0 +1,308 @@
+{
+    "date":  "2026-10-19",
+    "window":  "Sun 18 Oct 2026 08:19 → Mon 19 Oct 2026 08:19 KSA (UTC+3), i.e. 18 Oct 05:19 → 19 Oct 05:19 UTC.",
+    "headline":  "MCIT told GCC ministers that Saudi Arabia has made available sites and 14 GW of power for data centres serving the region and the world, and proposed a GCC digital interconnection. On the same day Iran\u0027s parliament speaker announced a Persian Gulf Data Authority and told Gulf funds and firms to withhold money, land and energy from AI companies Iran links to military operations. In memory, Nvidia reportedly asked all three HBM makers to use TSMC 3nm base dies and Hana Securities expects 4Q DRAM forecasts to rise. Riyadh event risk grew: the Global Health Exhibition moved to 2027 and Wall Street CEOs are weighing FII10.",
+    "lenovo_read":  "KSA is selling itself as the Gulf\u0027s compute and power host while Iran threatens that role. The 14 GW offer, the Qatar Cabinet Secretariat infrastructure and DR contract via QDS, and Vodacom\u0027s sovereign GPU plan in Egypt are open ISG hardware slots, winnable on delivery certainty, local presence and resilience design.",
+    "pillars":  {
+                    "dc":  "4 scored: KSA 14 GW data-centre power offer (MCIT), Iran\u0027s Persian Gulf Data Authority threat, Vodacom sovereign GPU and Africa Data Centres Egypt plan, Microsoft-Nscale Loughton. No new KSA/GCC groundbreaking, MW award or PPA in window.",
+                    "memory":  "5 scored: Samsung-TSMC NVHBM base die, Hana\u0027s upward 4Q DRAM view, Nvidia on GPU shortages, Dell monitor price rise, Lenovo PH on prices to December. New DRAMeXchange print 19 Oct: DDR5 16Gb $60.633 (+0.05%).",
+                    "deals":  "4 scored: KJO-Aramco Digital-SLB Raed MoU (signing date unconfirmed), Qatar Cabinet Secretariat-QDS contract, Abu Dhabi Tamm Global US talks, Telecel-Huawei $200m. No KSA tech award or $20M+ round.",
+                    "global":  "Huawei in Ghana scored by Chinese rule; Microsoft-Nscale global. No in-window META move by US hyperscalers or OEMs. Google: Pakistan IT minister bilateral at the Seoul AI summit (added after the Arab News sweep)."
+                },
+    "stories":  [
+                    {
+                        "id":  "2026-10-19-01",
+                        "tier":  "KSA",
+                        "pillar":  "Data centres",
+                        "band":  "HIGH",
+                        "score":  16,
+                        "title":  "Saudi Arabia Calls for Sustainable GCC Digital Connectivity and Sovereign Computing to Strengthen Global Competitiveness",
+                        "source":  "SPA",
+                        "published":  "18 Oct 2026, 21:44 KSA",
+                        "country":  "Saudi Arabia",
+                        "summary":  "At the 30th GCC telecom ministerial in Bahrain, MCIT Minister Abdullah Alswaha said the Kingdom has made available sites and 14 GW of power capacity for data centres serving KSA, the GCC and the world, and called for a sustainable GCC data-centre cooperation model. KSA lifted international capacity about 80% to 18 Tbps and proposed a GCC digital interconnection modelled on the power grid.",
+                        "bullets":  [
+                                        "Minister of Communications and Information Technology Abdullah Alswaha made the call at the 30th Meeting of the GCC Ministerial Committee for Post and Telecommunications, held in Bahrain",
+                                        "The Kingdom has made available a range of sites and 14 gigawatts (GW) of power capacity for data centers serving Saudi Arabia, GCC member states, the wider region and the world",
+                                        "Saudi Arabia added more than 8.4 Tbps of international capacity, increasing overall capacity by approximately 80% to reach 18 Tbps, and proposed a GCC digital interconnectivity modeled on the GCC electricity interconnection"
+                                    ],
+                        "lenovo":  "Hardware undisclosed, so an open ISG opportunity at programme level. Pitch sovereign-ready AI factories made in KSA (ALAT, Neptune liquid cooling, TruScale) to MCIT, MISA and the developers taking the sites.",
+                        "url":  "https://www.spa.gov.sa/en/N2704500",
+                        "arabic":  "أعلن وزير الاتصالات وتقنية المعلومات عبدالله السواحه أن المملكة أتاحت مواقع وقدرة كهربائية تبلغ 14 غيغاواط لمراكز البيانات، ورفعت السعة الدولية بنحو 80% إلى 18 تيرابت في الثانية، واقترحت ربطاً رقمياً خليجياً على غرار الربط الكهربائي.",
+                        "image":  "img/2026-10-19-01.jpg"
+                    },
+                    {
+                        "id":  "2026-10-19-02",
+                        "tier":  "KSA",
+                        "pillar":  "Deals \u0026 MoUs",
+                        "band":  "MONITOR",
+                        "score":  13,
+                        "title":  "\"الخفجي المشتركة\" توقع مذكرة تفاهم مع \"أرامكو\" و\"إس إل بي\" لتطوير \"منصة رائد\"",
+                        "source":  "Al-Seyassah",
+                        "published":  "18 Oct 2026 (page date; RSS 19 Oct 00:02 KSA)",
+                        "country":  "Saudi Arabia",
+                        "summary":  "Citing informed sources, Al-Seyassah reports a strategic MoU between Al-Khafji Joint Operations, Aramco Digital and SLB to develop Raed, described as the first fully autonomous smart offshore production platform in KSA and the Gulf, built on generative AI, autonomous operations, cloud, real-time analytics and industrial IoT. No value or signing date given.",
+                        "bullets":  [
+                                        "أبرمت عمليات الخفجي المشتركة مذكرة تفاهم ستراتيجية مع أرامكو الرقمية وإس إل بي لدراسة وتطوير منصة رائد كأول منصة إنتاج بحرية ذكية ومستقلة بالكامل في المملكة العربية السعودية ومنطقة الخليج العربي",
+                                        "وقع عن الخفجي المشتركة مساعد المزيد، وعن أرامكو الرقمية الرئيس التنفيذي لقطاع الاتصالات عيد الحربي بحضور الرئيس التنفيذي د. أشرف الطحيني، وعن إس إل بي المدير التنفيذي للسعودية والبحرين رضا كلكولي",
+                                        "تعتمد المنصة على الذكاء الاصطناعي التوليدي وأنظمة الأتمتة الذاتية والحوسبة السحابية المتقدمة وتحليل البيانات الضخمة اللحظية وإنترنت الأشياء الصناعي"
+                                    ],
+                        "lenovo":  "Offshore autonomy needs ruggedised edge compute and on-prem AI inference; the compute vendor is undisclosed. ThinkEdge/ISG play via Aramco Digital (contested with Dell, OPP-068) and SLB as integrator. Signing date unconfirmed.",
+                        "url":  "https://alseyassah.com/article/473865/",
+                        "arabic":  "وقعت عمليات الخفجي المشتركة مذكرة تفاهم مع أرامكو الرقمية وإس إل بي لدراسة وتطوير منصة رائد، أول منصة إنتاج بحرية ذكية ومستقلة بالكامل في المملكة والخليج، تعتمد على الذكاء الاصطناعي التوليدي والحوسبة السحابية وإنترنت الأشياء الصناعي.",
+                        "image":  "img/2026-10-19-02.jpg"
+                    },
+                    {
+                        "id":  "2026-10-19-03",
+                        "tier":  "GCC/MEA",
+                        "pillar":  "Data centres",
+                        "band":  "MONITOR",
+                        "score":  14,
+                        "title":  "Iran speaker urges Persian Gulf states to stop backing military-linked AI firms",
+                        "source":  "Iran International",
+                        "published":  "18 Oct 2026, 21:31 KSA",
+                        "country":  "Iran / GCC",
+                        "summary":  "Iran\u0027s parliament speaker Ghalibaf posted on X that a Persian Gulf Data Authority is coming and urged Gulf governments, funds and firms to withhold finance, equity, land and energy from AI and data companies involved in military operations. He named no company and gave no detail on enforcement.",
+                        "bullets":  [
+                                        "Iran\u0027s parliament speaker Mohammad Bagher Ghalibaf posted on X on Sunday that a \"Persian Gulf Data Authority\" is coming",
+                                        "He urged regional governments, funds and firms to withhold finance, equity, land and energy from AI or data companies involved in military operations",
+                                        "He did not name any company or explain how the authority would operate or enforce restrictions"
+                                    ],
+                        "lenovo":  "A direct threat to the GCC AI-hub model. Buyers will weigh split-site DR, hardened edge and in-country stock and service, which supports Lenovo\u0027s continuity and sovereign AI offer (OPP-061).",
+                        "url":  "https://www.iranintl.com/en/202610181490",
+                        "arabic":  "دعا رئيس البرلمان الإيراني قاليباف دول الخليج وصناديقها وشركاتها إلى حجب التمويل والأراضي والطاقة عن شركات الذكاء الاصطناعي والبيانات المرتبطة بعمليات عسكرية، معلناً قرب إنشاء هيئة بيانات الخليج، دون تسمية شركات.",
+                        "image":  "img/2026-10-19-03.jpg"
+                    },
+                    {
+                        "id":  "2026-10-19-04",
+                        "tier":  "GCC/MEA",
+                        "pillar":  "Deals \u0026 MoUs",
+                        "band":  "MONITOR",
+                        "score":  12,
+                        "title":  "الأمانة العامة لمجلس الوزراء تعلن بدء تنفيذ مشروع تطوير البنية التحتية الرقمية",
+                        "source":  "QNA",
+                        "published":  "18 Oct 2026, 16:00 KSA",
+                        "country":  "Qatar",
+                        "summary":  "Qatar\u0027s General Secretariat of the Council of Ministers signed a contract with Qatar Computer Systems (QDS), part of Al Darwish United Group, covering digital infrastructure, business continuity, application security and data protection. No value disclosed.",
+                        "bullets":  [
+                                        "وقعت الأمانة العامة لمجلس الوزراء عقداً مع شركة قطر لأنظمة الكمبيوتر (QDS) المملوكة لمجموعة الدرويش المتحدة",
+                                        "وقع العقد حمد بن أحمد المهندي الأمين العام لمجلس الوزراء وعبدالرحمن درويش الدرويش الرئيس التنفيذي لمجموعة الدرويش المتحدة",
+                                        "يشمل المشروع تطوير البنية التحتية الرقمية وتعزيز قدرات استمرارية الأعمال ورفع مستوى أمن التطبيقات والمنصات الإلكترونية وتطوير منظومة حماية البيانات"
+                                    ],
+                        "lenovo":  "Infrastructure plus business continuity at a cabinet-level body means servers, storage, backup/DR and devices; OEM undisclosed and QDS is the integrator. Get onto the BOM through QDS (ISG/SSG).",
+                        "url":  "https://qna.org.qa/ar-QA/news/news-details?id=الامانة-العامة-لمجلس-الوزراء-تعلن-بدء-تنفيذ-مشروع-تطوير-البنية-التحتية-الرقمية\u0026date=18/10/2026",
+                        "arabic":  "وقعت الأمانة العامة لمجلس الوزراء القطري عقداً مع شركة قطر لأنظمة الكمبيوتر لتطوير البنية التحتية الرقمية وتعزيز استمرارية الأعمال وأمن التطبيقات وحماية البيانات، دون الإفصاح عن القيمة أو موردي العتاد.",
+                        "image":  "img/2026-10-19-04.jpg"
+                    },
+                    {
+                        "id":  "2026-10-19-05",
+                        "tier":  "GCC/MEA",
+                        "pillar":  "Data centres",
+                        "band":  "MONITOR",
+                        "score":  12,
+                        "title":  "Vodacom’s technology chief outlines regional data centre strategy",
+                        "source":  "Business Day",
+                        "published":  "18 Oct 2026 (RSS 19:06 KSA)",
+                        "country":  "Egypt / Kenya / South Africa",
+                        "summary":  "Vodacom Group CTO Dejan Kastelic says Vodacom is weighing hyperscaler cloud against its own GPUs for sovereign AI, starting in Egypt, then Kenya (GPU-as-a-service) and South Africa. Africa Data Centres Egypt, with Elsewedy and Cassava, has broken ground: about $200m in phase one, $1bn at full capacity.",
+                        "bullets":  [
+                                        "Group CTO Dejan Kastelic said Vodacom is weighing cloud computing against building its own GPU capabilities, with a focus on sovereign AI for markets such as Egypt and Kenya",
+                                        "Through Vodafone Business, Vodacom has broken ground on Africa Data Centres Egypt with Elsewedy Electric and Cassava Technologies, with phase one expected to draw about $200m in FDI and total investment reaching $1bn at full capacity",
+                                        "Kenya is planned as the second node offering GPUs as a service, followed by South Africa, where Vodacom already runs 12 data centres"
+                                    ],
+                        "lenovo":  "Server OEM undisclosed, so an open ISG opportunity for right-sized, liquid-cooled GPU clusters and TruScale GPU-as-a-service economics in Egypt and Kenya. Huawei is the incumbent risk.",
+                        "url":  "https://www.businessday.co.za/companies/2026-10-18-vodacoms-technology-chief-outlines-regional-data-centre-strategy/",
+                        "arabic":  "تدرس فوداكوم بناء قدرات معالجات رسومية خاصة للذكاء الاصطناعي السيادي بدءاً بمصر ثم كينيا، مع بدء إنشاء مركز بيانات أفريقيا في مصر باستثمار 200 مليون دولار للمرحلة الأولى يرتفع إلى مليار دولار، دون تحديد مورد الخوادم.",
+                        "image":  "img/2026-10-19-05.jpg"
+                    },
+                    {
+                        "id":  "2026-10-19-06",
+                        "tier":  "GCC/MEA",
+                        "pillar":  "Deals \u0026 MoUs",
+                        "band":  "LOW",
+                        "score":  10,
+                        "title":  "Abu Dhabi in talks to sell technology to US cities",
+                        "source":  "AGBI",
+                        "published":  "19 Oct 2026, 03:00 KSA",
+                        "country":  "UAE",
+                        "summary":  "Abu Dhabi is in advanced talks with US city governments to license its Tamm digital-services platform via the new government-owned Tamm Global, with a major US tech company helping distribute and host it. No deal has been announced.",
+                        "bullets":  [
+                                        "Abu Dhabi is in advanced talks with US city governments about exporting the technology behind its Tamm digital services platform through Tamm Global, a government-owned company",
+                                        "A major US technology company is helping distribute Tamm and support its hosting in the United States, and an agreement with a first US city could be signed in the coming months",
+                                        "Tamm serves 4.7 million users with more than 1,200 government and private-sector services, and governments will retain and host citizens\u0027 data in their own countries"
+                                    ],
+                        "lenovo":  "A GovTech export rather than a hardware buy, but it confirms the UAE\u0027s sovereign-data-by-design model. Limited direct META hardware impact.",
+                        "url":  "https://www.agbi.com/tech/2026/10/abu-dhabi-in-talks-to-sell-technology-to-us-cities/",
+                        "arabic":  "تجري أبوظبي محادثات متقدمة مع حكومات مدن أمريكية لترخيص منصة تم عبر شركة تم العالمية المملوكة للحكومة، مع شريك تقني أمريكي للتوزيع والاستضافة، على أن تحتفظ كل حكومة ببيانات مواطنيها محلياً.",
+                        "image":  null
+                    },
+                    {
+                        "id":  "2026-10-19-07",
+                        "tier":  "GCC/MEA",
+                        "pillar":  "Global tech in META",
+                        "band":  "RULE",
+                        "score":  9,
+                        "title":  "Telecel Group and Huawei Sign $200m strategic partnership",
+                        "source":  "MyJoyOnline",
+                        "published":  "19 Oct 2026, 07:15 KSA",
+                        "country":  "Ghana",
+                        "summary":  "Telecel Group and Huawei signed a three-year, $200m MoU on network expansion, mobile broadband densification and intelligent digital infrastructure, focused on Ghana, nearly tripling a $70m framework from last November. Included by the Chinese rule.",
+                        "bullets":  [
+                                        "Telecel Group and Huawei signed a three-year $200 million MoU covering network expansion, mobile broadband densification and intelligent digital infrastructure, with Ghana as a key focus",
+                                        "The MoU was signed by Eleanor Azar, Chief of Staff of Telecel Group, and Chad Wei, Deputy Managing Director of Huawei Ghana",
+                                        "The deal nearly triples a $70 million framework the companies signed in Shenzhen the previous November"
+                                    ],
+                        "lenovo":  "Huawei deepens its lock on African telco infrastructure including the digital-infrastructure layer, narrowing ISG/SSG room at Telecel. Counter through enterprise IT and devices via Telecel\u0027s B2B channel.",
+                        "url":  "https://www.myjoyonline.com/telecel-group-and-huawei-sign-200m-strategic-partnership/",
+                        "arabic":  "وقعت مجموعة تيليسيل وهواوي مذكرة تفاهم بقيمة 200 مليون دولار لثلاث سنوات لتوسيع الشبكات والنطاق العريض والبنية الرقمية الذكية مع التركيز على غانا، ما يعزز حضور هواوي في البنية التحتية للاتصالات الأفريقية.",
+                        "image":  "img/2026-10-19-07.jpg"
+                    },
+                    {
+                        "id":  "2026-10-19-14",
+                        "tier":  "GCC/MEA",
+                        "pillar":  "Global tech in META",
+                        "band":  "LOW",
+                        "score":  9,
+                        "title":  "Pakistan to participate in Global AI summit in Seoul, highlight digital transformation roadmap",
+                        "source":  "Arab News Pakistan",
+                        "published":  "18 Oct 2026, 21:09 KSA",
+                        "country":  "Pakistan",
+                        "summary":  "Pakistan\u0027s IT Minister Shaza Fatima Khawaja is attending the World Bank\u0027s Global AI and Digital Summit in Seoul (19-22 Oct), where she will present Pakistan\u0027s roadmap under the Digital and AI Compact and meet a Google vice president and a World Bank vice president. Added after the main run from the Arab News sweep.",
+                        "bullets":  [
+                                        "IT Minister Shaza Fatima Khawaja has left for South Korea to attend the Global AI and Digital Summit 2026, hosted in Seoul from Oct. 19-22 by the World Bank Group with South Korea\u0027s Ministry of Science and ICT and Ministry of Finance and Economy",
+                                        "She will present Pakistan\u0027s future roadmap during a session on the Digital and AI Compact and is scheduled to hold a bilateral meeting with Google\u0027s vice president",
+                                        "Pakistan\u0027s IT and telecom export remittances reached a record Rs1.2 trillion ($4.6 billion) in FY2025-26, and the National AI Policy 2025 aims to create three million AI-related jobs by 2030"
+                                    ],
+                        "lenovo":  "A World Bank-backed Digital and AI Compact is a likely financing route for Pakistan public-sector AI and digital tenders (IDG/ISG). Google\u0027s bilateral sits alongside ByteDance\u0027s Lark push (OPP-090) as foreign stacks compete for Pakistan\u0027s government workplace.",
+                        "url":  "https://www.arabnews.pk/pakistan/pakistan-to-participate-in-global-ai-summit-in-seoul-highlight-digital-transformation-roadmap-3004553",
+                        "arabic":  "تشارك وزيرة تقنية المعلومات الباكستانية شزة فاطمة خواجة في قمة الذكاء الاصطناعي والرقمنة العالمية في سيول بتنظيم البنك الدولي، لعرض خارطة طريق باكستان ضمن ميثاق الرقمنة والذكاء الاصطناعي، مع لقاء نائب رئيس غوغل.",
+                        "image":  null
+                    },
+                    {
+                        "id":  "2026-10-19-08",
+                        "tier":  "Global",
+                        "pillar":  "Data centres",
+                        "band":  "LOW",
+                        "score":  10,
+                        "title":  "Neocloud operator Nscale’s IPO plans could be at risk after Microsoft cancels UK data center project",
+                        "source":  "SiliconANGLE",
+                        "published":  "18 Oct 2026 (Telegraph original 08:30 KSA; updated 19 Oct 03:57 KSA)",
+                        "country":  "UK",
+                        "summary":  "Microsoft ended its agreement to rent AI capacity at Nscale\u0027s Loughton, Essex site (23,040 Nvidia GPUs, 50 MW expandable to 90 MW) after UK grid officials said power isn\u0027t available until the 2030s. Nscale\u0027s planned NYSE IPO faces investor pushback on valuation.",
+                        "bullets":  [
+                                        "Microsoft ended its agreement to rent AI infrastructure at Nscale\u0027s planned Loughton, Essex facility after UK grid officials said adequate power could not be supplied until the 2030s",
+                                        "Nscale had planned 23,040 Nvidia GPUs at the site by Q1 2027, with an initial 50 MW and an option to expand to 90 MW",
+                                        "Nscale reportedly hopes to raise $3 billion at a valuation of about $35 billion, and Microsoft and Anthropic account for roughly 85% of its total contract value"
+                                    ],
+                        "lenovo":  "Power, not GPUs, is now the binding constraint in Europe, which strengthens KSA\u0027s 14 GW pitch. Sell to sovereign and enterprise buyers with secured power rather than leveraged neoclouds (OPP-085).",
+                        "url":  "https://siliconangle.com/2026/10/18/neocloud-operator-nscales-ipo-plans-could-be-at-risk-after-microsoft-pulls-the-plug-on-u-k-data-center-project/",
+                        "arabic":  "ألغت مايكروسوفت اتفاق استئجار قدرات ذكاء اصطناعي في موقع إن سكيل بإسكس البريطانية بسبب تأخر توفر الكهرباء حتى ثلاثينيات القرن، ما يهدد طرح الشركة العام ويؤكد أن الطاقة باتت القيد الأساسي لمراكز البيانات.",
+                        "image":  "img/2026-10-19-08.jpg"
+                    },
+                    {
+                        "id":  "2026-10-19-09",
+                        "tier":  "Global",
+                        "pillar":  "Memory \u0026 components",
+                        "band":  "MONITOR",
+                        "score":  12,
+                        "title":  "Samsung to Tap TSMC for Nvidia\u0027s Custom HBM Base Die",
+                        "source":  "Seoul Economic Daily",
+                        "published":  "18 Oct 2026, 10:47 KSA",
+                        "country":  "South Korea",
+                        "summary":  "Nvidia reportedly asked Samsung, SK hynix and Micron to build its custom NVHBM base die on TSMC 3nm with the core die on 1c DRAM, and Samsung accepted, its first TSMC tie-up at the HBM manufacturing stage. Samsung is checking its own foundry as a hedge.",
+                        "bullets":  [
+                                        "Nvidia asked Samsung, SK hynix and Micron to build the NVHBM base die on TSMC\u0027s 3-nanometer process and to standardize the core die on the 1c DRAM process",
+                                        "It is the first time Samsung has partnered with TSMC from the HBM manufacturing stage",
+                                        "Samsung is checking whether it can make the NVHBM base die at its own foundry as a hedge in case demand exceeds TSMC\u0027s production capacity"
+                                    ],
+                        "lenovo":  "Concentrates Nvidia HBM supply on TSMC 3nm, a new constraint for 2027-28 GPU server allocation. Build allocation contingencies and AMD alternatives into multi-year AI-factory proposals.",
+                        "url":  "https://en.sedaily.com/finance/2026/10/18/samsung-to-use-tsmc-for-base-die-in-nvidias-custom-hbm",
+                        "arabic":  "تفيد تقارير بأن إنفيديا طلبت من سامسونج وإس كيه هاينكس وميكرون تصنيع القاعدة المنطقية لذاكرة NVHBM المخصصة بتقنية 3 نانومتر لدى TSMC، ووافقت سامسونج في أول تعاون من نوعه، مع دراسة مصنعها كخيار احتياطي.",
+                        "image":  "img/2026-10-19-09.jpg"
+                    },
+                    {
+                        "id":  "2026-10-19-10",
+                        "tier":  "Global",
+                        "pillar":  "Memory \u0026 components",
+                        "band":  "LOW",
+                        "score":  10,
+                        "title":  "DRAM prices rise, but semiconductor stocks plunge as interest-rate and cost pressures fuel AI investment fears",
+                        "source":  "Financial News (Korea)",
+                        "published":  "19 Oct 2026, 01:20 KSA",
+                        "country":  "South Korea",
+                        "summary":  "Hana Securities\u0027 Kim Rok-ho says 3Q DRAM prices were stronger than expected and the 4Q increase is likely to be revised upward, even after Samsung (-17.8%) and SK hynix (-24.3%) fell last week. Long-term supply agreements have partly eased customer costs.",
+                        "bullets":  [
+                                        "Samsung Electronics fell 17.8%, SK hynix fell 24.3% and the KOSPI dropped 14.5% over the prior week",
+                                        "Kim Rok-ho of Hana Securities said third-quarter DRAM prices were stronger than expected and the projected fourth-quarter increase is expected to be revised upward",
+                                        "He said long-term supply agreements have partly eased the burden on customers, while customers without such agreements still face price pressure"
+                                    ],
+                        "lenovo":  "Backs OPP-088: the equity rout is not a price cut. Hold price-protection clauses on Q4 META bids; Lenovo\u0027s supply coverage is a delivery-certainty argument.",
+                        "url":  "https://en.fnnews.com/news/202610190716184038",
+                        "arabic":  "توقع المحلل كيم روك-هو من هانا للأوراق المالية رفع تقديرات زيادة أسعار الذاكرة في الربع الرابع بعد أداء أقوى من المتوقع في الربع الثالث، رغم هبوط أسهم سامسونج وإس كيه هاينكس الأسبوع الماضي.",
+                        "image":  "img/2026-10-19-10.jpg"
+                    },
+                    {
+                        "id":  "2026-10-19-11",
+                        "tier":  "Global",
+                        "pillar":  "Memory \u0026 components",
+                        "band":  "LOW",
+                        "score":  10,
+                        "title":  "Nvidia Says Consumer GPU Shortages Are Beyond Its Control",
+                        "source":  "THE ELEC",
+                        "published":  "19 Oct 2026, 01:56 KSA",
+                        "country":  "South Korea",
+                        "summary":  "Nvidia VP Ida Keita blames consumer GPU shortages on memory supply, saying it is not something Nvidia can control. The RTX 5090 trades at about five times its suggested price and RTX Spark laptops cost 4.7 million to 10 million won.",
+                        "bullets":  [
+                                        "Nvidia VP Ida Keita said consumer GPU shortages come from insufficient memory supply, adding that this is not something Nvidia can control",
+                                        "The RTX 5090 is trading for as much as 15 million won or more, roughly five times its suggested retail price",
+                                        "RTX Spark laptops range from approximately 4.7 million won to 10 million won, with Nvidia attributing the high prices to rising memory costs"
+                                    ],
+                        "lenovo":  "RTX Spark is Lenovo\u0027s AI-PC launch platform (Yoga Pro 9n, OPP-072). Memory-driven pricing caps volume, so lead with workstation and creator buyers and price-lock bundles.",
+                        "url":  "https://www.thelec.net/news/articleView.html?idxno=14685",
+                        "arabic":  "قالت إنفيديا إن نقص معالجات الرسوميات الاستهلاكية خارج عن سيطرتها بسبب شح الذاكرة، مع تداول RTX 5090 بخمسة أضعاف سعرها المقترح، وأسعار حواسيب RTX Spark بين 4.7 و10 ملايين وون.",
+                        "image":  "img/2026-10-19-11.jpg"
+                    },
+                    {
+                        "id":  "2026-10-19-12",
+                        "tier":  "Global",
+                        "pillar":  "Memory \u0026 components",
+                        "band":  "RULE",
+                        "score":  8,
+                        "title":  "Dell Reportedly Plans To Increase Monitor Prices By 3-5%, With Premium Models Facing Bigger Hikes",
+                        "source":  "Wccftech",
+                        "published":  "18 Oct 2026, 18:05 KSA",
+                        "country":  "Global",
+                        "summary":  "Dell reportedly raises mid-range and high-end monitor prices 3-5% from October 2026 via shipping prices, excluding entry-level models, after absorbing costs since July. Unconfirmed by Dell.",
+                        "bullets":  [
+                                        "Dell reportedly plans 3% to 5% increases on mid-range and high-end monitors from October 2026, applied through shipping prices, with entry-level models excluded",
+                                        "Dell reportedly absorbed costs after an earlier increase in July and is now passing some of them on",
+                                        "The report comes from IT Home citing ChannelGate, and Dell has not publicly confirmed the increase"
+                                    ],
+                        "lenovo":  "A competitor passing costs through on peripherals gives IDG room to hold ThinkVision pricing in META fleet bundles as a share play.",
+                        "url":  "https://wccftech.com/dell-reportedly-plans-to-increase-monitor-prices-by-3-5/",
+                        "arabic":  "تفيد تقارير بأن ديل سترفع أسعار شاشاتها المتوسطة والمتقدمة بنسبة 3-5% اعتباراً من أكتوبر 2026 بسبب ضغوط التكاليف، مع استثناء الطرازات الأساسية، دون تأكيد رسمي من الشركة.",
+                        "image":  "img/2026-10-19-12.jpg"
+                    },
+                    {
+                        "id":  "2026-10-19-13",
+                        "tier":  "Global",
+                        "pillar":  "Memory \u0026 components",
+                        "band":  "RULE",
+                        "score":  8,
+                        "title":  "PC, chip prices likely to continue rising til end of year — Lenovo PH official",
+                        "source":  "ABS-CBN News",
+                        "published":  "19 Oct 2026, 05:00 KSA",
+                        "country":  "Philippines",
+                        "summary":  "Lenovo Philippines country head Michael Ngan expects laptop, desktop, RAM and SSD prices to keep rising through year-end as suppliers prioritise AI servers, says server prices rose 300% in twelve months, and expects a refresh-driven recovery.",
+                        "bullets":  [
+                                        "Michael Ngan, Philippine country head for Lenovo, said prices of laptops, desktops, RAM and SSDs are likely to keep rising at least through the rest of the year",
+                                        "Ngan said server prices alone have gone up 300 percent in the last twelve months",
+                                        "He expects unit shipments to recover due to a 5-year post-pandemic refresh cycle and Microsoft end-of-service deadlines"
+                                    ],
+                        "lenovo":  "Lenovo\u0027s own public pricing line: no relief before December. Align META messaging (buy now with price locks) and prepare the deal desk to address the 300% server figure.",
+                        "url":  "https://www.abs-cbn.com/news/technology/2026/10/19/pc-chip-prices-likely-to-continue-rising-til-end-of-year-lenovo-ph-official-1000",
+                        "arabic":  "توقع مسؤول لينوفو في الفلبين استمرار ارتفاع أسعار الحواسيب والذاكرة حتى نهاية العام بسبب أولوية خوادم الذكاء الاصطناعي، مشيراً إلى ارتفاع أسعار الخوادم 300% خلال 12 شهراً.",
+                        "image":  "img/2026-10-19-13.jpg"
+                    }
+                ]
+}

@@ -1,0 +1,205 @@
+*Three killed, 36 injured in Houthi attacks on Saudi airports, Riyadh says*
+
+* Saudi Arabia's civil aviation authority says three civilians were killed and 36 injured in Houthi-claimed attacks on Abha International Airport and King Khalid International Airport
+* The Abha attack killed two female residents, a Moroccan and an Algerian, and injured 28 others
+* The Riyadh attack killed a Sudanese citizen and injured eight people, including five Saudi nationals
+
+Source - https://www.aljazeera.com/news/2026/10/7/saudi-arabia-says-three-foreign-nationals-killed-in-attacks-on-airports
+
+*Riyadh airport flights delayed and cancelled after Houthi attacks on Saudi Arabia*
+
+* Flightradar24 showed 58 departures delayed at Riyadh airport as of Thursday morning, 15 per cent of scheduled services
+* Eleven flights, or 3 per cent, were cancelled, including Saudia SV562 to Dubai and Turkish Airlines TK145 to Istanbul
+* The airport's disruption index stood at 4.2 out of five, with an average departure delay of 45 minutes
+
+Source - https://www.thenationalnews.com/travel/2026/10/08/riyadh-airport-flights-delayed-and-cancelled-after-houthi-attacks-on-saudi-arabia/
+
+*Industrial AI, Saudi Scale: OrbitronAI and Aramco Digital Partner to Unlock Billions*
+
+* OrbitronAI and Aramco Digital will develop, deploy and commercialize industrial AI agents for asset-heavy industries, targeting multibillion-dollar value pools in capital productivity, supply chain performance and operational execution
+* The agreement was signed in early September at LEAP 2026 in Riyadh
+* OrbitronAI's core platform is NovaOS, and the company has more than 50 people across five global offices
+
+Source - https://www.prnewswire.com/news-releases/industrial-ai-saudi-scale-orbitronai-and-aramco-digital-partner-to-unlock-billions-302901510.html
+
+*Cloudera and stc group partner to accelerate digital transformation across the Middle East*
+
+* stc group will coordinate delivery through its subsidiaries stc Kuwait and stc Bahrain, with initial focus on Kuwait and Bahrain
+* The collaboration covers cybersecurity, network connectivity, IoT and smart city initiatives, governed by a joint steering committee
+* Ahmed Shakora, General Vice President of META at Cloudera, is quoted; stc group comprises 13 subsidiaries
+
+Source - https://www.zawya.com/en/press-release/companies-news/cloudera-and-stc-group-partner-to-accelerate-digital-transformation-across-the-middle-east-1548077
+
+*We seek a broader partnership with Saudi Arabia in advanced technologies – Taiwan's top envoy*
+
+* Foreign Minister Lin Chia-long said Taiwan's economy grew 8.68 percent in 2025, with growth this year projected to exceed 11 percent
+* Taiwan's stock market is now the fourth largest market in the world by market capitalization
+* Lin named Saudi Arabia, Oman and Qatar as Middle Eastern countries Taiwan could invest in and cooperate with
+
+Source - https://www.arabnews.com/saudi-arabia/we-seek-a-broader-partnership-with-saudi-arabia-in-advanced-technologies-taiwans-top-envoy-3005241
+
+*Nokia appoints Turki Alzwaiml as Country Manager for Saudi Arabia*
+
+* Nokia has appointed Turki Alzwaiml as Country Manager for Saudi Arabia
+* Alzwaiml has served as Nokia's VP Head of Mobile Network Business since 2023
+* Mikko Lavanti, Managing Director for Middle East and Africa at Nokia, said Alzwaiml brings extensive experience, strong customer relationships and a deep understanding of the local market
+
+Source - https://www.mobileeurope.co.uk/nokia-turki-alzwaiml-saudi-arabia/
+
+*FiveNines Group joins US$ 1.2 billion Nexus AI Factory project in Morocco*
+
+* FiveNines Group will partner with Nexus to oversee development of a 20 MW data center on the outskirts of Casablanca
+* The project is backed by a US$ 1.2 billion investment and will come online in two phases through 2027, starting with 16 MW followed by a further 20 MW
+* The facility aims for a total of 500 MW at full buildout and will use renewable power from TAQA Morocco
+
+Source - https://w.media/fivenines-group-joins-us-1-2-billion-nexus-ai-factory-project-in-morocco/
+
+*Kuwait likely to award cloud data centre substations contract in Q1 2027*
+
+* Kuwait's Ministry of Electricity, Water and Renewable Energy (MEWRE) is expected to award the contract in the first quarter of 2027, according to a source familiar with the project
+* The contract covers the supply and installation of three 132/11kV main substations serving a cloud data centre project
+
+Source - https://www.zawya.com/en/projects/kuwait-likely-to-award-cloud-data-centre-substations-contract-in-q1-2027-1561703
+
+*Solutions+ and Inception42 sign MoU to accelerate Agentic AI Platform Catalyst adoption*
+
+* The MoU was signed at AI Everything Abu Dhabi 2026, where Solutions+ is a Global Partner
+* It was signed by Nasir Al Nabhani, Group Managing Director and CEO of Solutions+, and Ashish Koshy, CEO of Inception42, G42's sovereign agentic AI company
+* Catalyst comprises an Agent Builder, an agent marketplace, a Workflow Builder, the AI Brain reasoning engine and a centralized Command Center
+
+Source - https://www.zawya.com/en/press-release/companies-news/solutions-and-inception42-sign-mou-to-accelerate-agentic-ai-platform-catalyst-adoption-1544481
+
+*Ooredoo's OFN bets on fiber in Iraq to carry Gulf traffic into Europe*
+
+* OFN, Ooredoo Group's international connectivity arm, signed a dark fiber agreement with iQ Networks to carry traffic from its planned Fiber in Gulf (FIG) landing in Iraq onward to Turkey and Europe
+* FIG is a subsea system linking Qatar, Oman, the UAE, Bahrain, Saudi Arabia, Kuwait and Iraq
+* Implementation remains subject to regulatory, governmental and other required approvals
+
+Source - https://www.fierce-network.com/newswire/ooredoos-ofn-bets-fiber-iraq-carry-gulf-traffic-europe
+
+*Toku to Deploy its AI-powered Customer Experience Platform on Core42 Sovereign Enabled Public Cloud in the UAE*
+
+* The agreement was marked at a signing ceremony in Abu Dhabi on 2 October 2026
+* Core42's cloud environment currently supports more than 47 Abu Dhabi government entities
+* Toku's Middle East coverage has grown from two markets to eight since December 2025
+
+Source - https://en.prnasia.com/releases/apac/toku-to-deploy-its-ai-powered-customer-experience-platform-on-core42-sovereign-enabled-public-cloud-in-the-uae-550902.shtml
+
+*NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents*
+
+* RTX Spark laptops are available for preorder with availability on October 16, and compact desktops go on sale in November
+* RTX Spark delivers one petaflop of FP4 AI performance and up to 128GB of unified memory
+* Hardware partners include Acer, ASUS, Dell, HP, Lenovo, Microsoft, MSI and Gigabyte
+
+Source - https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/
+
+*HP Leads the Expansion of the Local AI Era from GB300 AI Workstations to RTX Spark Windows PCs*
+
+* The HP OmniBook Ultra 16 is expected on HP.com on October 16, 2026, starting at $3,199.99, and the OmniBook X 14 starts at $2,999.99
+* Microsoft's event featured the first public demonstration of Windows running on the HP ZGX Fury, built on the NVIDIA GB300 Grace Blackwell Ultra Desktop Superchip
+* Eligible HP consumer devices will get a one-month free trial of Perplexity Pro starting in November 2026
+
+Source - https://www.globenewswire.com/news-release/2026/10/07/3376775/0/en/hp-leads-the-expansion-of-the-local-ai-era-from-gb300-ai-workstations-to-rtx-spark-windows-pcs.html
+
+*Dell Technologies Drives the Agentic AI Era with New Windows PCs and Workstations*
+
+* The XPS 16 Creator Edition offers up to a 6,144-core NVIDIA Blackwell RTX GPU and up to 128GB of unified memory, with pre-orders at Best Buy from October 7
+* The Dell Creator Edition Desktop delivers up to 1 petaflop of FP4 compute and supports AI models up to 200 billion parameters
+* Dell Pro Precision with GB300 scales to 20 petaflops of FP4 and 748GB of coherent memory, running models up to 1 trillion parameters locally
+
+Source - https://www.01net.it/dell-technologies-drives-the-agentic-ai-era-with-new-windows-pcs-and-workstations/
+
+*HPE Accelerates Enterprise AI Innovation With Next-Generation AMD CPU-Powered Servers*
+
+* The HPE ProLiant XD245 is powered by up to eight 6th Gen AMD EPYC processors
+* The ProLiant DL525 Gen13 is a 1U single-socket system with up to 256 cores, available later in 2026
+* The ProLiant DL585a Gen13 supports up to eight double-wide PCIe GPUs
+
+Source - https://finance.yahoo.com/technology/ai/articles/hpe-accelerates-enterprise-ai-innovation-130000488.html
+
+*WSJ: Broadcom seeks over $50 billion for OpenAI chips as Oracle, SpaceX chase AI debt deals*
+
+* Broadcom is working to arrange more than $50 billion in financing for OpenAI's custom AI chip, with Apollo and Blackstone among the lenders approached
+* Oracle is in talks with Apollo and Goldman Sachs to fund a large chip purchase, likely through a separate entity that would lease the chips to Oracle
+* SpaceX has discussed a $40 billion financing for Nvidia chips with lenders, as first reported by the FT
+
+Source - https://investinglive.com/stocks/wsj-broadcom-seeks-over-50-billion-for-openai-chips-as-oracle-spacex-chase-ai-debt-deals/
+
+*TSMC's third-quarter revenue surges to record, beating market forecast*
+
+* July-September revenue rose 50% year on year to a record T$1.49 trillion ($46.71 billion), above an LSEG SmartEstimate of T$1.46 trillion
+* September revenue rose 54.6% year on year to T$511.86 billion
+* An LSEG SmartEstimate expects third-quarter net profit to rise 64% to T$740.8 billion
+
+Source - https://www.thestar.com.my/tech/tech-news/2026/10/08/tsmc039s-third-quarter-revenue-surges-to-record-beating-market-forecast
+
+*CoreWeave to collaborate with AdaniConneX to expand AI cloud platform in India*
+
+* CoreWeave plans 240 MW in Navi Mumbai across three 80 MW buildings at AdaniConneX's Taloja campus
+* CoreWeave will be the sole tenant across the three buildings
+* The first phase is expected to be available in mid-2028, with further capacity coming online in phases
+
+Source - https://w.media/coreweave-enters-india-will-collaborate-with-adaniconnex-to-expand-ai-cloud-platform/
+
+*Huawei confirms its Mate XT 2 tri-fold smartphone will travel to other regions*
+
+* Consumer business chairman Richard Yu said Huawei will gradually make the device available overseas, adding that it is selling very well and demand currently exceeds supply
+* The Ultimate version has a 10.2in inner display, a 6.5in cover panel, a Kirin 9050 Pro CPU, at least 16GB of RAM and a 5,600mAh battery
+* The original Mate XT launched in South Africa, and the Mate XT 2 could arrive around March 2027
+
+Source - https://stuff.co.za/2026/10/08/huawei-confirms-mate-xt-2-tri-fold-travel-other-regions/
+
+*Tencent Mulls $5 Billion Bond Offering as AI Push Ramps Up*
+
+* Tencent is considering an offshore bond sale of as much as $5 billion, which could come as soon as October
+* In June, Tencent raised nearly $4.7 billion from long-dated dollar and yuan securities, its largest debt offering since 2020
+* Tencent raised capital expenditure on AI projects and computing by 176% to 52.8 billion yuan ($7.9 billion) in the June quarter
+
+Source - https://finance.yahoo.com/technology/ai/articles/tencent-mulls-5-billion-bond-053714152.html
+
+*Samsung Electronics Announces Earnings Guidance for Third Quarter 2026*
+
+* Consolidated sales are approximately 195 trillion Korean won, within a range of 194 to 196 trillion won
+* Consolidated operating profit is approximately 107.40 trillion Korean won, within a range of 107.3 to 107.5 trillion won
+* Third quarter 2025 sales were 86.06 trillion won and operating profit 12.17 trillion won, while second quarter 2026 was 171.5 trillion won and 89.49 trillion won
+
+Source - https://news.samsungsemiconductor.com/global/samsung-electronics-announces-earnings-guidance-for-third-quarter-2026/
+
+*Samsung's $80.3B quarterly profit set to beat Nvidia and Alphabet's record highs*
+
+* Operating profit of 107.4 trillion won ($80.3 billion) is up 782.5 percent on year and beat the FnGuide consensus of 106 trillion won
+* Revenue of 195 trillion won rose 126.59 percent but came in slightly below the 200.3 trillion won forecast
+* Samsung shares fell 1.49 percent to 264,500 won on Thursday
+
+Source - https://www.koreajoongangdaily.com/business/samsungs-803b-quarterly-profit-set-to-beat-nvidia-and-alphabets-record-highs/12910655
+
+*Rising Costs Threaten Notebook Demand in 2027, Raising Risks of Shipment Declines and Price Increases, Says TrendForce*
+
+* TrendForce projects global notebook shipments will fall by a low-single-digit percentage in 2027, widening to the high-single-digit range if component costs are fully passed on to buyers
+* CPU, DRAM and SSD accounted for approximately 68% of the BOM cost of a US$900 MSRP notebook in 3Q26
+* Notebook production outside China is estimated to fall from about 24% in 2025 to 21% in 2026, possibly below 20% in 2027
+
+Source - https://www.trendforce.com/presscenter/news/20261008-13264.html
+
+*[News] Microsoft Expands Local AI Push With NVIDIA RTX Spark; Surface Ultra Priced Up to $5,899 as Memory Costs Rise*
+
+* The Surface Laptop Ultra starts at $2,599 and reaches $5,899 with a 20-core processor, 128 GB of memory and 1 TB of storage
+* RTX Spark supports up to 128 GB of unified memory and can run models with up to 120 billion parameters locally
+* NVIDIA's 128 GB DGX Spark now costs $6,950, about 75% above its launch price
+
+Source - https://www.trendforce.com/news/2026/10/08/news-microsoft-expands-local-ai-push-with-nvidia-rtx-spark-surface-ultra-priced-up-to-5899-as-memory-costs-rise/
+
+*Samsung passes qualification tests for HBM4E chips with Nvidia, major hyperscalers*
+
+* Samsung Electronics passed customer qualification tests for its next-generation 12-layer HBM4E chips with Nvidia and major global hyperscalers, according to people familiar with the matter
+* The approval strengthens Samsung's position against SK Hynix and Micron in next-generation AI memory
+
+Source - https://www.kedglobal.com/korean-chipmakers/newsView/ked202610070018
+
+*[News] AI Chip Testing Capacity Tightness Prompts Customers to Lock In 1-Year-Plus Deals; Sigurd Hikes Prices*
+
+* Sigurd has posted monthly revenue above NT$2 billion for three consecutive months
+* Sigurd raised its 2026 capex to NT$8.8 billion, 48% above its original plan
+* Citing Nomura, NVIDIA Blackwell's final test time is estimated at four times that of Hopper, while Rubin could take seven times as long
+
+Source - https://www.trendforce.com/news/2026/10/08/news-taiwan-osat-sigurd-says-customers-lock-in-1-year-plus-deals-as-ai-chip-testing-capacity-tightens/

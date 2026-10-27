@@ -1,0 +1,143 @@
+*MIS wins SAR 86.1M SDAIA project*
+
+* Al Moammar Information Systems (MIS) won an SAR 86.13 million project, including VAT, from SDAIA
+* The project covers the fourth phase of a technical support project for SDAIA's backup data recovery system
+* MIS expects to sign the contract on Nov. 30, with no related parties to the deal
+
+Source - https://www.argaam.com/en/article/articledetail/id/1947288
+
+*«سيتي سكيب العالمي» يؤجل نسخته المقبلة في الرياض إلى فبراير 2027*
+
+* تأجيل «سيتي سكيب العالمي 2026» في الرياض إلى الفترة من الاثنين 1 إلى الخميس 4 فبراير 2027، بدلاً من موعدها السابق من 16 إلى 19 نوفمبر 2026
+* تبقى نسخة 2027 في موعدها من 15 إلى 18 نوفمبر 2027 دون تغيير
+* شهدت النسخة السابقة الإعلان عن مشاريع تجاوزت قيمتها 63 مليار دولار، واختتمت نسخة 2025 بصفقات عقارية تجاوزت 237 مليار ريال خلال أربعة أيام
+
+Source - https://sabq.org/article/dli2joy
+
+*Mideast one of most cost-competitive regions for data centre construction, report finds*
+
+* Saudi Arabia's data centre build cost is $10.80 per watt, against $9.80 in Qatar, $9.20 in the UAE and a Middle East average of $9.93; Tokyo is highest at $18.28
+* 52% of respondents experienced cost increases above 6% in 2026, with approximately 20% reporting inflation above 15%
+* 56% identified power as a major obstacle to delivery, and 32% reported utility connections taking over two years
+
+Source - https://www.tradearabia.com/News/488558/Mideast-one-of-most-cost-competitive-regions-for-data-centre-construction-report-finds
+
+*solutions by stc reports 9.6 billion Saudi riyals in revenue, up 9.23% in the first nine months of 2026*
+
+* Revenue reached SAR 9.6 billion in the nine months ended 30 September 2026, up from SAR 8.8 billion
+* Net profit was SAR 1.24 billion compared with SAR 1.22 billion a year earlier
+* EBITDA rose 10.6% to SAR 1.6 billion, operating profit increased 9.07% to SAR 1.4 billion, and EPS was SAR 5.21
+
+Source - https://solutions.com.sa/news/solutions-by-stc-records-sar-9-6-million-in-revenue-up-9-23-during-the-first-nine-months-of-2026/
+
+*Nutanix and Saudi Ministry of Media sign MoU to build a more resilient, AI-ready digital foundation for the media sector*
+
+* Nutanix and the Saudi Ministry of Media signed an MoU at LEAP 2026 to modernise the Ministry's digital infrastructure, focusing on hybrid cloud computing, AI, cyber resilience, knowledge transfer and digital innovation
+* Nutanix will support the Ministry in exploring hybrid computing environments that let applications and workloads move across data centers and different cloud environments
+* Nutanix will contribute to secure and resilient infrastructure designed to support disaster recovery and strengthen cybersecurity across the Ministry's digital environment
+
+Source - https://www.zawya.com/en/press-release/events-conferences/nutanix-and-saudi-ministry-of-media-sign-mou-to-build-a-more-resilient-ai-ready-digital-foundation-for-the-media-sector-1851414
+
+*م. ياسر البرعمي لـ«الوصال»: 3 مليارات دولار لتأسيس مجمع حوسبة وذكاء اصطناعي في صلالة.. واستثمارات العملاء قد تضيف 7 إلى 9 مليارات أخرى*
+
+* يستهدف المشروع في صلالة سعة تصل إلى 400 ميجاوات مع إمكانية التوسع مستقبلاً
+* يغطي الاستثمار الأولي البالغ 3 مليارات دولار البنية الأساسية من أنظمة كهربائية ومبانٍ وتبريد وربط بالشبكة وألياف بصرية، ولا يشمل الخوادم والرقائق التي تجلبها الشركات المستأجرة
+* يقدّر البرعمي أن دخول شركات عالمية كبرى قد يضيف ما لا يقل عن 7 إلى 9 مليارات دولار في الأجهزة والخوادم، مع مباحثات تمويل جارية مع Deutsche Bank
+
+Source - https://alwisal.om/2026/10/25/%d9%85-%d9%8a%d8%a7%d8%b3%d8%b1-%d8%a7%d9%84%d8%a8%d8%b1%d8%b9%d9%85%d9%8a-%d9%84%d9%80%d8%a7%d9%84%d9%88%d8%b5%d8%a7%d9%84-3-%d9%85%d9%84%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa-%d8%af%d9%88/
+
+*Cisco partners with Mannai to build sovereign AI infrastructure in Qatar*
+
+* Cisco will deliver its Sovereign Critical Infrastructure portfolio in Qatar with Mannai, designed for customer-controlled environments including on-premises and air-gapped deployments
+* The initiative targets government, energy, financial services and healthcare as organisations adopt AI and digital sovereignty grows in importance
+* The Cisco and Mannai relationship spans more than three decades of technology collaboration in Qatar
+
+Source - https://www.tahawultech.com/channel/cisco-partners-with-mannai-to-build-sovereign-ai-infrastructure-in-qatar/
+
+*Honeywell brings AI backed by Nvidia and Dell to Africa's biggest refinery as Dangote pushes to improve productivity*
+
+* Honeywell launched the Forge Plant Cognition AI platform at the Dangote refinery in Lekki, Lagos, combining its industrial technology with NVIDIA and Dell Technologies capabilities
+* Preliminary estimates suggest benefits of more than 29 cents per barrel, or approximately $60 million in gross annual benefits at full capacity, though the estimates are not guaranteed
+* Honeywell is supporting an expansion to more than double the refinery's capacity from 650,000 to 1.4 million barrels per day by 2028
+
+Source - https://africa.businessinsider.com/local/markets/honeywell-brings-ai-backed-by-nvidia-and-dell-to-africas-biggest-refinery-as-dangote/smyfmec
+
+*Sheikh Hamdan approves targets for Dubai's AI campus to attract 1,000 firms and create 5,000 jobs*
+
+* The new goal is to attract over 1,000 companies and create 5,000 skilled jobs by 2030
+* The campus has already attracted more than 500 specialised companies and secured over Dh1 billion in investment
+* Sheikh Hamdan attended the opening of the two-day Dubai AI Festival and reviewed headquarters plans for the campus
+
+Source - https://www.thenationalnews.com/news/uae/2026/10/26/sheikh-hamdan-approves-targets-for-dubais-ai-campus-to-attract-1000-firms-and-create-5000-jobs/
+
+*"We want to build the foundation right": Inside MTN's 150 MW data center strategy*
+
+* MTN's digital infrastructure arm Bayobab formed Africa Data Hub Holding, a joint venture with a UAE-based investment platform founded by Tarek Al Ashram
+* The venture will build AI-enabled data centers with a total capacity of 150 MW in Africa
+* South Africa and Nigeria are the starting markets, with the firm focused on moving those projects forward over the next year
+
+Source - https://w.media/we-want-to-build-the-foundation-right-inside-mtns-150-mw-data-center-strategy/
+
+*Anthropic files S-1 with the SEC for proposed initial public offering*
+
+* Anthropic, PBC filed a Form S-1 registration statement with the SEC for a proposed initial public offering of its Class A common stock
+* Anthropic intends to list on the Nasdaq Global Select Market under the ticker "ANT"
+* The number of shares and price range have not yet been determined, and preliminary prospectus copies are available from Goldman Sachs and Morgan Stanley
+
+Source - https://www.anthropic.com/news/s1-sec
+
+*SpaceX secures $40bn in debt financing, Elon Musk says*
+
+* SpaceX has secured $40 billion in debt financing to purchase GPUs for AI workloads, with the financing led by Apollo according to an earlier Financial Times report
+* Musk said debt markets have completely dried up over the past few weeks for neoclouds without substantial revenue outside AI data centers, and that more than 200 could see guppy-level death
+* CoreWeave stock has dropped 41 percent since October 6, and CoreWeave, Nebius and Iren fell more than 4 percent in early premarket trading after the comments
+
+Source - https://www.datacenterdynamics.com/en/news/spacex-secures-40bn-in-debt-financing-elon-musk-says/
+
+*Meta Announces Launch of Offering of Depositary Shares Representing Series A Mandatory Convertible Preferred Stock and Offering of Class A Common Stock in Connection with Forward Sale Agreements*
+
+* Meta is offering approximately $12.5 billion in Depositary Shares representing Preferred Stock and $22.5 billion of shares of Class A common stock
+* Morgan Stanley and Goldman Sachs are the lead joint bookrunning managers and forward purchasers
+* Meta expects to grant underwriters a 30-day option to purchase up to an additional 37,500,000 Depositary Shares
+
+Source - https://www.prnewswire.com/news-releases/meta-announces-launch-of-offering-of-depositary-shares-representing-series-a-mandatory-convertible-preferred-stock-and-offering-of-class-a-common-stock-in-connection-with-forward-sale-agreements-302919267.html
+
+*Huawei Cloud and Fixed Solutions bring Egypt's technology and compliance leaders together*
+
+* Huawei Cloud and Fixed Solutions hosted the Huawei Cloud and Fixed Solutions Personal Data Protection Forum 2026 on implementing Egypt's Personal Data Protection Law No. 151 of 2020
+* Attendees included CIOs, CISOs, DPOs, legal advisers and compliance managers from financial services, insurance and healthcare, as well as Chinese companies operating in Egypt
+* The forum opened with remarks by Ethan Tan, CEO of Huawei Cloud Egypt, and Mahmoud Tawfik, CEO of Fixed Investment Group and Fixed Solutions
+
+Source - https://www.zawya.com/en/press-release/events-conferences/huawei-cloud-and-fixed-solutions-bring-egypts-technology-and-compliance-leaders-together-1851325
+
+*[News] SK hynix 3Q Earnings Preview: Record Profit at 78% Operating Margin; HBM4, LTAs, Solidigm in Focus*
+
+* Market consensus projects SK hynix's 3Q26 consolidated revenue at KRW 98.23 trillion and operating profit at KRW 76.96 trillion
+* Hana Securities expects third-quarter DRAM ASPs to rise another 21% QoQ and NAND ASPs to gain 17% sequentially
+* Citing KeyBanc, HP and Dell have extended their memory supply agreements with Micron through 2031, while Samsung reportedly plans to allocate 60 to 70% of its memory capacity to long-term contracts
+
+Source - https://www.trendforce.com/news/2026/10/26/news-sk-hynix-3q-earnings-preview-record-profit-at-78-operating-margin-hbm4-ltas-solidigm-in-focus/
+
+*Analysts Say SK hynix Can Fund Solidigm Internally*
+
+* KB Securities researchers Kim Dong-won and Lee Chang-in say about 70 to 80% of SK hynix's scheduled memory production volume for 2027 has effectively been secured
+* Next year's operating profit is projected at 389 trillion won, about 50% above this year
+* Mirae Asset Securities projects free cash flow of 180 trillion won this year, and SK Securities says next year's will exceed 260 trillion won
+
+Source - https://www.businesskorea.co.kr/news/articleView.html?idxno=279693
+
+*Samsung may have overtaken SK hynix in HBM revenue, analysis suggests*
+
+* Bernstein estimates Samsung's HBM revenue at $8.7 billion for the July-September quarter, versus $7.6 billion for SK hynix
+* Counterpoint says SK hynix held 64 percent of global HBM revenue in Q2 2025, falling to 50 percent by Q2 2026 while Samsung's share rose to 33 percent
+* Overall HBM exports jumped 45 percent month-on-month and 131 percent year-on-year in September
+
+Source - https://www.koreaherald.com/article/10915040
+
+*Samsung Commands Premium Prices for HBM*
+
+* Samsung Electronics' average HBM quote was $4.50 per 1 gigabit, above Micron at $4 and SK hynix at $3.60 to $3.80
+* Industry estimates put HBM3E at about $1.5 to $2.5 per 1Gb and HBM4 at about $3 to $5, based on long-term agreements
+* KB Securities analyst Kim Dong-won expects Samsung's 2027 HBM average selling price to rise by 100% to 150% compared to the previous year
+
+Source - https://www.businesskorea.co.kr/news/articleView.html?idxno=279697

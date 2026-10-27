@@ -1,0 +1,213 @@
+*Humain scales up 2027 data center target as it aims for a self-funding buildout*
+
+* Humain is targeting 1.7 GW of capacity by 2027, up from the 1 GW stated before, with 250 MW online by the end of this year, about 3 GW by 2030 and 6 GW by 2034
+* A domestic data center fund is seeking an initial USD 2.5 bn, with BSF Capital managing the debt-and-equity structure, and a separate compute-infrastructure fund is planned
+* Anchor clients include xAI, Amazon Web Services and several open-weight model companies, with building costs put at USD 10-12 million per MW
+
+Source - https://enterpriseam.com/ksa/2026/10/01/humain-scales-up-2027-data-center-target-as-it-aims-for-a-self-funding-buildout/
+
+*HUMAIN Engages EY MENA to Develop Saudi Arabia's First AI-Native Business Process Outsourcing Service*
+
+* HUMAIN, a PIF company, has engaged EY MENA to develop Saudi Arabia's first AI-native business process outsourcing service, combining intelligent agents, automation, advanced analytics and human expertise
+* The service is built on HUMAIN ONE, HUMAIN's integrated agentic AI platform for enterprise workflows and automation
+* EY brings finance, audit, tax and advisory capabilities, with statements from HUMAIN CEO Tareq Amin, EY Global Managing Partner Raj Sharma and EY MENA Chairman Abdulaziz Al-Sowailim
+
+Source - https://www.ey.com/en_pk/newsroom/2026/09/humain-engages-ey-mena-to-develop-saudi-arabia-s-first-ai-native-business-process-outsourcing-service
+
+*"أنماط" تتلقى إشعار ترسية مشروع تأهيل مقر "هدف" بـ130مليون ريال*
+
+* تلقت شركة أنماط التقنية للتجارة إشعار ترسية من صندوق تنمية الموارد البشرية (هدف) لتأهيل المقر الرئيسي للصندوق في الرياض
+* تبلغ قيمة المشروع 129.92 مليون ريال شاملة ضريبة القيمة المضافة 15%
+* صدر إشعار الترسية في 30 سبتمبر 2026، والموعد المتوقع لتوقيع العقد 30 نوفمبر 2026، ولا توجد أطراف ذات علاقة
+
+Source - https://www.mubasher.info/news/4679207/
+
+*IFS and Echelon announce strategic partnership to drive industrial AI transformation to Saudi Arabia*
+
+* Riyadh-headquartered Echelon will deploy and localize IFS.ai across Saudi industry, focusing on energy, manufacturing, oil and gas, aerospace and defence, logistics and telecommunications
+* The release says Saudi Arabia's industrial base accounted for 45% of its US$1.1 trillion GDP in 2024
+* Prince Khalid Bin Bader Al Saud is Echelon's Founder and Managing Director, and Mark Moffat is CEO of IFS
+
+Source - https://www.prnewswire.com/apac/news-releases/ifs-and-echelon-announce-strategic-partnership-to-drive-industrial-ai-transformation-to-saudi-arabia-302894219.html
+
+*PwC Middle East accelerates digital innovation with the launch of a Google Cloud AI Experience Zone in Riyadh*
+
+* PwC Middle East opened a Google Cloud AI Experience Zone at its regional headquarters in Laysen Valley, Riyadh, where clients can try AI agents and workflows built by PwC and Google Cloud
+* The zone is enabled by Gemini Enterprise and the Gemini Enterprise Agent Platform and will host client events, workshops and sector-specific demonstrations
+* Spokespeople are Bassel El Atab, Partner, Data & Cloud at PwC Middle East, and Abdul Rahman Al Thehaiban, Managing Director, Google Cloud Middle East, North Africa and Turkey
+
+Source - https://www.zawya.com/en/press-release/companies-news/pwc-middle-east-accelerates-digital-innovation-with-the-launch-of-a-google-cloud-ai-experience-zone-in-riyadh-1459193
+
+*Microsoft, UAE Cyber Security Council and Core42 unite to scale AI-powered cyber defense across UAE government*
+
+* Microsoft, the UAE Cyber Security Council and Core42, a G42 company, will deploy MDASH, Microsoft's AI-powered cybersecurity capability, across UAE government entities
+* The Council will support adoption through the National AI Test and Validation Lab, while Core42 handles onboarding through its Sovereign Public Cloud partnership with Microsoft
+* The rollout is phased, moving from awareness sessions to pilots, workshops and onboarding
+
+Source - https://news.microsoft.com/source/emea/2026/09/microsoft-uae-cyber-security-council-and-core42-unite-to-scale-ai-powered-cyber-defense-across-uae-government/
+
+*Rönesans ve Digital Realty’den Türkiye’ye veri merkezi yatırımı*
+
+* Rönesans Altyapı ile Digital Realty ortaklığının ilk kampüsü için Ankara Temelli’de inşaata başlandı; ilk faz 22 MW’ın üzerinde IT kapasitesi ve yaklaşık 10 bin metrekare kolokasyon alanıyla 2028’de faaliyete geçecek
+* Ankara ve İstanbul’la toplam 200 MW IT kapasitesi hedefleniyor ve yatırım potansiyeli 3 milyar dolara kadar çıkıyor
+* Bu kapasite Ulusal Yapay Zeka Eylem Planı’nın 2030 için koyduğu 1 GW hedefinin yüzde 20’sine denk geliyor
+
+Source - https://www.dunya.com/sirketler/ronesans-ve-digital-realtyden-turkiyeye-veri-merkezi-yatirimi-haberi-842164
+
+*UAE AI Office and AWS announce 72% AI adoption rate across UAE businesses*
+
+* 72% of UAE businesses have adopted AI, up from 53% a year earlier, and 85% of adopters report a faster pace of digital change
+* AWS is investing AED 20.1 billion ($5.47 billion) in its Middle East (UAE) Region through 2037, with an estimated GDP contribution of AED 41 billion ($11.16 billion)
+* The AWS and e& partnership commits $1 billion to sovereign cloud and AI, and the AI Nation – Afaaq Program aims to give 30,000 people free AWS training
+
+Source - https://www.cxoinsightme.com/future/tech/uae-ai-office-and-aws-announce-72-ai-adoption-rate-across-uae-businesses/
+
+*South Africa's Competition Commission Backs MTN's IHS Tower Deal, With Conditions*
+
+* The Competition Commission recommended that the Competition Tribunal approve MTN's acquisition of IHS Holding, with conditions, after meetings on September 22 and 28, 2026
+* IHS must give all mobile operators fair access with no preference for MTN SA, renew leases fairly and stay operationally independent
+* Jobs and HDP ownership are protected, and SMMEs and HDPs must take part in new tower sites
+
+Source - https://techafricanews.com/2026/09/30/south-africa-competition-commission-backs-mtn-ihs-tower-deal-with-conditions/
+
+*HPE Secures Its First AMD Helios Order in $1.2 Billion Deal With Vultr*
+
+* HPE received a $1.2 billion order from Vultr to deploy AMD Helios AI Rack systems at U.S. cloud data center locations
+* Each rack has 72 AMD Instinct MI455X GPUs with AMD EPYC "Venice" CPUs and six HPE Juniper Networking QFX5252 scale-up switches
+* HPE CEO Antonio Neri said the order shows HPE can engineer the complete AI architecture, including rack-scale compute, scale-up networking and direct liquid cooling
+
+Source - https://www.stocktitan.net/news/HPE/hpe-secures-its-first-amd-helios-order-in-1-2-billion-deal-with-awoco485lxcg.html
+
+*HPE to Outline Networking Priorities for Long-term Value Creation*
+
+* HPE raised its Juniper cost synergy target to $800 million in annual run-rate savings by the end of fiscal 2028, up from at least $600 million
+* HPE expects Data Center Networking revenue to grow at a low-to-high 50s percent CAGR through fiscal 2029, with mid-to-high 20s percent operating margins
+* The release also restates the $1.2 billion Vultr order, HPE's first for AMD Helios
+
+Source - https://www.stocktitan.net/news/HPE/hpe-to-outline-networking-priorities-for-long-term-value-ostpqr52zni4.html
+
+*Lenovo AI Express with NVIDIA Accelerates Path to Hybrid AI Factory in Weeks*
+
+* Order-to-ship takes 15, 20 and 25 business days for the Small, Medium and Large configurations
+* The Large configuration is a Lenovo ThinkSystem SR680a V4 with NVIDIA HGX B300 and supports models of up to a trillion parameters
+* Organizations expect an average $2.79 return for every $1 invested in scaled AI execution, and 93% of enterprise respondents expect positive returns
+
+Source - https://news.lenovo.com/pressroom/press-releases/lenovo-ai-express-with-nvidia-accelerates-path-to-hybrid-ai-factory-in-weeks/
+
+*China's Tencent leases 100,000 chips from Oracle to accelerate AI push, FT reports*
+
+* Tencent signed a five-year lease with Oracle for about 100,000 advanced AI chips across several Southeast Asian data centers
+* The deal is estimated at about $7 billion, with an upfront payment of about 30%
+* Tencent is spending more on large language models while U.S. export restrictions on advanced chips tighten
+
+Source - https://www.investing.com/news/stock-market-news/chinas-tencent-leases-100000-chips-from-oracle-to-accelerate-ai-push-ft-reports-4926202
+
+*Huawei boss claims homegrown AI chip sales top Nvidia in China*
+
+* Huawei rotating chairman Eric Xu said Ascend has surpassed Nvidia in Chinese market share, while admitting precise data is hard to get
+* Nvidia H200 shipments to China accounted for less than 1 percent of Nvidia's datacenter revenue in Q2
+* Huawei is deploying a 256,000-card Atlas 950 SuperCluster, and its newer architecture can link up to one million NPUs
+
+Source - https://www.theregister.com/systems/2026/09/30/huawei-boss-claims-homegrown-ai-chip-sales-top-nvidia-in-china/5300266
+
+*Xiaomi Auto September deliveries top 40,000 as Sky Nomad adds volume*
+
+* Xiaomi Auto delivered more than 40,000 vehicles in September, its highest monthly total this year
+* The Sky Nomad lineup launched September 7, starts at 209,900 yuan ($31,170) and got more than 10,000 locked-in orders within 4 minutes
+* To reach its 550,000 annual target it needs about 263,525 deliveries in Q4, roughly 2.2 times September's lower bound
+
+Source - https://cnevpost.com/2026/10/01/xiaomi-auto-sept-2026-deliveries/
+
+*vivo X Fold6 Makes Global Debut: A New Foldable Powerhouse for Mobile Productivity*
+
+* The X Fold6 has a 6900 mAh BlueVolt Battery with 80W FlashCharge, 40W Wireless FlashCharge and reverse charging
+* Prism Black is about 4.4mm thick unfolded and weighs 228g, while Horizon Blue is 4.8mm and 235g
+* It has a 200 MP ZEISS main camera with ZEISS T Coating and OIS, and up to 100x ZEISS HyperZoom
+
+Source - https://www.prnewswire.com/news-releases/vivo-x-fold6-makes-global-debut-a-new-foldable-powerhouse-for-mobile-productivity-302894068.html
+
+*Honor joins Taiwan foldable phone race with Magic V6*
+
+* Honor launched the Magic V6 in Taiwan on September 30, 2026, its first foldable phone in the market
+* The launch came about six months after Honor formally entered Taiwan's smartphone market in April 2026
+
+Source - https://www.digitimes.com/news/a20261001PD212/honor-taiwan-foldable-foldable-smartphone-smartphone.html
+
+*Exclusive-Haier, Godrej, Blue Star failed to detect fake e-waste recycling claims, India notice shows*
+
+* Indian tax authorities said the three firms wrongly claimed $714,000 in tax credits for recycling services that were never provided
+* Haier's share was $367,900, Godrej's $159,700 and Blue Star's $186,600, all tied to WEEE-PRO Resource Recovery Solutions
+* The companies admitted they had not independently verified the collection, transport, dismantling or recycling of the e-waste
+
+Source - https://sg.finance.yahoo.com/news/exclusive-haier-godrej-blue-star-093846286.html
+
+*ByteDance reportedly tests standalone Doubao personal assistant app*
+
+* The standalone app has the tentative Chinese name Xiaodou, according to IT Home
+* It is still in internal testing, and its public name and features may change before launch
+* It was previously known internally as Spell and is being built by the team behind the Doubao phone assistant
+
+Source - https://technode.com/2026/09/30/bytedance-reportedly-tests-standalone-doubao-personal-assistant-app/
+
+*MICRON TECHNOLOGY, INC. REPORTS RECORD FISCAL FOURTH-QUARTER AND FULL-YEAR 2026 RESULTS*
+
+* Fourth-quarter fiscal 2026 revenue was $54.23 billion
+* GAAP diluted EPS was $32.87 and non-GAAP diluted EPS was $33.42
+* First-quarter guidance is revenue of $61.5 billion ± $1.5 billion, non-GAAP gross margin of approximately 86.25% and non-GAAP EPS of $38.15 ± $1.00
+
+Source - https://www.sec.gov/Archives/edgar/data/0000723125/000072312526000018/a2026q4ex991-pressrelease.htm
+
+*Micron's AI-fueled revenue forecast blows past estimates, backlog swells*
+
+* Micron forecast first-quarter revenue of $61.5 billion, plus or minus $1.5 billion, against analyst estimates of $57.02 billion
+* Customers' long-term supply commitments rose to $32 billion from the $22 billion reported in June
+* Remaining performance obligations reached about $150 billion, up from roughly $100 billion last quarter
+
+Source - https://www.thestar.com.my/tech/tech-news/2026/10/01/micron-forecasts-quarterly-revenue-profit-above-estimates-on-ai-memory-demand
+
+*RAM supply set to worsen, says Micron, as CEO celebrates 'much higher' prices*
+
+* CEO Sanjay Mehrotra said "In calendar 2027 as well as 2028, we see demand exceeding supply"
+* Fourth-quarter datacenter unit gross margin was 90 percent, up from 41 percent, and annual revenue was $133.2 billion against $37.4 billion the prior year
+* Micron plans $25 billion of capex in the first half of the new financial year for new fabs coming online in 2028, which will not immediately ease availability
+
+Source - https://www.theregister.com/systems/2026/10/01/ram-supply-set-to-worsen-says-micron-as-ceo-celebrates-much-higher-prices/5300346
+
+*D램·낸드 가격 9월에도 사상 최고…상승폭은 감소*
+
+* PC용 D램 범용제품(DDR4 8Gb)의 9월 평균 고정거래가격은 26달러로 8월(25달러) 대비 4% 상승
+* 낸드플래시(128Gb MLC)의 9월 평균가는 30.61달러로 8월(30.48달러) 대비 0.44% 상승
+* 4분기 D램은 13~18% 상승, 낸드는 보합 전망
+
+Source - https://www.thelec.kr/news/articleView.html?idxno=63057
+
+*S.Korea Sept exports hit record high as AI boom drives chip sales to all-time peak*
+
+* South Korea's September exports hit an all-time monthly high on strong semiconductor shipments, according to government data
+* Overseas sales rose 56.8% to $814.5 billion in the first nine months of 2026, topping total exports for all of 2025
+
+Source - https://www.kedglobal.com/economy/newsView/ked202610010001
+
+*Huawei unveils Mate 90 phones, leans on homegrown chip design to offset US curbs*
+
+* The Mate 90 Pro Max uses the Kirin 9050 Pro chip, built with LogicFolding 3D wiring technology
+* Rising memory costs added about $200 to each handset's manufacturing cost
+* Huawei holds about 75% of China's foldable market, and the Pura X Max has sold over 1.2 million units since its April release
+
+Source - https://www.investing.com/news/stock-market-news/huawei-unveils-mate-90-phones-leans-on-homegrown-chip-design-to-offset-us-curbs-4926201
+
+*Samsung raised Galaxy S26 Ultra prices by up to $200 in Korea*
+
+* S26, S26 Plus and Ultra 256GB/512GB prices rose 149,600 won (about $110) each, and the Ultra 1TB rose 276,100 won (about $203) from 2,545,400 to 2,821,500 won
+* The S26 256GB rose 11.9% from 1,254,000 to 1,403,600 won, and the S26 Ultra 256GB from 1,797,400 to 1,947,000 won
+* Memory makers keep raising DRAM and NAND prices as they prioritise server DRAM and HBM, though Samsung has not officially given a reason
+
+Source - https://www.sammyfans.com/2026/10/01/samsung-raised-galaxy-s26-ultra-prices-by-up-to-200-in-korea/
+
+*Mizuho raises Micron stock price target to $1,400 on AI strength*
+
+* Mizuho raised its Micron price target to $1,400 from $1,300 and kept an Outperform rating
+* Micron's fourth-quarter revenue of $54.2 billion and EPS of $33.42 compared with consensus of $51.5 billion and $31.84
+* November-quarter guidance of $61.5 billion revenue and $38.15 EPS compares with consensus of $56.7 billion and $36.03
+
+Source - https://www.investing.com/news/analyst-ratings/mizuho-raises-micron-stock-price-target-to-1400-on-ai-strength-93CH-4926467

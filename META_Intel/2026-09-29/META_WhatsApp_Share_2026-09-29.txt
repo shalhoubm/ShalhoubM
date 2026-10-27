@@ -1,0 +1,269 @@
+*«هيوماين»: السعودية تخصص 14 غيغاواط لمصانع الذكاء الاصطناعي*
+
+* قال الرئيس التنفيذي لـ«هيوماين» طارق أمين إن التعاون مع وزارة الطاقة وجهات حكومية أسهم في تسريع تخصيص الأراضي والبنية التحتية، مع تخصيص نحو 14 غيغاواط من قدرات الطاقة للموقع الذي تعمل عليه الشركة
+* وقّعت الشركة اتفاقات مع جهات دولية من بينها «أمازون»، بينما تتقدّم أعمال مشروع مشترك مع شركة «إيه إم دي (AMD)»
+* أوضح أمين أن الشركة بنت خلال نحو 15 شهراً أعمالاً تغطي عدداً من القطاعات، واتخذت قراراً استراتيجياً بعدم شراء البرمجيات الجاهزة وتطوير أنظمتها داخلياً
+
+Source - https://aawsat.com/الاقتصاد/5323874-هيوماين-السعودية-تخصص-14-غيغاواط-لمصانع-الذكاء-الاصطناعي
+
+*مجموعة «stc» تحقق 53 % محتوى محلياً متجاوزة معيار قطاع الاتصالات*
+
+* ارتفعت نسبة المحتوى المحلي لمجموعة «stc» إلى 53 في المائة عام 2026، متجاوزة المعيار المرجعي لقطاع الاتصالات وتقنية المعلومات الذي حددته هيئة المحتوى المحلي والمشتريات الحكومية عند 41 في المائة
+* واصلت نسبة المحتوى المحلي للمجموعة ارتفاعها على مدى السنوات الـ5 الماضية، مدفوعة بتنامي الاعتماد على المنتجات والخدمات والكفاءات المحلية في العمليات وسلاسل الإمداد
+* يُعدّ برنامج «روافد» ركيزة أساسية لتعظيم الإنفاق المحلي وتعزيز الابتكار وجذب الاستثمارات وإثراء الكفاءات الوطنية
+
+Source - https://aawsat.com/node/5323843
+
+*Qualcomm views Saudi AI boom as opportunity for industrial tech and power efficiency*
+
+* Qualcomm CFO Akash Palkhiwala, speaking at the Snapdragon Summit in Hawaii, highlighted sovereign data centers, where hyperscalers like Humain seek extremely low-power solutions, and industrial applications with partners such as Saudi Aramco
+* Qualcomm enabled Aramco Digital's private industrial 5G network on 450 megahertz, and the partnership has expanded to AI-powered surveillance identifying security threats such as unauthorized access or workers lacking safety equipment
+* Palkhiwala identified robotics as highly promising for Middle East deployment, citing regional climate conditions, wealth levels and labor scarcity
+
+Source - https://www.arabnews.com/saudi-arabia/qualcomm-views-saudi-ai-boom-as-opportunity-for-industrial-tech-and-power-efficiency-3003154
+
+*Nokia improves network performance and efficiency for Zain KSA across Saudi Arabia*
+
+* Zain KSA has launched Nokia Deepfield Cloud Intelligence across its network covering more than 100 cities in Saudi Arabia, providing real-time, end-to-end visibility
+* Central to the solution is Deepfield Cloud Genome, a continuously updated map of the internet that identifies applications and services across more than 30 categories using over 100 AI/ML rules
+* The deployment lets Zain KSA identify congestion or latency issues before they affect customers and builds an AI-ready data foundation aligned with Saudi Vision 2030
+
+Source - https://www.nokia.com/newsroom/nokia-improves-network-performance-and-efficiency-for-zain-ksa-across-saudi-arabia/
+
+*NTT DOCOMO BUSINESS and stc group launch IoT connectivity solution for Komatsu construction equipment in Saudi Arabia*
+
+* NTT DOCOMO BUSINESS and stc group launched an IoT connectivity solution for Komatsu construction equipment in Saudi Arabia, supporting Komatsu's Komtrax telematics and remote monitoring system
+* NTT DOCOMO BUSINESS handled solution design and end-to-end delivery, while stc group provided local expertise, connectivity services and technology, including SIMs and its Connectivity Management Platform
+* The solution provides regulatory-aligned, in-country connectivity in a country that restricts long-term roaming or permanent telecom services by unlicensed foreign operators
+
+Source - https://www.ntt.com/en/about-us/press-releases/news/article/2026/0929_2.html
+
+*Saudi Arabia Strengthens Framework for Responsible AI Use*
+
+* Saudi Arabia has strengthened its national framework for governing the responsible use of AI, led by the Saudi Data and AI Authority (SDAIA), through regulations, policies and ethical principles
+* The framework includes the AI Ethics Principles, AI Adoption Framework, Generative Artificial Intelligence Guidelines for Government, National Occupational Standard Framework for Data and AI, and the National AI Index (NAII)
+* SDAIA has also launched the National AI Risk Management Framework, a unified national methodology for identifying, assessing, addressing and monitoring AI-related risks for government and private-sector entities
+
+Source - https://www.spa.gov.sa/en/N2688337
+
+*Core42 and CSC sign MoU to advance Signature Sovereign AI Cloud in the UAE*
+
+* Core42, a G42 subsidiary, signed an MoU with the UAE Cyber Security Council at GISEC Global 2026, signed by CSC Head Dr. Mohamed Hamad Al Kuwaiti and Core42 CEO Talal M. Al Kaissi
+* Signature Sovereign AI Cloud targets government entities and regulated industries, supporting organizations processing Secret and Top-Secret workloads
+* The agreement also covers cybersecurity knowledge sharing, threat awareness, technical engagement and preparedness activities including workshops, training programs and conferences
+
+Source - https://www.tahawultech.com/channel/core42-and-csc-sign-mou-to-advance-signature-sovereign-ai-cloud-in-the-uae/
+
+*Mubadala and Together AI Partner to Explore AI Infrastructure Opportunities in the UAE*
+
+* Mubadala Investment Company and Together AI announced a strategic partnership to explore AI infrastructure and ecosystem opportunities in the UAE
+* Together AI will establish a local presence in Abu Dhabi, bringing its inference and research capabilities closer to regional demand and developers
+* The collaboration follows Mubadala's $100 million participation in Together AI's Series C financing round announced on July 1, 2026
+
+Source - https://www.mubadala.com/en/news/mubadala-and-together-ai-partner-to-explore-ai-infrastructure-opportunities-in-the-uae
+
+*MGX looks for data center assets in the Asia Pacific*
+
+* MGX is part of the BlackRock-backed AI Infrastructure Partnership, which alongside Australia's IFM Investors is in exclusive talks for Stack Infrastructure's Asia Pacific data center portfolio
+* The portfolio could be valued at up to $25 billion and includes sites in Australia, Japan and Malaysia; Stack is owned by Blue Owl Capital
+* MGX also backs the Stargate initiative, with Abu Dhabi's first 250-megawatt Stargate cluster expected to be completed this year
+
+Source - https://www.semafor.com/article/09/28/2026/mgx-looks-for-data-center-assets-in-the-asia-pacific
+
+*Data center tender awaits CAPT nod*
+
+* The Central Agency for Information Technology (CAIT) is seeking CAPT approval to procure consultancy services to design specifications and an RFP for the National Data Center and supervise its implementation
+* At a September 20 meeting, CAPT postponed its decision and asked CAIT to submit formal amendments within five working days
+* A 2015 Council of Ministers resolution mandated the center and requires government entities to host backup systems there to restore services after primary system failures
+
+Source - https://www.arabtimesonline.com/news/data-center-tender-awaits-capt-nod/
+
+*Saudi German Health UAE transforms digital healthcare in the UAE with the HPE Self-Driving Network*
+
+* Saudi German Health UAE selected HPE's wired, wireless NAC solution managed via HPE Aruba Central to modernize its network infrastructure; HPE and Saudi German Health UAE have partnered for 14 years
+* The network supports expansion of its hospitals, clinics, medical education facilities and new medical college in the UAE, as part of a broader program spanning infrastructure, networks, applications, digitalization and AI implementation
+* The deployment uses HPE Aruba Networking Access Points, HPE Networking CX Switches, Gateway Series, ClearPass Policy Manager and User Experience Insight
+
+Source - https://www.zawya.com/en/press-release/companies-news/saudi-german-health-uae-transforms-digital-healthcare-in-the-uae-with-the-hpe-self-driving-network-1388889
+
+*e& UAE launches U6GHz network with speeds up to 10 Gbps*
+
+* e& UAE has launched the world's first commercial mobile network using Upper 6GHz (U6GHz) 256TRX Giga-MIMO technology
+* The network operates across the 6425–6775 MHz range with 350 MHz of continuous bandwidth, delivering single-user peak speeds up to 10 Gbps downlink and 1 Gbps uplink
+* Single-cell throughput capacity exceeds 50 Gbps, with site-level coverage comparable to existing 3.5 GHz C-band infrastructure
+
+Source - https://www.gccbusinessnews.com/e-uae-launches-u6ghz-network/
+
+*“قرة إنرجي” توقع شراكة استراتيجية مع “TMEIC” لحلول مراكز البيانات*
+
+* وقعت شركة قرة لمشروعات الطاقة والاستثمار «قرة إنرجي» عقد شراكة استراتيجية مع شركة «توشيبا ميتسوبيشي إلكتريك» لأنظمة الطاقة الصناعية (TMEIC) لتوفير حلول تكنولوجية متطورة وأنظمة طاقة مستدامة
+* يشمل محور مراكز البيانات توريد أنظمة متطورة لعدم انقطاع التيار الكهربائي (UPS) عالية الموثوقية لتقليص استهلاك الطاقة وخفض تكاليف التبريد والتشغيل بمراكز البيانات الضخمة
+* تأتي الشراكة عقب إدراج أسهم الشركة في السوق الرئيسية بالبورصة عبر طرح أولي بقيمة 735 مليون جنيه، وتستهدف زيادة حجم أعمالها الإجمالي إلى 9.5 مليار جنيه بنهاية العام الجاري
+
+Source - https://www.alborsaanews.com/2026/09/29/1995808
+
+*Nvidia, AMD want Trump to keep their chips flowing to China*
+
+* Nvidia and AMD are lobbying the Trump administration, including the White House and senior levels of the Commerce Department, to stop lawmakers from curbing their exports to China, according to three people granted anonymity
+* Their ask is that the administration pressure lawmakers to hold off from enacting China-related chip export restrictions in the annual defense policy bill, where the proposed limits have bipartisan support
+* The companies' top target is language pulled from the AI OVERWATCH Act, while they see better prospects to amend other measures including the Chip Security Act, which would require companies to track where certain chips end up
+
+Source - https://www.politico.com/news/2026/09/29/nvidia-amd-trump-chips-china-ai-01096445
+
+*Anthropic's IPO prospectus shows sweeping AI vision, surging costs*
+
+* Anthropic's revenue grew 12-fold in 2025 to nearly $4.6 billion, even as the company lost more than $8 billion on an operating basis, excluding writedowns, and reported a net loss of $42 billion including a roughly $34 billion accounting charge
+* The AI lab spent $7.33 billion on compute and infrastructure last year, a threefold surge from 2024, and plans to spend $518 billion on cloud, computing and infrastructure obligations
+* The public sale could value Anthropic at more than $2 trillion, with its market debut likely to be pushed to after the November US midterm elections
+
+Source - https://www.marketscreener.com/news/anthropic-s-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-ce785addd98afe2c
+
+*Samsung Commits $1 Billion to Helix Digital Infrastructure to Support Global AI Infrastructure Buildout*
+
+* Samsung has committed $1 billion to Helix, an AI infrastructure company formed by KKR to help meet the growing infrastructure needs of hyperscalers, through its long-duration capital fund
+* The investment builds on the more than $10 billion of capital committed to the Helix strategy at its launch by founding investors including KKR, the Kuwait Investment Authority (KIA), NVIDIA and Vistra
+* Helix expects to explore opportunities to leverage Samsung's capabilities across advanced technology, construction, energy storage and cooling to support AI infrastructure at scale
+
+Source - https://media.kkr.com/news-details?news_id=ea6af31b-ab59-43ac-b92f-1cb5c126118d
+
+*Nvidia turns to insurers to spread risk of AI build-out - FT*
+
+* Nvidia has held talks with insurers about potential insurance for loans extended to smaller neocloud companies, which could protect lenders if a borrower defaults and the chips used as collateral cannot be resold for enough to cover debts
+* The company has shared depreciation data and computing power valuation forecasts with at least one insurer and worked with broker Howden Re on potential structures
+* The talks follow Nvidia's announcement of backstop support for $500 billion of capital from Wall Street firms including Goldman Sachs and Apollo, alongside a $150 billion share buyback
+
+Source - https://www.investing.com/news/stock-market-news/nvidia-turns-to-insurers-to-spread-risk-of-ai-buildout--ft-4921570
+
+*US, China eye US$60 billion in tariff relief, but chips stay off the table*
+
+* The US and China are moving toward tariff reductions on about US$60 billion of bilateral trade following last week's Trump-Xi summit
+* Semiconductors and other strategically sensitive sectors remain outside the arrangement
+
+Source - https://www.digitimes.com/news/a20260929VL204/chips-technology-semiconductors.html
+
+*AMD will acquire Fei-Fei Li's World Labs for $8.2 billion*
+
+* AMD is acquiring World Labs, a developer of deep learning models intended to understand physical reality, in an $8.2 billion deal
+* World Labs founder Fei-Fei Li will join AMD as executive vice president and chief scientist
+* World Labs' first product, Marble, is pitched for creating entertainment experiences and simulated environments for robot training, and the acquisition is expected to close before the end of the year, subject to regulatory approval
+
+Source - https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/
+
+*Lenovo and NVIDIA Strengthen Security for the Agentic AI Era*
+
+* Lenovo is collaborating with NVIDIA to support the NVIDIA Open Agent Safety Platform, an open reference design for full-stack security and governance for AI agents across software and infrastructure layers
+* The platform uses a zero-trust architecture in which access is restricted by default, with permissions and controls to govern what agents can access and do
+* Lenovo solutions will support the NVIDIA OpenShell secure runtime, running on NVIDIA Vera CPU and other processor platforms, and NVIDIA Sentry running on NVIDIA BlueField-4 DPUs
+
+Source - https://news.lenovo.com/lenovo-nvidia-strengthen-security-agentic-ai-era/
+
+*Huawei Launches Intelligent RAIL 2.0 to Accelerate Global Railway Intelligence Upgrade*
+
+* Huawei unveiled Intelligent RAIL 2.0 at InnoTrans 2026, held from September 22 to 25, as a new generation of multi-scenario intelligent solutions for the global rail industry
+* RAIL 2.0 includes 20 scenario-based solutions focused on construction, passenger and freight transportation, and facility and equipment maintenance
+* Huawei has served more than 50 major railway customers worldwide and over 300 urban rail lines, covering more than 180,000 kilometers of track
+
+Source - http://www.prnewswire.com/news-releases/huawei-launches-intelligent-rail-2-0-to-accelerate-global-railway-intelligence-upgrade-302892663.html
+
+*Brooklyn Sports & Entertainment Names Alibaba Group an Official Technology and Cloud Partner of the Brooklyn Nets*
+
+* Alibaba Group and Brooklyn Sports & Entertainment announced a strategic multi-year partnership naming Alibaba an Official Technology and Cloud Partner of the Brooklyn Nets
+* As the Nets' Official Jersey Patch Partner, Alibaba will support the team's 60th anniversary season through technology-enabled fan experiences and marketing activations
+* Beginning with the 2026-27 NBA season, Alibaba's technology will power a Real-Time 360° Replay system at Barclays Center
+
+Source - https://www.manilatimes.net/2026/09/29/tmt-newswire/media-outreach-newswire/brooklyn-sports-entertainment-names-alibaba-group-an-official-technology-and-cloud-partner-of-the-brooklyn-nets/2434541
+
+*Tencent tests AI gaming companion that responds to live gameplay*
+
+* Tencent is recruiting closed-beta testers for Goose Dimension, a product described in local reports as an AI game companion
+* The product reportedly supports voice chat and can recognize game screens to respond to what is happening in a game
+* An official Tencent questionnaire confirms the test recruitment but does not detail the product's capabilities or launch schedule
+
+Source - https://technode.com/2026/09/29/tencent-tests-ai-gaming-companion-that-responds-to-live-gameplay/
+
+*UPS signs exclusive deal with TikTok Shop for label-free returns*
+
+* UPS inked an exclusive deal to provide no-box, no-label returns for the TikTok Shop network of US sellers as it competes with rivals like FedEx
+* Happy Returns users take unwanted items to any of the nearly 10,000 returns bars inside Ulta Beauty, Staples or UPS stores, where workers scan, bag and label items
+* Total returns for the retail industry amounted to roughly $850 billion in 2025 and nearly 20% of online sales are returned, according to the National Retail Federation
+
+Source - https://www.investing.com/news/stock-market-news/ups-signs-exclusive-deal-with-tiktok-shop-for-labelfree-returns-4922026
+
+*Xiaomi promotes MiMo team lead Luo Fuli to its top job level*
+
+* Xiaomi's September promotion list elevated Luo Fuli, who leads the company's MiMo large-model team, to level 22, LatePost reported
+* A person familiar with Xiaomi said level 22 is the company's highest rank
+* The promotion was announced internally on September 22, according to the report
+
+Source - https://technode.com/2026/09/29/xiaomi-promotes-mimo-team-lead-luo-fuli-to-its-top-job-level/
+
+*Oppo K14 Plus launched in India: price, specs and sale date*
+
+* The Oppo K14 Plus is priced at Rs 29,999 for 6GB + 128GB, Rs 32,999 for 8GB + 128GB and Rs 35,999 for 8GB + 256GB
+* It goes on sale on Flipkart and the Oppo India e-store from October 8, 2026, with an instant Rs 4,000 bank discount and 6-month no-cost EMI
+* The phone has a 6.78-inch 1.5K AMOLED display with up to 144Hz refresh rate, a MediaTek Dimensity 7360 MAX chipset and an 8,000mAh battery with 45W fast charging
+
+Source - https://www.digit.in/news/mobile-phones/oppo-k14-plus-launched-in-india-price-specs-and-sale-date.html
+
+*Hisense at the 17th FutureChina Global Forum: Deepening ASEAN Roots with "Local for Local," Charting a New Path for Chinese Brands Going Global*
+
+* Ms. Clara Chang, President of Hisense ASEAN, shared insights at the 17th FutureChina Global Forum in Singapore on China's changing consumer landscape and paths to globalization
+* By 2024, Hisense Laser TV accounted for 65.8% of global shipments, ranking No. 1 worldwide for six consecutive years
+* Hisense operates 32 R&D centers, 41 industrial parks and manufacturing bases, and 65 overseas companies and offices, and broke ground on its Thailand HHA Smart Manufacturing Industrial Park in September 2025
+
+Source - https://www.manilatimes.net/2026/09/29/tmt-newswire/media-outreach-newswire/hisense-at-the-17th-futurechina-global-forum-deepening-asean-roots-with-local-for-local-charting-a-new-path-for-chinese-brands-going-global/2434667
+
+*Server DDR5 RDIMM Prices Surge Past $2,000*
+
+* The spot price of DDR5 RDIMM 32GB averaged $2,050 in the second week of September, with a weekly high of $2,380, more than fivefold in about 10 months from the high $300 range in November of last year.
+* The average price rose from $1,800 on Aug. 31 to $2,050 on Sept. 14, a 13.9% increase in just two weeks, while lead times for high-capacity DDR5 RDIMMs have extended up to 52 weeks.
+* The total DRAM market reached $154.73 billion in Q2 2026, up 59.5% from the previous quarter, and Q3 server DRAM contract prices are forecast to rise 13% to 18% quarter on quarter.
+
+Source - https://www.businesskorea.co.kr/news/articleView.html?idxno=277863
+
+*HBM Supply Constraints Persist, 2027 Price Outlook Revised Upward with Blended ASP Forecast to Rise 121% YoY, Says TrendForce*
+
+* TrendForce raised its 2027 HBM forecast on persistent supply constraints, a larger share of premium HBM4 and the gradual introduction of HBM4e in 2H27, with blended ASP projected to jump 121% YoY.
+* Continued expansion in AI server demand is keeping HBM and conventional DRAM in competition for limited advanced-process and wafer capacity, keeping supply tight through 2027.
+* GPU and ASIC makers are considering reducing HBM capacity per device and prioritizing 8-Hi configurations in 2027, which are expected to carry a roughly 10–20% price premium per Gb over 12-Hi products.
+
+Source - https://www.trendforce.com/presscenter/news/20260929-13255.html
+
+*Samsung Electronics says HBM to account for nearly 30% of industry DRAM capacity next year*
+
+* Samsung Electronics Executive Vice President Kim Taewoo said HBM is expected to represent nearly 30% of DRAM chipmakers' total wafer capacity next year, up from about 20% currently.
+* HBM and standard DRAM compete for the same wafer capacity.
+* The HBM market is led by South Korea's SK Hynix and Samsung Electronics, as well as US-based Micron Technology.
+
+Source - https://www.brecorder.com/news/40441772/samsung-electronics-says-hbm-to-account-for-nearly-30-of-industry-dram-capacity-next-year
+
+*AMD drops an EPYC $15,000, 256-core beast — EPYC 9006 Zen 6 'Venice' CPUs get full spec and pricing treatment, from $700 up to $14,904*
+
+* AMD's full EPYC 9006 Venice pricing list, obtained by StorageReview, spans SKUs from eight to 256 cores priced from $700 to $14,904.
+* The flagship SP7 part, the 256-core EPYC 9996, costs $14,904 or $58.21 per core, versus about $125.12 per core for the 64-core EPYC 9556 at $8,008; SP7 supports 16 memory channels up to DDR5-12800 and 96 PCIe 6.0 lanes.
+* SP7 and SP8 platforms are scheduled to launch in the fourth quarter of this year and the first half of 2027, respectively, with prices subject to change and Venice-X 3D V-Cache chips coming later in 2027.
+
+Source - https://www.tomshardware.com/pc-components/cpus/amd-drops-an-epyc-usd15-000-256-core-bomb-epyc-9006-zen-6-venice-cpus-get-full-spec-and-pricing-treatment-from-usd700-up-to-usd14-904
+
+*CXMT to spend US$5.2 billion on R&D and testing as DRAM supply stays tight*
+
+* China's ChangXin Memory Technologies (CXMT) plans to invest CNY34.9 billion (approx. US$5.2 billion) in technology R&D and additional back-end DRAM testing capacity.
+* CXMT is stepping up investment as tight memory supply and stronger pricing give the company more room to expand.
+
+Source - https://www.digitimes.com/news/a20260929VL207/cxmt-testing-dram-capacity-technology.html
+
+*Micron Stock Gets Stunning Price Target Hike Just Before Earnings*
+
+* Baird analyst Tristan Gerra lifted his Micron price objective to $1,520 from $1,280 while retaining a Buy rating, ahead of the company's Sept. 30 earnings release.
+* Gerra expects AI-related CPU demand to increase about 40% in 2027, with server deployments using AMD and Intel CPUs lifting DRAM demand.
+* He sees DRAM supply growth slowing to around 20% next year from more than 30% in 2026, and expects DRAM contract prices to rise 20% sequentially in the September quarter and another 10% in December.
+
+Source - https://finance.yahoo.com/markets/stocks/articles/micron-stock-gets-stunning-price-191458805.html
+
+*Solidigm U.S. IPO Raises Fears Over SK hynix's Value*
+
+* SK hynix shares fell 5.05% to 1,768,000 won on September 28 after reports that its NAND subsidiary Solidigm is targeting a U.S. IPO as early as next year at a valuation of up to $150 billion.
+* The company says raising up to $15 billion would fund SSD production expansion and research while reducing SK hynix's direct investment burden.
+* Shareholders fear a multiple-listing discount through a five-layer structure of SK holding company, SK Square, SK hynix, AI Company and Solidigm, with the Korea Corporate Governance Forum criticizing it.
+
+Source - https://www.businesskorea.co.kr/news/articleView.html?idxno=277836

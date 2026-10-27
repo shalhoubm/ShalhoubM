@@ -1,0 +1,174 @@
+*The continued state of global AI diffusion in 2026*
+
+* The UAE (73.3%) and Singapore (64.3%) continue to top the leaderboard for AI usage among the working-age population
+* Saudi Arabia climbed five places from 30th to 25th, the largest rise in the rankings
+* In June, AI usage was 18.8% of the working-age population worldwide, an increase of about 1% from the first quarter of this year
+
+Source - https://blogs.microsoft.com/on-the-issues/2026/09/21/the-continued-state-of-global-ai-diffusion-in-2026/
+
+*Echelon and Applied Intuition Partner to Scale Physical AI Across Saudi Arabia*
+
+* The business development partnership will deploy physical AI at national scale across robotaxis, ports, mining, manufacturing, agriculture, construction and trucking
+* Applied Intuition has established a regional office in Riyadh and is hiring engineering talent locally
+* Echelon is the Riyadh-based technology company driving AI transformation across the Middle East and is investing in Saudi engineering talent
+
+Source - https://finance.yahoo.com/technology/ai/articles/echelon-applied-intuition-partner-scale-153400220.html
+
+*200 مليون ريال لتمويل موظفي قطاع التكنولوجيا.. شراكة جديدة لتعزيز الكفاءات الرقمية*
+
+* أعلن البرنامج الوطني لتنمية قطاع تقنية المعلومات توقيع مذكرة تفاهم مع «تمام» لإطلاق محفظة تمويلية بقيمة 200 مليون ريال
+* تستهدف المحفظة توفير خيارات تمويل أكثر مرونة وتنافسية للعاملين في قطاع التكنولوجيا
+* تستهدف توسيع نطاق الحلول التمويلية المتاحة للكفاءات العاملة في القطاع ودعم استقرارها المهني
+
+Source - https://entarabi.com/2026/09/200-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d8%b1%d9%8a%d8%a7%d9%84-%d9%84%d8%aa%d9%85%d9%88%d9%8a%d9%84-%d9%85%d9%88%d8%b8%d9%81%d9%8a-%d9%82%d8%b7%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d9%83%d9%86%d9%88%d9%84/
+
+*"كوداك الاريس" و"ماناي لتقنية المعلومات" توسعان شراكتهما الاستراتيجية إلى السعودية لتسريع إدارة المعلومات الذكية والتحول الرقمي*
+
+* توسع الشركتان شراكتهما إلى السعودية امتدادًا لعلاقتهما القائمة في قطر
+* تركز الشراكة على المؤسسات التي تتعامل مع كميات كبيرة من المستندات والبيانات
+* قال إلياس مشنتف، المدير الإقليمي للأعمال في كوداك الاريس لمنطقة الشرق الأوسط: "تمثل السعودية واحدة من أهم أسواق التحول الرقمي في المنطقة"
+
+Source - https://gulftech-news.com/%D9%83%D9%88%D8%AF%D8%A7%D9%83-%D8%A7%D9%84%D8%A7%D8%B1%D9%8A%D8%B3-%D9%88%D9%85%D8%A7%D9%86%D8%A7%D9%8A-%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7/
+
+*Submer and Intel collaborate to advance AI and HPC infrastructure across the Middle East, Africa and Turkey*
+
+* Submer and Intel signed a collaboration agreement covering AI infrastructure, HPC and next-generation data centre solutions across the Middle East, Africa and Turkey
+* Intel contributes compute platforms, validated reference architectures and its technology roadmap
+* Submer contributes Advisory, Design & Build, Power Solutions, Thermal Solutions and IT Integration
+
+Source - https://businessnewsweek.in/business/submer-and-intel-collaborate-to-advance-ai-and-hpc-infrastructure-across-the-middle-east-africa-and-turkey/
+
+*From Enablement to Execution, Egypt's AI Ecosystem Reaches Production Scale*
+
+* Within a year, four AI factories have been announced or brought online across Africa, with another 656 megawatts of new capacity in the pipeline
+* In June, Egypt's National Telecommunications Regulatory Authority licensed Hassan Allam Data Centers, an estimated $400 million investment
+* In Egypt, the NVIDIA Deep Learning Institute learner base grew more than tenfold in a single year
+
+Source - https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/
+
+*Egypt, NVIDIA explore AI, computing, startup cooperation*
+
+* Minister Raafat Hindy met Paolo Guglielmini, NVIDIA's vice president for Europe, the Middle East, and Africa (EMEA)
+* Egypt ranked first in Africa and third in the Arab world in Oxford Insights' 2025 Government AI Readiness Index
+* The talks covered the second edition of Egypt's National AI Strategy for 2025 to 2030
+
+Source - http://arabfinance.com/en/news/newdetails/47929
+
+*QIA and J.P. Morgan Asset Management Announce $20 Billion Strategic Partnership*
+
+* QIA and J.P. Morgan Asset Management signed a Memorandum of Understanding to establish a USD 20 billion strategic partnership across public and private markets
+* The partnership includes a USD 15 billion public equities mandate and a USD 5 billion private markets investment initiative
+* The private strategy provides senior financing to U.S. middle-market companies in industrials, services, healthcare and technology
+
+Source - https://www.prnewswire.com/news-releases/qia-and-jp-morgan-asset-management-announce-20-billion-strategic-partnership-302884641.html
+
+*Arm Surges 13% as Meta's Muse Agent Reignites CPU Demand Bet; Intel Jumps 12%, AMD Climbs 9%*
+
+* Arm rose 13% to $312.46, Intel 12% to $121.38 and AMD 9% to $611
+* The iShares Semiconductor ETF gained only 3% to $551.4 while the Invesco QQQ Trust rose 2% to $735.14
+* Intel CEO Lip-Bu Tan has said the company can currently meet only 50% of customer demand
+
+Source - https://247wallst.com/investing/2026/09/21/arm-surges-13-as-metas-muse-agent-reignites-cpu-demand-bet-intel-jumps-12-amd-climbs-9/
+
+*Omdia: Mainland China PC market grows 11% in Q2, shipments forecast to fall 6% in 2026*
+
+* Mainland China's PC shipments grew 11% year-over-year in 2Q26 to 11.4 million units, with desktops up 42% and notebooks down 2%
+* Lenovo shipped 3.7 million units in Q2 2026 for a 32% share, up 7% year-over-year
+* Omdia forecasts a 6% decline in 2026 to 39.7 million units, with tablets down 10% to 32.5 million
+
+Source - https://www.stocktitan.net/news/TTGT/omdia-mainland-china-pc-market-grows-11-in-q2-shipments-forecast-to-ruwf6iqoj354.html
+
+*LG Group, Microsoft to partner in data center infrastructure, physical AI*
+
+* Satya Nadella and LG Group Chairman Koo Kwang-mo signed the partnership at Microsoft's Redmond headquarters
+* The partnership positions LG as a key supplier of cooling and power systems for AI data centers, while LG uses Microsoft's cloud for physical AI
+* Separately, LG Electronics will supply 2.5-megawatt coolant distribution units to Nvidia
+
+Source - https://www.kedglobal.com/artificial-intelligence/newsView/ked202609220004
+
+*NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories*
+
+* DSX Ready launches with two initial categories: battery energy storage systems and cooling distribution units
+* The qualified battery energy storage partners are Hitachi Energy, LG Energy Solution and Tesla
+* The qualified cooling distribution unit partners are LG Electronics, LiquidStack and Vertiv
+
+Source - https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/
+
+*Alibaba Cloud plans six-year stroll to 20GW of datacenters, reveals chip to power them*
+
+* Alibaba plans to scale its global datacenter fleet to 20GW over six years
+* The Zhenwu V900 delivers three times the performance of the Zhenwu M890, with 216GB of memory and 1200 GB/s inter-chip interconnect bandwidth
+* A single cluster can hold up to half a million V900s, and Alibaba is training Qwen 4 with successors expected to scale to five and ten trillion parameters
+
+Source - https://www.theregister.com/off-prem/2026/09/22/alibaba-cloud-plans-six-year-stroll-to-20gw-of-datacenters-reveals-chip-to-power-them/5298062
+
+*Huawei Unveils New UnifiedBus Computing Architecture for SuperPoDs and Clusters*
+
+* Yang Chaobin, CEO of Huawei's ICT Business Group, introduced the UnifiedBus architecture
+* UnifiedBus raises interconnect bandwidth from 100 GB/s to TB/s levels and cuts latency from 7 to 2 microseconds
+* New products include LinkBlade, LinkDevice with 1.6 Tbit/s per port, and a UBG switch supporting million-NPU clusters
+
+Source - https://www.prnewswire.com/news-releases/huawei-unveils-new-unifiedbus-computing-architecture-for-superpods-and-clusters-302884533.html
+
+*Tencent releases AI image model to catch ByteDance, Alibaba*
+
+* The new model, Hy Image 3.5 Preview, is being built into the Yuanbao chatbot and film-editing and design tools
+* Tencent said it matched ByteDance's Seedream 5.0 Pro in tests with hundreds of in-house designers
+* Tencent's shares gained more than 7% in Hong Kong
+
+Source - https://theedgemalaysia.com/node/818854
+
+*Xiaomi open-sources MiMo-V2.6 models after scaling reinforcement learning*
+
+* MiMo-V2.6-Pro scored 46 on the Artificial Analysis Intelligence Index, ahead of Kimi K3 (44) and GLM-5.3 (45)
+* The models completed 30 reinforcement-learning steps in under six days using about 750,000 trajectories
+* Reported costs were $2.62 million for Pro and $850,000 for Flash
+
+Source - https://technode.com/2026/09/22/xiaomi-open-sources-mimo-v2-6-models-after-scaling-reinforcement-learning/
+
+*ByteDance Doubao Phone Agent Goes MCP/A2A-First With GUI Fallback*
+
+* The Doubao phone assistant tries MCP/A2A protocol calls first, with GUI-agent screen control as a fallback bounded by the Screen Automation Execution Protocol
+* ByteDance set a 30-day publicity window in which automation defaults to system apps, ByteDance-owned apps and third parties that opt in
+* High-risk steps such as payments or content publishing still need user confirmation
+
+Source - https://pandaily.com/bytedance-doubao-phone-agent-mcp-a2a-gui-fallback
+
+*Oppo A7 Pro Max launches globally with 10,000mAh battery, 80W charging, Breathing Light*
+
+* The phone has a 10,000mAh battery with 80W wired charging, taking about 90 minutes to full
+* It runs on a Snapdragon 4 Gen 5 (4nm) chip with LPDDR4X RAM and UFS 3.1 storage
+* Prices are €599 in Austria (6GB/256GB), MYR 2,299 in Malaysia and THB 19,999 in Thailand (8GB/256GB)
+
+Source - https://www.gizmochina.com/2026/09/21/oppo-a7-pro-max-launches-globally-with-10000mah-battery-80w-charging-breathing-light/
+
+*Samsung Electronics' DRAM Expansion Won't Ease Commodity Shortage — Price Rally Seen Prolonged*
+
+* KB Securities' Kim Dong-won expects Samsung's monthly DRAM wafer capacity to grow 14% this year and 16% next year, with HBM's share rising to 40% by 2027
+* Lead times for high-capacity server DDR5 have stretched to as long as 52 weeks versus a normal six weeks, and Samsung's DRAM inventory is estimated below 10 days
+* Goldman Sachs kept its Buy rating with a target of 490,000 won, and Daishin expects Samsung to take the No. 1 HBM share next year
+
+Source - https://finance.biggo.com/news/c0fbbf6e-978f-47d6-b6bf-09d4cfd219fd
+
+*Same iPhone, Dh400 more: Why phone prices are rising everywhere*
+
+* Counterpoint Research says phones already on sale rose about 15 per cent globally this year and 18 per cent across the Middle East and Africa
+* The iPhone 17 launched in the UAE at Dh3,399 and is now listed at Dh3,799, with the iPhone Air and iPhone 17e also up Dh400
+* DRAM and NAND costs are up over 300 per cent year on year, and TrendForce expects memory to exceed 40% of iPhone Pro build cost by mid-2027
+
+Source - https://www.khaleejtimes.com/business/tech/same-iphone-dh400-more-why-phone-prices-are-rising-everywhere
+
+*[News] Micron Earnings Preview: Can the Margin Boom Last? HBM4 Ramp and Long-term Contracts in Focus*
+
+* In fiscal Q3 2026, Micron's revenue was $41.46 billion, up 74% sequentially, with a record non-GAAP gross margin of 84.9%
+* Wall Street expects EPS of $31.14 and revenue of $50.42 billion, while Goldman Sachs forecasts a gross margin of 87.3% in 4QFY26
+* Micron has shipped more than $1 billion of HBM4 and has announced 16 Strategic Customer Agreements
+
+Source - https://www.trendforce.com/news/2026/09/22/news-micron-earnings-preview-can-the-margin-boom-last-hbm4-ramp-and-long-term-contracts-in-focus/
+
+*Micron's (MU) Taoyuan Union says it plans to hold strike vote after mediation ended without agreement; company did not offer concrete profit-sharing proposal at mediation*
+
+* The Taoyuan Union representing Micron workers plans to conduct a strike vote following unsuccessful mediation with the company
+* According to the union, management failed to present any substantive profit-sharing proposal during negotiations
+
+Source - https://www.newsquawk.com/headlines/microns-mu-taoyuan-union-says-it-plans-to-hold-strike-vote-after-mediation-ended-without-agreement-company-did-not-offer-concrete-profit-sharing-proposal-at-mediation

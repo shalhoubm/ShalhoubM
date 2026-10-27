@@ -1,0 +1,84 @@
+*MIS rolls out SAR 135m framework contract with SDAIA*
+
+* Al Moammar Information Systems (MIS) signed a framework agreement with SDAIA worth about SAR 134.84 million including VAT, running for 36 months
+* MIS will supply networking equipment, workstation accessories, fingerprint scanners, cameras, mobile biometric registration devices and visual communication hardware for SDAIA warehouses and branches across the Kingdom
+* The deal follows an initial award notification dated 17 March 2026, and MIS expects the financial impact from Q4 2026
+
+Source - https://english.mubasher.info/news/4691445/MIS-rolls-out-SAR-135m-framework-contract-with-SDAIA/
+
+*Submer and Aginode sign collaboration agreement to strengthen AI data centre delivery across the META region*
+
+* The agreement was signed at Submer's office in Dammam to jointly develop and deliver integrated AI and data centre infrastructure across the Middle East, Africa and Türkiye
+* Submer brings AI infrastructure advisory, data centre design and thermal engineering, while Aginode brings connectivity and intelligent power distribution
+* Target markets include AI factories, high-performance computing, hyperscale and colocation facilities, telecom networks and sovereign infrastructure programmes, with customers already in Egypt
+
+Source - https://www.tahawultech.com/channel/submer-and-aginode-sign-collaboration-agreement-to-strengthen-ai-data-centre-delivery-across-the-meta-region/
+
+*HRH the Crown Prince Chairs Cabinet Session in Riyadh*
+
+* The Cabinet authorized the minister of communications and information technology, as chairman of the Digital Government Authority, to discuss a draft digital government MoU with Korea's Ministry of the Interior and Safety
+* The localization rate of military spending reached 27.3% by the end of 2025, surpassing the annual target of 24%, with local content rising to 40.9%
+* The goal is to localize more than 50% of total military spending by 2030
+
+Source - https://www.spa.gov.sa/en/N2711504
+
+*Core42 expands AI services to help secure 'sovereign' data*
+
+* Core42, an Abu Dhabi company and G42 subsidiary, is expanding services to help governments and businesses adopt AI while keeping confidential information within their borders
+* The company offers customers dedicated cloud environments under their control
+
+Source - https://circuit.news/2026/10/26/core42-expands-ai-services-to-secure-sovereign-data/
+
+*CoreWeave Expands Global AI Cloud Platform With New Capacity in Denmark and First Global AI Network Backbone*
+
+* CoreWeave has brought most of its planned 22.5 MW of IT capacity online at atNorth's DEN01 data center in Copenhagen, running on NVIDIA Blackwell systems with Quantum-X800 InfiniBand
+* New points of presence will be added in the United Arab Emirates, India, Indonesia, Singapore, Australia, Korea and Japan
+* Deployment begins later in Q4 2026 and reaches a full loop in mid-2027, with multiple 400 Gbps connections per point of presence
+
+Source - https://investors.coreweave.com/news/news-details/2026/CoreWeave-Expands-Global-AI-Cloud-Platform-With-New-Capacity-in-Denmark-and-First-Global-AI-Network-Backbone/default.aspx
+
+*NVIDIA and Meta to Expand Collaboration on Muse and Muse Family of Models Amid Robust Growth*
+
+* NVIDIA will invest $3 billion in Meta's equity offering
+* Meta plans to expand its use of NVIDIA Vera Rubin and Vera CPUs for next-generation AI agents
+* Meta will also deploy NVIDIA Spectrum-X Ethernet networking and BlueField-4
+
+Source - https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth
+
+*AMD and Meta Advance Strategic Partnership to Power Meta’s Superintelligence Infrastructure*
+
+* AMD will invest $1 billion in Meta's equity offering
+* Initial AMD Helios rackscale systems are installed and being tested by Meta, with broader deployment planned in the near future
+* Meta was an early definition customer for the AMD Instinct MI450 architecture and will deploy a custom Instinct GPU tailored to its workloads
+
+Source - https://ir.amd.com/news-events/press-releases/detail/1302/amd-and-meta-advance-strategic-partnership-to-power-metas-superintelligence-infrastructure
+
+*DRAM price gains fall short as supply shrinks up to 50%*
+
+* DRAM price growth has slowed sharply in the fourth quarter of 2026, but severe supply shortages are intensifying
+
+Source - https://www.digitimes.com/news/a20261027PD211/dram-price-growth-demand-2026.html
+
+*[News] TSMC Reportedly Eyes 20% CoWoS Price Hike, Skips Equipment Price Renegotiations Amid AI Demand Surge*
+
+* Citing Commercial Times, TSMC is reportedly considering CoWoS price increases of up to 20%, with some packaging lead times already getting longer
+* Per Liberty Times, TSMC plans to raise wafer-out prices by 3% to 6% starting January 2027, with 2nm and 3nm facing the steepest increases
+* Goldman Sachs projects CoWoS output of 1.275 million wafers in 2026, rising 114% to 2.73 million in 2027
+
+Source - https://www.trendforce.com/news/2026/10/27/news-tsmc-reportedly-eyes-20-cowos-price-hike-skips-equipment-price-renegotiations-amid-ai-demand-surge/
+
+*[News] NVIDIA’s Memory Shake-Up: Rubin Ultra Rethinks 12-Hi HBM4E for 8-Hi HBM4, Rubin GPU Bandwidth Cut 13%*
+
+* Per ZDNet, Samsung and SK hynix are preparing to ship 8-Hi HBM4 for Rubin Ultra in 2Q27, a change from the original 12-Hi HBM4E plan
+* Per-GPU HBM4 bandwidth on Rubin is now 19.2 TB/s, about 13% lower, and NVLink 6 throughput dropped from 3.6 TB/s to 3 TB/s
+* TrendForce says 8-Hi uses fewer DRAM dies, lowering cost per stack and letting the same HBM bit output support more GPUs
+
+Source - https://www.trendforce.com/news/2026/10/27/news-nvidias-memory-shake-up-rubin-ultra-rethinks-12-hi-hbm4e-for-8-hi-hbm4-rubin-gpu-bandwidth-cut-13/
+
+*China’s DRAM Self-Sufficiency To Remain A Distant Dream, As Local Giants Seek 10-Year LTAs From Samsung And SK hynix; CXMT & YMTC Lagging In Key Areas*
+
+* Alibaba, Tencent and ByteDance reportedly have unmet DRAM demand, and some Chinese clients are seeking 10-year supply agreements with Samsung and SK hynix, longer than the usual 3 to 5 years
+* The requested products are server DDR and LPDDR memory
+* Samsung is reportedly planning an HBM premium of up to 25% for AI data center customers
+
+Source - https://wccftech.com/china-dram-self-sufficiency-10-year-ltas-samsung-sk-hynix-cxmt-ymtc/

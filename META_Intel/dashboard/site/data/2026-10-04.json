@@ -1,0 +1,224 @@
+{
+    "date":  "2026-10-04",
+    "window":  "Sat 3 Oct 2026 11:57 → Sun 4 Oct 2026 11:57 KSA (UTC+3), i.e. 08:57 → 08:57 UTC.",
+    "headline":  "A quiet weekend window with one security shock and one confirmed HUMAIN build step. Yemen\u0027s Houthis said they struck an Aramco facility in Riyadh with missiles and drones; fire was seen at the refinery south of the capital, with no Saudi confirmation yet. MIS received HUMAIN Work Order No. 1, worth more than 148% of its 2025 revenue for the 50 MW scope, with no IT vendor named. The memory squeeze is now cutting product specifications: Tesla reduced AI-chip memory and NVIDIA raised the DGX Spark 128GB to $6,950.",
+    "lenovo_read":  "The HUMAIN build is moving from contracts to work orders, so the IT bill of materials for the first 50 MW is being decided now through MIS. The Aramco strike puts resilience and failover into the specifications of KSA infrastructure buyers. Lenovo should pursue both: an AI-factory rack offer through MIS and a business-continuity offer for energy and government accounts.",
+    "pillars":  {
+                    "dc":  "3 META items: MIS-HUMAIN Work Order No. 1 (50 MW); Kuwait Google Cloud sites (about 90,000 sqm, KWD 22m substation tender, analysis piece); Egypt NTRA naming AI and cloud as the pillars of the national data-centre strategy. Rönesans-Digital Realty, Kemet and Stellarix were first published 2 Oct and are rejected.",
+                    "memory":  "2 scored items: Tesla cutting AI5/AI6 memory and NVIDIA\u0027s DGX Spark 128GB rising from $3,999 to $6,950. Intel\u0027s roughly 10% PC CPU price rise takes effect 5 Oct (DigiTimes, reported before the window). No new contract or spot print checked; last reference is the September PC DDR4 8Gb fixed price of $26.00 (+4.0% MoM).",
+                    "deals":  "MIS-HUMAIN work order and the UAE-US technology partnership talks (A:5 export designation). The Iraq MoC-Huawei data-centre MoU was rejected (first published 3 Oct 10:10 KSA, before the window). No hardware supplier named in any in-window META deal.",
+                    "global":  "Scored NVIDIA (SDAIA SADA dataset) and Tech Mahindra (Riyadh CoE). Chinese rule: Huawei. Xiaomi, vivo and Honor had late coverage only; nothing verifiable from Alibaba, Tencent, ByteDance, Hikvision, Hisense, Haier, ZTE or OPPO."
+                },
+    "stories":  [
+                    {
+                        "id":  "2026-10-04-01",
+                        "tier":  "KSA",
+                        "pillar":  "Data centres",
+                        "band":  "HIGH",
+                        "score":  17,
+                        "title":  "MIS Receives First Work Order under HUMAIN Agreement Worth More Than 148% of 2025 Revenue",
+                        "source":  "Maaal",
+                        "published":  "4 Oct 2026 10:19 KSA (article:published_time)",
+                        "country":  "Saudi Arabia",
+                        "summary":  "MIS (7200) received HUMAIN Work Order No. 1, worth more than 148% of its 2025 revenue and covering the 50 MW scope, with financial impact from Q2 FY2026. It is the first tranche of the 20 Sep agreement (more than 689% of 2025 revenue, about 250 MW), and more work orders are expected. No IT vendor is named.",
+                        "bullets":  [
+                                        "MIS received Work Order No. 1 under its HUMAIN agreement, worth more than 148% of its 2025 total revenue and covering the previously announced 50-megawatt capacity scope of work",
+                                        "The overall HUMAIN agreement, disclosed on Tadawul on 20 September 2026, is valued at more than 689% of the company\u0027s total revenue for 2025, including VAT",
+                                        "The financial impact of the work order began in Q2 of FY2026, and MIS expects additional work orders for the project\u0027s further expansion"
+                                    ],
+                        "lenovo":  "ISG: hardware undisclosed, an open ISG opportunity. The IT fit-out for the first 50 MW is being specified through MIS now, and that template will carry into later work orders. Put Lenovo AI racks, Neptune cooling and storage into the MIS bill of materials. Updates OPP-036 and OPP-027.",
+                        "url":  "https://maaal.com/en/news/details/mis-receives-first-work-o/",
+                        "arabic":  "معمر لأنظمة المعلومات تتسلم أمر العمل الأول ضمن اتفاقيتها مع هيوماين بقيمة تتجاوز 148% من إيرادات 2025، يغطي نطاق 50 ميغاواط، مع توقع أوامر عمل إضافية للتوسعة.",
+                        "image":  null
+                    },
+                    {
+                        "id":  "2026-10-04-02",
+                        "tier":  "KSA",
+                        "pillar":  "AI \u0026 markets",
+                        "band":  "HIGH",
+                        "score":  16,
+                        "title":  "Yemen\u0027s Houthis Say They Attacked Aramco Facility in Riyadh With Missiles, Drones",
+                        "source":  "Reuters (via US News)",
+                        "published":  "3 Oct 2026; first alert 15:42 UTC (18:42 KSA)",
+                        "country":  "Saudi Arabia",
+                        "summary":  "The Houthis said they targeted an Aramco facility in Riyadh with ballistic missiles and drones. Witnesses and AFP saw fire and smoke at the refinery south of the capital. Saudi authorities had not confirmed the attack, and Aramco had not commented.",
+                        "bullets":  [
+                                        "Yemen\u0027s Iran-aligned Houthis said on Saturday they had targeted an Aramco facility in Riyadh with ballistic missiles and drones, in retaliation for Saudi attacks on Sanaa and other provinces",
+                                        "A large plume of smoke and fire was seen rising in the vicinity of an Aramco facility in Riyadh earlier on Saturday, a witness told Reuters",
+                                        "There was no immediate confirmation from Saudi authorities of an attack, and Aramco did not immediately respond to a request for comment"
+                                    ],
+                        "lenovo":  "ISG/SSG/IDG: business continuity and DR move up the agenda for Aramco, Aramco Digital and government data-centre owners. RHQ to check staff safety and ALAT plant continuity. A measured opening for DR capacity, edge resilience and managed services through account channels.",
+                        "url":  "https://www.usnews.com/news/world/articles/2026-10-03/fire-smoke-seen-near-aramco-facility-in-riyadh-witness-says",
+                        "arabic":  "الحوثيون يعلنون استهداف منشأة لأرامكو في الرياض بصواريخ باليستية ومسيّرات، مع مشاهدة حريق ودخان قرب المصفاة جنوب العاصمة، دون تأكيد رسمي سعودي حتى الآن.",
+                        "image":  null
+                    },
+                    {
+                        "id":  "2026-10-04-03",
+                        "tier":  "KSA",
+                        "pillar":  "Global tech in META",
+                        "band":  "MONITOR",
+                        "score":  12,
+                        "title":  "Saudi dataset cuts AI errors in Arabic dialects",
+                        "source":  "Arab News",
+                        "published":  "3 Oct 2026 17:52 (page time)",
+                        "country":  "Saudi Arabia",
+                        "summary":  "NVIDIA trained Nemotron 3.5 ASR on SDAIA\u0027s SADA dataset (about 667 hours, built with the Saudi Broadcasting Authority). Saudi-dialect word error rate fell from 55% to about 30%, and the overall rate fell from 58.8% to 35.6%.",
+                        "bullets":  [
+                                        "NVIDIA trained its Nemotron 3.5 ASR model using the Saudi Audio Dataset for Arabic, launched by the Saudi Data and AI Authority with the Saudi Broadcasting Authority",
+                                        "The dataset comprises about 667 hours of transcribed audio, including more than 600 hours from television programs covering multiple Saudi dialects",
+                                        "After training on 133.7 hours of Najdi and Hijazi audio, the word error rate for Saudi dialects dropped from 55% to approximately 30%"
+                                    ],
+                        "lenovo":  "ISG/IDG: Saudi sovereign data is tuning NVIDIA\u0027s stack. Position NVIDIA-certified inference platforms and AI PCs and workstations with SDAIA, media and government contact-centre buyers. Links OPP-002 and OPP-031.",
+                        "url":  "https://www.arabnews.com/saudi-arabia/saudi-dataset-cuts-ai-errors-in-arabic-dialects-3004401",
+                        "arabic":  "إنفيديا تستخدم مجموعة بيانات صدى من سدايا لتحسين نموذج Nemotron 3.5 للتعرف على الكلام، وخفض أخطاء اللهجات السعودية من 55% إلى نحو 30%.",
+                        "image":  "img/2026-10-04-03.jpg"
+                    },
+                    {
+                        "id":  "2026-10-04-04",
+                        "tier":  "KSA",
+                        "pillar":  "Global tech in META",
+                        "band":  "LOW",
+                        "score":  11,
+                        "title":  "Tech Mahindra\u0027s IMEA head on Saudi AI demand and the plan through 2030",
+                        "source":  "EnterpriseAM",
+                        "published":  "4 Oct 2026 03:00 KSA (article:published_time 00:00 UTC)",
+                        "country":  "Saudi Arabia",
+                        "summary":  "Tech Mahindra\u0027s IMEA head Sahil Dhawan said the company will train 2,500 Saudi nationals with MCIT, runs a Data, AI and Cloud Center of Excellence in Riyadh, and will expand local AI, cloud, cybersecurity and engineering capabilities through 2030, including regional HQ operations.",
+                        "bullets":  [
+                                        "Tech Mahindra committed to train 2.5k Saudi nationals through practical project deployment programs with the Communications and Information Technology Ministry",
+                                        "The company established a Data and AI and Cloud Center of Excellence in Riyadh, running hackathons, design thinking, innovation programs and university collaboration",
+                                        "Its plan through 2030 is to expand local capabilities in AI, cloud, data and analytics, cybersecurity, digital engineering and intelligent automation"
+                                    ],
+                        "lenovo":  "SSG/IDG: a systems integrator scaling a Riyadh regional HQ and delivery centre. A potential SSG managed-services partner and a device-fleet buyer.",
+                        "url":  "https://enterpriseam.com/ksa/2026/10/04/tech-mahindras-imea-head-on-saudi-ai-demand-and-the-plan-through-2030/",
+                        "arabic":  "تك ماهيندرا تعتزم تدريب 2,500 سعودي وتوسيع مركز التميز للبيانات والذكاء الاصطناعي في الرياض ضمن خطتها حتى 2030.",
+                        "image":  "img/2026-10-04-04.jpg"
+                    },
+                    {
+                        "id":  "2026-10-04-05",
+                        "tier":  "GCC/MEA",
+                        "pillar":  "Data centres",
+                        "band":  "LOW",
+                        "score":  11,
+                        "title":  "90 ألف متر مربع و3 محطات كهرباء.. «غوغل كلاود» تأخذ شكلها في الكويت",
+                        "source":  "Erem Business",
+                        "published":  "4 Oct 2026 07:30 KSA (04:30 UTC)",
+                        "country":  "Kuwait",
+                        "summary":  "An analysis piece compiling earlier facts: three Google Cloud sites of about 30,000 sqm each, a KWD 22m (about $72m) tender for three 132/11 kV substations, a 12 MW Digitus facility for Google, and a possible $50m Mutlaa hosting deal.",
+                        "bullets":  [
+                                        "تخصيص نحو 90 ألف متر مربع لمراكز بيانات غوغل كلاود في الكويت، بواقع نحو 30 ألف متر مربع لكل موقع من المواقع الثلاثة",
+                                        "وزارة الكهرباء والماء والطاقة المتجددة طرحت مشروعاً لتوريد وتركيب 3 محطات تحويل بجهد 132/11 كيلوفولت بكلفة تقدر بنحو 22 مليون دينار كويتي، أي نحو 72 مليون دولار",
+                                        "الحمل التقني في إحدى المنشآت التي تطورها شركة ديجيتس التابعة لمجموعة حياة للاتصالات لصالح غوغل يصل إلى نحو 12 ميغاواط"
+                                    ],
+                        "lenovo":  "ISG: Google will fit out its own halls, so there is no server opportunity there. Digitus (Hayat Communications) is a colocation partner prospect for tenant fit-outs. Links OPP-046.",
+                        "url":  "https://www.erembusiness.com/technology/7weg9id",
+                        "arabic":  "مشروع غوغل كلاود في الكويت ينتقل إلى التنفيذ: ثلاثة مواقع بنحو 90 ألف متر مربع ومناقصة لثلاث محطات تحويل بنحو 22 مليون دينار.",
+                        "image":  null
+                    },
+                    {
+                        "id":  "2026-10-04-06",
+                        "tier":  "GCC/MEA",
+                        "pillar":  "Data centres",
+                        "band":  "LOW",
+                        "score":  10,
+                        "title":  "«تنظيم الاتصالات»: الذكاء الاصطناعي والحوسبة السحابية محوران رئيسيان لاستراتيجية مراكز البيانات في مصر",
+                        "source":  "FintechGate",
+                        "published":  "3 Oct 2026 18:26 (page time)",
+                        "country":  "Egypt",
+                        "summary":  "Egypt\u0027s ICT minister met NTRA\u0027s re-formed Telecom Industry Committee. NTRA\u0027s CEO said the national data-centre strategy, still being drafted, rests on AI and cloud, and the committee recommended expanding local manufacturing of telecom devices.",
+                        "bullets":  [
+                                        "الرئيس التنفيذي للجهاز القومي لتنظيم الاتصالات أكد أن الاستراتيجية الوطنية لمراكز البيانات في مصر ترتكز على مجالين رئيسيين هما الذكاء الاصطناعي والحوسبة السحابية",
+                                        "وزير الاتصالات شدد على أن تقنيات الذكاء الاصطناعي تمثل أحد أهم محركات النمو والتحول الاقتصادي خلال المرحلة المقبلة",
+                                        "لجنة صناعة الاتصالات أوصت بدراسة فرص تطوير مراكز البيانات وخدمات الحوسبة السحابية والتوسع في تصنيع أجهزة الاتصالات محلياً"
+                                    ],
+                        "lenovo":  "ISG/IDG: the strategy is still being drafted, an early window to shape AI and cloud data-centre specifications in Egypt. The local-manufacturing push signals device localisation. Links OPP-034.",
+                        "url":  "https://fintechgate.net/253454",
+                        "arabic":  "جهاز تنظيم الاتصالات في مصر: الذكاء الاصطناعي والحوسبة السحابية محورا الاستراتيجية الوطنية لمراكز البيانات، مع توصية بالتوسع في تصنيع أجهزة الاتصالات محليًا.",
+                        "image":  "img/2026-10-04-06.jpg"
+                    },
+                    {
+                        "id":  "2026-10-04-07",
+                        "tier":  "GCC/MEA",
+                        "pillar":  "Deals \u0026 MoUs",
+                        "band":  "MONITOR",
+                        "score":  14,
+                        "title":  "UAE and US Advance Technology Partnership Agenda in High-Level Washington Engagements",
+                        "source":  "UAE Embassy in Washington",
+                        "published":  "3 Oct 2026 (no time on page; Arabian Business carried it 4 Oct 00:03 KSA)",
+                        "country":  "UAE",
+                        "summary":  "A UAE delegation led by Omran Sharaf, with cyber-security head Mohamed Al Kuwaiti, ATRC, the UAE Space Agency and Space42, met the State Department, Commerce and OSTP. Talks built on the A:5 export-control designation, the first for an Arab state. The $1.4tn figure is the March 2025 framework, not new money.",
+                        "bullets":  [
+                                        "HE Omran Sharaf, UAE Assistant Foreign Minister for Advanced Science and Technology Affairs, led a delegation including HE Dr. Mohamed Al Kuwaiti, ATRC, the UAE Space Agency and Space42",
+                                        "The delegation met Under Secretary Jacob Helberg, Ambassador Adam Cassady and OSTP Director Michael Kratsios across the State Department, Commerce Department and White House",
+                                        "Discussions built on the A:5 export control designation, the first ever granted to an Arab state, and the $1.4 trillion UAE-US technology investment framework agreed in March 2025"
+                                    ],
+                        "lenovo":  "ISG: A:5 eases US-origin GPU and server exports into UAE AI campuses, lowering licensing friction for ThinkSystem deliveries to G42, Core42 and Stargate UAE, and bearing on AI Express eligibility. Space42 and ATRC are prospects. Updates OPP-025.",
+                        "url":  "https://www.uae-embassy.org/news/uae-and-us-advance-technology-partnership-agenda-high-level-washington-engagements",
+                        "arabic":  "وفد إماراتي برئاسة عمران شرف يبحث في واشنطن أجندة الشراكة التقنية مع الولايات المتحدة، استناداً إلى تصنيف A:5 لضوابط التصدير، وهو الأول لدولة عربية.",
+                        "image":  "img/2026-10-04-07.jpg"
+                    },
+                    {
+                        "id":  "2026-10-04-08",
+                        "tier":  "Global",
+                        "pillar":  "Global tech in META",
+                        "band":  "RULE",
+                        "score":  9,
+                        "title":  "Huawei Highlights Continuous Innovation, Securing Competitive Edge Through Technological Breakthroughs",
+                        "source":  "EQS / Media OutReach",
+                        "published":  "3 Oct 2026 16:45 KSA (15:45 CEST)",
+                        "country":  "China",
+                        "summary":  "Huawei said it invested more than CNY1.8tn in R\u0026D over 2007-2025, more than 90 million devices run HarmonyOS 6/7, and its Kirin 9050 Pro with LogicFolding stacking lets the Mate 90 run a 30B MoE model on-device.",
+                        "bullets":  [
+                                        "Between 2007 and 2025, Huawei invested more than CNY1.8 trillion into R\u0026D, with investment rising from approximately 10% to over 20% of annual revenue",
+                                        "More than 90 million devices run HarmonyOS 6 and 7, expected to reach 100 million by year-end, with 450,000 apps and services available",
+                                        "Huawei\u0027s LogicFolding technology vertically stacks chip logic layers, enabling the Mate 90 series to run a 30B MoE on-device AI model"
+                                    ],
+                        "lenovo":  "IDG/ISG: a direct competitor in AI PCs, tablets and phones. In-house silicon and on-device AI are part of Huawei\u0027s pitch to META government buyers alongside Ascend. Feed into the counter-brief (OPP-048). Included by the Chinese rule.",
+                        "url":  "https://www.eqs-news.com/news/corporate/huawei-highlights-continuous-innovation-securing-competitive-edge-through-technological-breakthroughs/a81761db-a03f-41e2-8890-2f2720272aa6_en",
+                        "arabic":  "هواوي تستعرض استثمارات بحث وتطوير تفوق 1.8 تريليون يوان منذ 2007، وأكثر من 90 مليون جهاز على HarmonyOS، وتشغيل نموذج ذكاء اصطناعي 30B على الجهاز في Mate 90.",
+                        "image":  null
+                    },
+                    {
+                        "id":  "2026-10-04-09",
+                        "tier":  "Global",
+                        "pillar":  "Memory \u0026 components",
+                        "band":  "LOW",
+                        "score":  11,
+                        "title":  "Tesla CEO Elon Musk Cuts AI Chip Memory Amid Shortage",
+                        "source":  "Chosun Ilbo",
+                        "published":  "4 Oct 2026 09:23 KSA (06:23 UTC)",
+                        "country":  "Global",
+                        "summary":  "Musk said Tesla cut AI5 memory (later set at 96GB) and reduced the AI6 to 144GB to secure volume, leaving total memory at about two-thirds of the original. NVIDIA is reportedly weighing a cut to Rubin Ultra memory from 1TB to as low as 192GB. TrendForce says PC makers are reducing storage capacity and purchase volumes.",
+                        "bullets":  [
+                                        "Musk said Tesla reduced LPDDR in the AI5 chip and adjusted the AI6 to 144GB, a third less, to secure sufficient production volume for Optimus",
+                                        "On October 2, Musk said the AI5 chip\u0027s memory was adjusted to 96GB, with total memory capacity still expected at two-thirds of the original",
+                                        "NVIDIA is reportedly considering reducing the memory of its next-generation Rubin Ultra AI chip from 1TB to as low as 192GB"
+                                    ],
+                        "lenovo":  "IDG/ISG: even the largest buyers now trade memory capacity for volume, and PC demand is being destroyed by price. Pitch secured allocation at the stated spec and keep indexation clauses (OPP-045).",
+                        "url":  "https://www.chosun.com/english/industry-en/2026/10/04/ALC64IR5IZGLZHSMFRJGG33S2U/",
+                        "arabic":  "تسلا تخفض سعة الذاكرة في شريحتي AI5 وAI6 بسبب نقص الذاكرة، وتقارير عن دراسة إنفيديا خفض ذاكرة Rubin Ultra، مع تراجع سعات التخزين في الحواسيب.",
+                        "image":  "img/2026-10-04-09.jpg"
+                    },
+                    {
+                        "id":  "2026-10-04-10",
+                        "tier":  "Global",
+                        "pillar":  "Memory \u0026 components",
+                        "band":  "LOW",
+                        "score":  11,
+                        "title":  "NVIDIA DGX Spark 64GB Launched and Big 128GB GB10 Price Increases",
+                        "source":  "ServeTheHome",
+                        "published":  "3 Oct 2026 17:12 KSA (14:12 UTC)",
+                        "country":  "Global",
+                        "summary":  "DGX Spark 128GB/4TB rises from $3,999 at launch to $6,950. A new 64GB model at $4,999 ships 23 Oct from Acer, ASUS, Dell, Gigabyte, HP and MSI; two 64GB units can be clustered for about $8,000.",
+                        "bullets":  [
+                                        "The NVIDIA DGX Spark 128GB/4TB, which launched at $3999 about a year ago, now has a new price of $6950",
+                                        "The new DGX Spark 64GB is available from Acer, ASUS, Dell, Gigabyte, HP and MSI on Friday, Oct. 23, starting at $4,999",
+                                        "NVIDIA says two new 64GB models can be clustered for 128GB at around $8000"
+                                    ],
+                        "lenovo":  "IDG: GB10 workstation prices are up about 74% on memory. Lenovo is not listed among the 64GB launch partners while Dell and HP are. Confirm the ThinkStation PGX 64GB plan and META pricing before university and AI-developer buyers switch.",
+                        "url":  "https://www.servethehome.com/nvidia-dgx-spark-64gb-launched-and-big-128gb-gb10-price-increases/",
+                        "arabic":  "إنفيديا تطلق DGX Spark بسعة 64 غيغابايت بسعر 4,999 دولاراً، ورفع سعر طراز 128 غيغابايت إلى 6,950 دولاراً بسبب كلفة الذاكرة.",
+                        "image":  "img/2026-10-04-10.jpg"
+                    }
+                ]
+}

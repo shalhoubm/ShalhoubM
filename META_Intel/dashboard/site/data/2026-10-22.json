@@ -1,0 +1,413 @@
+{
+    "date":  "2026-10-22",
+    "window":  "Wed 21 Oct 2026 12:18 → Thu 22 Oct 2026 12:18 KSA (UTC+3), i.e. 21 Oct 09:18 → 22 Oct 09:18 UTC.",
+    "headline":  "HUMAIN named its first compute customer: Nebius takes up to 50 MW of the first 100 MW at Oxagon, NEOM, live from Q4 2027, with no server OEM named. At WETEX, DEWA signed Huawei through Moro Hub for ICT, data centres and servers, and Abu Dhabi\u0027s Aleria announced a 60 MW, 14,000-GPU Rubin site plus a 10 MW modular build with Hyperfusion. DDR5 spot rose to $61.100 and Gartner expects memflation through 2027, while Micron\u0027s Taoyuan strike fizzled. Houthi strikes on Dammam airport and Shaybah, and a US order for some diplomats to leave, froze corporate travel to Riyadh.",
+    "lenovo_read":  "Gulf AI buyers are signing tenants and sites first and choosing hardware later, so this quarter is the window to get onto the HUMAIN/DataVolt, Aleria and Hyperfusion bills of materials before Dell\u0027s GTC Berlin line-up does. Huawei\u0027s DEWA win shows Lenovo must be present at Gulf shows with a trusted sovereign stack. In KSA, plan for remote and one-to-one engagement while the security situation lasts.",
+    "pillars":  {
+                    "dc":  "4 scored: HUMAIN-DataVolt-Nebius 50 MW at Oxagon (OEM open), Aleria 60 MW Rubin and Aleria-Hyperfusion 10 MW modular (UAE), VivoPower-Open Innovation AI 1 GW heads of agreement. HUMAIN-Nvidia expansion held (no primary).",
+                    "memory":  "3 scored: Micron Taoyuan strike (small), Micron 4F2 roadmap, Seoul chip sell-off; Gartner memflation in Tier 3. DRAMeXchange 22 Oct: DDR5 16Gb $61.100 (+0.38%).",
+                    "deals":  "6 scored: DEWA-Huawei/Nozomi/Syskey, Zain-Ooredoo tower JV first close, OTEC-Publicis Sapient, Bahr Al Arab-KAU, Azm-NCGR, VivoPower-Open Innovation AI. No META round of $20M or more.",
+                    "global":  "Samsung (Lee in UAE), Dell (GTC Berlin AI Factory), Meta (Q3 capex), Lenovo (SentinelOne ThinkShield). Chinese rule: Huawei (DEWA, Egypt pathology) scored; HONOR, Xiaomi, vivo, OPPO, Haier status lines."
+                },
+    "stories":  [
+                    {
+                        "id":  "2026-10-22-01",
+                        "tier":  "KSA",
+                        "pillar":  "Data centres",
+                        "band":  "HIGH",
+                        "score":  17,
+                        "title":  "HUMAIN and DataVolt sign framework agreement with Nebius for large-scale campus in Saudi Arabia",
+                        "source":  "W.Media (NEOM newsroom primary)",
+                        "published":  "21 Oct 2026, 17:59 KSA",
+                        "country":  "Saudi Arabia",
+                        "summary":  "HUMAIN, DataVolt and Nebius signed a preliminary framework making Nebius anchor customer for up to 50 MW of the first 100 MW at the 360 MW Oxagon campus, operational in phases from Q4 2027. Signed at GTC Berlin; no value; Tareq Amin calls Nebius HUMAIN\u0027s first customer.",
+                        "bullets":  [
+                                        "Nebius would be an anchor customer, with the contemplated offtake representing up to 50 MW",
+                                        "HUMAIN and DataVolt had announced a partnership to develop 100 MW of the 360 MW AI-ready data center at Oxagon",
+                                        "The proposed capacity allocation is expected to become operational in phases from Q4 2027, and the agreement was signed on the sidelines of NVIDIA\u0027s GTC Berlin conference"
+                                    ],
+                        "lenovo":  "First named HUMAIN tenant; compute is NVIDIA-powered but the server, storage and cooling OEM is undisclosed, so this is an open ISG opportunity via Nebius, DataVolt and MIS.",
+                        "url":  "https://w.media/humain-and-datavolt-sign-framework-agreement-with-nebius/",
+                        "arabic":  "وقّعت هيوماين وداتافولت إطاراً أولياً مع نيبيوس لتكون عميلاً رئيسياً بسعة تصل إلى 50 ميغاواط في حرم أوكساجون بنيوم، تبدأ مرحلياً من الربع الرابع 2027، دون الإفصاح عن مورد الخوادم.",
+                        "image":  "img/2026-10-22-01.jpg"
+                    },
+                    {
+                        "id":  "2026-10-22-02",
+                        "tier":  "KSA",
+                        "pillar":  "Deals \u0026 MoUs",
+                        "band":  "LOW",
+                        "score":  9,
+                        "title":  "\"بحر العرب\" تعلن ترسية مشروع مع جامعة الملك عبدالعزيز بقيمة 13.8 مليون ريال",
+                        "source":  "Mubasher",
+                        "published":  "21 Oct 2026, 16:04 KSA",
+                        "country":  "Saudi Arabia",
+                        "summary":  "Bahr Al Arab Information Systems won a 3-year SAR 13.82M managed-services contract to operate and maintain King Abdulaziz University\u0027s e-systems; signing expected 19 Nov 2026.",
+                        "bullets":  [
+                                        "بلغت القيمة الإجمالية للمشروع 13.82 مليون ريال سعودي شاملة ضريبة القيمة المضافة",
+                                        "يشمل المشروع خدمات مدارة لتشغيل وصيانة الأنظمة الإلكترونية لجامعة الملك عبدالعزيز ويمتد على مدار 3 سنوات",
+                                        "من المتوقع توقيع العقد في 19 نوفمبر 2026"
+                                    ],
+                        "lenovo":  "Services-led; Bahr Al Arab is a listed Saudi SI to add to the channel map for university infrastructure refreshes.",
+                        "url":  "https://www.mubasher.info/news/4688377/",
+                        "arabic":  "فازت بحر العرب لأنظمة المعلومات بمشروع خدمات مدارة لتشغيل وصيانة الأنظمة الإلكترونية لجامعة الملك عبدالعزيز لمدة 3 سنوات بقيمة 13.82 مليون ريال، ويتوقع توقيع العقد في 19 نوفمبر 2026.",
+                        "image":  "img/2026-10-22-02.jpg"
+                    },
+                    {
+                        "id":  "2026-10-22-03",
+                        "tier":  "KSA",
+                        "pillar":  "Deals \u0026 MoUs",
+                        "band":  "LOW",
+                        "score":  9,
+                        "title":  "عزم: ترسية مشروع مع المركز الوطني لنظم الموارد الحكومية بقيمة 14.45 مليون ريال",
+                        "source":  "Argaam",
+                        "published":  "22 Oct 2026, 08:34 KSA",
+                        "country":  "Saudi Arabia",
+                        "summary":  "Azm won a 36-month SAR 14.45M beneficiary-support project from the National Center for Government Resource Systems; award dated 7 Oct, notice received 21 Oct.",
+                        "bullets":  [
+                                        "رست على عزم السعودية للاتصالات وتقنية المعلومات مشروع دعم أعمال المستفيدين لدى المركز الوطني لنظم الموارد الحكومية بقيمة 14.45 مليون ريال",
+                                        "مدة المشروع 36 شهراً، وتاريخ الترسية 7 أكتوبر 2026، واستلمت الشركة إشعار الترسية نهاية يوم الأربعاء 21 أكتوبر 2026",
+                                        "يشمل نطاق العمل دراسة الفجوات وتحليلها وتطوير المحتوى الإرشادي وتقديم خدمات دعم المستفيدين في استخدام خدمات الأنظمة"
+                                    ],
+                        "lenovo":  "Services only; Azm is a candidate SSG/channel partner for government systems work.",
+                        "url":  "https://www.argaam.com/ar/article/articledetail/id/1946143",
+                        "arabic":  "حصلت عزم السعودية على مشروع دعم أعمال المستفيدين من المركز الوطني لنظم الموارد الحكومية بقيمة 14.45 مليون ريال لمدة 36 شهراً.",
+                        "image":  "img/2026-10-22-03.jpg"
+                    },
+                    {
+                        "id":  "2026-10-22-04",
+                        "tier":  "GCC/MEA",
+                        "pillar":  "Deals \u0026 MoUs",
+                        "band":  "MONITOR",
+                        "score":  14,
+                        "title":  "DEWA signs three agreements with global partners during WETEX 2026",
+                        "source":  "WAM",
+                        "published":  "21 Oct 2026, 18:46 KSA",
+                        "country":  "UAE",
+                        "summary":  "Through Moro Hub, DEWA signed Huawei for hardware, software and support across ICT, networks, data centres, digital substations and cyber security, plus Nozomi Networks (OT security licences) and Syskey Softlabs (OT monitoring). No values.",
+                        "bullets":  [
+                                        "The agreements were signed by Hussain Lootah, Executive Vice President of Transmission Power at DEWA, in the presence of Saeed Mohammed Al Tayer, and concluded through Moro Hub, a subsidiary of Digital DEWA",
+                                        "The agreement with Huawei covers hardware and software products, support and value-added services across ICT infrastructure, networks, data centres, digital substations and cyber security, including support for existing routers, servers and switches",
+                                        "The agreement with Nozomi Networks provides a unified framework for managing cybersecurity licences through the Nozomi Vantage platform, while Syskey Softlabs will provide OT log management, asset performance monitoring and network monitoring"
+                                    ],
+                        "lenovo":  "Huawei is now DEWA\u0027s framework supplier for data centres and servers, a direct ISG loss of position; counter with a trusted non-Huawei stack for Moro Hub\u0027s regulated and AI workloads.",
+                        "url":  "https://www.wam.ae/en/article/c2us57j-dewa-signs-three-agreements-with-global-partners",
+                        "arabic":  "وقّعت هيئة كهرباء ومياه دبي عبر مورو هب اتفاقية مع هواوي لتوريد الأجهزة والبرمجيات والدعم لبنيتها التحتية للاتصالات والشبكات ومراكز البيانات والخوادم، إلى جانب اتفاقيتين مع نوزومي نتوركس وسيسكي.",
+                        "image":  "img/2026-10-22-04.jpg"
+                    },
+                    {
+                        "id":  "2026-10-22-05",
+                        "tier":  "GCC/MEA",
+                        "pillar":  "Data centres",
+                        "band":  "MONITOR",
+                        "score":  13,
+                        "title":  "Aleria Expands UAE Sovereign AI Capacity with 14,000 NVIDIA Rubin GPUs",
+                        "source":  "EIN Presswire",
+                        "published":  "21 Oct 2026, 18:34 KSA",
+                        "country":  "UAE",
+                        "summary":  "Aleria is deploying about 14,000 Rubin GPUs, 6,000 Groq 3 LPX accelerators and 8,000 Vera CPUs on Vera Rubin NVL72 at a dedicated 60 MW UAE site with DDN storage. No go-live date or customers.",
+                        "bullets":  [
+                                        "Aleria, an Abu Dhabi-based full-stack AI company and NVIDIA Cloud Partner, is deploying about 14,000 NVIDIA Rubin GPUs in a dedicated 60MW data center in the UAE",
+                                        "The deployment also includes 6,000 NVIDIA Groq 3 LPX accelerators and 8,000 NVIDIA Vera CPUs, with NVIDIA Vera Rubin NVL72 systems as the core compute foundation",
+                                        "Multiple petabytes of DDN data storage will deliver over 17 TB/s of aggregate read throughput"
+                                    ],
+                        "lenovo":  "Server OEM undisclosed: open ISG opportunity at a 60 MW UAE GPU site.",
+                        "url":  "https://www.einpresswire.com/article/951258220/aleria-expands-uae-sovereign-ai-capacity-with-14-000-nvidia-rubin-gpus",
+                        "arabic":  "أعلنت ألِيريا في أبوظبي نشر نحو 14 ألف معالج رسومي من إنفيديا روبين في مركز بيانات مخصص بقدرة 60 ميغاواط، وبناء مركز معياري بقدرة 10 ميغاواط مع هايبرفيوجن بتبريد سائل يدخل الخدمة في الربع الأول 2027.",
+                        "image":  null
+                    },
+                    {
+                        "id":  "2026-10-22-06",
+                        "tier":  "GCC/MEA",
+                        "pillar":  "Data centres",
+                        "band":  "MONITOR",
+                        "score":  13,
+                        "title":  "Aleria and Hyperfusion to Build Modular AI Data Center Designed with NVIDIA Vera Rubin in Abu Dhabi",
+                        "source":  "EIN Presswire",
+                        "published":  "21 Oct 2026, 19:30 KSA",
+                        "country":  "UAE",
+                        "summary":  "A 10 MW modular AI DC in Abu Dhabi for Vera Rubin, racks above 200 kW, direct-to-chip liquid cooling with a 45°C warm-water loop; under construction, service entry targeted Q1 2027.",
+                        "bullets":  [
+                                        "The 10MW modular AI data center in Abu Dhabi is designed for the NVIDIA Vera Rubin platform, with rack densities above 200kW",
+                                        "It uses direct-to-chip liquid cooling and a 45°C warm-water loop designed for Gulf conditions",
+                                        "The facility is under construction, with service entry targeted for Q1 2027"
+                                    ],
+                        "lenovo":  "OEM undisclosed and a warm-water design that suits Neptune; links Hyperfusion OPP-096.",
+                        "url":  "https://www.einpresswire.com/article/951268598/aleria-and-hyperfusion-to-build-modular-ai-data-center-designed-with-nvidia-vera-rubin-in-abu-dhabi",
+                        "arabic":  "أعلنت ألِيريا في أبوظبي نشر نحو 14 ألف معالج رسومي من إنفيديا روبين في مركز بيانات مخصص بقدرة 60 ميغاواط، وبناء مركز معياري بقدرة 10 ميغاواط مع هايبرفيوجن بتبريد سائل يدخل الخدمة في الربع الأول 2027.",
+                        "image":  null
+                    },
+                    {
+                        "id":  "2026-10-22-07",
+                        "tier":  "GCC/MEA",
+                        "pillar":  "Deals \u0026 MoUs",
+                        "band":  "MONITOR",
+                        "score":  12,
+                        "title":  "Zain and Ooredoo Combine 4,000 Towers in Regional Infrastructure Deal",
+                        "source":  "TechAfrica News",
+                        "published":  "22 Oct 2026, 08:57 KSA",
+                        "country":  "Kuwait / Qatar",
+                        "summary":  "First closing of the 50:50 Zain-Ooredoo regional tower platform combining Zain Kuwait (ITK) and Ooredoo Qatar (Al Abraj), about 4,000 towers; more portfolios to follow subject to approvals. No value.",
+                        "bullets":  [
+                                        "Zain Group and Ooredoo announced the first closing of their regional tower platform, jointly owned with a 50% stake each",
+                                        "The platform combines Zain Kuwait\u0027s tower assets (ITK) and Ooredoo Qatar\u0027s tower assets (Al Abraj), approximately 4,000 towers",
+                                        "Additional tower portfolios will be added over time, subject to closing conditions and regulatory and other approvals, while each company keeps its active telecom infrastructure"
+                                    ],
+                        "lenovo":  "A GCC TowerCo with an infrastructure-as-a-service model is a natural host for ThinkEdge compute at the tower, as with TAWAL (OPP-097).",
+                        "url":  "https://techafricanews.com/2026/10/22/zain-ooredoo-combine-4000-towers-regional-infrastructure-deal/",
+                        "arabic":  "أعلنت زين وأريد الإغلاق الأول لمنصة الأبراج الإقليمية المملوكة مناصفة، بضم نحو 4,000 برج من زين الكويت وأريد قطر، مع إضافة محافظ أخرى لاحقاً بعد الموافقات.",
+                        "image":  "img/2026-10-22-07.jpg"
+                    },
+                    {
+                        "id":  "2026-10-22-08",
+                        "tier":  "GCC/MEA",
+                        "pillar":  "AI \u0026 markets",
+                        "band":  "LOW",
+                        "score":  11,
+                        "title":  "AI power demand underestimated, say 81% of energy executives",
+                        "source":  "The National",
+                        "published":  "22 Oct 2026, 10:15 KSA",
+                        "country":  "UAE",
+                        "summary":  "ADIPEC\u0027s Global Energy Report 2026 (Kekst CNC, 1,832 decision-makers, 78 countries): 81% expect AI-driven power demand to exceed forecasts; 43% say tech and AI firms gain most influence. ADIPEC 2-5 Nov.",
+                        "bullets":  [
+                                        "Adipec\u0027s Global Energy Report 2026, conducted by Kekst CNC, polled 1,832 energy industry decision-makers across 78 countries",
+                                        "81% expect AI-driven electricity consumption to exceed existing projections, and 32% expect significantly higher demand",
+                                        "43% say technology and AI companies will gain the most influence over the energy sector, and Adipec takes place at Adnec Centre Abu Dhabi from November 2 to 5"
+                                    ],
+                        "lenovo":  "Power is the Gulf AI constraint: supports Neptune liquid cooling and performance-per-watt messaging at ADIPEC.",
+                        "url":  "https://www.thenationalnews.com/business/energy/2026/10/22/ai-power-demand-underestimated-in-current-forecasts-81-of-energy-executives-say/",
+                        "arabic":  "كشف تقرير الطاقة العالمي لمعرض أديبك 2026 أن 81% من قادة قطاع الطاقة يتوقعون أن يتجاوز الطلب على الكهرباء بسبب الذكاء الاصطناعي التوقعات الحالية.",
+                        "image":  "img/2026-10-22-08.jpg"
+                    },
+                    {
+                        "id":  "2026-10-22-09",
+                        "tier":  "GCC/MEA",
+                        "pillar":  "Data centres",
+                        "band":  "LOW",
+                        "score":  10,
+                        "title":  "VivoPower, Open Innovation AI to develop sovereign AI data centers across Europe, Gulf and Asia",
+                        "source":  "Proactive Investors",
+                        "published":  "21 Oct 2026, 16:58 KSA",
+                        "country":  "UAE / GCC",
+                        "summary":  "VivoPower and Abu Dhabi\u0027s Open Innovation AI signed a heads of agreement targeting at least 1 GW of sovereign AI DCs over three years across the Nordics, Europe, the GCC and Asia. Projects need separate agreements; no value.",
+                        "bullets":  [
+                                        "VivoPower and UAE-based Open Innovation AI signed a definitive heads of agreement targeting at least 1 gigawatt of sovereign AI data centers over the next three years",
+                                        "Target regions are the Nordics, mainland Europe, the GCC region and selected Asian countries",
+                                        "VivoPower will handle site development, power procurement and facility operations, while Open Innovation AI provides orchestration, AI operations and the security layer"
+                                    ],
+                        "lenovo":  "A target, not a build; hardware undisclosed. Watch for the first GCC project.",
+                        "url":  "https://www.proactiveinvestors.com/companies/news/1100482/vivopower-open-innovation-ai-to-develop-sovereign-ai-data-centers-across-europe-gulf-and-asia-1100482.html",
+                        "arabic":  "وقّعت فيفو باور وأوبن إنوفيشن إيه آي اتفاق إطار لتطوير مراكز بيانات سيادية للذكاء الاصطناعي بقدرة لا تقل عن 1 غيغاواط خلال ثلاث سنوات في دول الشمال الأوروبي وأوروبا والخليج وآسيا.",
+                        "image":  "img/2026-10-22-09.jpg"
+                    },
+                    {
+                        "id":  "2026-10-22-10",
+                        "tier":  "GCC/MEA",
+                        "pillar":  "Deals \u0026 MoUs",
+                        "band":  "LOW",
+                        "score":  9,
+                        "title":  "أوتك وبابليسيس سابينت تبحثان شراكة لدعم تبني الذكاء الاصطناعي المؤسسي في المنطقة",
+                        "source":  "Mubasher",
+                        "published":  "21 Oct 2026, 17:41 KSA",
+                        "country":  "Oman",
+                        "summary":  "OTEC (Omantel\u0027s technology arm) and Publicis Sapient signed an MoU to explore enterprise AI adoption in Oman and MEA: solution design, innovation workshops and joint go-to-market.",
+                        "bullets":  [
+                                        "وقّعت أوتك، الذراع التقنية التابعة لعُمانتل، وبابليسيس سابينت مذكرة تفاهم لدراسة فرص التعاون المشترك",
+                                        "يهدف التعاون إلى تسريع التحول الرقمي وتوسيع استخدام الذكاء الاصطناعي في سلطنة عُمان ومنطقة الشرق الأوسط وأفريقيا",
+                                        "تشمل مجالات التعاون المحتملة تصميم الحلول التقنية وتنظيم ورش عمل للابتكار وإطلاق مبادرات تسويقية مشتركة"
+                                    ],
+                        "lenovo":  "OTEC is Omantel\u0027s enterprise ICT channel; a potential ISG/SSG partner in Oman.",
+                        "url":  "https://www.mubasher.info/news/4688838/",
+                        "arabic":  "وقّعت أوتك الذراع التقنية لعُمانتل مذكرة تفاهم مع بابليسيس سابينت لدراسة التعاون في تسريع تبني الذكاء الاصطناعي المؤسسي في عُمان والشرق الأوسط وأفريقيا.",
+                        "image":  "img/2026-10-22-10.jpg"
+                    },
+                    {
+                        "id":  "2026-10-22-11",
+                        "tier":  "GCC/MEA",
+                        "pillar":  "Global tech in META",
+                        "band":  "LOW",
+                        "score":  9,
+                        "title":  "Samsung\u0027s Lee visits UAE power plant",
+                        "source":  "Aju Press",
+                        "published":  "22 Oct 2026, 08:00 KSA",
+                        "country":  "UAE",
+                        "summary":  "Samsung Chairman Lee Jae-yong toured the Al Dhafra power plant site in Abu Dhabi on 21 Oct and met Samsung C\u0026T and Samsung E\u0026A executives as Samsung explores AI data centre and energy projects. No deal.",
+                        "bullets":  [
+                                        "Lee Jae-yong toured the Al Dhafra gas-fired power plant construction site in Abu Dhabi on October 21",
+                                        "Samsung C\u0026T is building the plant in a consortium with local contractor Trojan General Contracting",
+                                        "Lee met executives from Samsung C\u0026T and Samsung E\u0026A as Samsung explores opportunities in AI data centers and energy infrastructure in the Middle East"
+                                    ],
+                        "lenovo":  "Samsung\u0027s group play (power, EPC, memory) could bundle into Gulf AI campuses; watch for a DC EPC award.",
+                        "url":  "https://m.ajupress.com/amp/20261022162127956",
+                        "arabic":  "زار رئيس سامسونج لي جاي يونغ موقع محطة الظفرة للطاقة في أبوظبي، والتقى مسؤولي سامسونج سي آند تي وسامسونج إي آند إيه لبحث مشاريع جديدة في الطاقة ومراكز بيانات الذكاء الاصطناعي.",
+                        "image":  "img/2026-10-22-11.jpg"
+                    },
+                    {
+                        "id":  "2026-10-22-12",
+                        "tier":  "GCC/MEA",
+                        "pillar":  "Global tech in META",
+                        "band":  "RULE",
+                        "score":  7,
+                        "title":  "Egypt, Huawei discuss creating national AI-powered digital pathology network",
+                        "source":  "Ahram Online",
+                        "published":  "22 Oct 2026, 11:04 KSA",
+                        "country":  "Egypt",
+                        "summary":  "Egypt\u0027s health minister held talks with Huawei on a national AI-powered digital pathology and remote-diagnosis network linking hospitals and oncology centres. Talks only; no contract.",
+                        "bullets":  [
+                                        "Health Minister Khaled Abdel-Ghaffar held talks with Huawei representatives on a national digital pathology and remote diagnosis network powered by AI",
+                                        "The network aims to digitise tissue and cell examinations using AI and allow Egyptian specialists to prepare pathology reports remotely",
+                                        "The project aims to establish an integrated network for archiving and sharing digital slides between hospitals and oncology centres in different governorates"
+                                    ],
+                        "lenovo":  "Huawei is shaping Egypt\u0027s health-AI architecture pre-tender; overlap with ISG storage and inference and SSG integration.",
+                        "url":  "https://english.ahram.org.eg/NewsContentP/1/580589/Egypt/Egypt,-Huawei-discuss-creating-national-AIpowered-.aspx",
+                        "arabic":  "بحث وزير الصحة المصري مع هواوي إنشاء شبكة وطنية للباثولوجيا الرقمية والتشخيص عن بُعد بالذكاء الاصطناعي تربط المستشفيات ومراكز الأورام في المحافظات.",
+                        "image":  null
+                    },
+                    {
+                        "id":  "2026-10-22-13",
+                        "tier":  "Global",
+                        "pillar":  "Memory \u0026 components",
+                        "band":  "MONITOR",
+                        "score":  13,
+                        "title":  "Gartner Forecasts Worldwide IT Spending to Grow 15% in 2027, Totaling $7.35 Trillion",
+                        "source":  "Gartner",
+                        "published":  "21 Oct 2026, 15:30 KSA",
+                        "country":  "Global",
+                        "summary":  "Gartner forecasts 2027 IT spending of $7.35tn (+15%), with Data Center Systems +55.5% and Devices +8.1%; memory prices have more than doubled in 12 months and memflation should persist through 2027 (John-David Lovelock).",
+                        "bullets":  [
+                                        "Worldwide IT spending is expected to reach $7.35 trillion in 2027, up 15% from 2026",
+                                        "Data center systems spending is forecast at $879 billion in 2026 (up 73.8%) and $1,366 billion in 2027 (up 55.5%), while devices reach $916 billion in 2027 (up 8.1%)",
+                                        "Over the past 12 months memory prices have more than doubled, and John-David Lovelock said the memflation effect is expected to persist through 2027"
+                                    ],
+                        "lenovo":  "ISG demand is growing far faster than devices and IDG is ASP-led; keep price protection and size Gulf AI capacity for an upward-revising market.",
+                        "url":  "https://www.gartner.com/en/newsroom/press-releases/2026-10-21-gartner-forecasts-worldwide-it-spending-to-grow-15-percent-in-2027-totaling-7-point-35-trillion",
+                        "arabic":  "توقعت غارتنر أن يبلغ الإنفاق العالمي على تقنية المعلومات 7.35 تريليون دولار في 2027 بنمو 15%، مع نمو أنظمة مراكز البيانات 55.5%، واستمرار تضخم أسعار الذاكرة حتى 2027.",
+                        "image":  null
+                    },
+                    {
+                        "id":  "2026-10-22-14",
+                        "tier":  "Global",
+                        "pillar":  "Global tech in META",
+                        "band":  "LOW",
+                        "score":  10,
+                        "title":  "Dell AI Factory with NVIDIA Adds a 256-CPU Vera Rack, a Groq 3 LPU Inference Rack, and a 64GB GB10 Desktop",
+                        "source":  "StorageReview",
+                        "published":  "21 Oct 2026, 19:16 KSA",
+                        "country":  "Global",
+                        "summary":  "At GTC Berlin Dell launched the PowerEdge M9882 Vera rack, R8822 (shipping October), XE9810 Groq LPU rack, a DSX POD modular DC for early 2027 and a 64GB GB10 desktop.",
+                        "bullets":  [
+                                        "The PowerEdge M9882 is a 48U rack with 256 NVIDIA Vera CPUs, available in Q1 CY27",
+                                        "The PowerEdge XE9810 is Dell\u0027s first Groq LPU rack-scale inference system, available in Q1 CY27, and the air-cooled PowerEdge R8822 ships in October 2026",
+                                        "A Dell Modular Data Center with NVIDIA DSX POD is slated for early 2027, and a 64GB Dell Pro Precision with GB10 arrives October 23, 2026"
+                                    ],
+                        "lenovo":  "Dell is first with a containerised DSX POD and a shipping Vera server, exactly what Gulf fast-capacity buyers will see; Lenovo needs its DSX POD and Vera dates in META hands now.",
+                        "url":  "https://www.storagereview.com/news/dell-ai-factory-nvidia-poweredge-m9882-vera-cpu-rack-xe9810-groq-3-gtc-berlin",
+                        "arabic":  "أطلقت ديل في مؤتمر GTC برلين خادم باور إيدج M9882 بـ256 معالج فيرا ورف استدلال بمعالجات Groq 3 ومركز بيانات معيارياً بتصميم DSX POD مطلع 2027.",
+                        "image":  "img/2026-10-22-14.jpg"
+                    },
+                    {
+                        "id":  "2026-10-22-15",
+                        "tier":  "Global",
+                        "pillar":  "Global tech in META",
+                        "band":  "RULE",
+                        "score":  8,
+                        "title":  "SentinelOne and Lenovo Expand Partnership to Bring AI Security \u0026 Governance to the ThinkShield Security Portfolio",
+                        "source":  "SentinelOne / Business Wire",
+                        "published":  "21 Oct 2026, 16:30 KSA",
+                        "country":  "Global",
+                        "summary":  "SentinelOne Prompt Security joins Lenovo ThinkShield, giving visibility and control over AI tools and agents on Lenovo endpoints.",
+                        "bullets":  [
+                                        "The expanded partnership brings SentinelOne Prompt Security to the Lenovo ThinkShield portfolio, building on the companies\u0027 existing EDR collaboration",
+                                        "Security teams gain visibility into and control over AI agents and AI use on Lenovo ThinkShield endpoints",
+                                        "Nima Baiati of Lenovo said SentinelOne Prompt Security adds another layer of trust into the ThinkShield ecosystem"
+                                    ],
+                        "lenovo":  "Ready message for KSA government and BFSI accounts worried about AI data leakage; bundle into AI-PC fleet offers.",
+                        "url":  "https://www.sentinelone.com/press/sentinelone-and-lenovo-expand-partnership-to-bring-ai-security-governance-to-the-thinkshield-security-portfolio/",
+                        "arabic":  "وسّعت سنتينل وان ولينوفو شراكتهما بإضافة حل Prompt Security إلى منظومة ThinkShield لتوفير الرؤية والتحكم في استخدام أدوات ووكلاء الذكاء الاصطناعي على أجهزة لينوفو.",
+                        "image":  null
+                    },
+                    {
+                        "id":  "2026-10-22-16",
+                        "tier":  "Global",
+                        "pillar":  "AI \u0026 markets",
+                        "band":  "LOW",
+                        "score":  9,
+                        "title":  "Meta Reports Third Quarter 2026 Results",
+                        "source":  "Meta (SEC 8-K)",
+                        "published":  "21 Oct 2026, about 23:05 KSA",
+                        "country":  "Global",
+                        "summary":  "Q3 revenue $64.60bn (+26%), capex $34.91bn; 2026 capex guidance narrowed to $135-145bn; Q4 revenue guidance $73-76bn.",
+                        "bullets":  [
+                                        "Revenue was $64.60 billion, an increase of 26% year-over-year, and net income was $9.86 billion including a $9.89 billion charge",
+                                        "Capital expenditures, including principal payments on finance leases, were $34.91 billion in the third quarter",
+                                        "2026 capital expenditures are expected in the range of $135-145 billion, and fourth quarter revenue is expected in the range of $73-76 billion"
+                                    ],
+                        "lenovo":  "Hyperscale capex is holding, keeping GPU and memory allocation tight for Gulf buyers.",
+                        "url":  "https://www.sec.gov/Archives/edgar/data/0001326801/000162828026066700/meta-09302026xexhibit991.htm",
+                        "arabic":  "أعلنت ميتا إيرادات الربع الثالث 2026 بقيمة 64.6 مليار دولار بنمو 26%، وإنفاقاً رأسمالياً 34.9 مليار دولار، مع تضييق توقعات إنفاق 2026 إلى 135–145 مليار دولار.",
+                        "image":  null
+                    },
+                    {
+                        "id":  "2026-10-22-17",
+                        "tier":  "Global",
+                        "pillar":  "Memory \u0026 components",
+                        "band":  "LOW",
+                        "score":  9,
+                        "title":  "Handful of Micron workers strike in Taiwan",
+                        "source":  "AFP via Free Malaysia Today",
+                        "published":  "22 Oct 2026, 08:00 KSA",
+                        "country":  "Taiwan",
+                        "summary":  "The Taoyuan union\u0027s one-day strike went ahead but AFP saw only five strikers against more than 2,000 planned; talks continue Friday.",
+                        "bullets":  [
+                                        "Five striking workers were seen outside the Taoyuan plant, where more than 2,000 employees had planned to stop work",
+                                        "The Taoyuan union is demanding a one-off bonus of 83 months\u0027 salary and a permanent system sending 15% of operating profits to quarterly worker bonuses",
+                                        "Talks with the company were set to continue on Friday, and Micron said it remains eager to maintain continuous communication and dialogue with the union"
+                                    ],
+                        "lenovo":  "Micron Taiwan supply risk has faded; price, not supply interruption, drives IDG/ISG deal desks (OPP-088).",
+                        "url":  "https://www.freemalaysiatoday.com/category/business/2026/10/22/handful-of-micron-workers-strike-in-taiwan",
+                        "arabic":  "نُفّذ إضراب نقابة تاويوان في مصنع ميكرون بتايوان ليوم واحد بمشاركة محدودة لم تتجاوز خمسة عمال أمام المصنع، مع استئناف المفاوضات يوم الجمعة.",
+                        "image":  "img/2026-10-22-17.jpg"
+                    },
+                    {
+                        "id":  "2026-10-22-18",
+                        "tier":  "Global",
+                        "pillar":  "Memory \u0026 components",
+                        "band":  "RULE",
+                        "score":  8,
+                        "title":  "[News] Micron Reportedly Rules Out 4F² DRAM Scaling, Backs 6F² and 3D DRAM in Next-Gen Memory Roadmap",
+                        "source":  "TrendForce News",
+                        "published":  "22 Oct 2026 (Nikkei first 21 Oct 20:27 KSA)",
+                        "country":  "Global",
+                        "summary":  "Micron CTO Scott DeBoer: 4F2 not on the roadmap; 1-delta in volume 2H27 with DDR6, LPDDR6, HBM5 and vHBM; G11 NAND above 400 layers ramps 2H27.",
+                        "bullets":  [
+                                        "Scott DeBoer, Micron\u0027s president and chief technology and products officer, said 4F² is not on the roadmap right now",
+                                        "The 1δ node is expected in volume production in 2H 2027 with a mid-20% bit-density gain, supporting DDR6, LPDDR6, HBM5 and vertical HBM",
+                                        "G11 NAND ramps in 2H 2027 with more than 400 layers and twice the bit density of G9"
+                                    ],
+                        "lenovo":  "No new-node relief before 2H27, consistent with memory inflation through 2027; note DDR6 and 1TB RDIMM timing for 2028 server roadmaps.",
+                        "url":  "https://www.trendforce.com/news/2026/10/22/news-micron-reportedly-rules-out-4f%c2%b2-dram-scaling-backs-6f%c2%b2-and-3d-dram-in-next-gen-memory-roadmap/",
+                        "arabic":  "أكدت ميكرون أن تقنية 4F² ليست ضمن خارطة طريقها، وأنها ستطور ذاكرة 6F² وثلاثية الأبعاد، مع إنتاج عقدة 1δ وذاكرة NAND G11 بأكثر من 400 طبقة في النصف الثاني من 2027.",
+                        "image":  "img/2026-10-22-18.jpg"
+                    },
+                    {
+                        "id":  "2026-10-22-19",
+                        "tier":  "Global",
+                        "pillar":  "Memory \u0026 components",
+                        "band":  "RULE",
+                        "score":  7,
+                        "title":  "Seoul stocks slide over 3% on profit-taking amid persistent AI woes",
+                        "source":  "Korea Herald / Yonhap",
+                        "published":  "22 Oct 2026, 10:24 KSA",
+                        "country":  "South Korea",
+                        "summary":  "Kospi -3.52%; Samsung -4.03%, SK hynix -5.49%; Daishin\u0027s Lee Kyoung-min cites AI profitability worries after Meta and Tesla, and the end of SK hynix\u0027s buyback.",
+                        "bullets":  [
+                                        "The Kospi fell 201.8 points, or 3.52 percent, to 5,533.77",
+                                        "Samsung Electronics dropped 4.03 percent to 214,500 won and SK hynix fell 5.49 percent to 1.22 million won",
+                                        "Daishin Securities analyst Lee Kyoung-min said Meta and Tesla results did not ease worries about profitability amid heavy AI investment, and the end of SK hynix\u0027s share buyback removed support"
+                                    ],
+                        "lenovo":  "Memory equities wobble while prices keep rising; do not present share falls as a price-cut signal to customers.",
+                        "url":  "https://www.koreaherald.com/article/10911736",
+                        "arabic":  "تراجع مؤشر كوسبي 3.52% مع هبوط سامسونج 4.03% وإس كيه هاينكس 5.49% وسط مخاوف بشأن ربحية استثمارات الذكاء الاصطناعي وانتهاء برنامج إعادة شراء أسهم هاينكس.",
+                        "image":  "img/2026-10-22-19.jpg"
+                    }
+                ]
+}

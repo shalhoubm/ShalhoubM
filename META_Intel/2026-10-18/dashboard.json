@@ -1,0 +1,276 @@
+{
+  "date": "2026-10-18",
+  "window": "Sat 17 Oct 2026 09:38 → Sun 18 Oct 2026 09:38 KSA (UTC+3), i.e. 17 Oct 06:38 → 18 Oct 06:38 UTC.",
+  "headline": "A quiet Saudi weekend under continued Houthi fire produced one KSA signal that matters: HUMAIN's roughly USD 1bn EPC tender for a 100 MW AI data centre in Al-Saad, Riyadh, built for 240-250 kW liquid-cooled GPU racks, with bids due 8 November and no hardware vendor named. CEO Tareq Amin reaffirmed 250 MW online by year-end and 1.7 GW in 2027. Samsung and SK hynix suffered their worst week since 2008 on foreign selling and CXMT fears, while analysts called it an overreaction and memory prices showed no weekend print. Elsewhere, Pakistan nears adoption of ByteDance's Lark for government and Systems Limited expands in Egypt.",
+  "lenovo_read": "HUMAIN Al-Saad is the clearest open ISG slot in the Kingdom this quarter: get Neptune cooling interfaces and a reference rack in front of HUMAIN and the EPC bidders before 8 Nov, and hold memory pricing on Q4 deals despite the equity rout.",
+  "pillars": {
+    "dc": "3 scored plus 1 context: HUMAIN 100 MW Al-Saad tender re-report with new CEO capacity quote, DataVolt Uzbekistan site, NBC data-centre attack count, Salam interview. No new GCC/Africa build, MW figure or PPA first published in window.",
+    "memory": "4 scored: Samsung/SK hynix worst week since 2008, CXMT next-gen DRAM cost analysis, Wall Street on the CXMT overreaction, Handy on Musk. No new print; last DRAMeXchange DDR5 16Gb spot $60.600 (16 Oct).",
+    "deals": "2 scored: Pakistan MoITT nearing ByteDance Lark adoption, Systems Limited $10m Egypt investment. No KSA/GCC tech MoU, award or $20M+ round in window.",
+    "global": "ByteDance in Pakistan scored by Chinese rule. No in-window META move by US hyperscalers or OEMs; Lenovo ISG-Redington Iraq story was a 15 Oct repost."
+  },
+  "stories": [
+    {
+      "id": "2026-10-18-01",
+      "tier": "KSA",
+      "pillar": "Data centres",
+      "band": "HIGH",
+      "score": 17,
+      "title": "Humain's next build goes to tender, Aramco fills the pipe order books, Taiba exits a hotel",
+      "source": "EnterpriseAM",
+      "published": "18 Oct 2026, 00:00 KSA",
+      "country": "Saudi Arabia",
+      "summary": "HUMAIN issued an EPC RFP for a 100 MW AI data centre in Al-Saad, Riyadh, estimated by MEED at about USD 1bn, with 240-250 kW direct-to-chip liquid-cooled racks, an option to 200 MW and bids due 8 Nov. CEO Tareq Amin reaffirmed 250 MW online by year-end and 1.7 GW in 2027. The tender was first reported by MEED on 16 Oct.",
+      "bullets": [
+        "Humain issued a request for proposals for an EPC contract worth c. USD 1 bn, per Meed, for a 100 MW AI data centre in Riyadh's Al-Saad district on a 350.2k sqm plot",
+        "Phase one comprises two 50 MW stages for high-density GPU clusters with rack densities of 240-250 kW cooled by direct-to-chip liquid loops, with an optional expansion of the site to 200 MW and bids due 8 November",
+        "CEO Tareq Amin reportedly aims for 250 MW online by year-end and 1.7 GW in 2027"
+      ],
+      "lenovo": "Hardware undisclosed, so this is an open ISG opportunity at GB300/Vera Rubin-class density that suits Neptune direct-to-chip cooling. Engage HUMAIN and EPC bidders before 8 Nov so the cooling spec does not lock in a rival rack design.",
+      "url": "https://enterpriseam.com/ksa/2026/10/18/humains-next-build-goes-to-tender-aramco-fills-the-pipe-order-books-taiba-exits-a-hotel/",
+      "arabic": "طرحت هيوماين مناقصة هندسة وتوريد وإنشاء لمركز بيانات ذكاء اصطناعي بقدرة 100 ميغاواط في حي السعد بالرياض بقيمة تقدر بنحو مليار دولار، بكثافة 240-250 كيلوواط للرف وتبريد سائل مباشر، مع إغلاق العروض في 8 نوفمبر ودون الإفصاح عن موردي العتاد."
+    },
+    {
+      "id": "2026-10-18-02",
+      "tier": "KSA",
+      "pillar": "Data centres",
+      "band": "MONITOR",
+      "score": 12,
+      "title": "Salam maps Kingdom's route from data corridor to AI destination, says Amjad Arab",
+      "source": "TahawulTech",
+      "published": "17 Oct 2026, 16:19 KSA",
+      "country": "Saudi Arabia",
+      "summary": "Salam's Chief Carrier and Wholesale Officer Amjad Arab says its 19,000+ km fibre network links the Al Khobar and Jeddah landing stations to six data centres, and frames the national 1.5 GW by 2030 target around foreign investment and localisation. No new contracts announced.",
+      "bullets": [
+        "Salam's fibre network exceeds 19,000 km and links international landing stations in Al Khobar and Jeddah to six data centres across the Kingdom",
+        "Saudi Arabia's National Data Center Strategy targets up to 1.5 GW of data-centre capacity by 2030",
+        "Delivering the 1.5 GW goal depends on foreign investment, localisation and public-private collaboration"
+      ],
+      "lenovo": "Salam is an existing Lenovo lead (OPP-066). Its push to host AI workloads in six facilities points to edge and GPU colocation refreshes for ISG.",
+      "url": "https://www.tahawultech.com/home-slide/salam-maps-kingdoms-route-from-data-corridor-to-ai-destination-says-amjad-arab/",
+      "arabic": "أكد أمجد عرب من شركة سلام أن شبكتها الممتدة لأكثر من 19 ألف كم تربط محطات الإنزال في الخبر وجدة بستة مراكز بيانات، داعياً إلى الاستثمار الأجنبي والتوطين لتحقيق مستهدف 1.5 غيغاواط بحلول 2030."
+    },
+    {
+      "id": "2026-10-18-03",
+      "tier": "GCC/MEA",
+      "pillar": "Global tech in META",
+      "band": "RULE",
+      "score": 10,
+      "title": "Pakistan Nears Deal to Adopt ByteDance's Lark Workplace Platform",
+      "source": "TechJuice",
+      "published": "17 Oct 2026, 16:02 KSA",
+      "country": "Pakistan",
+      "summary": "Pakistan's MoITT has met on adopting ByteDance's Lark workplace suite for the public sector, with arrangements reportedly close to final. Nothing official is announced; departments, scale, hosting and cost are undisclosed.",
+      "bullets": [
+        "Pakistan's Ministry of Information Technology and Telecommunication held a meeting on adopting Lark, and most arrangements are reportedly close to final",
+        "Lark combines messaging, video meetings, document editing, calendars, email and project management",
+        "It is unclear which government departments would adopt Lark first, and the rollout timeline and scale have not been announced"
+      ],
+      "lenovo": "Pulls Pakistan's government digital workplace toward the Chinese stack, overlapping with Huawei-led government cloud and devices. Matters for SSG digital workplace and IDG government devices; watch whether hosting is on-premises.",
+      "url": "https://www.techjuice.pk/pakistan-nears-deal-to-adopt-bytedances-lark-workplace-platform/",
+      "arabic": "تقترب وزارة تقنية المعلومات والاتصالات الباكستانية من اعتماد منصة Lark التابعة لبايت دانس لبيئة العمل في القطاع الحكومي، دون إعلان رسمي أو تفاصيل عن النطاق والجدول الزمني والاستضافة."
+    },
+    {
+      "id": "2026-10-18-04",
+      "tier": "GCC/MEA",
+      "pillar": "Deals & MoUs",
+      "band": "LOW",
+      "score": 9,
+      "title": "Systems Limited invests $10m in Egypt, targets further growth in 2027",
+      "source": "Daily News Egypt",
+      "published": "17 Oct 2026, 21:00 KSA",
+      "country": "Egypt",
+      "summary": "Systems Limited has invested $10m in Egypt and plans to raise it by more than 50% in 2027, growing from about 300 to 450 staff. It serves Orange, Vodafone, e& and nine large Egyptian banks and is building banking centres of excellence for two UAE banks.",
+      "bullets": [
+        "Systems Limited has $10m invested in Egypt and plans to raise its investment by more than 50% in 2027, according to Ahmed Kandil, General Manager of Systems Egypt",
+        "The company employs about 300 IT professionals in Egypt and aims to reach 450 by the end of 2027",
+        "It works with Orange, Vodafone and e& and nine of Egypt's largest banks, and is building digital banking centres of excellence for two major UAE banks"
+      ],
+      "lenovo": "A potential SI channel partner for SSG and ISG with tier-one telco and banking accounts in Egypt and the UAE, plus a modest device-fleet buyer for IDG.",
+      "url": "https://www.dailynewsegypt.com/2026/10/17/systems-limited-invests-10m-in-egypt-targets-further-growth-in-2027/",
+      "arabic": "استثمرت سيستمز ليمتد 10 ملايين دولار في مصر وتخطط لزيادتها بأكثر من 50% في 2027، مع رفع عدد موظفيها من 300 إلى 450، وتخدم أورانج وفودافون وإي آند وتسعة من أكبر البنوك المصرية."
+    },
+    {
+      "id": "2026-10-18-05",
+      "tier": "GCC/MEA",
+      "pillar": "Data centres",
+      "band": "LOW",
+      "score": 9,
+      "title": "DataVolt Reviews Data Centre Construction Progress in Uzbekistan",
+      "source": "UzDaily",
+      "published": "17 Oct 2026, 12:40 KSA (site time 14:40, timezone assumed Tashkent)",
+      "country": "Uzbekistan",
+      "summary": "DataVolt's CEO and Vision Invest's chairman toured DataVolt's data centre under construction at IT Park Uzbekistan, targeting completion of construction and installation by end-2026. No MW figure or hardware vendor given.",
+      "bullets": [
+        "Vision Invest Group chairman Muhammad Abunayyan and DataVolt CEO Rajit Nanda toured the data centre at IT Park Uzbekistan with first deputy minister Ayubkhon Sultonov",
+        "The parties focused on completing construction, installation and landscaping works by the end of 2026",
+        "Contractors presented power supply systems, air conditioning and air circulation systems, and equipment for water-cooling servers"
+      ],
+      "lenovo": "A delivery-track-record signal for a Saudi watchlist developer, outside META. The water-cooled server reference is useful for Neptune positioning with DataVolt engineering.",
+      "url": "https://uzdaily.uz/en/datavolt-reviews-data-centre-construction-progress-in-uzbekistan/",
+      "arabic": "تفقد الرئيس التنفيذي لداتافولت ورئيس فيجن إنفست سير إنشاء مركز بيانات الشركة في أوزبكستان، مع هدف استكمال الأعمال بنهاية 2026، دون الإفصاح عن القدرة أو موردي العتاد."
+    },
+    {
+      "id": "2026-10-18-06",
+      "tier": "Global",
+      "pillar": "Data centres",
+      "band": "LOW",
+      "score": 11,
+      "title": "Data centers have become war targets. The attacks signal a new front in global conflict.",
+      "source": "NBC News",
+      "published": "17 Oct 2026, 12:15 KSA",
+      "country": "Global",
+      "summary": "An NBC News analysis counts at least 27 attacks affecting data centres across global conflicts in five countries, including a drone strike in Kyiv. Experts expect attacks to continue.",
+      "bullets": [
+        "An NBC News analysis counts at least 27 attacks affecting data centers across global conflicts",
+        "Facilities in five countries have been hit",
+        "In Kyiv, a Russian drone struck a data center just after its last employee evacuated"
+      ],
+      "lenovo": "With Houthi strikes on KSA ongoing, resilience becomes a buying criterion for META DC customers, supporting DR, split-site capacity and hardened edge (ISG/SSG, OPP-061).",
+      "url": "https://www.nbcnews.com/tech/security/data-center-attacks-reveal-new-front-modern-warfare-rcna603002",
+      "arabic": "رصد تحليل لشبكة NBC ما لا يقل عن 27 هجوماً طالت مراكز بيانات في خمس دول خلال النزاعات، ما يجعل المرونة والتعافي من الكوارث معياراً أساسياً لمشتري مراكز البيانات في المنطقة."
+    },
+    {
+      "id": "2026-10-18-07",
+      "tier": "Global",
+      "pillar": "Memory & components",
+      "band": "MONITOR",
+      "score": 12,
+      "title": "Samsung, SK hynix suffer worst weekly stock rout since 2008",
+      "source": "The Korea Herald",
+      "published": "18 Oct 2026, 08:34 KSA",
+      "country": "South Korea",
+      "summary": "Samsung fell 17.8% and SK hynix 24.3% over the week, their worst since 2008, as foreigners sold a net 11.21T won of Kospi stocks on rate, AI-return and CXMT concerns. Eugene Investment's Park Jae-hwan expects volatility to persist.",
+      "bullets": [
+        "Samsung Electronics shares plunged 17.8 percent from Monday to Friday, from 262,000 won to 215,500 won, and SK hynix tumbled 24.3 percent to 1.272 million won from 1.681 million won",
+        "Foreign investors dumped a net 11.21 trillion won of Kospi-listed stocks over the week, with Samsung Electronics and SK hynix together representing 78.8 percent of total net foreign selling",
+        "Foreign ownership fell to 45.98 percent at Samsung Electronics, the lowest since July 2009, and to 48.85 percent at SK hynix, the lowest since December 2021"
+      ],
+      "lenovo": "An equity rout, not a price cut: contract and spot prices are still rising. Deal desks should hold price-protection clauses and not concede memory-driven price cuts on Q4 META bids.",
+      "url": "https://www.koreaherald.com/article/10906189",
+      "arabic": "سجلت أسهم سامسونج وإس كيه هاينكس أسوأ تراجع أسبوعي منذ 2008 بنسبة 17.8% و24.3% مع بيع الأجانب صافي 11.21 تريليون وون، رغم استمرار شح الذاكرة وارتفاع أسعارها."
+    },
+    {
+      "id": "2026-10-18-08",
+      "tier": "Global",
+      "pillar": "Memory & components",
+      "band": "LOW",
+      "score": 11,
+      "title": "China's CXMT pushes into next-gen DRAM, but can it compete on cost?",
+      "source": "The Korea Herald",
+      "published": "18 Oct 2026, 05:02 KSA",
+      "country": "China",
+      "summary": "CXMT plans a 4F2 DDR5 server module by end-2026 after a 57.92bn yuan IPO, with TrendForce putting its DRAM share at 9.5% in Q2. Yields and capacity are undisclosed, and analysts question its cost competitiveness.",
+      "bullets": [
+        "CXMT's July listing on Shanghai's STAR Market raised 57.92 billion yuan ($8.66 billion), the largest IPO in Asia this year",
+        "According to TrendForce, CXMT's global DRAM revenue share rose to 9.5 percent in Q2 from 7.6 percent in Q1",
+        "Reuters reported CXMT charged some Chinese customers more than Samsung's roughly $1,240 price for comparable 64GB DDR5 server modules"
+      ],
+      "lenovo": "A medium-term second source for 2027-28, not this quarter. Chinese memory in Gulf sovereign and US-linked AI bids is a compliance risk; keep any CXMT qualification out of META sovereign bids.",
+      "url": "https://www.koreaherald.com/article/10906058",
+      "arabic": "تسعى CXMT الصينية لإطلاق ذاكرة DDR5 للخوادم بتقنية 4F² بنهاية 2026 بعد رفع حصتها السوقية إلى 9.5%، وسط شكوك حول العائد والقدرة على الإنتاج الكمي بتكلفة منافسة."
+    },
+    {
+      "id": "2026-10-18-09",
+      "tier": "Global",
+      "pillar": "Memory & components",
+      "band": "LOW",
+      "score": 9,
+      "title": "Wall Street: \"Market overreaction to CXMT 4F² announcement causes memory stock slump\"... Premature to view as threat to Samsung, SK Hynix",
+      "source": "JKN",
+      "published": "18 Oct 2026, 03:35 KSA (page time assumed KST)",
+      "country": "South Korea",
+      "summary": "Rosenblatt's Kevin Cassidy calls CXMT a paper tiger whose 4F2 cell may be about 34% larger than rivals' 6F2 cells, and Mizuho's Jordan Klein says missing specs and yields make comparison premature. SK hynix fell 32.8% over seven sessions through 15 Oct.",
+      "bullets": [
+        "SK Hynix shares fell for seven straight trading days through the 15th, down 32.8%, while Samsung Electronics dropped 10.6% on the same day",
+        "Rosenblatt analyst Kevin Cassidy estimated CXMT's 4F² cell could be about 34% larger than competitors' existing 6F² cells and kept buy ratings on Micron and SK Hynix",
+        "Mizuho's Jordan Klein noted CXMT has not disclosed full specifications or verified yields, making comparison with Samsung's 2028 4F² mass-production target difficult"
+      ],
+      "lenovo": "Analyst consensus says incumbent supply power is intact, so no near-term price relief. Keep planning on firm memory pricing through 2027.",
+      "url": "https://news.jkn.co.kr/editions/english/post/1030982",
+      "arabic": "يرى محللون في روزنبلات وميزوهو أن هبوط أسهم الذاكرة رد فعل مبالغ فيه على إعلان CXMT، وأن تقنيتها 4F² لا تشكل تهديداً قريباً لسامسونج وإس كيه هاينكس."
+    },
+    {
+      "id": "2026-10-18-10",
+      "tier": "Global",
+      "pillar": "Memory & components",
+      "band": "RULE",
+      "score": 8,
+      "title": "Musk's criticism of Samsung, SK's memory chip pricing runs counter to market logic: expert",
+      "source": "The Korea Times",
+      "published": "18 Oct 2026, 08:52 KSA",
+      "country": "South Korea",
+      "summary": "Objective Analysis's Jim Handy rejects Musk's 'extortionate' jibe, saying the market sets memory prices, and does not expect supply to meet demand before 2029 if AI investment continues.",
+      "bullets": [
+        "Jim Handy, founder of Objective Analysis, said memory makers do not set their parts' pricing and the market determines the pricing",
+        "Handy does not expect supply to meet demand before 2029, assuming AI investment keeps growing as projected",
+        "CXMT's aggressive entry into the DDR4 market in 2023 led the three largest DRAM makers to abandon that segment"
+      ],
+      "lenovo": "Supports multi-year, price-indexed memory terms on large META ISG and IDG frameworks (OPP-045); the DDR4 exit argues for pushing legacy customers to DDR5 platforms.",
+      "url": "https://www.koreatimes.co.kr/business/companies/20261018/musks-criticism-of-samsung-sks-memory-chip-pricing-runs-counter-to-market-logic-expert",
+      "arabic": "يرى المحلل جيم هاندي أن السوق هو من يحدد أسعار الذاكرة لا المصنعون، متوقعاً استمرار نقص المعروض حتى 2029 إذا استمر الاستثمار في الذكاء الاصطناعي."
+    }
+  ],
+  "opportunities": [
+    {
+      "account": "HUMAIN – 100 MW Al-Saad AI data centre (EPC tender)",
+      "country": "Saudi Arabia",
+      "bu": ["ISG", "SSG"],
+      "title": "Get Neptune cooling interface and AI-factory reference rack to HUMAIN and EPC bidders before 8 Nov",
+      "why_now": "EPC RFP for a c. USD 1bn, 100 MW facility with 240-250 kW liquid-cooled racks closes 8 Nov; no GPU, server or cooling vendor named; CEO reaffirms 250 MW by year-end and 1.7 GW in 2027.",
+      "entry_point": "HUMAIN DC delivery and procurement; shortlisted EPC bidders (Al Yamama holds campus enabling works; MIS is HUMAIN's work-order contractor); Nvidia Saudi.",
+      "owner": "ISG KSA AI-factory lead with Neptune solutions architect",
+      "urgency": "This week",
+      "status": "New",
+      "source_story_id": "2026-10-18-01"
+    },
+    {
+      "account": "HUMAIN and G42 – GPU-server delivery certainty",
+      "country": "Saudi Arabia / UAE",
+      "bu": ["ISG"],
+      "title": "Offer licensed, scheduled GPU-server delivery as US chip shipments lag",
+      "why_now": "AGBI (16 Oct, catch-up) reports only part of 35,000 authorised Blackwell chips delivered to HUMAIN and G42; G42/Core42 direct-purchase facility runs to 6 Apr 2027.",
+      "entry_point": "HUMAIN and Core42 procurement; Lenovo trade compliance with the Nvidia allocation team.",
+      "owner": "ISG META GM's office with trade compliance",
+      "urgency": "This quarter",
+      "status": "New",
+      "source_story_id": "2026-10-18-01"
+    },
+    {
+      "account": "META deal desk – Q4 memory pricing discipline",
+      "country": "Regional (META)",
+      "bu": ["IDG", "ISG"],
+      "title": "Hold price protection on Q4 bids despite the Korean memory equity rout",
+      "why_now": "Samsung and SK hynix had their worst week since 2008, but no new spot print and Q4 contract forecasts remain double-digit up; Handy sees shortage to 2029.",
+      "entry_point": "META pricing and deal desk; Q4 closers in GCC public sector and energy.",
+      "owner": "META deal-desk lead with IDG and ISG product pricing",
+      "urgency": "This week",
+      "status": "New",
+      "source_story_id": "2026-10-18-07"
+    },
+    {
+      "account": "Pakistan MoITT – public-sector digital workplace",
+      "country": "Pakistan",
+      "bu": ["SSG", "IDG"],
+      "title": "Counter ByteDance Lark with digital-workplace services and government devices",
+      "why_now": "MoITT is reportedly close to adopting Lark government-wide; hosting and devices undecided.",
+      "entry_point": "MoITT digital-government team; Pakistani SIs.",
+      "owner": "Lenovo Pakistan country manager with SSG digital-workplace lead",
+      "urgency": "Watch",
+      "status": "New",
+      "source_story_id": "2026-10-18-03"
+    },
+    {
+      "account": "Systems Limited – SI partner (Egypt, UAE)",
+      "country": "Egypt / UAE",
+      "bu": ["SSG", "ISG"],
+      "title": "Sign Systems Limited as SI partner for telco and banking infrastructure",
+      "why_now": "Plans to raise Egypt investment by more than 50% in 2027; serves Orange, Vodafone, e&, nine Egyptian banks and two UAE banks.",
+      "entry_point": "Systems Egypt GM Ahmed Kandil; Systems Limited group alliances.",
+      "owner": "Lenovo Egypt channel/alliances lead",
+      "urgency": "This quarter",
+      "status": "New",
+      "source_story_id": "2026-10-18-04"
+    }
+  ]
+}

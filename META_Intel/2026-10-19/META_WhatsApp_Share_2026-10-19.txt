@@ -1,0 +1,103 @@
+*Saudi Arabia Calls for Sustainable GCC Digital Connectivity and Sovereign Computing to Strengthen Global Competitiveness*
+
+* Minister of Communications and Information Technology Abdullah Alswaha made the call at the 30th Meeting of the GCC Ministerial Committee for Post and Telecommunications, held in Bahrain
+* The Kingdom has made available a range of sites and 14 gigawatts (GW) of power capacity for data centers serving Saudi Arabia, GCC member states, the wider region and the world
+* Saudi Arabia added more than 8.4 Tbps of international capacity, increasing overall capacity by approximately 80% to reach 18 Tbps, and proposed a GCC digital interconnectivity modeled on the GCC electricity interconnection
+
+Source - https://www.spa.gov.sa/en/N2704500
+
+*"الخفجي المشتركة" توقع مذكرة تفاهم مع "أرامكو" و"إس إل بي" لتطوير "منصة رائد"*
+
+* أبرمت عمليات الخفجي المشتركة مذكرة تفاهم ستراتيجية مع أرامكو الرقمية وإس إل بي لدراسة وتطوير منصة رائد كأول منصة إنتاج بحرية ذكية ومستقلة بالكامل في المملكة العربية السعودية ومنطقة الخليج العربي
+* وقع عن الخفجي المشتركة مساعد المزيد، وعن أرامكو الرقمية الرئيس التنفيذي لقطاع الاتصالات عيد الحربي بحضور الرئيس التنفيذي د. أشرف الطحيني، وعن إس إل بي المدير التنفيذي للسعودية والبحرين رضا كلكولي
+* تعتمد المنصة على الذكاء الاصطناعي التوليدي وأنظمة الأتمتة الذاتية والحوسبة السحابية المتقدمة وتحليل البيانات الضخمة اللحظية وإنترنت الأشياء الصناعي
+
+Source - https://alseyassah.com/article/473865/
+
+*Iran speaker urges Persian Gulf states to stop backing military-linked AI firms*
+
+* Iran's parliament speaker Mohammad Bagher Ghalibaf posted on X on Sunday that a "Persian Gulf Data Authority" is coming
+* He urged regional governments, funds and firms to withhold finance, equity, land and energy from AI or data companies involved in military operations
+* He did not name any company or explain how the authority would operate or enforce restrictions
+
+Source - https://www.iranintl.com/en/202610181490
+
+*الأمانة العامة لمجلس الوزراء تعلن بدء تنفيذ مشروع تطوير البنية التحتية الرقمية*
+
+* وقعت الأمانة العامة لمجلس الوزراء عقداً مع شركة قطر لأنظمة الكمبيوتر (QDS) المملوكة لمجموعة الدرويش المتحدة
+* وقع العقد حمد بن أحمد المهندي الأمين العام لمجلس الوزراء وعبدالرحمن درويش الدرويش الرئيس التنفيذي لمجموعة الدرويش المتحدة
+* يشمل المشروع تطوير البنية التحتية الرقمية وتعزيز قدرات استمرارية الأعمال ورفع مستوى أمن التطبيقات والمنصات الإلكترونية وتطوير منظومة حماية البيانات
+
+Source - https://qna.org.qa/ar-QA/news/news-details?id=الامانة-العامة-لمجلس-الوزراء-تعلن-بدء-تنفيذ-مشروع-تطوير-البنية-التحتية-الرقمية&date=18/10/2026
+
+*Vodacom’s technology chief outlines regional data centre strategy*
+
+* Group CTO Dejan Kastelic said Vodacom is weighing cloud computing against building its own GPU capabilities, with a focus on sovereign AI for markets such as Egypt and Kenya
+* Through Vodafone Business, Vodacom has broken ground on Africa Data Centres Egypt with Elsewedy Electric and Cassava Technologies, with phase one expected to draw about $200m in FDI and total investment reaching $1bn at full capacity
+* Kenya is planned as the second node offering GPUs as a service, followed by South Africa, where Vodacom already runs 12 data centres
+
+Source - https://www.businessday.co.za/companies/2026-10-18-vodacoms-technology-chief-outlines-regional-data-centre-strategy/
+
+*Abu Dhabi in talks to sell technology to US cities*
+
+* Abu Dhabi is in advanced talks with US city governments about exporting the technology behind its Tamm digital services platform through Tamm Global, a government-owned company
+* A major US technology company is helping distribute Tamm and support its hosting in the United States, and an agreement with a first US city could be signed in the coming months
+* Tamm serves 4.7 million users with more than 1,200 government and private-sector services, and governments will retain and host citizens' data in their own countries
+
+Source - https://www.agbi.com/tech/2026/10/abu-dhabi-in-talks-to-sell-technology-to-us-cities/
+
+*Telecel Group and Huawei Sign $200m strategic partnership*
+
+* Telecel Group and Huawei signed a three-year $200 million MoU covering network expansion, mobile broadband densification and intelligent digital infrastructure, with Ghana as a key focus
+* The MoU was signed by Eleanor Azar, Chief of Staff of Telecel Group, and Chad Wei, Deputy Managing Director of Huawei Ghana
+* The deal nearly triples a $70 million framework the companies signed in Shenzhen the previous November
+
+Source - https://www.myjoyonline.com/telecel-group-and-huawei-sign-200m-strategic-partnership/
+
+*Neocloud operator Nscale’s IPO plans could be at risk after Microsoft cancels UK data center project*
+
+* Microsoft ended its agreement to rent AI infrastructure at Nscale's planned Loughton, Essex facility after UK grid officials said adequate power could not be supplied until the 2030s
+* Nscale had planned 23,040 Nvidia GPUs at the site by Q1 2027, with an initial 50 MW and an option to expand to 90 MW
+* Nscale reportedly hopes to raise $3 billion at a valuation of about $35 billion, and Microsoft and Anthropic account for roughly 85% of its total contract value
+
+Source - https://siliconangle.com/2026/10/18/neocloud-operator-nscales-ipo-plans-could-be-at-risk-after-microsoft-pulls-the-plug-on-u-k-data-center-project/
+
+*Samsung to Tap TSMC for Nvidia's Custom HBM Base Die*
+
+* Nvidia asked Samsung, SK hynix and Micron to build the NVHBM base die on TSMC's 3-nanometer process and to standardize the core die on the 1c DRAM process
+* It is the first time Samsung has partnered with TSMC from the HBM manufacturing stage
+* Samsung is checking whether it can make the NVHBM base die at its own foundry as a hedge in case demand exceeds TSMC's production capacity
+
+Source - https://en.sedaily.com/finance/2026/10/18/samsung-to-use-tsmc-for-base-die-in-nvidias-custom-hbm
+
+*DRAM prices rise, but semiconductor stocks plunge as interest-rate and cost pressures fuel AI investment fears*
+
+* Samsung Electronics fell 17.8%, SK hynix fell 24.3% and the KOSPI dropped 14.5% over the prior week
+* Kim Rok-ho of Hana Securities said third-quarter DRAM prices were stronger than expected and the projected fourth-quarter increase is expected to be revised upward
+* He said long-term supply agreements have partly eased the burden on customers, while customers without such agreements still face price pressure
+
+Source - https://en.fnnews.com/news/202610190716184038
+
+*Nvidia Says Consumer GPU Shortages Are Beyond Its Control*
+
+* Nvidia VP Ida Keita said consumer GPU shortages come from insufficient memory supply, adding that this is not something Nvidia can control
+* The RTX 5090 is trading for as much as 15 million won or more, roughly five times its suggested retail price
+* RTX Spark laptops range from approximately 4.7 million won to 10 million won, with Nvidia attributing the high prices to rising memory costs
+
+Source - https://www.thelec.net/news/articleView.html?idxno=14685
+
+*Dell Reportedly Plans To Increase Monitor Prices By 3-5%, With Premium Models Facing Bigger Hikes*
+
+* Dell reportedly plans 3% to 5% increases on mid-range and high-end monitors from October 2026, applied through shipping prices, with entry-level models excluded
+* Dell reportedly absorbed costs after an earlier increase in July and is now passing some of them on
+* The report comes from IT Home citing ChannelGate, and Dell has not publicly confirmed the increase
+
+Source - https://wccftech.com/dell-reportedly-plans-to-increase-monitor-prices-by-3-5/
+
+*PC, chip prices likely to continue rising til end of year — Lenovo PH official*
+
+* Michael Ngan, Philippine country head for Lenovo, said prices of laptops, desktops, RAM and SSDs are likely to keep rising at least through the rest of the year
+* Ngan said server prices alone have gone up 300 percent in the last twelve months
+* He expects unit shipments to recover due to a 5-year post-pandemic refresh cycle and Microsoft end-of-service deadlines
+
+Source - https://www.abs-cbn.com/news/technology/2026/10/19/pc-chip-prices-likely-to-continue-rising-til-end-of-year-lenovo-ph-official-1000

@@ -1,0 +1,79 @@
+*MIS Receives First Work Order under HUMAIN Agreement Worth More Than 148% of 2025 Revenue*
+
+* MIS received Work Order No. 1 under its HUMAIN agreement, worth more than 148% of its 2025 total revenue and covering the previously announced 50-megawatt capacity scope of work
+* The overall HUMAIN agreement, disclosed on Tadawul on 20 September 2026, is valued at more than 689% of the company's total revenue for 2025, including VAT
+* The financial impact of the work order began in Q2 of FY2026, and MIS expects additional work orders for the project's further expansion
+
+Source - https://maaal.com/en/news/details/mis-receives-first-work-o/
+
+*Yemen's Houthis Say They Attacked Aramco Facility in Riyadh With Missiles, Drones*
+
+* Yemen's Iran-aligned Houthis said on Saturday they had targeted an Aramco facility in Riyadh with ballistic missiles and drones, in retaliation for Saudi attacks on Sanaa and other provinces
+* A large plume of smoke and fire was seen rising in the vicinity of an Aramco facility in Riyadh earlier on Saturday, a witness told Reuters
+* There was no immediate confirmation from Saudi authorities of an attack, and Aramco did not immediately respond to a request for comment
+
+Source - https://www.usnews.com/news/world/articles/2026-10-03/fire-smoke-seen-near-aramco-facility-in-riyadh-witness-says
+
+*Saudi dataset cuts AI errors in Arabic dialects*
+
+* NVIDIA trained its Nemotron 3.5 ASR model using the Saudi Audio Dataset for Arabic, launched by the Saudi Data and AI Authority with the Saudi Broadcasting Authority
+* The dataset comprises about 667 hours of transcribed audio, including more than 600 hours from television programs covering multiple Saudi dialects
+* After training on 133.7 hours of Najdi and Hijazi audio, the word error rate for Saudi dialects dropped from 55% to approximately 30%
+
+Source - https://www.arabnews.com/saudi-arabia/saudi-dataset-cuts-ai-errors-in-arabic-dialects-3004401
+
+*Tech Mahindra's IMEA head on Saudi AI demand and the plan through 2030*
+
+* Tech Mahindra committed to train 2.5k Saudi nationals through practical project deployment programs with the Communications and Information Technology Ministry
+* The company established a Data and AI and Cloud Center of Excellence in Riyadh, running hackathons, design thinking, innovation programs and university collaboration
+* Its plan through 2030 is to expand local capabilities in AI, cloud, data and analytics, cybersecurity, digital engineering and intelligent automation
+
+Source - https://enterpriseam.com/ksa/2026/10/04/tech-mahindras-imea-head-on-saudi-ai-demand-and-the-plan-through-2030/
+
+*90 ألف متر مربع و3 محطات كهرباء.. «غوغل كلاود» تأخذ شكلها في الكويت*
+
+* تخصيص نحو 90 ألف متر مربع لمراكز بيانات غوغل كلاود في الكويت، بواقع نحو 30 ألف متر مربع لكل موقع من المواقع الثلاثة
+* وزارة الكهرباء والماء والطاقة المتجددة طرحت مشروعاً لتوريد وتركيب 3 محطات تحويل بجهد 132/11 كيلوفولت بكلفة تقدر بنحو 22 مليون دينار كويتي، أي نحو 72 مليون دولار
+* الحمل التقني في إحدى المنشآت التي تطورها شركة ديجيتس التابعة لمجموعة حياة للاتصالات لصالح غوغل يصل إلى نحو 12 ميغاواط
+
+Source - https://www.erembusiness.com/technology/7weg9id
+
+*«تنظيم الاتصالات»: الذكاء الاصطناعي والحوسبة السحابية محوران رئيسيان لاستراتيجية مراكز البيانات في مصر*
+
+* الرئيس التنفيذي للجهاز القومي لتنظيم الاتصالات أكد أن الاستراتيجية الوطنية لمراكز البيانات في مصر ترتكز على مجالين رئيسيين هما الذكاء الاصطناعي والحوسبة السحابية
+* وزير الاتصالات شدد على أن تقنيات الذكاء الاصطناعي تمثل أحد أهم محركات النمو والتحول الاقتصادي خلال المرحلة المقبلة
+* لجنة صناعة الاتصالات أوصت بدراسة فرص تطوير مراكز البيانات وخدمات الحوسبة السحابية والتوسع في تصنيع أجهزة الاتصالات محلياً
+
+Source - https://fintechgate.net/253454
+
+*UAE and US Advance Technology Partnership Agenda in High-Level Washington Engagements*
+
+* HE Omran Sharaf, UAE Assistant Foreign Minister for Advanced Science and Technology Affairs, led a delegation including HE Dr. Mohamed Al Kuwaiti, ATRC, the UAE Space Agency and Space42
+* The delegation met Under Secretary Jacob Helberg, Ambassador Adam Cassady and OSTP Director Michael Kratsios across the State Department, Commerce Department and White House
+* Discussions built on the A:5 export control designation, the first ever granted to an Arab state, and the $1.4 trillion UAE-US technology investment framework agreed in March 2025
+
+Source - https://www.uae-embassy.org/news/uae-and-us-advance-technology-partnership-agenda-high-level-washington-engagements
+
+*Huawei Highlights Continuous Innovation, Securing Competitive Edge Through Technological Breakthroughs*
+
+* Between 2007 and 2025, Huawei invested more than CNY1.8 trillion into R&D, with investment rising from approximately 10% to over 20% of annual revenue
+* More than 90 million devices run HarmonyOS 6 and 7, expected to reach 100 million by year-end, with 450,000 apps and services available
+* Huawei's LogicFolding technology vertically stacks chip logic layers, enabling the Mate 90 series to run a 30B MoE on-device AI model
+
+Source - https://www.eqs-news.com/news/corporate/huawei-highlights-continuous-innovation-securing-competitive-edge-through-technological-breakthroughs/a81761db-a03f-41e2-8890-2f2720272aa6_en
+
+*Tesla CEO Elon Musk Cuts AI Chip Memory Amid Shortage*
+
+* Musk said Tesla reduced LPDDR in the AI5 chip and adjusted the AI6 to 144GB, a third less, to secure sufficient production volume for Optimus
+* On October 2, Musk said the AI5 chip's memory was adjusted to 96GB, with total memory capacity still expected at two-thirds of the original
+* NVIDIA is reportedly considering reducing the memory of its next-generation Rubin Ultra AI chip from 1TB to as low as 192GB
+
+Source - https://www.chosun.com/english/industry-en/2026/10/04/ALC64IR5IZGLZHSMFRJGG33S2U/
+
+*NVIDIA DGX Spark 64GB Launched and Big 128GB GB10 Price Increases*
+
+* The NVIDIA DGX Spark 128GB/4TB, which launched at $3999 about a year ago, now has a new price of $6950
+* The new DGX Spark 64GB is available from Acer, ASUS, Dell, Gigabyte, HP and MSI on Friday, Oct. 23, starting at $4,999
+* NVIDIA says two new 64GB models can be clustered for 128GB at around $8000
+
+Source - https://www.servethehome.com/nvidia-dgx-spark-64gb-launched-and-big-128gb-gb10-price-increases/

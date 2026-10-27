@@ -1,0 +1,71 @@
+*Gulf Nation AI Ambitions Face Risks at Home and Abroad*
+
+* Ziad Daoud, chief emerging markets economist at Bloomberg Economics in Dubai, argues that Gulf states building data centers at home risk attack, while building them elsewhere means losing competitive advantage
+* Saudi Arabia used its flagship investment conference to sell a futuristic city in 2017 and artificial intelligence last year
+* Escalating Houthi attacks forced Saudi Arabia to postpone this year's conference, originally scheduled for Oct. 26
+
+Source - https://www.bloomberg.com/news/newsletters/2026-10-24/gulf-nation-ai-ambitions-face-risks-at-home-and-abroad-new-economy
+
+*Saudi air cargo shifts toward AI-driven operations as SAL expands digital push*
+
+* SAL Logistics Services says its digital transformation program has optimized more than 300,000 working hours annually by removing repetitive and manual tasks
+* CargoGate, launched at LEAP 2026 with Elm, has processed more than 200,000 online bookings with a 92 percent customer adoption rate and more than 12,000 registered drivers and trucks
+* At LEAP 2026, SAL signed memorandums of understanding with Microsoft Arabia on AI, cloud and data analytics, and with Huawei Tech Investment Saudi Arabia on 5G, AI, cloud computing and green energy in logistics
+
+Source - https://www.arabnews.com/tourism-transport/saudi-air-cargo-shifts-toward-ai-driven-operations-as-sal-expands-digital-push-3007886
+
+*DataVolt Nears Completion of US$200 Million Green Data Centre*
+
+* The US$200 million project has an initial capacity of 12 MW, with plans to expand to 500 MW
+* Minister of Digital Technologies Sherzod Shermatov said the first phase is due by the end of 2026
+* Mohammad Abunayyan, chairman of Vision Invest Group and a DataVolt board member, said the project is designed for continuous round-the-clock energy supply
+
+Source - https://www.uzdaily.uz/en/datavolt-nears-completion-of-us200-million-green-data-centre/
+
+*Iranian officials: Tehran has detailed plans to hit Gulf undersea cables if war resumes*
+
+* Two senior Iranian security officials told Reuters that Tehran has drawn up detailed plans to target undersea communications cables in the Gulf if the US and Israel attack Iran again
+* One official said Iran would aim to prevent repairs to prolong disruptions, including to internet connections, and warned there will be no more red lines
+* TeleGeography's Alan Mauldin said less than 1% of international bandwidth passes through the Strait of Hormuz, so the global impact could be limited
+
+Source - https://www.timesofisrael.com/liveblog_entry/iranian-officials-tehran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes/
+
+*سعود بن صقر القاسمي يختتم زيارة عمل إلى الصين ببحث فرص التعاون والاستثمار*
+
+* اختتم حاكم رأس الخيمة زيارة عمل إلى الصين استمرت ستة أيام شملت مقاطعتي قوانغدونغ وفوجيان، التقى خلالها ممثلي شركات منها «زد تي إي» والبنك الصناعي والتجاري الصيني والشركة الصينية للطرق والجسور
+* شهد سموه توقيع مذكرة تفاهم استراتيجية بين مكتب العلاقات الدولية في حكومة رأس الخيمة وشركة «يو بي تك روبوتيكس» للبحوث والاختبارات الميدانية والتشغيل الفعلي لأنظمة الروبوتات البشرية في الإمارة
+* وقّع مركز شنجن لتخطيط النقل الحضري مذكرة تفاهم للتعاون في النقل الذكي والاقتصاد منخفض الارتفاع وتطبيقات الذكاء الاصطناعي
+
+Source - https://emirates24.net/local/2310/120552/
+
+*Huawei brings together technology and healthcare experts at MEA Tech Innovation Talk*
+
+* Huawei held its MEA Tech Innovation Talks at Grand Plaza Movenpick in Dubai alongside the ISH-ECS 2026 conference, running from 22 to 25 October, where it unveiled the HUAWEI WATCH D3
+* Huawei established the Wearable Blood Pressure Technology Innovation Fund with the International Society of Hypertension
+* Huawei invested USD 28.62 billion in R&D in 2025, equal to 21.8% of its annual revenue
+
+Source - https://filipinotimes.net/technology/2026/10/23/huawei-brings-together-technology-and-healthcare-experts-at-mea-tech-innovation-talk/
+
+*الرعيض يشهد توقيع اتفاق تعاون مشترك بين قنوان الاستثمارية وهواوي*
+
+* شهد مقر الاتحاد العام للغرف توقيع اتفاق تعاون مشترك بين مؤسسة قنوان الاستثمارية وشركة هواوي فرع ليبيا
+* حضر التوقيع رئيس لجنة الإدارة للاتحاد العام للغرف ومدير فرع هواوي بليبيا وعدد من مهندسي الشركة
+* يهدف الاتفاق إلى تعزيز التحول الرقمي ودعم الابتكار وتبادل الخبرات وتعزيز دور القطاع الخاص في بناء اقتصاد معرفي مستدام
+
+Source - https://www.alsaaa24.com/2026/10/23/%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%85%D8%B4%D8%AA%D8%B1%D9%83-%D8%A8%D9%8A%D9%86-%D9%82%D9%86%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1/
+
+*Applying Semiconductor and Server Tariffs to Data Centers, Under Section 232 or Section 301, Would Now Cost the U.S. About $180 Billion a Year*
+
+* A 25% tariff on semiconductors and servers would equal a 15.6% effective tax on data center construction, putting roughly $900 billion of planned 2027 to 2031 U.S. data center investment at risk
+* The estimated annual cost is about $180 billion, or about 0.56% of U.S. GDP, with roughly 474,000 American jobs jeopardized
+* Dell'Oro Group now projects worldwide data center capital spending above $3 trillion by 2030, nearly double its January forecast
+
+Source - https://ccianet.org/articles/applying-semiconductor-and-server-tariffs-to-data-centers-under-section-232-or-section-301-would-now-cost-the-u-s-about-180-billion-a-year/
+
+*SK Hynix and Samsung likely to boost shareholder returns as demand stays strong: BofA*
+
+* Bank of America analysts led by Simon Woo say SK Hynix may pay a special year-end cash dividend after its W40tn buyback, and Samsung may start a new buyback after its W30tn post-3Q cash dividend
+* Both companies could announce the returns at earnings calls on 28-29 October
+* Annualized free cash flow as of the fourth quarter exceeds $150B for SK Hynix and $226B for Samsung
+
+Source - https://www.tradingview.com/news/seekingalpha:dd780fa69094b:0-sk-hynix-and-samsung-likely-to-boost-shareholder-returns-as-demand-stays-strong-bofa/

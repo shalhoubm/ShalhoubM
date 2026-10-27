@@ -1,0 +1,143 @@
+*Aramco's Dhahran headquarters hit during Houthi missile attack on Saudi Arabia*
+
+* Saudi Aramco's headquarters in Dhahran was hit during a Houthi missile attack on Tuesday, starting a fire in part of the complex that sources say has been put out
+* The Saudi-led coalition said Houthi missiles targeted several cities including Riyadh and Dhahran, with shrapnel from an interception falling in a residential area of Dhahran
+* Aramco and the Saudi energy ministry did not respond to requests for comment, and a Jazan refinery remains shut since an earlier attack
+
+Source - https://www.worldoil.com/news/2026/10/13/aramco-s-dhahran-headquarters-hit-during-houthi-missile-attack-on-saudi-arabia/
+
+*EXCLUSIVE-Saudi Arabia plans hybrid format for marquee FII conference after attacks, sources say*
+
+* Saudi Arabia plans to turn the Future Investment Initiative into a hybrid event so executives can attend remotely, two people familiar with the matter said
+* Some participants are still expected in person, possibly landing at airstrips outside Riyadh or in neighbouring Gulf states and driving to the capital
+* A draft programme dated October 6 listed Goldman Sachs CEO David Solomon, Standard Chartered CEO Bill Winters and Citi CEO Jane Fraser as speakers
+
+Source - https://www.devdiscourse.com/article/international/3991751-exclusive-saudi-arabia-plans-hybrid-format-for-marquee-fii-conference-after-attacks-sources-say
+
+*Saudi Arabia upgrading 50% of power grid as demand climbs from industry to AI*
+
+* Mazin Al-Bahkali, CEO of Saudi Power Procurement Co., said about half of the grid is being expanded to meet growing demand, including from AI and data centers
+* Anas Al-Rimi of the Digital Government Authority said government ICT spending reached almost SR32 billion ($8.52 billion), with spending on emerging AI technologies up 20 percent
+* Seven framework agreements covering more than SR60 billion in spending across over 100 service providers are active, and the authority plans to reach 2,400 AI services by the end of this year
+
+Source - https://www.arabnews.com/energy/saudi-arabia-upgrading-50-of-power-grid-as-demand-climbs-from-industry-to-ai-3006079
+
+*Saudi Energy Ministry using AI to calculate disruptions before they hit*
+
+* The Ministry of Energy uses AI and real-time data to anticipate disruptions, said Alanoud Al-Shuraym, general manager of enterprise architecture, at the 25th WPC Energy Congress in Riyadh
+* The ministry integrated fuel station data into its monitoring center, and its systems can simulate incidents and assess their impact across the energy value chain
+* The ministry has partnered with HUMAIN and the Saudi Data and Artificial Intelligence Authority, among others, to support localization and safe AI integration
+
+Source - https://www.arabnews.com/energy/saudi-energy-ministry-using-ai-to-calculate-disruptions-before-they-hit-3006052
+
+*Hikvision and Aramco sign Memorandum of Understanding to explore AI-driven environmental monitoring and biodiversity solutions*
+
+* Hikvision and Aramco signed an MoU to explore AI and advanced imaging for environmental monitoring, biodiversity protection and other sustainability initiatives
+* The proposed scope includes AI-enabled native vegetation health monitoring, fauna assessment and monitoring, environmental data analytics and knowledge sharing
+* The collaboration may also explore joint research, technical workshops and digital solutions for environmental assessment and monitoring
+
+Source - https://www.prnewswire.co.uk/news-releases/hikvision-and-aramco-sign-memorandum-of-understanding-to-explore-ai-driven-environmental-monitoring-and-biodiversity-solutions-302906841.html
+
+*Dell Technologies and Tahaluf Partner on AI Solutions for UAE Smart Cities*
+
+* Dell Technologies and Tahaluf Al Emarat Technical Solutions signed an MoU to develop AI-powered solutions for UAE public-sector urban services and public safety
+* The agreement was signed at AI Everything in Abu Dhabi by Walid Yehia, Managing Director South Gulf at Dell Technologies, and Dr. Ahmed Musabbeh Al Kaabi, CEO of Tahaluf
+* The partnership pairs Dell's AI and edge computing with Tahaluf's in-vehicle technology platform for onboard processing and operational data workflows
+
+Source - https://techafricanews.com/2026/10/13/dell-technologies-tahaluf-ai-solutions-uae-smart-cities/
+
+*Etisalat UAE and DataRobot deepen strategic partnership to advance sovereign agentic AI*
+
+* The companies signed a new multi-year agreement to build, run and govern AI agents across Etisalat UAE's business units
+* Etisalat UAE will host the DataRobot Agent Workforce Platform in its own data centre, keeping sensitive data and AI workloads on infrastructure it manages
+* The partnership began in 2022 with predictive projects such as churn prevention and credit risk optimization
+
+Source - https://www.datarobot.com/newsroom/press/etisalat-uae-and-datarobot-deepen-strategic-partnership-to-advance-sovereign-agentic-ai/
+
+*Sharjah Digital Department and Amazon Web Services sign MoU to strengthen digital capabilities and government innovation*
+
+* The MoU was signed on the sidelines of AWS Summit 2026 by Sheikh Saud bin Sultan Al Qasimi, Director General of SDD, and Chris Erasmus, General Manager for the UAE and Rest of MENA at AWS
+* The partners will cooperate on specialised training programmes to develop government professionals' skills in artificial intelligence and cloud computing
+* The cooperation covers exchanging expertise on technology policies, data classification and data privacy
+
+Source - https://www.zawya.com/en/press-release/companies-news/sharjah-digital-department-and-amazon-web-services-sign-mou-to-strengthen-digital-capabilities-and-government-innovation-1642026
+
+*بلدية مسقط توقع اتفاقية مشروع النظام البلدي الموحد*
+
+* وقّع الاتفاقية رئيس بلدية مسقط المهندس أحمد بن سعيد العامري، وعن شركة تابعة لمجموعة إذكاء المهندس طالب بن حمود الراشدي الرئيس التنفيذي للمجموعة بالوكالة
+* يهدف المشروع إلى جمع الخدمات البلدية في مختلف محافظات السلطنة على منصة رقمية واحدة تشمل تراخيص البناء وعقود الإيجار والتصاريح
+* يعتمد المشروع على الأنظمة الجغرافية المكانية لتوحيد البيانات البلدية ويمهّد لاستخدام الذكاء الاصطناعي بما يتماشى مع رؤية عُمان 2040
+
+Source - https://omannews.gov.om/topics/ar/7/show/475015/ona
+
+*Dubai CommerCity and Tencent Cloud strengthen digital economy competitiveness and accelerate digital commerce growth*
+
+* Dubai CommerCity signed the agreement with Tencent Cloud at Tencent's headquarters in Shenzhen during a delegation visit led by Director General Amna Lootah
+* Tencent Cloud will make its products and services available to companies registered in DCC
+* The collaboration includes events, exhibitions, hackathons and workshops, supporting Dubai's Economic Agenda D33
+
+Source - https://www.zawya.com/en/press-release/government-news/dubai-commercity-and-tencent-cloud-strengthen-digital-economy-competitiveness-and-accelerate-digital-commerce-growth-1638833
+
+*Türk Telekom Reshapes Senior IT and Corporate Risk Leadership*
+
+* IT Assistant General Manager Gökhan Evren and Head of Corporate Risk Serdar Toraman are leaving their roles
+* Bilal Topal, previously Legal Collections Director, has been named acting IT Assistant General Manager
+* Oğuzhan Şatıroğlu, previously Executive and CEO General Governance Coordinator, has been named Head of Corporate Risk
+
+Source - https://www.tipranks.com/news/company-announcements/turk-telekom-reshapes-senior-it-and-corporate-risk-leadership
+
+*MTN hits 10Gbit/s wireless speeds in South African 5G-Advanced trial*
+
+* MTN reported a peak download speed of 10.35Gbit/s in a 5G-Advanced trial at a single site at its Johannesburg headquarters
+* The trial used 400MHz in the upper 6GHz band under a temporary radio licence from Icasa, and no operator has yet been assigned any of the band
+* MTN worked with Huawei, using a standalone 5G core and beamforming wideband antennas
+
+Source - https://techcentral.co.za/mtn-6ghz-5g-advanced-trial-10gbit/287234/
+
+*Saudi National Arrested for Installing Surreptitious Audio Recording Device at OpenAI*
+
+* Abdulrahman Alfozan, 35, a Saudi national and OpenAI engineer since July 2025, was arrested on October 9 and made his initial federal court appearance on October 13
+* A device hidden in toilet paper was discovered about September 30 in a USB port on a television in an executive conference room in San Francisco
+* The charge carries a maximum of 5 years in prison and a $250,000 fine, and the case involves the National Security Division's Counterintelligence and Export Control Section
+
+Source - https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai
+
+*Bot Auto Selects Lenovo AD1 built on NVIDIA Hyperion to Scale Driverless Trucking*
+
+* Bot Auto chose Lenovo's AD1 domain controller, built on NVIDIA Hyperion, as the production compute platform for its Class 8 driverless trucks, with integration beginning in Q1 2027
+* Bot Auto expects total autonomous-driving hardware cost, including compute and sensors, of $50,000 per truck
+* The AD1 is rated for continuous operation from -40°C to 85°C and delivers up to 2,000 FP4 TFLOPS of AI compute
+
+Source - https://www.prnewswire.com/news-releases/bot-auto-selects-lenovo-ad1-built-on-nvidia-hyperion-to-scale-driverless-trucking-302906575.html
+
+*Musk Blasts Memory Chipmakers Over "Extortionate" Pricing, Praises Micron*
+
+* Elon Musk said on X that Micron had been reasonable about future memory prices while other suppliers had demanded "extortionate prices"
+* J.P. Morgan projected a memory chip supply shortfall of about 20% this year, 19% in 2027 and 15% in 2028, with the HBM market growing from about $64 billion to $280 billion in 2028
+* According to J.P. Morgan, Micron has secured 26 long-term supply contracts and committed more than 75% of its fiscal 2027 output
+
+Source - https://en.sedaily.com/finance/2026/10/14/musk-blasts-memory-chipmakers-over-extortionate-pricing
+
+*記憶體越賺越要小心 大摩提醒股價往往比獲利先見頂*
+
+* 大摩認為，三星與SK海力士約3至4倍的遠期本益比，可能正是週期股接近獲利高峰時的估值陷阱
+* 2008年與2012年，相關股票均比獲利高峰提早約4個月見頂；2018年，時間差更擴大至約8個月
+* 若要支撐目前股價隱含的進一步上漲空間，DRAM合約價仍需較上季上漲約70%，實現難度很高
+
+Source - https://news.cnyes.com/news/id/6629977
+
+*Samsung, SK Hynix Sink on CXMT DRAM Tease*
+
+* CXMT teased a 4F² DRAM design it says reduces memory cell area by 33% versus the mainstream 6F² method, without disclosing specifications or a release timeline
+* Samsung Electronics fell 7.39% and SK Hynix fell 10.09% on Oct. 13
+* Shin Seung-yoon of Hanwha Investment & Securities estimated a 1.5 to 2 generation technology gap, while Kim Byung-yeon of NH Investment & Securities said CXMT will struggle to resolve the supply shortage in the short term without ASML EUV equipment
+
+Source - https://www.businesskorea.co.kr/news/articleView.html?idxno=278792
+
+*ASML reports €11.7 billion total net sales and €5.0 billion net income in Q3 2026*
+
+* Q3 2026 net sales were about €11.7 billion with a 57.5% gross margin, and net income was about €5.0 billion
+* ASML expects Q4 2026 net sales of €14.2 to €15.2 billion and full-year 2026 net sales of €44 to €45 billion
+* CEO Christophe Fouquet said supply planned for 2027 and 2028 "will not fully meet the demand of our customers"
+
+Source - https://www.marketscreener.com/news/asml-reports-a-11-7-billion-total-net-sales-and-a-5-0-billion-net-income-in-q3-2026-ce785dd2db8af122

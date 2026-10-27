@@ -1,0 +1,287 @@
+{
+    "date":  "2026-10-11",
+    "window":  "Sat 10 Oct 2026 05:39 → Sun 11 Oct 2026 05:39 KSA (UTC+3), i.e. 02:39 → 02:39 UTC.",
+    "headline":  "A Houthi missile strike on King Khalid International Airport killed 12 people and injured 309 on Saturday, GACA said, suspending operations, and Dammam airport was attacked for the first time. Organisers say the World Petroleum Congress and FII10 will go ahead despite UK, French and German travel warnings. It was a quiet weekend for tech deals: no HUMAIN, ALAT, Aramco Digital or stc releases and no Gulf data-centre build. On components, NVIDIA has reportedly stopped supplying GB202 for the RTX 5090, and AMD has raised GDDR6 prices to board partners.",
+    "lenovo_read":  "For the next three weeks this is an operations and continuity story: protect RHQ people and logistics, decide FII10 attendance and fill the executive slate, and raise continuity and DR quietly through existing account channels. The IDC Q3 PC data (Lenovo -22.6%, still #1) landed during the gap between digests (added on request as a catch-up story) and needs a channel note.",
+    "pillars":  {
+                    "dc":  "1 scored: Nigeria 200 MW capacity target (policy, no operator named). No KSA or GCC build first published in the window.",
+                    "memory":  "2 scored: NVIDIA RTX 5090/GB202 reallocation (leak), AMD GDDR6 partner price rise. No new contract print; DRAMeXchange DDR5 16Gb spot $58.900 on 9 Oct.",
+                    "deals":  "Yasmina strategic investment (signed at Money20/20), Global SWF regional deal tally, Pakistan IT Park operator tender. No hardware OEM named; Tadawul closed.",
+                    "global":  "Nvidia–Reflection AI talks. Chinese rule: Huawei Kenya cybersecurity competition; status lines for the rest. No in-window META move by US majors."
+                },
+    "stories":  [
+                    {
+                        "id":  "2026-10-11-01",
+                        "tier":  "KSA",
+                        "pillar":  "AI \u0026 markets",
+                        "band":  "FLASH",
+                        "score":  18,
+                        "title":  "Riyadh airport attack killed 12 people and wounded over 300 more, says Saudi civil aviation agency",
+                        "source":  "Arab News",
+                        "published":  "10 Oct 2026 18:15 KSA",
+                        "country":  "Saudi Arabia",
+                        "summary":  "GACA says Saturday\u0027s missile attack on King Khalid International Airport killed 12 and injured 309. Operations were suspended, at least 291 flights were cancelled, and Dammam\u0027s King Fahd International Airport was also attacked.",
+                        "bullets":  [
+                                        "GACA said 12 people were killed and 309 injured in Saturday\u0027s missile attack on King Khalid International Airport, some of them critically",
+                                        "The dead were four Saudis, two Bangladeshis, and one each from Palestine, the US, Egypt, Jordan, Syria and Sudan",
+                                        "GACA temporarily suspended operations, FlightAware reported at least 291 cancelled flights at Riyadh airport in 24 hours, and King Fahd International Airport in Dammam was also attacked"
+                                    ],
+                        "lenovo":  "Direct RHQ operating risk: staff travel, FII10 executives and air freight via RUH and DMM. Continuity and DR becomes a board-level requirement at KSA accounts (ISG/SSG, OPP-061); raise it through account channels only.",
+                        "url":  "https://www.arabnews.com/saudi-arabia/riyadh-airport-attack-killed-12-people-and-wounded-over-300-more-says-saudi-civil-aviation-agency-3005640",
+                        "arabic":  "أعلنت الهيئة العامة للطيران المدني مقتل 12 شخصاً وإصابة 309 في هجوم صاروخي على مطار الملك خالد الدولي بالرياض، مع تعليق مؤقت للعمليات واستهداف مطار الملك فهد بالدمام لأول مرة.",
+                        "image":  "img/2026-10-11-01.jpg"
+                    },
+                    {
+                        "id":  "2026-10-11-02",
+                        "tier":  "KSA",
+                        "pillar":  "AI \u0026 markets",
+                        "band":  "HIGH",
+                        "score":  15,
+                        "title":  "Major Saudi conferences to proceed, organisers say, despite deadly airport attack",
+                        "source":  "Reuters (via Business Recorder)",
+                        "published":  "10 Oct 2026 ~14:33 KSA",
+                        "country":  "Saudi Arabia",
+                        "summary":  "WPC (11–15 Oct) and FII10 (26–29 Oct) will go ahead with security at airports, venues and hotels. The UK, France and Germany have warned their citizens to avoid Riyadh.",
+                        "bullets":  [
+                                        "The World Petroleum Congress will proceed as planned from Sunday to Thursday with foreign leaders and ministers attending, and organisers noted a four-hour drive from Dammam as an alternative route",
+                                        "The Future Investment Initiative will also proceed as planned from October 26-29, with security measures at Riyadh\u0027s airports, conference venues and official hotels",
+                                        "The UK, France and Germany have warned their citizens to avoid Riyadh, and Italian Energy Minister Gilberto Pichetto Fratin will join the IEF ministerial by video link"
+                                    ],
+                        "lenovo":  "FII10 is the quarter\u0027s main executive-access event for HUMAIN, PIF portfolio and ministries; with peers thinning out, attendees get more access. RHQ needs a go/no-go and travel-security plan this week.",
+                        "url":  "https://www.brecorder.com/news/40443656/major-saudi-conferences-to-proceed-organisers-say-despite-deadly-airport-attack",
+                        "arabic":  "أكد منظمو مؤتمر البترول العالمي ومبادرة مستقبل الاستثمار المضي في انعقادهما بالرياض هذا الشهر مع إجراءات أمنية مشددة، رغم تحذيرات بريطانيا وفرنسا وألمانيا من السفر إلى الرياض.",
+                        "image":  null
+                    },
+                    {
+                        "id":  "2026-10-11-03",
+                        "tier":  "KSA",
+                        "pillar":  "AI \u0026 markets",
+                        "band":  "MONITOR",
+                        "score":  12,
+                        "title":  "Tawakkalna App surpasses 30 billion operations, with over 36.7 million users",
+                        "source":  "Saudi Gazette",
+                        "published":  "10 Oct 2026 16:56 KSA",
+                        "country":  "Saudi Arabia",
+                        "summary":  "SDAIA\u0027s Tawakkalna has processed over 30 billion transactions since 2020, about 88 million a day, with 36.7 million registered users and 1,800+ services from 380 entities.",
+                        "bullets":  [
+                                        "Tawakkalna has processed more than 30 billion transactions since its launch in 2020, averaging 88 million operations daily",
+                                        "Registered users exceed 36.7 million, with more than 2.1 million daily active users accessing over 1,800 services from 380 entities",
+                                        "The digital wallet hosts over 800 categories of official documents and has recorded more than 3.6 billion views"
+                                    ],
+                        "lenovo":  "Scale proof for SDAIA\u0027s platform estate and steady growth in government compute and storage load (ISG); supports the National Data Lake conversation (OPP-002). No vendor disclosed.",
+                        "url":  "https://saudigazette.com.sa/article/665283/saudi-arabia/tawakkalna-app-surpasses-30-billion-operations-with-over-367-million-users",
+                        "arabic":  "تجاوز تطبيق «توكلنا» التابع لسدايا 30 مليار عملية منذ إطلاقه بمعدل 88 مليون عملية يومياً، وأكثر من 36.7 مليون مستخدم مسجل و1800 خدمة من 380 جهة.",
+                        "image":  null
+                    },
+                    {
+                        "id":  "2026-10-11-04",
+                        "tier":  "KSA",
+                        "pillar":  "Deals \u0026 MoUs",
+                        "band":  "MONITOR",
+                        "score":  12,
+                        "title":  "136 مليار دولار صفقات متوقعة للصناديق السيادية في المنطقة بنهاية 2026",
+                        "source":  "Okaz",
+                        "published":  "10 Oct 2026 16:40 KSA",
+                        "country":  "Saudi Arabia",
+                        "summary":  "Global SWF: MENA sovereign funds deployed $102bn in 245 deals in 9M 2026 and are projected to reach $136bn by year end; the US took 45% of the value.",
+                        "bullets":  [
+                                        "بلغت استثمارات الصناديق السيادية في الشرق الأوسط وشمال أفريقيا 102 مليار دولار خلال الأشهر التسعة الأولى من 2026 عبر 245 صفقة",
+                                        "استحوذت الولايات المتحدة على 45% من قيمة الاستثمارات بما يعادل 45.6 مليار دولار، تلتها الإمارات بقيمة 18.2 مليار دولار",
+                                        "تتوقع غلوبال إس دبليو إف ارتفاع أصول الصناديق السيادية في المنطقة من 6.1 تريليون دولار في سبتمبر 2026 إلى 8.8 تريليون دولار بحلول 2030"
+                                    ],
+                        "lenovo":  "Context for capital flowing to AI and digital infrastructure; most of it is going outward, which reinforces the ALAT localisation pitch. Not a buying signal on its own.",
+                        "url":  "https://www.okaz.com.sa/economy/na/2270164",
+                        "arabic":  "تتوقع «غلوبال إس دبليو إف» أن تبلغ صفقات الصناديق السيادية في المنطقة 136 مليار دولار بنهاية 2026 بعد 102 مليار دولار في تسعة أشهر عبر 245 صفقة.",
+                        "image":  null
+                    },
+                    {
+                        "id":  "2026-10-11-05",
+                        "tier":  "KSA",
+                        "pillar":  "Deals \u0026 MoUs",
+                        "band":  "LOW",
+                        "score":  10,
+                        "title":  "ياسمينة السعودية تجمع استثمار استراتيجي من صندوق الإنماء التقني لدعم نمو تقنيات التأمين",
+                        "source":  "Jawlah",
+                        "published":  "10 Oct 2026 15:27 KSA (signed at Money20/20, Sep)",
+                        "country":  "Saudi Arabia",
+                        "summary":  "Riyadh insurtech Yasmina received an undisclosed strategic investment from a technology fund; the deal was announced at Money20/20 Middle East in September.",
+                        "bullets":  [
+                                        "حصلت ياسمينة على استثمار استراتيجي من صندوق الإنماء التقني، وأُعلن عن الاتفاقية خلال معرض Money 20/20",
+                                        "تأسست الشركة عام 2023 وتقدم بنية تحتية برمجية لدمج منتجات التأمين في المنصات الرقمية",
+                                        "لم يُعلن عن قيمة الاستثمار"
+                                    ],
+                        "lenovo":  "Low: a small SaaS company. Track the fund as an ecosystem partner for SMB device financing (IDG, links OPP-020/037).",
+                        "url":  "https://jawlah.co/66149",
+                        "arabic":  "حصلت شركة ياسمينة السعودية لتقنيات التأمين على استثمار استراتيجي غير معلن القيمة من صندوق الإنماء التقني، أُعلن خلال معرض Money20/20.",
+                        "image":  "img/2026-10-11-05.jpg"
+                    },
+                    {
+                        "id":  "2026-10-11-06",
+                        "tier":  "GCC/MEA",
+                        "pillar":  "Deals \u0026 MoUs",
+                        "band":  "MONITOR",
+                        "score":  12,
+                        "title":  "PM Shehbaz inaugurates IT Park to drive tech-led growth",
+                        "source":  "The Express Tribune",
+                        "published":  "10 Oct 2026 (~18:25 KSA; first copies 12:18 KSA)",
+                        "country":  "Pakistan",
+                        "summary":  "Pakistan opened the Islamabad National Technology Park (renamed Daanish IT Park); an operator will be chosen through open bidding, with more parks planned in every province.",
+                        "bullets":  [
+                                        "The park will be handed to a company selected through a transparent bidding process open to local and international IT and AI companies",
+                                        "Shehbaz said similar parks will spread across all four provinces, with plans to extend the initiative to Azad Jammu and Kashmir and Gilgit-Baltistan",
+                                        "The foundation stone was laid in 2018 and the project suffered considerable delays"
+                                    ],
+                        "lenovo":  "The operator tender winner will buy shared infrastructure and tenant device fleets (ISG/IDG/SSG). Lenovo Pakistan should partner a likely bidder before the tender is issued.",
+                        "url":  "https://tribune.com.pk/story/2634073/pm-shehbaz-inaugurates-it-park-to-drive-tech-led-growth",
+                        "arabic":  "افتتح رئيس وزراء باكستان مجمع «دانش» لتقنية المعلومات في إسلام آباد على أن تُسند إدارته لمشغل يُختار عبر مناقصة مفتوحة لشركات التقنية والذكاء الاصطناعي المحلية والدولية.",
+                        "image":  null
+                    },
+                    {
+                        "id":  "2026-10-11-07",
+                        "tier":  "GCC/MEA",
+                        "pillar":  "Data centres",
+                        "band":  "LOW",
+                        "score":  10,
+                        "title":  "Nigeria Targets 200MW of Data Centre Capacity, and the Governing Party Chairman Is Asking Where the Power Comes From",
+                        "source":  "iAfrica.com",
+                        "published":  "10 Oct 2026 ~19:02 KSA",
+                        "country":  "Nigeria",
+                        "summary":  "Nigeria targets growth from about 50 MW to 200 MW of data-centre IT load over five years; the National Digital Cloud Policy seeks $750M of private investment in 24 months.",
+                        "bullets":  [
+                                        "Nigeria aims to expand data centre capacity from about 50 MW of IT load to 200 MW over five years",
+                                        "The National Digital Cloud Policy seeks $750 million in private investment into cloud and data infrastructure within 24 months",
+                                        "The policy targets $250 million of that investment in its first year"
+                                    ],
+                        "lenovo":  "A policy target, not a build; the ISG opening will be colocation operators and the sovereign cloud procurement that follows. Watch.",
+                        "url":  "https://iafrica.com/nigeria-targets-200mw-of-data-centre-capacity-and-the-governing-party-chairman-is-asking-where-the-power-comes-from/",
+                        "arabic":  "تستهدف نيجيريا رفع سعة مراكز البيانات من نحو 50 ميغاواط إلى 200 ميغاواط خلال خمس سنوات، مع سياسة سحابية وطنية تسعى لجذب 750 مليون دولار من الاستثمارات الخاصة.",
+                        "image":  "img/2026-10-11-07.jpg"
+                    },
+                    {
+                        "id":  "2026-10-11-08",
+                        "tier":  "GCC/MEA",
+                        "pillar":  "AI \u0026 markets",
+                        "band":  "LOW",
+                        "score":  9,
+                        "title":  "Türk Telekom’dan Avrupa Birinciliği: M-NEO İle Enerjide 3 Katın Üzerinde Tasarruf",
+                        "source":  "RayHaber",
+                        "published":  "10 Oct 2026 (first copies 11:57 KSA)",
+                        "country":  "Türkiye",
+                        "summary":  "Türk Telekom\u0027s AI energy-management platform M-NEO won first place among European operators in Gartner\u0027s 2026 Eye on Innovation Awards.",
+                        "bullets":  [
+                                        "Türk Telekom\u0027un M-NEO Mobil Şebeke Enerji Yönetim Platformu, Gartner\u0027ın Eye on Innovation Awards kapsamında 2026\u0027da Avrupa\u0027daki operatörler arasında birinci oldu",
+                                        "Platform, mobil baz istasyonlarında yapay zekâ destekli enerji yönetimi ile akü kullanımında 3 kattan fazla tasarruf sağlıyor",
+                                        "Türk Telekom, 2024\u0027te NOVA ALFA projesiyle de Avrupa birinciliği kazanmıştı"
+                                    ],
+                        "lenovo":  "In-house AI network operations mean growing on-premises AI and edge compute demand at Türk Telekom (ISG). Account-plan input, not an immediate deal.",
+                        "url":  "https://rayhaber.com/2026/10/turk-telekomdan-avrupa-birinciligi-m-neo-ile-enerjide-3-katin-uzerinde-tasarruf/",
+                        "arabic":  "فازت منصة M-NEO لإدارة طاقة المحطات الخلوية بالذكاء الاصطناعي من ترك تيليكوم بالمركز الأول بين المشغلين الأوروبيين في جوائز Gartner للابتكار 2026.",
+                        "image":  "img/2026-10-11-08.jpg"
+                    },
+                    {
+                        "id":  "2026-10-11-09",
+                        "tier":  "GCC/MEA",
+                        "pillar":  "Global tech in META",
+                        "band":  "RULE",
+                        "score":  6,
+                        "title":  "Huawei hosts cybersecurity, ICT competition in Kiambu",
+                        "source":  "Kenya News Agency",
+                        "published":  "10 Oct 2026 (~20:34 KSA)",
+                        "country":  "Kenya",
+                        "summary":  "Huawei Kenya ran a cybersecurity awareness and ICT competition at Kiambu National Polytechnic with the National Cybersecurity Authority chair attending.",
+                        "bullets":  [
+                                        "Huawei Kenya held a Cybersecurity Awareness and ICT Competition at Kiambu National Polytechnic for students, government officials and technology stakeholders",
+                                        "National Cybersecurity Authority Chairperson Dr Martin Koyabe attended the event",
+                                        "Adam Lane, Huawei Kenya\u0027s Director of Policy and Partnerships, said the company is committed to developing local digital talent"
+                                    ],
+                        "lenovo":  "Huawei\u0027s talent-and-trust playbook with African regulators ahead of government ICT buys; it overlaps Lenovo in servers, storage, PCs and phones. Counter with the OPP-048 brief.",
+                        "url":  "https://www.kenyanews.go.ke/huawei-hosts-cybersecurity-ict-competition-in-kiambu/",
+                        "arabic":  "نظمت هواوي كينيا مسابقة للتوعية بالأمن السيبراني وتقنية المعلومات بحضور رئيس الهيئة الوطنية للأمن السيبراني، ضمن برامجها لبناء الكفاءات المحلية.",
+                        "image":  null
+                    },
+                    {
+                        "id":  "2026-10-11-10",
+                        "tier":  "Global",
+                        "pillar":  "AI \u0026 markets",
+                        "band":  "MONITOR",
+                        "score":  12,
+                        "title":  "Nvidia in talks to invest further in Reflection AI or buy it, FT reports",
+                        "source":  "Reuters (via AOL)",
+                        "published":  "10 Oct 2026 22:32 KSA (FT 21:14 KSA)",
+                        "country":  "United States",
+                        "summary":  "Nvidia is in early talks to invest further in, acquire or acqui-hire US open-model start-up Reflection AI, in which it has already invested $800M.",
+                        "bullets":  [
+                                        "Nvidia has put $800 million into Reflection AI, according to the FT",
+                                        "In April, Reflection\u0027s CEO said the company was raising funds at a $25 billion pre-money valuation",
+                                        "Reflection was founded in 2024 by former DeepMind researchers Misha Laskin and Ioannis Antonoglou"
+                                    ],
+                        "lenovo":  "NVIDIA is moving up into open-weight models, strengthening its full-stack sovereign-AI pitch. Lenovo AI Express and Hybrid AI Factory should include NVIDIA-validated open models as a built-in option.",
+                        "url":  "https://www.aol.com/articles/nvidia-talks-invest-further-reflection-193237000.html",
+                        "arabic":  "تجري إنفيديا محادثات أولية لزيادة استثمارها في شركة Reflection AI للنماذج المفتوحة أو الاستحواذ عليها، بعد أن استثمرت فيها 800 مليون دولار.",
+                        "image":  "img/2026-10-11-10.jpg"
+                    },
+                    {
+                        "id":  "2026-10-11-13",
+                        "tier":  "Global",
+                        "pillar":  "Memory \u0026 components",
+                        "band":  "HIGH",
+                        "score":  16,
+                        "title":  "\"Gets worse before it gets better\" — PC shipments dropped a harsh 20% in Q3, and analysts agree that we haven\u0027t yet seen the bottom",
+                        "source":  "Windows Central (IDC, Omdia data)",
+                        "published":  "9 Oct 2026 16:52 KSA (IDC release 8 Oct) - outside window, added on request",
+                        "country":  "Global",
+                        "summary":  "IDC puts Q3 2026 PC shipments at 62.7M, down 20.1% YoY (Omdia -21.2%), after first-half pull-in ahead of memory-driven price rises. Lenovo stayed #1 at 14.9M units and 23.8% share, down 22.6%; HP fell 30.9% and Dell 25%.",
+                        "bullets":  [
+                                        "IDC reports a 20.1% year-over-year decline in global PC shipments in Q3 2026, while Omdia reports a 21.2% decline, and shipments fell 9.1% from Q2",
+                                        "According to IDC, HP saw the biggest decline at 30.9%, with Lenovo second at 22.6%, Dell down 25% and Apple down 11.3%",
+                                        "IDC\u0027s Jitesh Ubrani says strong first-half pull-in threw off the usual seasonality and channels are now worried about carrying too much inventory"
+                                    ],
+                        "lenovo":  "The quarter\u0027s key IDG data point: Lenovo held #1 and gained relative share against HP and Dell, but the -22.6% headline will be used against us in META deals. Expect HP and Dell channel promotions in the Gulf; lead with supply certainty (ALAT, secured memory allocation, OPP-045/069).",
+                        "url":  "https://www.windowscentral.com/hardware/laptops/global-pc-shipments-drop-20-yoy",
+                        "arabic":  "تراجعت شحنات الحواسيب الشخصية عالمياً 20.1% في الربع الثالث 2026 وفق IDC، وحافظت لينوفو على الصدارة بـ14.9 مليون جهاز وحصة 23.8% رغم انخفاض 22.6%، فيما تراجعت HP بنسبة 30.9%.",
+                        "image":  "img/2026-10-11-13.jpg"
+                    },
+                    {
+                        "id":  "2026-10-11-11",
+                        "tier":  "Global",
+                        "pillar":  "Memory \u0026 components",
+                        "band":  "MONITOR",
+                        "score":  12,
+                        "title":  "Nvidia reportedly halts GeForce RTX 5090 production in favor of AI data center and professional GPUs — impending supply drought expected to drive up prices, RTX 5080 24GB rumored as new gaming flagship",
+                        "source":  "Tom\u0027s Hardware",
+                        "published":  "10 Oct 2026 ~15:20 KSA",
+                        "country":  "Global",
+                        "summary":  "Leakers report NVIDIA will stop supplying GB202 for RTX 5090 boards and use it only for data-centre and professional cards. This is unverified; NVIDIA has not commented.",
+                        "bullets":  [
+                                        "A leaked factory notice cited by @hongxing2020 says Nvidia will no longer manufacture any RTX 5090 models, including the D variants",
+                                        "GB202 silicon will reportedly be used exclusively on data center and professional graphics cards, with the RTX 5080 24GB becoming the highest-end GeForce card",
+                                        "The RTX Pro 5500 has the same 21,760 CUDA cores as the RTX 5090 but comes with 84GB of GDDR7 memory"
+                                    ],
+                        "lenovo":  "Price and supply pressure on Legion flagship SKUs (IDG), but more GB202 may reach RTX Pro for ThinkStation and ISG RTX Pro servers. Confirm META RTX Pro allocation now (OPP-072).",
+                        "url":  "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-halts-geforce-rtx-5090-production-in-favor-of-ai-data-center-and-professional-gpus-impending-supply-drought-expected-to-drive-up-prices-rtx-5080-24gb-rumored-as-new-gaming-flagship",
+                        "arabic":  "تفيد تسريبات بأن إنفيديا أوقفت توريد معالج GB202 لبطاقات RTX 5090 لتوجيهه إلى بطاقات مراكز البيانات والبطاقات الاحترافية، ما يُنذر بشح المعروض وارتفاع الأسعار.",
+                        "image":  "img/2026-10-11-11.jpg"
+                    },
+                    {
+                        "id":  "2026-10-11-12",
+                        "tier":  "Global",
+                        "pillar":  "Memory \u0026 components",
+                        "band":  "LOW",
+                        "score":  11,
+                        "title":  "AMD Hikes GDDR6 Prices For Partners Starting October 1st, While NVIDIA Reportedly Holds Off On GDDR7",
+                        "source":  "Wccftech",
+                        "published":  "10 Oct 2026 17:09 KSA",
+                        "country":  "Global",
+                        "summary":  "AMD has reportedly raised GDDR6 prices to board partners from 1 Oct across Radeon RX 5000 to RX 9000; NVIDIA has not notified a GDDR7 rise.",
+                        "bullets":  [
+                                        "AMD has raised GDDR6 memory prices for its board partners, effective October 1st",
+                                        "The hike affects Radeon RX 5000, 6000, 7000 and RDNA 4-based RX 9000 series, with the RX 9000 series expected to be hit hardest",
+                                        "Other components such as SMD components and PCBs have also risen in price, according to Bench Life"
+                                    ],
+                        "lenovo":  "Memory inflation is reaching discrete-GPU boards: cost pressure on AMD-based consumer and gaming SKUs (IDG). Keep Q4 quotes indexed (OPP-069).",
+                        "url":  "https://wccftech.com/amd-reportedly-raised-gddr6-memory-prices-for-its-partners/",
+                        "arabic":  "رفعت AMD أسعار ذاكرة GDDR6 لشركائها من مصنعي البطاقات اعتباراً من الأول من أكتوبر، مع ارتفاع تكاليف مكونات أخرى، فيما لم تُبلغ إنفيديا شركاءها بزيادة مماثلة.",
+                        "image":  "img/2026-10-11-12.jpg"
+                    }
+                ]
+}

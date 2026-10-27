@@ -1,0 +1,151 @@
+*HUMAIN and DataVolt sign framework agreement with Nebius for large-scale campus in Saudi Arabia*
+
+* Nebius would be an anchor customer, with the contemplated offtake representing up to 50 MW
+* HUMAIN and DataVolt had announced a partnership to develop 100 MW of the 360 MW AI-ready data center at Oxagon
+* The proposed capacity allocation is expected to become operational in phases from Q4 2027, and the agreement was signed on the sidelines of NVIDIA's GTC Berlin conference
+
+Source - https://w.media/humain-and-datavolt-sign-framework-agreement-with-nebius/
+
+*"بحر العرب" تعلن ترسية مشروع مع جامعة الملك عبدالعزيز بقيمة 13.8 مليون ريال*
+
+* بلغت القيمة الإجمالية للمشروع 13.82 مليون ريال سعودي شاملة ضريبة القيمة المضافة
+* يشمل المشروع خدمات مدارة لتشغيل وصيانة الأنظمة الإلكترونية لجامعة الملك عبدالعزيز ويمتد على مدار 3 سنوات
+* من المتوقع توقيع العقد في 19 نوفمبر 2026
+
+Source - https://www.mubasher.info/news/4688377/
+
+*عزم: ترسية مشروع مع المركز الوطني لنظم الموارد الحكومية بقيمة 14.45 مليون ريال*
+
+* رست على عزم السعودية للاتصالات وتقنية المعلومات مشروع دعم أعمال المستفيدين لدى المركز الوطني لنظم الموارد الحكومية بقيمة 14.45 مليون ريال
+* مدة المشروع 36 شهراً، وتاريخ الترسية 7 أكتوبر 2026، واستلمت الشركة إشعار الترسية نهاية يوم الأربعاء 21 أكتوبر 2026
+* يشمل نطاق العمل دراسة الفجوات وتحليلها وتطوير المحتوى الإرشادي وتقديم خدمات دعم المستفيدين في استخدام خدمات الأنظمة
+
+Source - https://www.argaam.com/ar/article/articledetail/id/1946143
+
+*DEWA signs three agreements with global partners during WETEX 2026*
+
+* The agreements were signed by Hussain Lootah, Executive Vice President of Transmission Power at DEWA, in the presence of Saeed Mohammed Al Tayer, and concluded through Moro Hub, a subsidiary of Digital DEWA
+* The agreement with Huawei covers hardware and software products, support and value-added services across ICT infrastructure, networks, data centres, digital substations and cyber security, including support for existing routers, servers and switches
+* The agreement with Nozomi Networks provides a unified framework for managing cybersecurity licences through the Nozomi Vantage platform, while Syskey Softlabs will provide OT log management, asset performance monitoring and network monitoring
+
+Source - https://www.wam.ae/en/article/c2us57j-dewa-signs-three-agreements-with-global-partners
+
+*Aleria Expands UAE Sovereign AI Capacity with 14,000 NVIDIA Rubin GPUs*
+
+* Aleria, an Abu Dhabi-based full-stack AI company and NVIDIA Cloud Partner, is deploying about 14,000 NVIDIA Rubin GPUs in a dedicated 60MW data center in the UAE
+* The deployment also includes 6,000 NVIDIA Groq 3 LPX accelerators and 8,000 NVIDIA Vera CPUs, with NVIDIA Vera Rubin NVL72 systems as the core compute foundation
+* Multiple petabytes of DDN data storage will deliver over 17 TB/s of aggregate read throughput
+
+Source - https://www.einpresswire.com/article/951258220/aleria-expands-uae-sovereign-ai-capacity-with-14-000-nvidia-rubin-gpus
+
+*Aleria and Hyperfusion to Build Modular AI Data Center Designed with NVIDIA Vera Rubin in Abu Dhabi*
+
+* The 10MW modular AI data center in Abu Dhabi is designed for the NVIDIA Vera Rubin platform, with rack densities above 200kW
+* It uses direct-to-chip liquid cooling and a 45°C warm-water loop designed for Gulf conditions
+* The facility is under construction, with service entry targeted for Q1 2027
+
+Source - https://www.einpresswire.com/article/951268598/aleria-and-hyperfusion-to-build-modular-ai-data-center-designed-with-nvidia-vera-rubin-in-abu-dhabi
+
+*Zain and Ooredoo Combine 4,000 Towers in Regional Infrastructure Deal*
+
+* Zain Group and Ooredoo announced the first closing of their regional tower platform, jointly owned with a 50% stake each
+* The platform combines Zain Kuwait's tower assets (ITK) and Ooredoo Qatar's tower assets (Al Abraj), approximately 4,000 towers
+* Additional tower portfolios will be added over time, subject to closing conditions and regulatory and other approvals, while each company keeps its active telecom infrastructure
+
+Source - https://techafricanews.com/2026/10/22/zain-ooredoo-combine-4000-towers-regional-infrastructure-deal/
+
+*AI power demand underestimated, say 81% of energy executives*
+
+* Adipec's Global Energy Report 2026, conducted by Kekst CNC, polled 1,832 energy industry decision-makers across 78 countries
+* 81% expect AI-driven electricity consumption to exceed existing projections, and 32% expect significantly higher demand
+* 43% say technology and AI companies will gain the most influence over the energy sector, and Adipec takes place at Adnec Centre Abu Dhabi from November 2 to 5
+
+Source - https://www.thenationalnews.com/business/energy/2026/10/22/ai-power-demand-underestimated-in-current-forecasts-81-of-energy-executives-say/
+
+*VivoPower, Open Innovation AI to develop sovereign AI data centers across Europe, Gulf and Asia*
+
+* VivoPower and UAE-based Open Innovation AI signed a definitive heads of agreement targeting at least 1 gigawatt of sovereign AI data centers over the next three years
+* Target regions are the Nordics, mainland Europe, the GCC region and selected Asian countries
+* VivoPower will handle site development, power procurement and facility operations, while Open Innovation AI provides orchestration, AI operations and the security layer
+
+Source - https://www.proactiveinvestors.com/companies/news/1100482/vivopower-open-innovation-ai-to-develop-sovereign-ai-data-centers-across-europe-gulf-and-asia-1100482.html
+
+*أوتك وبابليسيس سابينت تبحثان شراكة لدعم تبني الذكاء الاصطناعي المؤسسي في المنطقة*
+
+* وقّعت أوتك، الذراع التقنية التابعة لعُمانتل، وبابليسيس سابينت مذكرة تفاهم لدراسة فرص التعاون المشترك
+* يهدف التعاون إلى تسريع التحول الرقمي وتوسيع استخدام الذكاء الاصطناعي في سلطنة عُمان ومنطقة الشرق الأوسط وأفريقيا
+* تشمل مجالات التعاون المحتملة تصميم الحلول التقنية وتنظيم ورش عمل للابتكار وإطلاق مبادرات تسويقية مشتركة
+
+Source - https://www.mubasher.info/news/4688838/
+
+*Samsung's Lee visits UAE power plant*
+
+* Lee Jae-yong toured the Al Dhafra gas-fired power plant construction site in Abu Dhabi on October 21
+* Samsung C&T is building the plant in a consortium with local contractor Trojan General Contracting
+* Lee met executives from Samsung C&T and Samsung E&A as Samsung explores opportunities in AI data centers and energy infrastructure in the Middle East
+
+Source - https://m.ajupress.com/amp/20261022162127956
+
+*Egypt, Huawei discuss creating national AI-powered digital pathology network*
+
+* Health Minister Khaled Abdel-Ghaffar held talks with Huawei representatives on a national digital pathology and remote diagnosis network powered by AI
+* The network aims to digitise tissue and cell examinations using AI and allow Egyptian specialists to prepare pathology reports remotely
+* The project aims to establish an integrated network for archiving and sharing digital slides between hospitals and oncology centres in different governorates
+
+Source - https://english.ahram.org.eg/NewsContentP/1/580589/Egypt/Egypt,-Huawei-discuss-creating-national-AIpowered-.aspx
+
+*Gartner Forecasts Worldwide IT Spending to Grow 15% in 2027, Totaling $7.35 Trillion*
+
+* Worldwide IT spending is expected to reach $7.35 trillion in 2027, up 15% from 2026
+* Data center systems spending is forecast at $879 billion in 2026 (up 73.8%) and $1,366 billion in 2027 (up 55.5%), while devices reach $916 billion in 2027 (up 8.1%)
+* Over the past 12 months memory prices have more than doubled, and John-David Lovelock said the memflation effect is expected to persist through 2027
+
+Source - https://www.gartner.com/en/newsroom/press-releases/2026-10-21-gartner-forecasts-worldwide-it-spending-to-grow-15-percent-in-2027-totaling-7-point-35-trillion
+
+*Dell AI Factory with NVIDIA Adds a 256-CPU Vera Rack, a Groq 3 LPU Inference Rack, and a 64GB GB10 Desktop*
+
+* The PowerEdge M9882 is a 48U rack with 256 NVIDIA Vera CPUs, available in Q1 CY27
+* The PowerEdge XE9810 is Dell's first Groq LPU rack-scale inference system, available in Q1 CY27, and the air-cooled PowerEdge R8822 ships in October 2026
+* A Dell Modular Data Center with NVIDIA DSX POD is slated for early 2027, and a 64GB Dell Pro Precision with GB10 arrives October 23, 2026
+
+Source - https://www.storagereview.com/news/dell-ai-factory-nvidia-poweredge-m9882-vera-cpu-rack-xe9810-groq-3-gtc-berlin
+
+*SentinelOne and Lenovo Expand Partnership to Bring AI Security & Governance to the ThinkShield Security Portfolio*
+
+* The expanded partnership brings SentinelOne Prompt Security to the Lenovo ThinkShield portfolio, building on the companies' existing EDR collaboration
+* Security teams gain visibility into and control over AI agents and AI use on Lenovo ThinkShield endpoints
+* Nima Baiati of Lenovo said SentinelOne Prompt Security adds another layer of trust into the ThinkShield ecosystem
+
+Source - https://www.sentinelone.com/press/sentinelone-and-lenovo-expand-partnership-to-bring-ai-security-governance-to-the-thinkshield-security-portfolio/
+
+*Meta Reports Third Quarter 2026 Results*
+
+* Revenue was $64.60 billion, an increase of 26% year-over-year, and net income was $9.86 billion including a $9.89 billion charge
+* Capital expenditures, including principal payments on finance leases, were $34.91 billion in the third quarter
+* 2026 capital expenditures are expected in the range of $135-145 billion, and fourth quarter revenue is expected in the range of $73-76 billion
+
+Source - https://www.sec.gov/Archives/edgar/data/0001326801/000162828026066700/meta-09302026xexhibit991.htm
+
+*Handful of Micron workers strike in Taiwan*
+
+* Five striking workers were seen outside the Taoyuan plant, where more than 2,000 employees had planned to stop work
+* The Taoyuan union is demanding a one-off bonus of 83 months' salary and a permanent system sending 15% of operating profits to quarterly worker bonuses
+* Talks with the company were set to continue on Friday, and Micron said it remains eager to maintain continuous communication and dialogue with the union
+
+Source - https://www.freemalaysiatoday.com/category/business/2026/10/22/handful-of-micron-workers-strike-in-taiwan
+
+*[News] Micron Reportedly Rules Out 4F² DRAM Scaling, Backs 6F² and 3D DRAM in Next-Gen Memory Roadmap*
+
+* Scott DeBoer, Micron's president and chief technology and products officer, said 4F² is not on the roadmap right now
+* The 1δ node is expected in volume production in 2H 2027 with a mid-20% bit-density gain, supporting DDR6, LPDDR6, HBM5 and vertical HBM
+* G11 NAND ramps in 2H 2027 with more than 400 layers and twice the bit density of G9
+
+Source - https://www.trendforce.com/news/2026/10/22/news-micron-reportedly-rules-out-4f%c2%b2-dram-scaling-backs-6f%c2%b2-and-3d-dram-in-next-gen-memory-roadmap/
+
+*Seoul stocks slide over 3% on profit-taking amid persistent AI woes*
+
+* The Kospi fell 201.8 points, or 3.52 percent, to 5,533.77
+* Samsung Electronics dropped 4.03 percent to 214,500 won and SK hynix fell 5.49 percent to 1.22 million won
+* Daishin Securities analyst Lee Kyoung-min said Meta and Tesla results did not ease worries about profitability amid heavy AI investment, and the end of SK hynix's share buyback removed support
+
+Source - https://www.koreaherald.com/article/10911736

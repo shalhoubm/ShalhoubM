@@ -1,0 +1,308 @@
+{
+    "date":  "2026-10-25",
+    "window":  "Sat 24 Oct 2026 21:55 → Sun 25 Oct 2026 21:55 KSA (UTC+3), i.e. 24 Oct 18:55 → 25 Oct 18:55 UTC.",
+    "headline":  "HPE turned its Saudi localisation story into a programme with published 2027 targets tied to MCIT\u0027s SAMD programme and alfanar-built servers, a direct challenge to Lenovo\u0027s ALAT differentiator. Saudi Energy filed an electricity tariff adjustment effective 1 January 2027, which resets data-centre power-cost assumptions. Riyadh and Athens committed to finish the East to Med Data Corridor subsea cable on schedule, and Pakistan launched a 500,000-Chromebook student scheme with no OEM named. Memory had no new print, but Korean previews put Samsung and SK hynix\u0027s combined Q3 operating profit above 184 trillion won ahead of the 28-29 Oct calls.",
+    "lenovo_read":  "This week the contest is over localisation credibility, not capacity. HPE now has public KPIs; Lenovo\u0027s ALAT plant is the stronger asset but has no comparable scorecard, so publish one before HPE\u0027s numbers become the MCIT reference.",
+    "pillars":  {
+                    "dc":  "No new META DC build first published in window; DC-relevant signals are the Saudi power tariff reset, the EMC cable commitment and UNCTAD\u0027s $32bn fall in developing-economy DC greenfield investment. Oman\u0027s 400 MW Mubbadrah campus fell in the pre-window gap.",
+                    "memory":  "No DRAMeXchange print (weekend); last reference 23 Oct DDR5 16Gb $61.267, DDR4 16Gb $82.870. Scored: Q3 earnings previews, CXMT capacity (Lenovo named as customer), Omdia 4x smartphone memory cost.",
+                    "deals":  "Quiet: Alfaisal-Saudia Cargo AI MoU and the Saudi-Greece framework only; no KSA/GCC funding round of $20M or more.",
+                    "global":  "HPE Saudi localisation (competitor), Huawei at Milipol Qatar (Chinese rule), Google/Tech Valley Chromebooks in Pakistan."
+                },
+    "stories":  [
+                    {
+                        "id":  "2026-10-25-01",
+                        "tier":  "KSA",
+                        "pillar":  "Global tech in META",
+                        "band":  "HIGH",
+                        "score":  16,
+                        "title":  "\"إتش بي إي\" توسّع التوطين التقني في السعودية ليشمل البرمجيات والملكية الفكرية",
+                        "source":  "Al-Riyadh",
+                        "published":  "25 Oct 2026, 15:03 KSA",
+                        "country":  "Saudi Arabia",
+                        "summary":  "HPE says its Saudi Innovation Centre, founded with Intel in its new Riyadh HQ, is moving Saudi solutions into commercial deployment, with 2027 targets of 30 Saudi companies, 12 solutions and 150 national talents under MCIT\u0027s SAMD programme. Saudi-made servers with alfanar have been produced since 2024.",
+                        "bullets":  [
+                                        "سامر صلاح، مدير برامج تطوير الأسواق الاستراتيجية في الشرق الأوسط لدى إتش بي إي: مركز الابتكار السعودي الذي أسسته الشركة مع إنتل في مقرها الجديد بالرياض ينقل الحلول السعودية من التطوير والاختبار إلى التنفيذ التجاري",
+                                        "المستهدفات بحلول 2027: استقطاب 30 شركة سعودية واعتماد 12 حلاً وتمكين 150 كفاءة وطنية، بالشراكة مع وزارة الاتصالات وتقنية المعلومات وشاهين لأنظمة الذكاء الاصطناعي ومزن وأومني أوبس ضمن برنامج \"صمد\"",
+                                        "بدأت القاعدة المحلية في 2023 وتلتها خوادم مصنعة في المملكة مع الفنار في 2024، وطُبق حل التوأم الرقمي مع شاهين تجارياً لإدارة الحشود في ليب 2026"
+                                    ],
+                        "lenovo":  "A direct ISG competitor is building a measurable local-content programme with MCIT and Saudi ISVs, strengthening HPE\u0027s local-manufacturing claim against ALAT. Counter with a published Lenovo-ALAT scorecard and ISV partnering before the SAMD shortlist hardens.",
+                        "url":  "https://www.alriyadh.com/2212318",
+                        "arabic":  "إتش بي إي تعلن انتقال مركز الابتكار السعودي مع إنتل في الرياض إلى مرحلة التنفيذ التجاري، مستهدفة 30 شركة سعودية و12 حلاً و150 كفاءة وطنية بحلول 2027، ضمن برنامج \"صمد\" مع وزارة الاتصالات وتصنيع خوادم محلياً مع الفنار.",
+                        "image":  "img/2026-10-25-01.jpg"
+                    },
+                    {
+                        "id":  "2026-10-25-02",
+                        "tier":  "KSA",
+                        "pillar":  "Data centres",
+                        "band":  "MONITOR",
+                        "score":  13,
+                        "title":  "Saudi Energy Announces Electricity Service Tariff Adjustment from January 1, 2027",
+                        "source":  "SPA",
+                        "published":  "25 Oct 2026, 15:35 KSA",
+                        "country":  "Saudi Arabia",
+                        "summary":  "Saudi Energy announced an electricity service tariff adjustment effective 1 January 2027, also filed on Tadawul, alongside a royal citizen-support package. Commercial and industrial rates were not verified.",
+                        "bullets":  [
+                                        "The Saudi Energy Company announced an adjustment to the electricity service tariff in accordance with the governance procedures for adjusting energy and water products prices",
+                                        "The adjustment to the tariff will take effect from January 1, 2027",
+                                        "Customers can view details of the adjusted tariff in the attachment and on the company website, se.com.sa"
+                                    ],
+                        "lenovo":  "Power is the largest DC opex line; any commercial or industrial rise strengthens the Neptune liquid-cooling and power-efficient ISG TCO case at KSA operators. Do not quote a percentage until the rates are verified.",
+                        "url":  "https://www.spa.gov.sa/en/N2709801",
+                        "arabic":  "الشركة السعودية للكهرباء تعلن تعديل تعرفة خدمة الكهرباء اعتباراً من 1 يناير 2027، ما يرفع أهمية كفاءة الطاقة في مراكز البيانات بالمملكة؛ تفاصيل التعرفة التجارية والصناعية لم يتم التحقق منها بعد.",
+                        "image":  "img/2026-10-25-02.jpg"
+                    },
+                    {
+                        "id":  "2026-10-25-03",
+                        "tier":  "KSA",
+                        "pillar":  "Deals \u0026 MoUs",
+                        "band":  "MONITOR",
+                        "score":  12,
+                        "title":  "Saudi Arabia, Hellenic Republic Issue Statement at Conclusion of Prime Minister Mitsotakis Visit",
+                        "source":  "SPA",
+                        "published":  "25 Oct 2026, 20:54 KSA",
+                        "country":  "Saudi Arabia",
+                        "summary":  "After talks in Riyadh, Saudi Arabia and Greece reaffirmed their commitment to complete the East to Med Data Corridor subsea cable on schedule and named digital infrastructure, AI and cybersecurity as cooperation priorities. Greek firms were invited to open RHQs in the Kingdom.",
+                        "bullets":  [
+                                        "Both sides acknowledged the progress made on the East to Med Data Corridor (EMC) subsea cable project and reaffirmed their commitment to completing it on schedule",
+                                        "Bilateral trade reached about $1.7 billion in 2025, and both sides agreed to strengthen investment in infrastructure, construction, energy, digital connectivity, logistics and technology",
+                                        "The Saudi side encouraged Greek firms to establish regional headquarters in the Kingdom and explore opportunities linked to Expo 2030 Riyadh and the 2034 FIFA World Cup"
+                                    ],
+                        "lenovo":  "A state-level move to diversify cable routes after the Iranian cable threat; it reinforces the survivable-AI pitch of in-country DR and edge for banks and government (OPP-110).",
+                        "url":  "https://spa.gov.sa/en/N2710073",
+                        "arabic":  "السعودية واليونان تؤكدان في بيان مشترك التقدم في مشروع كابل ممر بيانات الشرق إلى المتوسط (EMC) والالتزام بإنجازه في موعده، مع تعزيز التعاون في الاقتصاد الرقمي والذكاء الاصطناعي والأمن السيبراني.",
+                        "image":  "img/2026-10-25-03.jpg"
+                    },
+                    {
+                        "id":  "2026-10-25-04",
+                        "tier":  "KSA",
+                        "pillar":  "Global tech in META",
+                        "band":  "LOW",
+                        "score":  11,
+                        "title":  "اللجنة المنظمة للقمة العالمية للأمن والتقنية تستعرض برامج القمة وفعالياتها المصاحبة",
+                        "source":  "SPA",
+                        "published":  "25 Oct 2026, 01:13 KSA",
+                        "country":  "Saudi Arabia",
+                        "summary":  "The MOI-led GSTS committee set out GSTS Month (1-30 Nov), the SAIF fair (24-26 Nov, RICEC) and the summit (18-20 Dec, Riyadh), targeting 40,000 visitors, 250 speakers and 100 partners. Elm, Tahakom, Tuwaiq Academy and Tahaluf are the named partners.",
+                        "bullets":  [
+                                        "يسبق القمة \"شهر GSTS\" من 1 إلى 30 نوفمبر 2026م، يليه معرض ومسابقة الأمن والابتكار العالمية (SAIF) من 24 إلى 26 نوفمبر بمركز الرياض الدولي للمؤتمرات والمعارض",
+                                        "تُعقد القمة بمدينة الرياض من 18 إلى 20 ديسمبر 2026م، وتستهدف استقبال 40,000 زائر واستقطاب 250 متحدثاً بمشاركة 100 شريك محلي ودولي",
+                                        "تنظم القمة وزارة الداخلية بالتعاون مع أكاديمية طويق، وشركة \"تحكم\" شريكاً مؤسساً، وشركة \"علم\" شريكاً رئيسياً، فيما تتولى شركة تحالف تنفيذها"
+                                    ],
+                        "lenovo":  "The live KSA public-safety venue now that Intersec Saudi is postponed; no OEM named among 100 sought partners. SSG safe city, ThinkEdge and IDG rugged/education fleets via Elm and Tahakom.",
+                        "url":  "https://spa.gov.sa/ar/N2709441",
+                        "arabic":  "اللجنة المنظمة للقمة العالمية للأمن والتقنية تستعرض البرامج: شهر GSTS من 1 إلى 30 نوفمبر، ومعرض SAIF من 24 إلى 26 نوفمبر، والقمة في الرياض من 18 إلى 20 ديسمبر، مستهدفة 40 ألف زائر و250 متحدثاً و100 شريك.",
+                        "image":  "img/2026-10-25-04.jpg"
+                    },
+                    {
+                        "id":  "2026-10-25-05",
+                        "tier":  "KSA",
+                        "pillar":  "Deals \u0026 MoUs",
+                        "band":  "LOW",
+                        "score":  9,
+                        "title":  "جامعة الفيصل والسعودية للشحن توقعان مذكرة تفاهم لتعزيز أبحاث الذكاء الاصطناعي وتنمية الكفاءات في القطاع اللوجستي",
+                        "source":  "Arqam",
+                        "published":  "25 Oct 2026, 13:52 KSA",
+                        "country":  "Saudi Arabia",
+                        "summary":  "Alfaisal University and Saudia Cargo signed an MoU on joint AI and logistics research, curriculum development, training and workshops, overseen by a steering committee. No value disclosed.",
+                        "bullets":  [
+                                        "تشمل المذكرة برامج بحثية مشتركة في العمليات اللوجستية والتقنيات الناشئة ومنها الذكاء الاصطناعي",
+                                        "وقع المذكرة الدكتور خالد بن مانع القطان عن جامعة الفيصل وهاشم الشريف نائب الرئيس للاستراتيجية عن السعودية للشحن",
+                                        "تتضمن التدريب عبر برنامج \"تمهير\" أو التدريب التعاوني وورش عمل في تطبيقات الذكاء الاصطناعي في اللوجستيات، بإشراف لجنة توجيهية"
+                                    ],
+                        "lenovo":  "Small, but adds to the Saudia Group AI thread; an IDG/ISG AI-lab and education opening at Alfaisal. Low priority.",
+                        "url":  "https://arqam.news/605050/",
+                        "arabic":  "جامعة الفيصل والسعودية للشحن توقعان مذكرة تفاهم لأبحاث مشتركة في الذكاء الاصطناعي واللوجستيات وتطوير المناهج والتدريب التعاوني، بإشراف لجنة توجيهية مشتركة.",
+                        "image":  "img/2026-10-25-05.jpg"
+                    },
+                    {
+                        "id":  "2026-10-25-06",
+                        "tier":  "GCC/MEA",
+                        "pillar":  "Global tech in META",
+                        "band":  "MONITOR",
+                        "score":  14,
+                        "title":  "Pakistan vows to distribute 500,000 Chromebooks to students on merit within two years",
+                        "source":  "Arab News PK",
+                        "published":  "25 Oct 2026, 17:48 KSA",
+                        "country":  "Pakistan",
+                        "summary":  "PM Shehbaz Sharif launched the Prime Minister\u0027s Youth Chromebooks Scheme to distribute 500,000 Chromebooks to students on merit within two years, supplied from the Google/Tech Valley assembly line in Haripur. No budget or OEM brand was disclosed.",
+                        "bullets":  [
+                                        "PM Shehbaz Sharif launched the \"Prime Minister\u0027s Youth Chromebooks Scheme\" in Islamabad on Sunday",
+                                        "Pakistan\u0027s first Google Chromebook assembly line opened in Haripur in November 2025 through a partnership of the government, Google and Tech Valley, and is expected to produce 500,000 Chromebooks by 2026",
+                                        "Sharif said his party\u0027s government had provided 600,000 laptops to students on merit over the past 10 years"
+                                    ],
+                        "lenovo":  "A 500k-unit government education programme in META with no PC OEM named: an IDG opportunity if Tech Valley sources designs from OEMs, a threat if it is white-label. Identify the Haripur device designer before the next tranche.",
+                        "url":  "https://www.arabnews.pk/node/3005234/pakistan",
+                        "arabic":  "رئيس وزراء باكستان يطلق برنامج \"كروم بوك للشباب\" لتوزيع 500 ألف جهاز على الطلاب خلال عامين، من خط تجميع هاريبور بالشراكة مع غوغل وتك فالي، دون الإفصاح عن الميزانية أو الشركة المصنعة.",
+                        "image":  null
+                    },
+                    {
+                        "id":  "2026-10-25-07",
+                        "tier":  "GCC/MEA",
+                        "pillar":  "Deals \u0026 MoUs",
+                        "band":  "LOW",
+                        "score":  11,
+                        "title":  "Adnoc offers $16.3bn in manufacturing opportunities to UAE suppliers",
+                        "source":  "The National",
+                        "published":  "25 Oct 2026, 13:44 KSA (first copy)",
+                        "country":  "UAE",
+                        "summary":  "ADNOC offered more than Dh60bn ($16.3bn) of local manufacturing opportunities across 200+ items and, from 1 Nov, will score commercial and ICV offers 70/30. It has reached Dh80bn of its Dh90bn 2030 target.",
+                        "bullets":  [
+                                        "Adnoc is offering more than Dh60 billion ($16.3 billion) in local manufacturing opportunities covering over 200 key items and critical spares",
+                                        "From November 1, commercial and ICV offers will be scored together, weighted 70 per cent commercial and 30 per cent ICV",
+                                        "Adnoc has reached Dh80 billion of its Dh90 billion local manufacturing target for 2030, localising more than 130 products and setting up or expanding 95 factories"
+                                    ],
+                        "lenovo":  "Not an IT tender, but the 70/30 ICV scoring applies to all ADNOC suppliers including ICT; UAE-serviced Lenovo offers and SSG lifecycle services score better. ADIPEC 2-5 Nov is the venue.",
+                        "url":  "https://www.thenationalnews.com/business/energy/2026/10/25/adnoc-offers-163bn-in-manufacturing-opportunities-to-uae-suppliers/",
+                        "arabic":  "أدنوك تطرح فرص تصنيع محلي بأكثر من 60 مليار درهم (16.3 مليار دولار) لأكثر من 200 منتج، وتعتمد من 1 نوفمبر تقييماً يجمع العرض التجاري بنسبة 70% والقيمة المحلية المضافة بنسبة 30%.",
+                        "image":  "img/2026-10-25-07.jpg"
+                    },
+                    {
+                        "id":  "2026-10-25-08",
+                        "tier":  "GCC/MEA",
+                        "pillar":  "AI \u0026 markets",
+                        "band":  "LOW",
+                        "score":  11,
+                        "title":  "World Investment Forum 2026 opens in Qatar",
+                        "source":  "UNCTAD",
+                        "published":  "25 Oct 2026, 01:00 KSA",
+                        "country":  "Qatar",
+                        "summary":  "UNCTAD\u0027s 9th World Investment Forum opened in Doha (25-27 Oct) with more than 5,000 participants and a first dedicated AI track; a GCC investment report was released alongside.",
+                        "bullets":  [
+                                        "The ninth World Investment Forum runs 25 to 27 October in Doha with more than 5,000 participants, including four prime ministers and nearly 50 ministers",
+                                        "More than 80 sessions and over 400 speakers, with artificial intelligence getting a dedicated track for the first time",
+                                        "Gulf Cooperation Council, Caribbean and Eurasian Economic Union investment reports were released alongside the Forum"
+                                    ],
+                        "lenovo":  "Use the GCC investment report in account planning; the forum\u0027s AI track frames sovereign AI investment appetite.",
+                        "url":  "https://unctad.org/news/world-investment-forum-2026-opens-qatar",
+                        "arabic":  "انطلاق منتدى الاستثمار العالمي 2026 في الدوحة بمسار مخصص للذكاء الاصطناعي، والأونكتاد يرصد تراجع الاستثمار في مراكز البيانات بالدول النامية بمقدار 32 مليار دولار وانخفاض المشاريع الجديدة في غرب آسيا 52%.",
+                        "image":  "img/2026-10-25-08.jpg"
+                    },
+                    {
+                        "id":  "2026-10-25-09",
+                        "tier":  "GCC/MEA",
+                        "pillar":  "Data centres",
+                        "band":  "LOW",
+                        "score":  11,
+                        "title":  "Global investment rises as new projects decline, UNCTAD report finds",
+                        "source":  "UNCTAD",
+                        "published":  "25 Oct 2026, 01:00 KSA",
+                        "country":  "Qatar",
+                        "summary":  "UNCTAD\u0027s Global Investment Trends Monitor finds announced greenfield data-centre investment in developing economies fell by $32bn, West Asia greenfield announcements fell 52% in H1 2026 and GCC outward project finance more than halved in Q2.",
+                        "bullets":  [
+                                        "Announced greenfield investment in data centres in developing economies fell by $32 billion",
+                                        "New greenfield project announcements in West Asia dropped 52% in the first half of 2026 compared with the same period in 2025",
+                                        "Outward project finance by Gulf Cooperation Council investors more than halved in the second quarter"
+                                    ],
+                        "lenovo":  "Counter-data for management: META DC buyers are likely to stage builds and favour modular, phased capacity (ISG modular AI factories) rather than cancel.",
+                        "url":  "https://unctad.org/news/global-investment-rises-new-projects-decline-unctad-report-finds",
+                        "arabic":  "انطلاق منتدى الاستثمار العالمي 2026 في الدوحة بمسار مخصص للذكاء الاصطناعي، والأونكتاد يرصد تراجع الاستثمار في مراكز البيانات بالدول النامية بمقدار 32 مليار دولار وانخفاض المشاريع الجديدة في غرب آسيا 52%.",
+                        "image":  "img/2026-10-25-09.jpg"
+                    },
+                    {
+                        "id":  "2026-10-25-10",
+                        "tier":  "GCC/MEA",
+                        "pillar":  "Global tech in META",
+                        "band":  "RULE",
+                        "score":  8,
+                        "title":  "Huawei highlights AI-driven security, resilient infrastructure at Milipol Qatar",
+                        "source":  "Gulf Times",
+                        "published":  "25 Oct 2026, 00:00 KSA",
+                        "country":  "Qatar",
+                        "summary":  "Huawei Gulf North CSO Sultan Malik pitched the All Intelligence strategy and full-stack AI-ready infrastructure across networks, storage, compute and cloud at Milipol Qatar. No customers or deals were named.",
+                        "bullets":  [
+                                        "Sultan Malik, chief security officer at Huawei Gulf North, spoke on the sidelines of Milipol Qatar 2026",
+                                        "Huawei is pursuing an \"All Intelligence\" strategy centred on AI, cybersecurity, edge computing and digital infrastructure",
+                                        "Huawei is applying its capabilities across networks, storage, computing and cloud to help industries build AI-ready infrastructure"
+                                    ],
+                        "lenovo":  "Included by the Chinese rule: Huawei full-stack AI infrastructure and edge for Qatar public-safety buyers overlaps ISG storage/compute and ThinkEdge; counter on trust and compliance.",
+                        "url":  "https://www.gulf-times.com/article/736597/qatar/huawei-highlights-ai-driven-security-resilient-infrastructure-at-milipol-qatar",
+                        "arabic":  "هواوي تعرض في ميليبول قطر استراتيجية \"كل شيء ذكي\" وبنية تحتية جاهزة للذكاء الاصطناعي تشمل الشبكات والتخزين والحوسبة والسحابة مع تركيز على الأمن السيبراني.",
+                        "image":  "img/2026-10-25-10.jpg"
+                    },
+                    {
+                        "id":  "2026-10-25-11",
+                        "tier":  "Global",
+                        "pillar":  "AI \u0026 markets",
+                        "band":  "LOW",
+                        "score":  10,
+                        "title":  "Countries torn between U.S. and Chinese AI blocs",
+                        "source":  "Ticker News (AP)",
+                        "published":  "25 Oct 2026, 10:12 KSA",
+                        "country":  "Global",
+                        "summary":  "AP-based feature on the US-led Pax Silica and China\u0027s WAICO forming rival AI blocs; Kazakhstan joined WAICO and has a $10bn Nvidia data-centre deal, and Saudi Arabia is named as pursuing varied partnerships.",
+                        "bullets":  [
+                                        "Kazakhstan\u0027s AI minister Zhaslan Madiyev signed an agreement in China to become a founding member of its AI initiative three weeks after attending a U.S. AI summit",
+                                        "Kazakhstan also reached a $10 billion investment deal with Nvidia for a data centre valley",
+                                        "Saudi Arabia is named alongside France as pursuing varied partnerships for AI development"
+                                    ],
+                        "lenovo":  "KSA\u0027s hedging keeps US-stack and Chinese-stack suppliers in play; lead with US export-control compliance for HUMAIN-class buyers.",
+                        "url":  "https://tickernews.co/countries-torn-between-u-s-and-chinese-ai-blocs/",
+                        "arabic":  "تقرير: دول العالم تتأرجح بين تكتلي الذكاء الاصطناعي الأمريكي (باكس سيليكا) والصيني (وايكو)، والسعودية تنتهج شراكات متنوعة، فيما تبرم كازاخستان صفقة بقيمة 10 مليارات دولار مع إنفيديا.",
+                        "image":  "img/2026-10-25-11.jpg"
+                    },
+                    {
+                        "id":  "2026-10-25-12",
+                        "tier":  "Global",
+                        "pillar":  "Memory \u0026 components",
+                        "band":  "LOW",
+                        "score":  10,
+                        "title":  "Samsung and SK Hynix Post 180 Trillion Won Profit, Market Unimpressed",
+                        "source":  "Chosun Ilbo English",
+                        "published":  "25 Oct 2026, 11:00 KSA",
+                        "country":  "South Korea",
+                        "summary":  "FnGuide consensus puts SK hynix Q3 OP at 76.964T won; with Samsung\u0027s preliminary 107.4T won the combined figure exceeds 184T won. TrendForce forecasts HBM ASP up 121% next year; Meritz and KB analysts expect higher returns and upward revisions.",
+                        "bullets":  [
+                                        "According to FnGuide, SK Hynix\u0027s third-quarter operating profit is projected at 76.964 trillion won; adding Samsung\u0027s preliminary 107.4 trillion won, the combined figure exceeds 184 trillion won",
+                                        "TrendForce forecasts the average HBM selling price next year will rise 121% from this year, with next year\u0027s production volume reportedly sold out",
+                                        "Kim Sun-woo of Meritz Securities said there is a high possibility of a shareholder return plan exceeding initial expectations"
+                                    ],
+                        "lenovo":  "Suppliers favour cash returns and multi-year LTAs over capacity; secure 2027 allocation through Lenovo\u0027s global LTAs and keep price-protection clauses on DDR5/HBM-heavy META quotes.",
+                        "url":  "https://www.chosun.com/english/industry-en/2026/10/25/S4PAODF6ZVB77ICCOCEYHICJDM/",
+                        "arabic":  "توقعات بأرباح تشغيلية مجمعة لسامسونج وإس كيه هاينكس تتجاوز 184 تريليون وون في الربع الثالث، مع توقع ارتفاع أسعار ذاكرة HBM بنسبة 121% العام المقبل، وترقب لإعلان النتائج يومي 28 و29 أكتوبر.",
+                        "image":  "img/2026-10-25-12.jpg"
+                    },
+                    {
+                        "id":  "2026-10-25-13",
+                        "tier":  "Global",
+                        "pillar":  "Memory \u0026 components",
+                        "band":  "LOW",
+                        "score":  11,
+                        "title":  "[반도체포커스] 대만 반도체 전문가 \"中 CXMT, 내년 D램 생산능력 마이크론 추월 가능\"",
+                        "source":  "Economy Tribune",
+                        "published":  "25 Oct 2026, 09:45 KSA",
+                        "country":  "China",
+                        "summary":  "Isaiah Research sees CXMT at 300k DRAM wafers/month by end-2026 and 360k in 2027; a Taiwanese analyst says it could pass Micron by capacity in 2027, while SemiAnalysis disagrees. CXMT reportedly sells about 90% of output to Chinese firms including Huawei, Xiaomi and Lenovo.",
+                        "bullets":  [
+                                        "이사야리서치는 CXMT의 D램 생산능력이 2026년 말 월 30만장, 내년 상하이 신규 팹 양산 시 월 36만장으로 늘어날 것으로 전망",
+                                        "吳金榮 전 데이터퀘스트 대만 지사장은 CXMT가 이르면 2027년 웨이퍼 생산능력 기준으로 마이크론을 제치고 3위 D램 업체가 될 수 있다고 밝힘",
+                                        "CXMT는 생산량의 약 90%를 화웨이, 샤오미, 레노버 등 중국 기업에 공급하는 것으로 알려짐"
+                                    ],
+                        "lenovo":  "CXMT prices at par and rations exports, so it is no cheap-supply valve; its Lenovo supply link may draw questions from US-aligned META buyers, so be ready to state memory sourcing for META ISG configurations.",
+                        "url":  "https://www.economytribune.co.kr/news/articleView.html?idxno=3904238",
+                        "arabic":  "خبير تايواني: شركة CXMT الصينية قد تتجاوز مايكرون في طاقة إنتاج ذاكرة DRAM عام 2027، وتورد نحو 90% من إنتاجها لشركات صينية بينها هواوي وشاومي ولينوفو، دون خفض للأسعار.",
+                        "image":  "img/2026-10-25-13.jpg"
+                    },
+                    {
+                        "id":  "2026-10-25-14",
+                        "tier":  "Global",
+                        "pillar":  "Memory \u0026 components",
+                        "band":  "LOW",
+                        "score":  9,
+                        "title":  "“믿었던 보급형마저” 삼성, 갤럭시A 감산·S 사양 조정 검토",
+                        "source":  "IT Chosun",
+                        "published":  "25 Oct 2026, 01:00 KSA",
+                        "country":  "South Korea",
+                        "summary":  "Samsung is reportedly weighing cutting its 2027 Galaxy A target from 120M to about 100M units and fitting 8GB RAM to S27 base and Plus models. Omdia says the smartphone 8GB DRAM + 256GB NAND cost rose from $35 to $140 in a year.",
+                        "bullets":  [
+                                        "삼성전자는 내년 갤럭시 A시리즈의 연간 출하 목표를 1억2000만대에서 1억대 안팎으로 낮추는 방안을 검토 중인 것으로 알려짐",
+                                        "옴디아에 따르면 스마트폰용 8GB D램과 256GB 낸드플래시 조합 가격은 지난해 3분기 35달러에서 올해 3분기 140달러로 약 4배 상승",
+                                        "삼성전자는 갤럭시 S27 기본형과 플러스 모델에 8GB 램을 적용하는 방안을 검토 중이며, 현재 S26 기본형과 플러스에는 12GB 램이 탑재"
+                                    ],
+                        "lenovo":  "Samsung cutting entry-tier volume opens shelf space for Motorola in price-sensitive META markets, though the same 4x memory bill applies; IDG should pre-agree memory configurations for 2027 education and government tenders.",
+                        "url":  "https://it.chosun.com/news/articleView.html?idxno=2023092172577",
+                        "arabic":  "سامسونج تدرس خفض شحنات سلسلة جالاكسي A في 2027 إلى نحو 100 مليون جهاز وتقليل الذاكرة في S27، بعد أن تضاعفت كلفة الذاكرة في الهواتف أربع مرات إلى 140 دولاراً وفق أومديا.",
+                        "image":  "img/2026-10-25-14.jpg"
+                    }
+                ]
+}

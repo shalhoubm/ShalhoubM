@@ -1,0 +1,165 @@
+*Saudi Aramco headquarters suffered extensive damage in Houthi attack, sources say*
+
+* Aramco's Dhahran HQ suffered extensive damage in an attack on Oct 13, with fire spreading across several floors, three people with direct knowledge told Reuters
+* A fire started on the ninth floor of the south wing and spread between the sixth and 10th floors; the top three floors, where CEO Amin Nasser's office is located, were severely damaged
+* Operations at the complex have continued normally, but some employees have been asked to work from home, and some functions have been shifted to global offices
+
+Source - https://www.straitstimes.com/world/middle-east/aramcos-dhahran-hq-suffered-extensive-damage-in-tuesdays-attack-sources-say
+
+*Exclusive / Saudi set to drop plans for five 2034 World Cup stadiums*
+
+* PIF is preparing to tell FIFA organizers it will drop five proposed new stadiums for the 2034 World Cup, leaving 10 stadiums for matches
+* The stadiums being dropped are in King Abdullah Economic City, Qiddiya Coast, Roshn, New Murabba and NEOM
+* Saudi Arabia is still proceeding with stadiums in Dhahran (developed by Saudi Aramco), King Salman International Stadium and Prince Mohammed bin Salman Stadium in Riyadh
+
+Source - https://www.semafor.com/article/10/14/2026/saudi-set-to-drop-plans-for-five-2034-world-cup-stadiums
+
+*MIS signs SAR 179.8M contract with KSMC*
+
+* Al Moammar Information Systems Co. (MIS) signed a contract worth SAR 179.78 million, including VAT, with King Saud Medical City (KSMC)
+* The contract covers operation, maintenance and repair of medical devices and equipment, and includes providing IT work and services to KSMC
+* The contract runs for 60 months, with the financial impact expected from Q1 2027 through Q4 2031
+
+Source - https://www.argaam.com/en/article/articledetail/id/1944086
+
+*Investment conference: Saudi Arabia offers alternative travel routes*
+
+* Saudi Arabia plans to move ahead with the FII forum in Riyadh from October 26 to 29, offering on-site and virtual attendance plus alternative air and land routes, diplomatic sources told AFP
+* Arrangements discussed include flying by private jet to Dhahran airport, or travelling to Manama or Doha, then driving to Riyadh
+* Riyadh's international airport suspended operations after 13 were killed in a strike; a total of 18 people have been killed at the airport in attacks since October 7
+
+Source - https://www.brecorder.com/news/amp/40444299
+
+*Saudi Arabia’s Cybersecurity Market Reaches SAR16.3 Billion, NCA Report Shows*
+
+* The Kingdom's cybersecurity market reached SAR16.3 billion in 2025, a CAGR of 10.7% between 2023 and 2025
+* Government spending was approximately SAR5.1 billion (31%) and private-sector spending reached SAR11.2 billion (69%)
+* The sector's contribution to GDP reached approximately SAR20 billion in 2025, and cybersecurity professionals exceeded 22,000, with women at 33%
+
+Source - https://www.spa.gov.sa/en/N2701269
+
+*Meeza, Microsoft launch Sovereign Private Cloud for enterprises in Qatar*
+
+* Meeza and Microsoft announced the Microsoft Sovereign Private Cloud for Qatari enterprises, built on Azure Local
+* Meeza provides the in-country data centre, hardware, connectivity, deployment, operations and managed services; customers can run selected regulated workloads on infrastructure inside Qatar
+* Government entities get a dedicated access route through Meeza's connection to the government network, without going over the public internet
+
+Source - https://thepeninsulaqatar.com/article/14/10/2026/meeza-microsoft-launch-sovereign-private-cloud-for-enterprises-in-qatar
+
+*AI plans 'have not changed' in Middle East despite Iran conflict, Nvidia says*
+
+* Ruth Berry, who leads global policy on Nvidia's government affairs team, told the Middle East Institute that Gulf countries' AI imperatives "have not changed"
+* The UAE received its first shipments of Nvidia CPUs and GPUs in May, after giving security assurances against unauthorised access
+* Analyst Mohammed Soliman said the threat of conflict could push the UAE and Saudi Arabia to increase AI investment, and that the US and China are the main contenders for Middle East AI business
+
+Source - https://www.thenationalnews.com/future/technology/2026/10/14/nvidia-uae-saudi-ai-data-centre/
+
+*MBZUAI's Institute of Foundation Models and Inception42 launch Jais 3: Arabic-native AI for speech, writing and agents*
+
+* Jais 3 comprises six open language models ranging from 900 million to 375 billion parameters, plus Jais Speech for Arabic and its dialects
+* It is built on IFM's K2 Horizon, developed with Cerebras Systems, and supports a 512,000-token context window
+* At 7 billion parameters, the average Arabic evaluation score rose from 56.4 (K2 Horizon base) to 79.6 (Jais 3); the models are available on Hugging Face
+
+Source - https://www.zawya.com/en/press-release/companies-news/mbzuais-institute-of-foundation-models-and-inception42-launch-jais-3-arabic-native-ai-for-speech-writing-and-agents-1672443
+
+*LG Electronics Accelerates GCC Growth Trajectory with Strategic Partnership in Kuwait*
+
+* LG Electronics signed a strategic distribution agreement with Al Mulla Group, making Al Mulla Electronics an authorised LG distributor in Kuwait
+* The lineup includes OLED and QNED displays, AI-enabled home appliances, laptops and monitors, digital signage, and commercial HVAC including VRF systems and chillers
+* An integrated facility with a flagship LG Experience Center and an after-sales service center is scheduled to launch in 2027
+
+Source - https://www.prnewswire.com/news-releases/lg-electronics-accelerates-gcc-growth-trajectory-with-strategic-partnership-in-kuwait-302908441.html
+
+*3C Datalec targets Gulf AI data centre market following merger*
+
+* 3C merged with London-based Datalec Precision Installations to form 3C Datalec, which forecasts 2026 revenue of over $400 million
+* The company operates in Dubai and Abu Dhabi, with a 51,000-square-foot Jebel Ali site, and is setting up a Saudi company incorporated in May 2026
+* It works with four of the five largest hyperscalers and over 25 colocation providers, with active projects in 16 countries
+
+Source - https://www.zawya.com/en/projects/3c-datalec-targets-gulf-ai-data-centre-market-following-merger-1662854
+
+*CRA announces onboarding of Google Cloud to QIX*
+
+* The Communications Regulatory Authority announced Google Cloud has joined the Qatar Internet Exchange (QIX) as a new member
+* QIX members are expected to gain improved local access to Google Cloud services, reduced latency and better network performance
+* Ali Al-Suwaidi, CRA Director of Technical Affairs and Chair of the QIX Steering Committee, called it "an important step in the evolution of the Qatar Internet Exchange"
+
+Source - https://thepeninsulaqatar.com/article/15/10/2026/cra-announces-onboarding-of-google-cloud-to-qix
+
+*Gartner Says Over $3.5 Trillion of AI Infrastructure Spending Could Be Exposed to Impairment by the End of 2030*
+
+* AI providers are expected to spend nearly $1 trillion on AI infrastructure in 2026, plus an additional $6 trillion between 2027 and 2030
+* AI data center owners would need a cumulative $8.5 trillion in revenue through 2030, but attributable AI revenue is forecast at no more than $3.6 trillion
+* By 2030, over 80% of neocloud providers are predicted to cease independent operations; AI-optimized IaaS spending to grow from $66 billion in 2027 to $174 billion in 2030
+
+Source - https://www.gartner.com/en/newsroom/press-releases/2026-10-14-gartner-says-over-us-dollars-three-and-a-half-trillion-of-artificial-intelligence-infrastructure-spending-could-be-exposed-to-impairment-by-the-end-of-2030
+
+*Dell, HPE and NetApp Stocks Slump After Downgrades on Worries About AI Spending*
+
+* Barclays cut Dell, HPE and NetApp to "equal weight" from "overweight", citing concerns about enterprise AI spending growth
+* Dell led S&P 500 decliners with an 11% tumble, while HPE fell 8% and NetApp sank 7%
+* Barclays said memory-shortage-driven higher prices "propped up revenues" but they "don't see a meaningful AI inflection yet"
+
+Source - https://www.investopedia.com/market-update-dell-hpe-and-netapp-stocks-slump-after-downgrades-on-worries-about-ai-spending-12173932
+
+*OpenAI employee and Saudi suspect ‘came to the US with a dream’, lawyer says*
+
+* Abdulrahman Alfozan, a Saudi citizen and OpenAI employee, was arrested on October 9 over a recording device allegedly hidden behind a TV in a San Francisco conference room
+* An October 8 prosecutors' motion said he, his wife and a third family member had booked one-way tickets from San Francisco to Saudi Arabia (via Istanbul)
+* Lawyer William Pernik says the charge is under a federal recording statute, not trade-secret theft; a detention hearing is set for October 19
+
+Source - https://www.thenationalnews.com/future/technology/2026/10/14/abdulrahman-alfozan-lawyer-openai-saudi/
+
+*Shares of Oracle, neoclouds drop on CoreWeave debt concerns*
+
+* CoreWeave stock plummeted more than 15.5%; it reportedly has $50 billion in outstanding obligations
+* A $1.25 billion batch of CoreWeave bonds briefly saw its yield pass 15%
+* Oracle closed 8.8% lower; DigitalOcean, TeraWulf and Hut 8 each fell more than 10%
+
+Source - https://siliconangle.com/2026/10/14/shares-of-oracle-neoclouds-drop-on-coreweave-debt-concerns/
+
+*Global Smartphone Shipments Drop Record High of 22% in Q3 2026 as the Memory Crisis Hits Hard, According to IDC*
+
+* The global smartphone market shrank 22.0% year-on-year to 255.3 million units in 3Q26
+* Memory costs have surged approximately 350% since last year and are still rising
+* Samsung led with 57.8 million units (22.6% share), ahead of Apple at 57.3 million (22.4%)
+
+Source - https://www.idc.com/resource-center/press-releases/smartphone-shipments-decline-3q26/
+
+*TSMC Reports Third Quarter EPS of NT$29.43*
+
+* Q3 revenue of NT$1,494.24 billion and net income of NT$763.06 billion; revenue up 50.9% and net income up 68.7% year-over-year
+* Gross margin was 66.4%, operating margin 58.7%; 2-nanometer was 8% and 3-nanometer 33% of wafer revenue
+* Q4 revenue guided between US$52.3 billion and US$54.3 billion
+
+Source - https://pr.tsmc.com/english/news/3346
+
+*Seoul shares crash over 7% on chip rout amid AI, inflation woes*
+
+* KOSPI fell 454.59 points, or 7.57 percent, to 5,554.22, its seventh straight losing session
+* Trading on the main bourse was halted for 20 minutes after the KOSPI fell more than 8 percent
+* Samsung Electronics fell 9.48 percent to 210,000 won and SK hynix dropped 11.06 percent to 1.26 million won
+
+Source - https://www.koreaherald.com/article/10904056
+
+*32GB of DDR5 6000 RAM now costs $450 — AI-induced shortage reaches worst milestone yet*
+
+* The cheapest 32GB DDR5 6000 kit now costs $449.97, up from $400 in August
+* RAM prices have increased by more than 500% since last year
+* A Corsair 32GB DDR5 4800 kit that once cost $80 is now $399
+
+Source - https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-6000-ram-now-costs-usd450-ai-induced-shortage-reaches-worst-milestone-yet
+
+*SK Hynix reportedly ties US NAND fab plan to approval for chip equipment exports to China*
+
+* SK Hynix is seeking US approval to ship more American chipmaking equipment to its NAND flash plant in Dalian, China
+* The request is tied to a possible investment in a new US factory, per Reuters citing two people familiar with the matter
+
+Source - https://www.digitimes.com/news/a20261015VL222/sk-hynix-equipment-nand-exports-solidigm.html
+
+*Samsung reportedly completes 4F² DRAM development as China's CXMT targets year-end launch*
+
+* Samsung Electronics has reportedly completed development of next-generation 4F² DRAM technology
+* Samsung is aligning commercialization with customer requirements, while China's CXMT prepares to introduce server memory
+
+Source - https://www.digitimes.com/news/a20261015VL219/samsung-dram-development-cxmt.html

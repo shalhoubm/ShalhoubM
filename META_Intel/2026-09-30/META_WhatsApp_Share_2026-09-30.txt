@@ -1,0 +1,159 @@
+*“زين السعودية” تطلق برامج لتنمية مهارات الذكاء الاصطناعي والتقنية لدى الطلاب والمعلمين عبر منصة IBM SkillsBuild*
+
+* أطلقت «زين السعودية» بالتعاون مع منصة IBM SkillsBuild برنامجين تعليميين مجانيين في التقنيات الناشئة، يستهدفان الطلاب والمعلمين والممارسين في قطاع التعليم في مختلف مناطق المملكة
+* يتيح البرنامجان الوصول إلى محتوى تعليمي وجلسات مباشرة وفرص للحصول على اعتمادات رقمية في البيانات والذكاء الاصطناعي، والحوسبة السحابية، والأمن السيبراني، والحوسبة الكمية
+* تتضمن المبادرة مسارين: الأول للمعلمين والممارسين في قطاع التعليم، والثاني للطلاب والمهتمين، ويتزامن الإطلاق مع عام الذكاء الاصطناعي
+
+Source - https://sabq.org/article/lfzljtx
+
+*Turkey's defense firm, telecom operator test smartphone for 2027 sales*
+
+* ASELSAN and Türk Telekom are producing and testing a smartphone in the eastern province of Malatya, with sales planned for the first half of 2027, according to Türk Telekom CEO Ebubekir Şahin
+* ASELSAN will handle hardware and production while Türk Telekom handles software, marketing and distribution; the first phones will run Android, with a Turkish operating system and then a Turkish chip planned in later phases
+* The companies plan to present five potential brand names to the presidency by the end of the year
+
+Source - https://www.turkishminute.com/2026/09/29/turkeys-defense-firm-telecom-operator-test-smartphone-for-2027-sales/
+
+*Datacentrix doubles up at Lenovo Partner Awards*
+
+* Datacentrix was named Infrastructure Solutions Group (ISG) Platinum Partner of the Year at the Lenovo Partner Awards, held at Montecasino in Johannesburg
+* Anle Brett, Product Manager: End-User Computing at Datacentrix, won Intelligent Devices Group (IDG) Champion of the Year for the third consecutive year
+* Customers gain access to Lenovo's 'Ship Happens' programme, which provides greater visibility into product availability and delivery timeframes amid supply, pricing and lead-time pressures
+
+Source - https://www.itweb.co.za/article/datacentrix-doubles-up-at-lenovo-partner-awards/KzQenvjyjw2qZd2r
+
+*Morocco, Mistral AI Release First Open-Source Darija AI Tools*
+
+* Morocco's Ministry of Digital Transition and Administrative Reform released AI tools developed with Mistral AI as open source, under Maroc Digital 2030 and the AI Made in Morocco roadmap
+* The tools are a language identification classifier that recognises Arabic dialects including Darija, and a speech recognition model based on Mistral's Voxtral that transcribes Darija including code-switching with Arabic, French and English
+* Target uses include public services, education, media, customer support, document digitisation and multilingual data processing, with the initiative led by Minister Amal El Fallah Seghrouchni
+
+Source - https://www.moroccoworldnews.com/2026/09/340193/morocco-mistral-ai-release-first-open-source-darija-ai-tools/
+
+*DeepSeek partners with Huawei to develop chip programming tools, reducing reliance on Nvidia*
+
+* DeepSeek announced a partnership with Huawei Technologies to develop programming tools for Huawei's Ascend chips
+* DeepSeek is open-sourcing infrastructure for Ascend, including the high-level programming language TileLang plus compute and communication libraries
+* DeepSeek says TileLang offers "a simpler programming model" than Nvidia's CUDA
+
+Source - https://www.investing.com/news/stock-market-news/deepseek-partners-with-huawei-to-develop-chip-programming-tools-reducing-reliance-on-nvidia-4924051
+
+*Anthropic’s $518 billion AI buildout hinges largely on deals that cannot be canceled, filing shows*
+
+* Anthropic expects to spend at least $518 billion over a decade with six partners, and about 80% is non-cancelable or payable regardless of usage, according to a confidential IPO prospectus seen by Reuters
+* Commitments include $111.1 billion with Google, $110 billion with Amazon, $31.4 billion with Microsoft and about $161.2 billion of Broadcom-related equipment lease obligations
+* Deals with xAI could reach up to $84.5 billion through 2029, while AMD will supply capacity expected to exceed $20 billion and buy up to $5 billion of Anthropic stock
+
+Source - https://www.investing.com/news/stock-market-news/anthropics-518-billion-ai-buildout-hinges-largely-on-deals-that-cannot-be-canceled-filing-shows-4922031
+
+*Exclusive-Anthropic IPO prospectus lays bare deep dependence on Big Tech partners*
+
+* Anthropic routed 47% of its 2025 sales through cloud partners Amazon and Google
+* 2025 revenue rose 12-fold to nearly $4.6 billion, while operating losses more than doubled to over $8 billion
+* By early 2026, long-term compute commitments exceeded $417 billion, covering 3.5 gigawatts of dedicated capacity
+
+Source - https://www.investing.com/news/stock-market-news/exclusiveanthropic-ipo-prospectus-lays-bare-deep-dependence-on-big-tech-partners-4923585
+
+*OpenAI targets $30 billion funding at $1.4 trillion valuation, Bloomberg News reports*
+
+* OpenAI aims to raise at least $30 billion in a funding round and is seeking a valuation of about $1.4 trillion, not including the money raised
+* The company closed a funding round in March with $122 billion in committed capital, valuing it at $852 billion
+* OpenAI's annualized revenue run rate is nearing $70 billion, having risen more than 70% since the beginning of the third quarter
+
+Source - https://www.investing.com/news/stock-market-news/openai-targets-30-billion-funding-at-14-trillion-valuation-bloomberg-news-reports-4923324
+
+*Trump, AI CEOs sign voluntary safety pact, back data center expansion*
+
+* The companies agreed to work with "independent auditors" to assess whether AI systems are working as their designers intended, according to a copy of the agreement posted by Trump
+* Executives at the meeting included OpenAI's Greg Brockman, Anthropic's Dario Amodei, Meta's Mark Zuckerberg, Google's Sundar Pichai and Nvidia's Jensen Huang
+* Trump said he is considering setting up a 10-person board to police the safety of AI tools and would soon name a new official to lead White House policies on AI
+
+Source - https://finance.yahoo.com/news/trump-host-zuckerberg-anthropics-amodei-100709180.html
+
+*Hikvision introduces new HIKO AI engine to Hik-Connect 7 in a major upgrade which simplifies day-to-day security management*
+
+* Hikvision announced Hik-Connect 7, a major upgrade to its cloud-based security software that introduces HIKO, an AI engine, alongside a redesigned interface
+* Because HIKO runs in the cloud, Team Mode and Personal Mode users get it through a software update, with no separate HIKO hardware to buy or install
+* Hik-Connect 7 centers on three upgraded experiences, AI Guardian, AI Search and AI Assistant, and is rolling out globally
+
+Source - http://www.prnewswire.com/news-releases/hikvision-introduces-new-hiko-ai-engine-to-hik-connect-7-in-a-major-upgrade-which-simplifies-day-to-day-security-management-302893150.html
+
+*ZTE and China Mobile Research Institute Win the 2026 Leading Lights Award for "Outstanding Use Case: 5G/6G Innovation" with GigaMIMO*
+
+* ZTE and the China Mobile Research Institute won the 2026 Leading Lights Award for "Outstanding Use Case: 5G/6G Innovation" for the GigaMIMO solution and its field practices
+* Field trial results on the commercial 5G-A network show average throughput in overlapping coverage areas increases by 25%, and user-experienced data rate rises by 2 to 6 times
+* Centralized MIMO achieves a tenfold increase in both cell capacity and user data rate, and end-to-end tests show a single-user peak rate exceeding 17 Gbps in the U6G band
+
+Source - https://www.zte.com.cn/global/about/news/zte-and-china-mobile-research-institute-win-the-2026-leading-lights-award-for-outstanding-use-case-5g-6g-innovation-with-gigamimo.html
+
+*Oppo K15s and K15x launched with huge batteries and rugged builds*
+
+* The Oppo K15s has an 8000mAh battery with 45W SuperVOOC and UFCS fast charging, a 6.57-inch FHD+ 120Hz AMOLED display and the Dimensity 6360 Max
+* The Oppo K15s is priced at 1,699 Yuan (~$250) for 6GB+128GB and 1,999 Yuan (~$294) for 8GB+256GB
+* The Oppo K15x has a 6500mAh battery and the Dimensity 6300, priced at 1,399 Yuan (~$206) for 6GB+128GB and 1,699 Yuan (~$250) for 6GB+256GB
+
+Source - https://www.gizmochina.com/2026/09/30/oppo-k15s-k15x-launched-price-specs-features/
+
+*Hisense and TCL widen lead over Samsung in miniLED*
+
+* In 2022, Samsung accounted for 76% of all miniLED LCD TV shipments, followed by TCL with 12% and Hisense with just 2%
+* In 2026, Samsung replaced "QLED" with ranges of cheaper miniLED LCD TVs sold as "Mini LED"
+* TCL has sued Samsung over whether miniLED without quantum dots and local dimming qualifies as true miniLED
+
+Source - https://flatpanelshd.com/news.php?id=1790677665&subaction=showfull
+
+*ByteDance’s Doubao reportedly preparing personal AI agent, codenamed Spell and tested since April*
+
+* According to sources, the project began internal testing as early as April and was previously known internally as Spell
+* Spell was initially led by the Doubao Phone Assistant team and entered small-scale internal testing in April
+* On August 25, Doubao launched Doubao Work, an Agent product designed for enterprise and office scenarios
+
+Source - https://technode.com/2026/09/30/bytedances-doubao-reportedly-preparing-personal-ai-agent-codenamed-spell-and-tested-since-april/
+
+*AI Server Demand Sustains Memory Contract Price Increases in 4Q26, While Consumer-Side Pressure Persists, Says TrendForce*
+
+* Conventional DRAM contract prices are projected to grow 10–15% QoQ in 4Q26, while NAND Flash contract prices are expected to increase 15–20%
+* Enterprise SSDs are the only category expected to see price growth accelerate due to strong demand from CSPs, with enterprise SSD bit demand projected to grow by more than 80% YoY in 2026
+* Server DRAM is expected to remain undersupplied in 4Q26, while GDDR7 demand continues to be driven primarily by AI chips
+
+Source - https://www.trendforce.com/presscenter/news/20260930-13258.html
+
+*Netlist seeks U.S. import ban on Micron chips used in Google, Nvidia AI computing*
+
+* Netlist filed a new complaint at a U.S. trade tribunal seeking to block imports of Micron memory chips used in Google, Nvidia and Broadcom products for AI computing; it was first filed under seal at the ITC on Friday
+* Netlist filed another ITC complaint against Micron in August over memory chips used in Super Micro Computer, Hewlett Packard Enterprise and Lenovo products
+* Netlist won a $445 million patent infringement verdict against Micron in Marshall, Texas federal court in 2024, and settled with Samsung in August after winning $421 million in verdicts
+
+Source - https://www.investing.com/news/stock-market-news/netlist-seeks-us-import-ban-on-micron-chips-used-in-google-nvidia-ai-computing-4923043
+
+*Bernstein sees Samsung gaining HBM share, cuts SK Hynix target*
+
+* Bernstein kept its 440,000 won price target on Samsung Electronics, saying it is set to gain share in high-bandwidth memory
+* Analyst Mark Li lowered his price target on SK Hynix to 2.7 million won from 3.3 million won
+* He kept Outperform ratings on Samsung, SK Hynix, Micron and SanDisk and an Underperform rating on Kioxia, after Bernstein cut its 2027 HBM price assumptions following Korean memory export data in July and August
+
+Source - https://www.investing.com/news/stock-market-news/bernstein-sees-samsung-gaining-hbm-share-cuts-sk-hynix-target-4923095
+
+*New Apple CEO John Ternus is reportedly planning layoffs as memory chip costs rise*
+
+* Ternus is reportedly planning layoffs ranging from small-scale numbers within large teams, while also canceling projects, according to a Bloomberg report
+* Tim Cook said on his final earnings call that the company is "in what I would characterize as a 100-year flood on the memory pricing"
+* SK Hynix, Samsung Electronics and Micron have largely sold out their premium AI memory capacity through much of 2026, with customers including Nvidia, Microsoft, Amazon and Meta
+
+Source - https://finance.yahoo.com/technology/article/new-apple-ceo-john-ternus-is-reportedly-planning-layoffs-as-memory-chip-costs-rise-194734002.html
+
+*[Insights] Memory Spot Price Update: DRAM Market Quiet Amid Holidays; NAND Buying Stays Weak*
+
+* The average spot price of mainstream DRAM chips (DDR4 1Gx8 3200MT/s) rose 0.93% from US$45.89 last week (September 23) to US$46.32 this week
+* Spot prices of 512Gb TLC wafers fell 2.45% this week (September 28), reaching an average quotation of US$19.396
+* The DRAM spot market stayed relatively quiet partly due to holidays in several regional markets, while NAND buyers have largely adopted a wait-and-see stance with low willingness to purchase
+
+Source - https://www.trendforce.com/news/2026/09/30/insights-memory-spot-price-update-dram-market-quiet-amid-holidays-nand-buying-stays-weak/
+
+*Samsung, SK hynix Target Prices Raised on Record Earnings Outlook*
+
+* Per FnGuide, the consensus for Samsung Electronics' third-quarter operating profit stood at 110.28 trillion won as of Sept. 30, up 806% YoY and 23% QoQ, while SK hynix is expected at 78.06 trillion won, up 29% QoQ
+* Yuanta Securities raised its Samsung Electronics target from 530,000 won to 630,000 won, while Mirae Asset Securities raised its target to 400,000 won
+* For SK hynix, Mirae Asset Securities set a target of 3.1 million won and DB Securities 2.3 million won
+
+Source - https://www.businesskorea.co.kr/news/articleView.html?idxno=277906
